@@ -42,13 +42,6 @@
       "date_published": "2026-06-03T09:29:47+00:00"
     },
     {
-      "id": "https://www.travelandtourworld.com/news/article/a1jv38lzbk26/",
-      "url": "https://www.travelandtourworld.com/news/article/a1jv38lzbk26/",
-      "title": "Egypt Joins Iran, UAE, Saudi Arabia, Qatar, Oman, Bahrain, Kuwait, Iraq, Jordan and Others ...",
-      "content_text": "Strait of Hormuz crisis reshapes tourism, aviation and cruise travel as Egypt, UAE, Saudi Arabia, Qatar and others face higher airfares and ...",
-      "date_published": "2026-06-03T09:25:47+00:00"
-    },
-    {
       "id": "https://connectingtravel.com/news/saudia-expands-myanmar-connectivity",
       "url": "https://connectingtravel.com/news/saudia-expands-myanmar-connectivity",
       "title": "Saudia expands Myanmar connectivity - News",
@@ -75,6 +68,13 @@
       "title": "IMF predicts slower-growing but resilient Saudi economy | AGBI",
       "content_text": "Robust economic fundamentals and strong infrastructure are shielding the Saudi economy from the worst damage of the Iran war, the IMF said.",
       "date_published": "2026-06-03T14:43:43+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/a1jv38lzbk26/",
+      "url": "https://www.travelandtourworld.com/news/article/a1jv38lzbk26/",
+      "title": "Egypt Joins Iran, UAE, Saudi Arabia, Qatar, Oman, Bahrain, Kuwait, Iraq, Jordan and Others ...",
+      "content_text": "Strait of Hormuz crisis reshapes tourism, aviation and cruise travel as Egypt, UAE, Saudi Arabia, Qatar and others face higher airfares and ...",
+      "date_published": "2026-06-03T09:25:47+00:00"
     }
   ]
 }
