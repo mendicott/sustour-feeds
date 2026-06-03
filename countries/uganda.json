@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Uganda",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/uganda.json",
+  "description": "Top 10 most recent sustainable-tourism items for Uganda. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://observer.ug/viewpoint/a-case-for-ugandas-religious-tourism/",
+      "url": "https://observer.ug/viewpoint/a-case-for-ugandas-religious-tourism/",
+      "title": "A case for Uganda's religious tourism - The Observer",
+      "content_text": "One of the biggest missed opportunities is religious tourism. Uganda has a deep spiritual, cultural, and historical identity that could draw millions ...",
+      "date_published": "2026-06-03T11:00:42+00:00"
+    },
+    {
+      "id": "https://theconversation.com/global-supply-chains-keep-workers-poor-three-case-studies-show-how-the-cycle-can-be-broken-283806",
+      "url": "https://theconversation.com/global-supply-chains-keep-workers-poor-three-case-studies-show-how-the-cycle-can-be-broken-283806",
+      "title": "Global supply chains keep workers poor: three case studies show how the cycle can be broken",
+      "content_text": "We analysed examples in depth through case studies. The cases presented here focus on inclusive tourism in South Africa, speciality coffee in Uganda, ...",
+      "date_published": "2026-06-03T02:19:11+00:00"
+    },
+    {
+      "id": "https://www.monitor.co.ug/uganda/news/national/tourism-diplomacy-opens-new-uganda-ethiopia-ties-5483038",
+      "url": "https://www.monitor.co.ug/uganda/news/national/tourism-diplomacy-opens-new-uganda-ethiopia-ties-5483038",
+      "title": "Tourism diplomacy opens new Uganda-Ethiopia ties | Monitor",
+      "content_text": "... Uganda's leading tourism, conservation and cultural attractions. The eight-member delegation, comprising media influencers, tour operators, travel ...",
+      "date_published": "2026-06-03T07:20:32+00:00"
+    },
+    {
+      "id": "https://www.trl.co.uk/news/uganda-ducar-project",
+      "url": "https://www.trl.co.uk/news/uganda-ducar-project",
+      "title": "Uganda DUCAR Project - TRL",
+      "content_text": "The Government of Uganda, through the Ministry of Works and Transport and with World Bank support under the preparation of the Uganda Rural Roads ...",
+      "date_published": "2026-06-02T20:40:25+00:00"
+    },
+    {
+      "id": "https://www.newvision.co.ug/category/travel/ebola-uganda-assures-tourists-of-safety-NV_234839_062026",
+      "url": "https://www.newvision.co.ug/category/travel/ebola-uganda-assures-tourists-of-safety-NV_234839_062026",
+      "title": "Tourism: Ebola: Uganda assures tourists of safety - New Vision",
+      "content_text": "Government through the Uganda Tourism Board has reassured tourists and international travel partners that the country remains safe for travel ...",
+      "date_published": "2026-06-03T05:00:20+00:00"
+    },
+    {
+      "id": "https://www.monitor.co.ug/uganda/news/national/uganda-safe-for-travellers-says-govt-5482958",
+      "url": "https://www.monitor.co.ug/uganda/news/national/uganda-safe-for-travellers-says-govt-5482958",
+      "title": "Uganda safe for travellers, says govt | Monitor",
+      "content_text": "The government has reassured the public and travellers that Uganda remains safe for travel, even as the Ministry of Health reported six new cases ...",
+      "date_published": "2026-06-03T09:41:18+00:00"
+    },
+    {
+      "id": "https://www.the-independent.com/travel/news-and-advice/ebola-africa-is-it-safe-advice-uganda-dr-congo-b2988082.html",
+      "url": "https://www.the-independent.com/travel/news-and-advice/ebola-africa-is-it-safe-advice-uganda-dr-congo-b2988082.html",
+      "title": "Is it safe to travel to Africa during the Ebola outbreak? | The Independent",
+      "content_text": "Here's everything to know about travel to East and Central Africa during an Ebola outbreak in Uganda and the Democratic Republic of Congo.",
+      "date_published": "2026-06-03T08:18:51+00:00"
+    },
+    {
+      "id": "https://swazilandnews.co.za/articles/35524",
+      "url": "https://swazilandnews.co.za/articles/35524",
+      "title": "KLM cancels Uganda flights due to Central Africa's Ebola restrictions, Dutch Airlines confirms.",
+      "content_text": "KLM said that, while the area was not currently seen as an active risk zone, it could no longer operate ​planned routes due to travel and entry ...",
+      "date_published": "2026-06-03T06:52:07+00:00"
+    },
+    {
+      "id": "https://observer.ug/news/uganda-places-over-600-ebola-contacts-on-no-fly-list/",
+      "url": "https://observer.ug/news/uganda-places-over-600-ebola-contacts-on-no-fly-list/",
+      "title": "Uganda places over 600 Ebola contacts on no-fly list - The Observer",
+      "content_text": "... travel and border control to prevent further transmission of the disease. On Tuesday, Uganda registered six new confirmed cases, bringing the ...",
+      "date_published": "2026-06-03T04:35:27+00:00"
+    },
+    {
+      "id": "https://dairybusinessmea.com/2026/06/02/tanzania-agricultural-development-bank-disburses-us16-1m-to-support-dairy-value-chain/",
+      "url": "https://dairybusinessmea.com/2026/06/02/tanzania-agricultural-development-bank-disburses-us16-1m-to-support-dairy-value-chain/",
+      "title": "Tanzania Agricultural Development Bank disburses US$16.1M to support dairy value chain",
+      "content_text": "... Climate Technology & Innovation Updates Uganda UK Unilever USA Zimbabwe. NEWS ARCHIVES. NEWS ARCHIVES. Select Month, June 2026 · May 2026 · April 2026 ...",
+      "date_published": "2026-06-02T21:59:05+00:00"
+    }
+  ]
+}

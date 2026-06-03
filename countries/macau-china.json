@@ -1,0 +1,24 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Macau (China)",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/macau-china.json",
+  "description": "Top 10 most recent sustainable-tourism items for Macau (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://sloveniatimes.com/47827/galaxy-macau-and-trip-com-group-strike-three-year-deal-to-supercharge-global-live-events-pipeline",
+      "url": "https://sloveniatimes.com/47827/galaxy-macau-and-trip-com-group-strike-three-year-deal-to-supercharge-global-live-events-pipeline",
+      "title": "Galaxy Macau and Trip.com Group Strike Three-Year Deal to Supercharge Global Live ...",
+      "content_text": "... ecosystems. Pictured at the Galaxy Auditorium (trom right) Mr Jeffrey ... travel services platform, spanning 2026 to 2029. Anchored in the ...",
+      "date_published": "2026-06-03T12:49:06+00:00"
+    },
+    {
+      "id": "https://macaubusiness.com/new-arrests-in-greece-over-eu-farm-subsidy-fraud-scandal/",
+      "url": "https://macaubusiness.com/new-arrests-in-greece-over-eu-farm-subsidy-fraud-scandal/",
+      "title": "New arrests in Greece over EU farm subsidy fraud scandal | Macau Business",
+      "content_text": "UTM Comments is a partnership between Macau News Agency and Macao University of Tourism By Veronica, Lam Iok Keng Assistant Professor, Macao ...",
+      "date_published": "2026-06-03T11:05:33+00:00"
+    }
+  ]
+}

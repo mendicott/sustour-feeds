@@ -1,0 +1,17 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Cook Islands",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/cook-islands.json",
+  "description": "Top 10 most recent sustainable-tourism items for Cook Islands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.cookislandsnews.com/internal/national/culture/economy/seabed-mining-company-backed-trust-funds-cultural-and-educational-projects/",
+      "url": "https://www.cookislandsnews.com/internal/national/culture/economy/seabed-mining-company-backed-trust-funds-cultural-and-educational-projects/",
+      "title": "Seabed mining company-backed trust funds cultural and educational projects - Cook Islands News",
+      "content_text": "Cultural arts have received a major boost through funding support aimed at preserving and celebrating Cook Islands heritage for future ...",
+      "date_published": "2026-06-02T18:42:39+00:00"
+    }
+  ]
+}

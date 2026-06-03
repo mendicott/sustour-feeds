@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Mexico",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/mexico.json",
+  "description": "Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.travelandtourworld.com/news/article/nkd1a553e8y7/",
+      "url": "https://www.travelandtourworld.com/news/article/nkd1a553e8y7/",
+      "title": "Mexico Takes Stand Against Large-Scale Cruise Tourism Expansion in Cozumel to Protect ...",
+      "content_text": "... coral reef conservation, and sustainable tourism policy ... Europe · Europe · Creator-Led Tourism Redefines Global Travel Across Europe, United States ...",
+      "date_published": "2026-06-02T21:54:55+00:00"
+    },
+    {
+      "id": "https://mexiconewsdaily.com/yucatan-peninsula/mennonite-deforestation-in-mexico-a-troubling-pattern/",
+      "url": "https://mexiconewsdaily.com/yucatan-peninsula/mennonite-deforestation-in-mexico-a-troubling-pattern/",
+      "title": "Mexico's Mennonites: A troubling pattern of deforestation - Mexico News Daily",
+      "content_text": "Illegal logging, monoculture practices and deforestation threaten local ejidatarios' livelihoods and block access to their travel by horseback. In ...",
+      "date_published": "2026-06-03T06:20:02+00:00"
+    },
+    {
+      "id": "https://www.krqe.com/news/new-mexico/new-recreation-mobile-app-released-by-forest-service/",
+      "url": "https://www.krqe.com/news/new-mexico/new-recreation-mobile-app-released-by-forest-service/",
+      "title": "New recreation mobile app released by Forest Service - KRQE",
+      "content_text": "NEW MEXICO (KRQE) – The National Forest Service has released its new National Forests and Grasslands app, available for download ... US updates travel ...",
+      "date_published": "2026-06-03T16:51:28+00:00"
+    },
+    {
+      "id": "https://www.scientificamerican.com/travel/trips/2027-mexico-the-monarch-migration-experience/",
+      "url": "https://www.scientificamerican.com/travel/trips/2027-mexico-the-monarch-migration-experience/",
+      "title": "Mexico: The Monarch Migration Experience | Scientific American",
+      "content_text": "... World Heritage Site. Along the way, enjoy hands‑on culinary ... This morning, travel to the famed canals of Xochimilco, a UNESCO World Heritage ...",
+      "date_published": "2026-06-03T16:28:35+00:00"
+    },
+    {
+      "id": "https://www.newmexicomagazine.org/blog/post/wingfield-heritage-house-museum-ruidoso/amp/",
+      "url": "https://www.newmexicomagazine.org/blog/post/wingfield-heritage-house-museum-ruidoso/amp/",
+      "title": "Wingfield Heritage House Museum in Ruidoso, New Mexico",
+      "content_text": "Interior of the Wingfield Heritage House Museum in Ruidoso featuring a large stone fireplaced, framed ... New Mexico Tourism Department. © 2026 New ...",
+      "date_published": "2026-06-03T15:46:30+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/fofy6wvzwzpr/",
+      "url": "https://www.travelandtourworld.com/news/article/fofy6wvzwzpr/",
+      "title": "Australia Joins US, Canada, Mexico, UK, France, Thailand and Others as Falling Inbound ...",
+      "content_text": "Budget travel can reduce economic impact; Premium travelers contribute disproportionately. Indicator, Importance. Visitor Arrivals, High. Visitor ...",
+      "date_published": "2026-06-03T14:59:42+00:00"
+    },
+    {
+      "id": "https://www.travelagewest.com/Industry-Insight/Opinion/mexico-tourism-performance-2025",
+      "url": "https://www.travelagewest.com/Industry-Insight/Opinion/mexico-tourism-performance-2025",
+      "title": "Data Shows Mexico's Tourism Sector Outperformed the U.S. in 2025 - TravelAge West",
+      "content_text": "Mexico's strong performance reinforces its status as a tourism heavy hitter — no surprise given its longtime vacation popularity. RELATED: Mexico ...",
+      "date_published": "2026-06-03T08:46:02+00:00"
+    },
+    {
+      "id": "https://www.mensjournal.com/travel/u-s-issues-travel-advisory-for-mexico-before-summer",
+      "url": "https://www.mensjournal.com/travel/u-s-issues-travel-advisory-for-mexico-before-summer",
+      "title": "U.S. Issues 'Travel Advisory' for Mexico Before Summer - Men's Journal",
+      "content_text": "Some Mexican states are “do not travel” zones; others like Yucatan remain Level 1 safe. Mexico is the most common international tourist destination ...",
+      "date_published": "2026-06-03T06:55:03+00:00"
+    },
+    {
+      "id": "https://www.enr.com/articles/63086-us-commission-asks-mexico-to-prioritize-pipes-leaking-raw-sewage-in-tijuana-river-valley",
+      "url": "https://www.enr.com/articles/63086-us-commission-asks-mexico-to-prioritize-pipes-leaking-raw-sewage-in-tijuana-river-valley",
+      "title": "US Commission Asks Mexico to Prioritize Pipes Leaking Raw Sewage in Tijuana River Valley - ENR",
+      "content_text": "The parallel gravity line pipe system in the Tijuna River Valley was ruptured twice in a period of less than two weeks recently.",
+      "date_published": "2026-06-03T03:05:58+00:00"
+    },
+    {
+      "id": "https://www.iranintl.com/en/202606026645",
+      "url": "https://www.iranintl.com/en/202606026645",
+      "title": "Mexico visas issued for Iran's football team, US visas pending - report | Iran International",
+      "content_text": "The camp is scheduled to end on Thursday with a match against Mali before the team prepares to travel to Mexico, Varzesh 3 said. View on Instagram ...",
+      "date_published": "2026-06-03T09:34:38+00:00"
+    }
+  ]
+}

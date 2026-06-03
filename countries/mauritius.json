@@ -1,0 +1,17 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Mauritius",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/mauritius.json",
+  "description": "Top 10 most recent sustainable-tourism items for Mauritius. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://atta.travel/resource/ethiopian-airlines-to-launch-direct-addis-ababa-mauritius-service-from-july.html",
+      "url": "https://atta.travel/resource/ethiopian-airlines-to-launch-direct-addis-ababa-mauritius-service-from-july.html",
+      "title": "Ethiopian Airlines to Launch Direct Addis Ababa – Mauritius Service from July - ATTA",
+      "content_text": "The new route forms part of Ethiopian Airlines' broader strategy to deepen continental connectivity and strengthen trade and tourism links across ...",
+      "date_published": "2026-06-03T10:21:32+00:00"
+    }
+  ]
+}

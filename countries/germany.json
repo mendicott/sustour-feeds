@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Germany",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/germany.json",
+  "description": "Top 10 most recent sustainable-tourism items for Germany. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.travelandtourworld.com/news/article/p9dktoeswkbv/",
+      "url": "https://www.travelandtourworld.com/news/article/p9dktoeswkbv/",
+      "title": "Germany Introduces Entry Fee for Cologne Cathedral to Fund Restoration and Manage ...",
+      "content_text": "... heritage management that reconciles preservation needs with spiritual obligations . Impacts on Tourism and Visitor Behavior. The introduction of a ...",
+      "date_published": "2026-06-02T19:33:49+00:00"
+    },
+    {
+      "id": "https://www.dw.com/en/seahorses-smugglers-safaris-a-coastal-comeback/av-77300047",
+      "url": "https://www.dw.com/en/seahorses-smugglers-safaris-a-coastal-comeback/av-77300047",
+      "title": "Seahorses, smugglers & safaris – A coastal comeback - DW",
+      "content_text": "A local conservation project is now turning them into a source of tourism and community support ... Travel · Advertising · German News Service.",
+      "date_published": "2026-06-03T06:32:17+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/n3altct9o6yv/",
+      "url": "https://www.travelandtourworld.com/news/article/n3altct9o6yv/",
+      "title": "Finland Joins Spain, France, Italy, Germany, Portugal, Croatia and Other EU Nations as ...",
+      "content_text": "Germany is increasingly integrating cultural tourism with creative industries, design, innovation and heritage conservation. Historic cities, museums ...",
+      "date_published": "2026-06-03T11:01:35+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/e1g25gxujnfy/",
+      "url": "https://www.travelandtourworld.com/news/article/e1g25gxujnfy/",
+      "title": "Germany Joins Croatia, Italy, Greece, Portugal, Bosnia and Herzegovina, France and More ...",
+      "content_text": "The move highlights a growing emphasis on sustainable travel and off-the-beaten-path exploration, catering to travelers seeking serene escapes, unique ...",
+      "date_published": "2026-06-03T03:54:45+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/rcx4wvyvg70x/",
+      "url": "https://www.travelandtourworld.com/news/article/rcx4wvyvg70x/",
+      "title": "Ireland Surpasses Denmark, Romania, Luxembourg, Germany, Poland, Lithuania And More ...",
+      "content_text": "This surge is not accidental — it stems from innovative booking strategies, sustainable travel initiatives, and cost-conscious tourism packages that ...",
+      "date_published": "2026-06-02T23:46:36+00:00"
+    },
+    {
+      "id": "https://carbon-pulse.com/517490/",
+      "url": "https://carbon-pulse.com/517490/",
+      "title": "CP Daily Newsletter: Tuesday June 2, 2026 - Carbon Pulse",
+      "content_text": "Germany's federal government has slashed spending on carbon offsetting for official travel by more than 90% in 2025 as stricter international ...",
+      "date_published": "2026-06-03T18:38:05+00:00"
+    },
+    {
+      "id": "https://themunicheye.com/royal-navy-helicopter-crash-devon-three-killed-33851",
+      "url": "https://themunicheye.com/royal-navy-helicopter-crash-devon-three-killed-33851",
+      "title": "British Military Helicopter Crash in Devon Results in Three Fatalities - The Munich Eye",
+      "content_text": "News Politics Business Science & Technology Health Arts Travel German Private Health Insurance. About Us. About Us Contact Impressum Disclaimer ...",
+      "date_published": "2026-06-03T16:46:12+00:00"
+    },
+    {
+      "id": "https://ground.news/article/economic-forum-federal-foreign-office-advised-afd-of-russias-trip",
+      "url": "https://ground.news/article/economic-forum-federal-foreign-office-advised-afd-of-russias-trip",
+      "title": "Economic Forum: Federal Foreign Office Advised AfD of Russia's Trip - Ground News",
+      "content_text": "German interests run contrary to the fact that several AfD politicians travel to Russia to an economic forum, the Federal Government criticises.",
+      "date_published": "2026-06-03T16:00:35+00:00"
+    },
+    {
+      "id": "https://www.thestar.com.my/lifestyle/people/2026/06/03/a-living-dilemma-syrians-in-germany-split-over-staying-or-returning-to-homeland",
+      "url": "https://www.thestar.com.my/lifestyle/people/2026/06/03/a-living-dilemma-syrians-in-germany-split-over-staying-or-returning-to-homeland",
+      "title": "A living dilemma: Syrians in Germany split over staying or returning to homeland | The Star",
+      "content_text": "Travel & Culture · Viewpoints · Food · Food News · Eating Out · Food for Thought ... She recently travelled to Damascus for the sixth time to help with ...",
+      "date_published": "2026-06-03T13:00:45+00:00"
+    },
+    {
+      "id": "https://connectingregion.com/news/croatia-opens-a-tourism-office-in-berlin/",
+      "url": "https://connectingregion.com/news/croatia-opens-a-tourism-office-in-berlin/",
+      "title": "Croatia Opens a Tourism Office in Berlin - The Region",
+      "content_text": "The new office of the Croatian National Tourist Board was officially inaugurated in the German capital by Croatian Minister of Tourism and Sports ...",
+      "date_published": "2026-06-03T07:57:34+00:00"
+    }
+  ]
+}

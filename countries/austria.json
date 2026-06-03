@@ -1,0 +1,17 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Austria",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/austria.json",
+  "description": "Top 10 most recent sustainable-tourism items for Austria. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.travelandtourworld.com/news/article/hkm8zmfd927n/",
+      "url": "https://www.travelandtourworld.com/news/article/hkm8zmfd927n/",
+      "title": "Slovakia Joins Italy, Romania, Austria, Latvia, Switzerland, Bulgaria, Hungary, Germany and ...",
+      "content_text": "Multi-entry visas are particularly prominent in Germany, Italy, and Switzerland, allowing visitors to travel flexibly across the Schengen Area without ...",
+      "date_published": "2026-06-03T02:37:53+00:00"
+    }
+  ]
+}

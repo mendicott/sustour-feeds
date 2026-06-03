@@ -1,0 +1,45 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Netherlands",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/netherlands.json",
+  "description": "Top 10 most recent sustainable-tourism items for Netherlands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.travelandtourworld.com/news/article/w7viuz1cl3yw/",
+      "url": "https://www.travelandtourworld.com/news/article/w7viuz1cl3yw/",
+      "title": "Italy Joins Spain, France, Greece, Netherlands, Portugal and Other Countries as Europe ...",
+      "content_text": "Europe fights overtourism as Italy, Spain, France, Greece, Netherlands and Portugal impose caps, taxes and rental restrictions in 2026.",
+      "date_published": "2026-06-03T12:18:49+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/7npqkxhz7sxk/",
+      "url": "https://www.travelandtourworld.com/news/article/7npqkxhz7sxk/",
+      "title": "Explore Boston, Norfolk & New York on Holland America's Stars & Stripes Cruise",
+      "content_text": "Independent travel in ports such as New York City and Norfolk offers opportunities to explore historical sites. City tourism offices — often ...",
+      "date_published": "2026-06-03T16:20:10+00:00"
+    },
+    {
+      "id": "https://e.vnexpress.net/news/travel/places/da-nang-tops-summer-travel-searches-in-vietnam-booking-com-5081419.html",
+      "url": "https://e.vnexpress.net/news/travel/places/da-nang-tops-summer-travel-searches-in-vietnam-booking-com-5081419.html",
+      "title": "Da Nang tops summer travel searches in Vietnam: Booking.com - VnExpress International",
+      "content_text": "Da Nang has claimed top spot among Vietnam's most searched summer destinations, data from Dutch travel agency Booking.com shows.",
+      "date_published": "2026-06-03T09:48:09+00:00"
+    },
+    {
+      "id": "https://swazilandnews.co.za/articles/35524",
+      "url": "https://swazilandnews.co.za/articles/35524",
+      "title": "KLM cancels Uganda flights due to Central Africa's Ebola restrictions, Dutch Airlines confirms.",
+      "content_text": "KLM said that, while the area was not currently seen as an active risk zone, it could no longer operate ​planned routes due to travel and entry ...",
+      "date_published": "2026-06-03T06:52:07+00:00"
+    },
+    {
+      "id": "https://aviacionaldia.com/en/2026/06/klm-suspends-flights-to-uganda-amid-ebola-outbreak-travel-restrictions.html",
+      "url": "https://aviacionaldia.com/en/2026/06/klm-suspends-flights-to-uganda-amid-ebola-outbreak-travel-restrictions.html",
+      "title": "KLM Suspends Flights to Uganda Amid Ebola Outbreak Travel Restrictions - Aviación al Día",
+      "content_text": "The Dutch flag carrier KLM has suspended its scheduled operations to and from Entebbe International Airport, which serves Uganda's capital.",
+      "date_published": "2026-06-02T15:59:35+00:00"
+    }
+  ]
+}

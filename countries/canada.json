@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Canada",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/canada.json",
+  "description": "Top 10 most recent sustainable-tourism items for Canada. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.bignewsnetwork.com/news/279099734/utsl-ke-dene-first-nation-northwest-territory-metis-nation-the-government-of-the-northwest-territories-and-parks-canada-making-an-announcement-regarding-thadene-nne-indigenous-protected-area",
+      "url": "https://www.bignewsnetwork.com/news/279099734/utsl-ke-dene-first-nation-northwest-territory-metis-nation-the-government-of-the-northwest-territories-and-parks-canada-making-an-announcement-regarding-thadene-nne-indigenous-protected-area",
+      "title": "utsl K'e Dene First Nation, Northwest Territory Metis Nation, the Government of the ...",
+      "content_text": "... of the Northwest Territories and Parks Canada making an announcement regarding Thadene Nne Indigenous Protected Area.",
+      "date_published": "2026-06-03T15:02:00+00:00"
+    },
+    {
+      "id": "https://www.canada.ca/en/parks-canada/news/2026/06/utsel-ke-dene-first-nation-northwest-territory-metis-nation-the-government-of-the-northwest-territories-and-parks-canada-making-an-announcement-reg.html",
+      "url": "https://www.canada.ca/en/parks-canada/news/2026/06/utsel-ke-dene-first-nation-northwest-territory-metis-nation-the-government-of-the-northwest-territories-and-parks-canada-making-an-announcement-reg.html",
+      "title": "Łutsël K'é Dene First Nation, Northwest Territory Métis Nation, the Government of the ... - Canada.ca",
+      "content_text": "... , the Government of the Northwest Territories and Parks Canada making an announcement regarding Thaıdene Nëné Indigenous Protected Area.",
+      "date_published": "2026-06-03T14:44:32+00:00"
+    },
+    {
+      "id": "https://www.canada.ca/en/prairies-economic-development/campaigns/success-stories/manitoba/strategic-partnership-initiative-manitoba-indigenous-critical-minerals.html",
+      "url": "https://www.canada.ca/en/prairies-economic-development/campaigns/success-stories/manitoba/strategic-partnership-initiative-manitoba-indigenous-critical-minerals.html",
+      "title": "Strategic Partnership Initiative supports Manitoba Indigenous communities' priorities ... - Canada.ca",
+      "content_text": "... Indigenous trainees and over seven Indigenous businesses created. ... Travel and tourism · Business · Benefits · Health · Taxes · Environment and ...",
+      "date_published": "2026-06-02T23:45:05+00:00"
+    },
+    {
+      "id": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/canada-advances-forest-sector-transformation-to-protect-jobs-and-strengthen-communities-nationwide.html",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/canada-advances-forest-sector-transformation-to-protect-jobs-and-strengthen-communities-nationwide.html",
+      "title": "Canada advances forest sector transformation to protect jobs and strengthen communities ...",
+      "content_text": "Description: The proponent provided travel support for First Nations leaders to attend an Indigenous Forestry Gathering, co-developed and co ...",
+      "date_published": "2026-06-03T17:34:57+00:00"
+    },
+    {
+      "id": "https://www.airport-suppliers.com/airport_press_release/climate-resilience-at-the-forefront-as-edmonton-airports-releases-2025-risk-and-opportunities-report/",
+      "url": "https://www.airport-suppliers.com/airport_press_release/climate-resilience-at-the-forefront-as-edmonton-airports-releases-2025-risk-and-opportunities-report/",
+      "title": "Climate Resilience at the Forefront as Edmonton Airports Releases 2025 Risk and ...",
+      "content_text": "Airport Carbon Accreditation (ACA) Level 3: ACA Level 3 ... travel through the Nature Conservancy of Canada's Darkwoods Forest Carbon Project.",
+      "date_published": "2026-06-03T14:23:26+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/fofy6wvzwzpr/",
+      "url": "https://www.travelandtourworld.com/news/article/fofy6wvzwzpr/",
+      "title": "Australia Joins US, Canada, Mexico, UK, France, Thailand and Others as Falling Inbound ...",
+      "content_text": "Budget travel can reduce economic impact; Premium travelers contribute disproportionately. Indicator, Importance. Visitor Arrivals, High. Visitor ...",
+      "date_published": "2026-06-03T14:59:42+00:00"
+    },
+    {
+      "id": "https://www.canada.ca/en/environment-climate-change/news/2026/06/minister-dabrusin-and-minister-michel-mark-clean-air-day-in-canada.html",
+      "url": "https://www.canada.ca/en/environment-climate-change/news/2026/06/minister-dabrusin-and-minister-michel-mark-clean-air-day-in-canada.html",
+      "title": "Minister Dabrusin and Minister Michel mark Clean Air Day in Canada",
+      "content_text": "Climate change is contributing to this by increasing the risk of ... Travel and tourism · Business · Benefits · Health · Taxes · Environment and ...",
+      "date_published": "2026-06-03T17:04:06+00:00"
+    },
+    {
+      "id": "https://ca.news.yahoo.com/islands-extremely-unhappy-airlines-112428676.html",
+      "url": "https://ca.news.yahoo.com/islands-extremely-unhappy-airlines-112428676.html",
+      "title": "Islands 'extremely unhappy' with airline's service - Yahoo News Canada",
+      "content_text": "Tourism and business leaders say a deal struck with Aurginy in Guernsey is exacerbating issues.",
+      "date_published": "2026-06-03T11:29:29+00:00"
+    },
+    {
+      "id": "https://ca.finance.yahoo.com/news/long-bay-zen-resort-officially-001200587.html",
+      "url": "https://ca.finance.yahoo.com/news/long-bay-zen-resort-officially-001200587.html",
+      "title": "Long Bay Zen Resort Officially Unveiled in Antigua - Yahoo! Finance Canada",
+      "content_text": "Tourism Minister Charles Fernandez called it a new direction for Antigua's tourism, adding that the project is \"tangible proof\" of how strategic ...",
+      "date_published": "2026-06-03T00:17:32+00:00"
+    },
+    {
+      "id": "https://www.cntraveler.com/triple-crown-united-states-canada",
+      "url": "https://www.cntraveler.com/triple-crown-united-states-canada",
+      "title": "These US and Canada Hotels Just Won the Ultimate Travel Trifecta—CNT's New Triple Crown Award",
+      "content_text": "From beachfront retreats in Miami to remote escapes off the coast of Newfoundland, these are the best of the best hotels across the US and Canada, ...",
+      "date_published": "2026-06-02T22:33:55+00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Palau",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/palau.json",
+  "description": "Top 10 most recent sustainable-tourism items for Palau. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://greattravelmagazine.com/2026/06/03/discover-palau-your-ultimate-summer-gateway-with-philippine-airlines/",
+      "url": "https://greattravelmagazine.com/2026/06/03/discover-palau-your-ultimate-summer-gateway-with-philippine-airlines/",
+      "title": "Discover Palau: Your ultimate summer gateway with Philippine Airlines",
+      "content_text": "... Trip · Golf Tour · Travel Essentials. Search. Search for: Menu Search. Great Travel Philippines. Close ... Manila-Perth and Perth-Manila services ...",
+      "date_published": "2026-06-03T13:41:00+00:00"
+    }
+  ]
+}

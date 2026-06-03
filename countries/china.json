@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — China",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/china.json",
+  "description": "Top 10 most recent sustainable-tourism items for China. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.travelandtourworld.com/news/article/6h8ng186t5x6/",
+      "url": "https://www.travelandtourworld.com/news/article/6h8ng186t5x6/",
+      "title": "China Joins Russia, Uzbekistan, Kazakhstan, Kyrgyzstan, Tajikistan, Mongolia and More ...",
+      "content_text": "Forests, grasslands, rivers and desert panoramas offer multiple ecosystems in one journey. Tourism authorities promote eco‑friendly travel to protect ...",
+      "date_published": "2026-06-03T07:51:29+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/mw1qzwpm4mdp/",
+      "url": "https://www.travelandtourworld.com/news/article/mw1qzwpm4mdp/",
+      "title": "China Emerges as Global Travel and Tourism Powerhouse as Strong Sector Expansion ...",
+      "content_text": "This includes the promotion of cultural tourism zones, ecological tourism regions, and heritage conservation areas. Policy support has also ...",
+      "date_published": "2026-06-03T18:42:19+00:00"
+    },
+    {
+      "id": "https://www.sixthtone.com/news/1018610/chinese-nature-reserve-stirs-debate-for-requiring-tourists-to-use-bus",
+      "url": "https://www.sixthtone.com/news/1018610/chinese-nature-reserve-stirs-debate-for-requiring-tourists-to-use-bus",
+      "title": "Chinese Nature Reserve Stirs Debate for Requiring Tourists to Use Bus - Sixth Tone",
+      "content_text": "... tourist areas, where transportation and entry tickets are packaged into compulsory fees, indirectly inflating tourism costs. Domestic media report ...",
+      "date_published": "2026-06-03T11:47:12+00:00"
+    },
+    {
+      "id": "https://www.chinadailyasia.com/article/634387",
+      "url": "https://www.chinadailyasia.com/article/634387",
+      "title": "Hainan diversifies tourism experiences to attract HK visitors - China Daily",
+      "content_text": "Hainan is shifting from a beach destination to a multi-faceted travel hub, leveraging cultural heritage, rainforests, space and deep-sea study ...",
+      "date_published": "2026-06-03T18:12:25+00:00"
+    },
+    {
+      "id": "https://www.breakingtravelnews.com/news/article/trip.com-group-spotlight-guilin-as-demand-grows-for-experiential-cultural-t/",
+      "url": "https://www.breakingtravelnews.com/news/article/trip.com-group-spotlight-guilin-as-demand-grows-for-experiential-cultural-t/",
+      "title": "Trip.com Group Spotlight Guilin as Demand Grows for Experiential & Cultural Travel in China | News",
+      "content_text": "As global travellers increasingly seek slower, experience-led journeys, Guilin is emerging as one of China's standout destinations for nature, ...",
+      "date_published": "2026-06-03T17:28:21+00:00"
+    },
+    {
+      "id": "https://www.ourchinastory.com/en/amp/16949",
+      "url": "https://www.ourchinastory.com/en/amp/16949",
+      "title": "4 Cool summer getaways in China to escape the heat!",
+      "content_text": "4 Cool summer getaways in China to escape the heat! China TourismHebei TravelGuizhou TravelYunnan Tourism ... forest, hence its name \"Forest City\".",
+      "date_published": "2026-06-03T11:49:47+00:00"
+    },
+    {
+      "id": "https://news.cgtn.com/news/2026-06-03/Bringing-people-closer-China-Laos-friendship-in-action-1NFW3OmwsMg/p.html",
+      "url": "https://news.cgtn.com/news/2026-06-03/Bringing-people-closer-China-Laos-friendship-in-action-1NFW3OmwsMg/p.html",
+      "title": "Bringing people closer: China-Laos friendship in action - CGTN",
+      "content_text": "Over the years, China and Laos have continued to expand exchanges in tourism ... travel, learn from one another and deepen mutual understanding.",
+      "date_published": "2026-06-03T10:23:43+00:00"
+    },
+    {
+      "id": "https://www.traveldailymedia.com/shaanxi-culture-captivates-paris-in-cultural-exchange/",
+      "url": "https://www.traveldailymedia.com/shaanxi-culture-captivates-paris-in-cultural-exchange/",
+      "title": "Shaanxi culture captivates Paris in cultural exchange - Travel Daily Media",
+      "content_text": "Shaanxi's cultural heritage was celebrated in Paris through events at UNESCO, enhancing China-France cultural ties and showcasing projects like ...",
+      "date_published": "2026-06-03T15:05:49+00:00"
+    },
+    {
+      "id": "https://global.chinadaily.com.cn/a/202606/03/WS6a1f9897a310d6866eb4c364.html",
+      "url": "https://global.chinadaily.com.cn/a/202606/03/WS6a1f9897a310d6866eb4c364.html",
+      "title": "Duanwu celebration brings cultures together in California - Chinadaily.com.cn",
+      "content_text": "... Cultural and Tourism Group, told China Daily. Yu described Hubei as the ... cultural heritage firsthand. Immersed in the festive atmosphere ...",
+      "date_published": "2026-06-03T15:02:19+00:00"
+    },
+    {
+      "id": "https://www.breakingtravelnews.com/news/article/pouring-new-meaning-into-indigenous-luxury/",
+      "url": "https://www.breakingtravelnews.com/news/article/pouring-new-meaning-into-indigenous-luxury/",
+      "title": "Pouring New Meaning into Indigenous Luxury - Breaking Travel News",
+      "content_text": "In the misty uplands of Southwest China, Anantara Guiyang Resort's wine insider Jason is engaged in a delicate tightrope act.",
+      "date_published": "2026-06-03T13:45:39+00:00"
+    }
+  ]
+}

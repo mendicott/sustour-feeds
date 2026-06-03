@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Asia",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/regions/asia.json",
+  "description": "Top 10 most recent sustainable-tourism items for Asia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://traveltomorrow.com/tokyos-shibuya-introduces-on-the-spot-fines-for-littering-amid-overtourism/",
+      "url": "https://traveltomorrow.com/tokyos-shibuya-introduces-on-the-spot-fines-for-littering-amid-overtourism/",
+      "title": "Tokyo's Shibuya introduces on-the-spot fines for littering amid overtourism - Travel Tomorrow",
+      "content_text": "Shibuya in Tokyo, Japan has introduced on-the-spot fines for littering as it tackles rising waste and overtourism. Visitors can now be fined €10 ...",
+      "date_published": "2026-06-03T14:14:46+00:00"
+    },
+    {
+      "id": "https://www.vietnam.vn/en/bai-toan-gia-tang-gia-tri-de-phat-trien-du-lich-ben-vung",
+      "url": "https://www.vietnam.vn/en/bai-toan-gia-tang-gia-tri-de-phat-trien-du-lich-ben-vung",
+      "title": "The challenge of increasing value for sustainable tourism development. - Vietnam.vn",
+      "content_text": "... tourism businesses. Cao Bang province is proposing many solutions to develop sustainable and professional tourism.",
+      "date_published": "2026-06-03T05:22:44+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/ak777d1iv3o5/",
+      "url": "https://www.travelandtourworld.com/news/article/ak777d1iv3o5/",
+      "title": "Jordan Joins Israel, UAE, Saudi Arabia, Qatar, Oman, Egypt, Turkey and Others as Mega ...",
+      "content_text": "Oman is positioning itself as the Gulf's leading sustainable tourism destination. Investments in Muscat, Salalah, and Musandam focus on eco ...",
+      "date_published": "2026-06-03T16:30:15+00:00"
+    },
+    {
+      "id": "https://www.vietnam.vn/en/viet-nam-tich-cuc-tham-gia-mab-icc-38-van-dong-cong-nhan-khu-du-tru-sinh-quyen-the-gioi-phong-nha-ke-bang",
+      "url": "https://www.vietnam.vn/en/viet-nam-tich-cuc-tham-gia-mab-icc-38-van-dong-cong-nhan-khu-du-tru-sinh-quyen-the-gioi-phong-nha-ke-bang",
+      "title": "Vietnam actively participated in MAB-ICC 38, advocating for the recognition of Phong Nha",
+      "content_text": "... Biosphere Reserve network and the potential for developing ecotourism and community tourism. Vietnam currently has 11 UNESCO-recognized World ...",
+      "date_published": "2026-06-03T14:03:21+00:00"
+    },
+    {
+      "id": "https://www.dailyexpress.com.my/news/282438/agri-tourism-the-way-forward/",
+      "url": "https://www.dailyexpress.com.my/news/282438/agri-tourism-the-way-forward/",
+      "title": "Agri-tourism the way forward | Daily Express Malaysia - Sabah's Leading News Portal",
+      "content_text": "KENINGAU: The Chairman of Merampong Keningau Community and Agro-based Tourism Cooperative Berhad (Kopetam Bhd), Salehuddin Tahir, ...",
+      "date_published": "2026-06-03T13:08:14+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/kxgriqvo3b6z/",
+      "url": "https://www.travelandtourworld.com/news/article/kxgriqvo3b6z/",
+      "title": "Cologne Cathedral to Charge Twelve Euro Tourist Entry from July 2026, Supporting ...",
+      "content_text": "The above measures will help in driving tourism growth, promoting sustainable heritage management ... Japan's Mount Fuji Becomes the Epicentre of Travel ...",
+      "date_published": "2026-06-03T11:36:41+00:00"
+    },
+    {
+      "id": "https://themalaysianreserve.com/2026/06/03/heritage-theatre-project-supports-sungai-lembings-unesco-bid/",
+      "url": "https://themalaysianreserve.com/2026/06/03/heritage-theatre-project-supports-sungai-lembings-unesco-bid/",
+      "title": "Heritage theatre project supports Sungai Lembing's Unesco bid - The Malaysian Reserve",
+      "content_text": "... United Nations Educational, Scientific and Cultural Organisation (Unesco) recognition while strengthening heritage tourism and the local economy.",
+      "date_published": "2026-06-03T09:12:49+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/6h8ng186t5x6/",
+      "url": "https://www.travelandtourworld.com/news/article/6h8ng186t5x6/",
+      "title": "China Joins Russia, Uzbekistan, Kazakhstan, Kyrgyzstan, Tajikistan, Mongolia and More ...",
+      "content_text": "Forests, grasslands, rivers and desert panoramas offer multiple ecosystems in one journey. Tourism authorities promote eco‑friendly travel to protect ...",
+      "date_published": "2026-06-03T07:51:29+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/cduok59kvu8z/",
+      "url": "https://www.travelandtourworld.com/news/article/cduok59kvu8z/",
+      "title": "Japan Tourism Expansion Accelerates as Marubeni Acquires Okinawa Tourist Service to ...",
+      "content_text": "The prefecture has also been actively pursuing a long-term strategy aimed at becoming a globally recognized sustainable tourism destination. Local ...",
+      "date_published": "2026-06-03T02:29:03+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/mw1qzwpm4mdp/",
+      "url": "https://www.travelandtourworld.com/news/article/mw1qzwpm4mdp/",
+      "title": "China Emerges as Global Travel and Tourism Powerhouse as Strong Sector Expansion ...",
+      "content_text": "This includes the promotion of cultural tourism zones, ecological tourism regions, and heritage conservation areas. Policy support has also ...",
+      "date_published": "2026-06-03T18:42:19+00:00"
+    }
+  ]
+}

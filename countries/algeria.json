@@ -1,0 +1,17 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Algeria",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/algeria.json",
+  "description": "Top 10 most recent sustainable-tourism items for Algeria. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.echoroukonline.com/algeria-holds-the-blueprint-for-the-energy-sovereignty-africa-needs",
+      "url": "https://www.echoroukonline.com/algeria-holds-the-blueprint-for-the-energy-sovereignty-africa-needs",
+      "title": "Algeria Holds the Blueprint for the Energy Sovereignty Africa Needs - الشروق أونلاين",
+      "content_text": "... climate change and population growth. Today, Algeria ranks among Africa's leading desalination producers, Attar explained, existing facilities ...",
+      "date_published": "2026-06-02T19:38:21+00:00"
+    }
+  ]
+}

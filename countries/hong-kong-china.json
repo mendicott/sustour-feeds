@@ -1,0 +1,17 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Hong Kong (China)",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/hong-kong-china.json",
+  "description": "Top 10 most recent sustainable-tourism items for Hong Kong (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.eco-business.com/news/middle-east-energy-shock-fuels-solar-rush-in-philippines-thailand-amid-supply-chain-issues-untrained-workforce/",
+      "url": "https://www.eco-business.com/news/middle-east-energy-shock-fuels-solar-rush-in-philippines-thailand-amid-supply-chain-issues-untrained-workforce/",
+      "title": "Middle East energy shock fuels solar rush in Philippines, Thailand amid supply chain issues ...",
+      "content_text": "Climate · 14. Oceans · 15. Biodiversity · 16. Peace · 17. Partnerships · Regions Show more Regions. Australia · China · Europe · Hong Kong · India ...",
+      "date_published": "2026-06-02T22:06:25+00:00"
+    }
+  ]
+}

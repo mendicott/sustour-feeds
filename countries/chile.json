@@ -1,0 +1,24 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Chile",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/chile.json",
+  "description": "Top 10 most recent sustainable-tourism items for Chile. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.openpr.com/news/4536283/chile-indigenous-law-reform-ngo-ordre-de-l-etoile-du-sud",
+      "url": "https://www.openpr.com/news/4536283/chile-indigenous-law-reform-ngo-ordre-de-l-etoile-du-sud",
+      "title": "Chile Indigenous Law Reform: NGO Ordre de l'Etoile du Sud - openPR.com",
+      "content_text": "According to a new report by Coherent Market Insights, titled \"\"Indigenous Tourism Market Size 2025, provides insightful information about regional ...",
+      "date_published": "2026-06-03T14:33:37+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/lp1mw1qez1az/",
+      "url": "https://www.travelandtourworld.com/news/article/lp1mw1qez1az/",
+      "title": "Argentina Overtakes United States, Chile, France, Portugal, Uruguay, Colombia, and More ...",
+      "content_text": "Direct connectivity has facilitated easier travel from major tourism markets, enabling Brazil to attract both short-term leisure travelers and long- ...",
+      "date_published": "2026-06-02T16:37:07+00:00"
+    }
+  ]
+}

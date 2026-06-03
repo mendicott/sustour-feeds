@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Greece",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/greece.json",
+  "description": "Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.travelandtourworld.com/news/article/w7viuz1cl3yw/",
+      "url": "https://www.travelandtourworld.com/news/article/w7viuz1cl3yw/",
+      "title": "Italy Joins Spain, France, Greece, Netherlands, Portugal and Other Countries as Europe ...",
+      "content_text": "Europe fights overtourism as Italy, Spain, France, Greece, Netherlands and Portugal impose caps, taxes and rental restrictions in 2026.",
+      "date_published": "2026-06-03T12:18:49+00:00"
+    },
+    {
+      "id": "https://www.ekathimerini.com/in-depth/1305438/kushner-investment-leveling-centuries-old-dunes/",
+      "url": "https://www.ekathimerini.com/in-depth/1305438/kushner-investment-leveling-centuries-old-dunes/",
+      "title": "Kushner investment 'leveling centuries-old dunes' | eKathimerini.com",
+      "content_text": "The Greek community in south Albania is worried about a plan by Trump's son-in-law to built a luxury resort in a protected area near Zvernec.",
+      "date_published": "2026-06-03T06:05:07+00:00"
+    },
+    {
+      "id": "https://www.argophilia.com/news/stama-greece-short-term-rentals-clash/249937/",
+      "url": "https://www.argophilia.com/news/stama-greece-short-term-rentals-clash/249937/",
+      "title": "Short-Term Rental Lobby Fights Greece's New Tourism Limits",
+      "content_text": "... tourism carrying capacity. STAMA claims that treating vacation rentals ... Iorgos Pappas is the Travel and Lifestyle Co-Editor at Argophilia ...",
+      "date_published": "2026-06-03T11:15:00+00:00"
+    },
+    {
+      "id": "https://greekcitytimes.com/2026/06/03/naxos-authentic-island-living/",
+      "url": "https://greekcitytimes.com/2026/06/03/naxos-authentic-island-living/",
+      "title": "Naxos Gains International Recognition as a Model of Authentic Island Living - Greek City Times",
+      "content_text": "Greece, Greece Travel, Greek Lifestyle, Greek News, Greek News Today, Lifestyle, TRAVEL NEWS, Travel Tips 3 June 2026. Naxos Gains International ...",
+      "date_published": "2026-06-03T04:45:58+00:00"
+    },
+    {
+      "id": "https://en.antaranews.com/amp/news/417841/ri-greece-discuss-coalition-for-repatriation-of-cultural-artifacts",
+      "url": "https://en.antaranews.com/amp/news/417841/ri-greece-discuss-coalition-for-repatriation-of-cultural-artifacts",
+      "title": "RI, Greece discuss coalition for repatriation of cultural artifacts - ANTARA News",
+      "content_text": "Greek Ambassador to Indonesia Dimitrios Michalopoulos expressed support for various agendas for preserving Indonesia's cultural heritage. At the ...",
+      "date_published": "2026-06-03T11:50:32+00:00"
+    },
+    {
+      "id": "https://www.ekathimerini.com/economy/1305565/international-arrivals-to-greece-rise-masking-regional-tourism-divide/",
+      "url": "https://www.ekathimerini.com/economy/1305565/international-arrivals-to-greece-rise-masking-regional-tourism-divide/",
+      "title": "International arrivals to Greece rise, masking regional tourism divide | eKathimerini.com",
+      "content_text": "... travel season and islands facing headwinds from regional instability and rising costs ... Tourism zoning plan causes backlash, from both sides. TOURISM ...",
+      "date_published": "2026-06-03T19:03:57+00:00"
+    },
+    {
+      "id": "https://www.chinadaily.com.cn/a/202606/03/WS6a1f67f7a310d6866eb4c190.html",
+      "url": "https://www.chinadaily.com.cn/a/202606/03/WS6a1f67f7a310d6866eb4c190.html",
+      "title": "Mayors call for leveraging smart tech to fuel tourism - Chinadaily.com.cn",
+      "content_text": "... sustainable tourism growth. Despoina Limniotaki, president of the Athens City Council in Greece, said that the city has launched its 2030 road map ...",
+      "date_published": "2026-06-03T11:35:17+00:00"
+    },
+    {
+      "id": "https://airguide.info/small-greek-islands-tourism-2026/",
+      "url": "https://airguide.info/small-greek-islands-tourism-2026/",
+      "title": "Small Greek Islands Tourism Is Booming Beyond Santorini and Mykonos - AirGuide.info",
+      "content_text": "Santorini and Mykonos continue to attract massive cruise traffic and luxury tourism, often resulting in packed streets, expensive hotels, and long ...",
+      "date_published": "2026-06-03T07:22:12+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/e1g25gxujnfy/",
+      "url": "https://www.travelandtourworld.com/news/article/e1g25gxujnfy/",
+      "title": "Germany Joins Croatia, Italy, Greece, Portugal, Bosnia and Herzegovina, France and More ...",
+      "content_text": "The move highlights a growing emphasis on sustainable travel and off-the-beaten-path exploration, catering to travelers seeking serene escapes, unique ...",
+      "date_published": "2026-06-03T03:54:45+00:00"
+    },
+    {
+      "id": "https://www.finestresullarte.info/archaeology/greece-returns-48-archaeological-finds-to-cyprus",
+      "url": "https://www.finestresullarte.info/archaeology/greece-returns-48-archaeological-finds-to-cyprus",
+      "title": "Greece returns 48 archaeological finds to Cyprus - Finestre sull'Arte",
+      "content_text": "Travel. All destinations · Northern Italy · Central Italy · Southern Italy · Islands · Foreign countries · Design · Job · About Us · Facebook ...",
+      "date_published": "2026-06-02T15:24:47+00:00"
+    }
+  ]
+}

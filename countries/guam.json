@@ -1,0 +1,17 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Guam",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/guam.json",
+  "description": "Top 10 most recent sustainable-tourism items for Guam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.mvariety.com/regional/guam-visitor-arrivals-down-28/article_75c2eb1f-4095-4992-bb4b-80bf426e3a0e.html/",
+      "url": "https://www.mvariety.com/regional/guam-visitor-arrivals-down-28/article_75c2eb1f-4095-4992-bb4b-80bf426e3a0e.html/",
+      "title": "Guam: Visitor arrivals down 28% - Marianas Variety News & Views",
+      "content_text": "Though the Guam Visitors Bureau reported an increase in marketing costs, GVB director of tourism ... travel softness. The month is also impacted ...",
+      "date_published": "2026-06-03T02:44:32+00:00"
+    }
+  ]
+}

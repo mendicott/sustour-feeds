@@ -1,0 +1,17 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Zambia",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/zambia.json",
+  "description": "Top 10 most recent sustainable-tourism items for Zambia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.travelnews.co.za/article/countries-tighten-travel-rules-amid-ebola-outbreak",
+      "url": "https://www.travelnews.co.za/article/countries-tighten-travel-rules-amid-ebola-outbreak",
+      "title": "Countries tighten travel rules amid Ebola outbreak | Travelnews",
+      "content_text": "Zambia. Zambia has increased its screening and surveillance for Ebola at its ports of entry, after authorities cleared two suspected cases. \"Zambia ...",
+      "date_published": "2026-06-03T04:38:40+00:00"
+    }
+  ]
+}

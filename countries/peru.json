@@ -1,0 +1,31 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Peru",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/peru.json",
+  "description": "Top 10 most recent sustainable-tourism items for Peru. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://andina.pe/Ingles/noticia-peru-chiclayo-prepares-to-welcome-pope-leo-xiv-in-november-following-visit-confirmation-1077822.aspx",
+      "url": "https://andina.pe/Ingles/noticia-peru-chiclayo-prepares-to-welcome-pope-leo-xiv-in-november-following-visit-confirmation-1077822.aspx",
+      "title": "Peru: Chiclayo prepares to welcome Pope Leo XIV in November following visit confirmation",
+      "content_text": "... religious travel destination in Peru. He added that preparations are already underway at hotels, restaurants, and travel agencies, with training ...",
+      "date_published": "2026-06-03T15:47:27+00:00"
+    },
+    {
+      "id": "https://carbon-pulse.com/517822/",
+      "url": "https://carbon-pulse.com/517822/",
+      "title": "Peru targets 726k ITMO transfer to Switzerland from clean cookstoves project",
+      "content_text": "Carbon Pulse is a subscription-based service providing unrivalled news and intelligence on carbon pricing and climate change policies. See what we ...",
+      "date_published": "2026-06-03T12:49:45+00:00"
+    },
+    {
+      "id": "https://andina.pe/agencia/noticia-peru-terminates-tenure-of-ambassadors-to-us-spain-costa-rica-india-and-france-1077613.aspx",
+      "url": "https://andina.pe/agencia/noticia-peru-terminates-tenure-of-ambassadors-to-us-spain-costa-rica-india-and-france-1077613.aspx",
+      "title": "Peru terminates tenure of ambassadors to U.S., Spain, Costa Rica, India, and France",
+      "content_text": "... World Tourism Organization (UN Tourism) were also terminated. The supreme resolution, published in the Legal Regulations bulletin of the Official ...",
+      "date_published": "2026-06-03T01:40:33+00:00"
+    }
+  ]
+}

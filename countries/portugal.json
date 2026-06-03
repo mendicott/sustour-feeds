@@ -1,0 +1,66 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Portugal",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/portugal.json",
+  "description": "Top 10 most recent sustainable-tourism items for Portugal. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.travelandtourworld.com/news/article/w7viuz1cl3yw/",
+      "url": "https://www.travelandtourworld.com/news/article/w7viuz1cl3yw/",
+      "title": "Italy Joins Spain, France, Greece, Netherlands, Portugal and Other Countries as Europe ...",
+      "content_text": "Europe fights overtourism as Italy, Spain, France, Greece, Netherlands and Portugal impose caps, taxes and rental restrictions in 2026.",
+      "date_published": "2026-06-03T12:18:49+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/n3altct9o6yv/",
+      "url": "https://www.travelandtourworld.com/news/article/n3altct9o6yv/",
+      "title": "Finland Joins Spain, France, Italy, Germany, Portugal, Croatia and Other EU Nations as ...",
+      "content_text": "Germany is increasingly integrating cultural tourism with creative industries, design, innovation and heritage conservation. Historic cities, museums ...",
+      "date_published": "2026-06-03T11:01:35+00:00"
+    },
+    {
+      "id": "https://www.idealista.pt/en/news/lifestyle-in-portugal/2026/06/03/75685-caves-prisons-convents-and-more-the-winners-of-the-oscars-of-rehabilitation",
+      "url": "https://www.idealista.pt/en/news/lifestyle-in-portugal/2026/06/03/75685-caves-prisons-convents-and-more-the-winners-of-the-oscars-of-rehabilitation",
+      "title": "Caves, prisons, convents and more - the winners of Portugal's Rehabilitation 'Oscars'",
+      "content_text": "National Urban Rehabilitation Award 2026 – Tourism. Tivoli Kopke Porto Gaia Hotel (Vila Nova de Gaia): the project converted the former Kopke ...",
+      "date_published": "2026-06-03T08:27:59+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/e1g25gxujnfy/",
+      "url": "https://www.travelandtourworld.com/news/article/e1g25gxujnfy/",
+      "title": "Germany Joins Croatia, Italy, Greece, Portugal, Bosnia and Herzegovina, France and More ...",
+      "content_text": "The move highlights a growing emphasis on sustainable travel and off-the-beaten-path exploration, catering to travelers seeking serene escapes, unique ...",
+      "date_published": "2026-06-03T03:54:45+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/lp1mw1qez1az/",
+      "url": "https://www.travelandtourworld.com/news/article/lp1mw1qez1az/",
+      "title": "Argentina Overtakes United States, Chile, France, Portugal, Uruguay, Colombia, and More ...",
+      "content_text": "Direct connectivity has facilitated easier travel from major tourism markets, enabling Brazil to attract both short-term leisure travelers and long- ...",
+      "date_published": "2026-06-02T16:37:07+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/53oo1r47dbf7/",
+      "url": "https://www.travelandtourworld.com/news/article/53oo1r47dbf7/",
+      "title": "Poland Joins United Kingdom, Portugal, Sweden, Hungary, Italy, France and More as ...",
+      "content_text": "Tags: alternative European cities, budget travel Europe, cheap flights to Europe, Europe summer travel 2026. Advertisement. Advertisement. This ...",
+      "date_published": "2026-06-03T11:19:41+00:00"
+    },
+    {
+      "id": "https://newswav.com/article/portugal-general-strike-to-impact-hundreds-of-flights-and-public-transport-A2606_S5xHra",
+      "url": "https://newswav.com/article/portugal-general-strike-to-impact-hundreds-of-flights-and-public-transport-A2606_S5xHra",
+      "title": "Portugal general strike to impact hundreds of flights and public transport today - Newswav",
+      "content_text": "Independent Travel Awards 2026: Win a one week all-inclusive holiday in Jamaica · Is it safe to travel to Cyprus? Latest advice for holiday ...",
+      "date_published": "2026-06-03T11:34:15+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/cy1vaxokwszj/",
+      "url": "https://www.travelandtourworld.com/news/article/cy1vaxokwszj/",
+      "title": "Flights Cancelled Across Europe As Belgium, Germany, Italy, Portugal, Türkiye, Sweden ...",
+      "content_text": "Brussels Airport experienced 181 cancellations and 131 delays after Belgium's airspace disruption. Air Baltic, Ryanair, Turkish Airlines, SAS, TUI Fly ...",
+      "date_published": "2026-06-03T00:57:19+00:00"
+    }
+  ]
+}

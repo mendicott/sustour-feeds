@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/netherlands.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Netherlands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 03 Jun 2026 20:52:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Jun 2026 22:25:42 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Italy Joins Spain, France, Greece, Netherlands, Portugal and Other Countries as Europe ...</title>
@@ -30,18 +30,18 @@
 <description>Da Nang has claimed top spot among Vietnam's most searched summer destinations, data from Dutch travel agency Booking.com shows.</description>
 </item>
 <item>
-<title>KLM Suspends Flights to Uganda Amid Ebola Outbreak Travel Restrictions - Aviación al Día</title>
-<link>https://aviacionaldia.com/en/2026/06/klm-suspends-flights-to-uganda-amid-ebola-outbreak-travel-restrictions.html</link>
-<guid isPermaLink="false">https://aviacionaldia.com/en/2026/06/klm-suspends-flights-to-uganda-amid-ebola-outbreak-travel-restrictions.html</guid>
-<pubDate>Tue, 02 Jun 2026 15:59:35 +0000</pubDate>
-<description>The Dutch flag carrier KLM has suspended its scheduled operations to and from Entebbe International Airport, which serves Uganda's capital.</description>
-</item>
-<item>
 <title>KLM cancels Uganda flights due to Central Africa's Ebola restrictions, Dutch Airlines confirms.</title>
 <link>https://swazilandnews.co.za/articles/35524</link>
 <guid isPermaLink="false">https://swazilandnews.co.za/articles/35524</guid>
 <pubDate>Wed, 03 Jun 2026 06:52:07 +0000</pubDate>
 <description>KLM said that, while the area was not currently seen as an active risk zone, it could no longer operate ​planned routes due to travel and entry ...</description>
+</item>
+<item>
+<title>KLM Suspends Flights to Uganda Amid Ebola Outbreak Travel Restrictions - Aviación al Día</title>
+<link>https://aviacionaldia.com/en/2026/06/klm-suspends-flights-to-uganda-amid-ebola-outbreak-travel-restrictions.html</link>
+<guid isPermaLink="false">https://aviacionaldia.com/en/2026/06/klm-suspends-flights-to-uganda-amid-ebola-outbreak-travel-restrictions.html</guid>
+<pubDate>Tue, 02 Jun 2026 15:59:35 +0000</pubDate>
+<description>The Dutch flag carrier KLM has suspended its scheduled operations to and from Entebbe International Airport, which serves Uganda's capital.</description>
 </item>
 </channel>
 </rss>
