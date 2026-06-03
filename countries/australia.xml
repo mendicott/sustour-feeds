@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../feed.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Sustainable Tourism — Australia</title>
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/australia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Australia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 03 Jun 2026 20:00:32 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Jun 2026 20:24:24 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Biome Australia strikes onshore manufacturing deal with SPA</title>
