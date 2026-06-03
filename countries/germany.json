@@ -7,18 +7,18 @@
   "language": "en",
   "items": [
     {
-      "id": "https://www.travelandtourworld.com/news/article/p9dktoeswkbv/",
-      "url": "https://www.travelandtourworld.com/news/article/p9dktoeswkbv/",
-      "title": "Germany Introduces Entry Fee for Cologne Cathedral to Fund Restoration and Manage ...",
-      "content_text": "... heritage management that reconciles preservation needs with spiritual obligations . Impacts on Tourism and Visitor Behavior. The introduction of a ...",
-      "date_published": "2026-06-02T19:33:49+00:00"
-    },
-    {
       "id": "https://www.dw.com/en/seahorses-smugglers-safaris-a-coastal-comeback/av-77300047",
       "url": "https://www.dw.com/en/seahorses-smugglers-safaris-a-coastal-comeback/av-77300047",
       "title": "Seahorses, smugglers & safaris – A coastal comeback - DW",
       "content_text": "A local conservation project is now turning them into a source of tourism and community support ... Travel · Advertising · German News Service.",
       "date_published": "2026-06-03T06:32:17+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/p9dktoeswkbv/",
+      "url": "https://www.travelandtourworld.com/news/article/p9dktoeswkbv/",
+      "title": "Germany Introduces Entry Fee for Cologne Cathedral to Fund Restoration and Manage ...",
+      "content_text": "... heritage management that reconciles preservation needs with spiritual obligations . Impacts on Tourism and Visitor Behavior. The introduction of a ...",
+      "date_published": "2026-06-02T19:33:49+00:00"
     },
     {
       "id": "https://www.travelandtourworld.com/news/article/n3altct9o6yv/",
@@ -49,6 +49,13 @@
       "date_published": "2026-06-03T18:38:05+00:00"
     },
     {
+      "id": "https://connectingregion.com/news/croatia-opens-a-tourism-office-in-berlin/",
+      "url": "https://connectingregion.com/news/croatia-opens-a-tourism-office-in-berlin/",
+      "title": "Croatia Opens a Tourism Office in Berlin - The Region",
+      "content_text": "The new office of the Croatian National Tourist Board was officially inaugurated in the German capital by Croatian Minister of Tourism and Sports ...",
+      "date_published": "2026-06-03T07:57:34+00:00"
+    },
+    {
       "id": "https://themunicheye.com/royal-navy-helicopter-crash-devon-three-killed-33851",
       "url": "https://themunicheye.com/royal-navy-helicopter-crash-devon-three-killed-33851",
       "title": "British Military Helicopter Crash in Devon Results in Three Fatalities - The Munich Eye",
@@ -68,13 +75,6 @@
       "title": "A living dilemma: Syrians in Germany split over staying or returning to homeland | The Star",
       "content_text": "Travel & Culture · Viewpoints · Food · Food News · Eating Out · Food for Thought ... She recently travelled to Damascus for the sixth time to help with ...",
       "date_published": "2026-06-03T13:00:45+00:00"
-    },
-    {
-      "id": "https://connectingregion.com/news/croatia-opens-a-tourism-office-in-berlin/",
-      "url": "https://connectingregion.com/news/croatia-opens-a-tourism-office-in-berlin/",
-      "title": "Croatia Opens a Tourism Office in Berlin - The Region",
-      "content_text": "The new office of the Croatian National Tourist Board was officially inaugurated in the German capital by Croatian Minister of Tourism and Sports ...",
-      "date_published": "2026-06-03T07:57:34+00:00"
     }
   ]
 }

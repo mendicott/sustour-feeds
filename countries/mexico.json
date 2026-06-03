@@ -14,20 +14,6 @@
       "date_published": "2026-06-02T21:54:55+00:00"
     },
     {
-      "id": "https://mexiconewsdaily.com/yucatan-peninsula/mennonite-deforestation-in-mexico-a-troubling-pattern/",
-      "url": "https://mexiconewsdaily.com/yucatan-peninsula/mennonite-deforestation-in-mexico-a-troubling-pattern/",
-      "title": "Mexico's Mennonites: A troubling pattern of deforestation - Mexico News Daily",
-      "content_text": "Illegal logging, monoculture practices and deforestation threaten local ejidatarios' livelihoods and block access to their travel by horseback. In ...",
-      "date_published": "2026-06-03T06:20:02+00:00"
-    },
-    {
-      "id": "https://www.krqe.com/news/new-mexico/new-recreation-mobile-app-released-by-forest-service/",
-      "url": "https://www.krqe.com/news/new-mexico/new-recreation-mobile-app-released-by-forest-service/",
-      "title": "New recreation mobile app released by Forest Service - KRQE",
-      "content_text": "NEW MEXICO (KRQE) – The National Forest Service has released its new National Forests and Grasslands app, available for download ... US updates travel ...",
-      "date_published": "2026-06-03T16:51:28+00:00"
-    },
-    {
       "id": "https://www.scientificamerican.com/travel/trips/2027-mexico-the-monarch-migration-experience/",
       "url": "https://www.scientificamerican.com/travel/trips/2027-mexico-the-monarch-migration-experience/",
       "title": "Mexico: The Monarch Migration Experience | Scientific American",
@@ -35,11 +21,25 @@
       "date_published": "2026-06-03T16:28:35+00:00"
     },
     {
+      "id": "https://mexiconewsdaily.com/yucatan-peninsula/mennonite-deforestation-in-mexico-a-troubling-pattern/",
+      "url": "https://mexiconewsdaily.com/yucatan-peninsula/mennonite-deforestation-in-mexico-a-troubling-pattern/",
+      "title": "Mexico's Mennonites: A troubling pattern of deforestation - Mexico News Daily",
+      "content_text": "Illegal logging, monoculture practices and deforestation threaten local ejidatarios' livelihoods and block access to their travel by horseback. In ...",
+      "date_published": "2026-06-03T06:20:02+00:00"
+    },
+    {
       "id": "https://www.newmexicomagazine.org/blog/post/wingfield-heritage-house-museum-ruidoso/amp/",
       "url": "https://www.newmexicomagazine.org/blog/post/wingfield-heritage-house-museum-ruidoso/amp/",
       "title": "Wingfield Heritage House Museum in Ruidoso, New Mexico",
       "content_text": "Interior of the Wingfield Heritage House Museum in Ruidoso featuring a large stone fireplaced, framed ... New Mexico Tourism Department. © 2026 New ...",
       "date_published": "2026-06-03T15:46:30+00:00"
+    },
+    {
+      "id": "https://www.krqe.com/news/new-mexico/new-recreation-mobile-app-released-by-forest-service/",
+      "url": "https://www.krqe.com/news/new-mexico/new-recreation-mobile-app-released-by-forest-service/",
+      "title": "New recreation mobile app released by Forest Service - KRQE",
+      "content_text": "NEW MEXICO (KRQE) – The National Forest Service has released its new National Forests and Grasslands app, available for download ... US updates travel ...",
+      "date_published": "2026-06-03T16:51:28+00:00"
     },
     {
       "id": "https://www.travelandtourworld.com/news/article/fofy6wvzwzpr/",
@@ -52,7 +52,7 @@
       "id": "https://www.mensjournal.com/travel/u-s-issues-travel-advisory-for-mexico-before-summer",
       "url": "https://www.mensjournal.com/travel/u-s-issues-travel-advisory-for-mexico-before-summer",
       "title": "U.S. Issues 'Travel Advisory' for Mexico Before Summer - Men's Journal",
-      "content_text": "Some Mexican states are “do not travel” zones; others like Yucatan remain Level 1 safe. Mexico is the most common international tourist destination ...",
+      "content_text": "Some Mexican states are \"do not travel\" zones; others like Yucatan remain Level 1 safe. Mexico is the most common international tourist destination ...",
       "date_published": "2026-06-03T06:55:03+00:00"
     },
     {
@@ -70,11 +70,11 @@
       "date_published": "2026-06-03T03:05:58+00:00"
     },
     {
-      "id": "https://www.travelandtourworld.com/news/article/fu9guu87d0rh/",
-      "url": "https://www.travelandtourworld.com/news/article/fu9guu87d0rh/",
-      "title": "US Joins Brazil, Colombia, Canada, Mexico, Jamaica, Guyana and Others in New Aviation ...",
-      "content_text": "The United States travel industry is entering a period of significant change as regulators, airlines, airports, and policymakers confront a range of ...",
-      "date_published": "2026-06-03T00:01:57+00:00"
+      "id": "https://parade.com/news/u-s-updates-travel-advisory-for-mexico",
+      "url": "https://parade.com/news/u-s-updates-travel-advisory-for-mexico",
+      "title": "U.S. Updates Travel Advisory for Mexico—Should You Go? - Parade",
+      "content_text": "U.S. Updates Travel Advisory for Popular Summer Destination— Should You Still Go There? Americans planning trips to Mexico this summer are being urged ...",
+      "date_published": "2026-06-03T02:28:58+00:00"
     }
   ]
 }
