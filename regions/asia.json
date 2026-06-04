@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.arabnews.com/node/2645942/saudi-arabia",
+      "url": "https://www.arabnews.com/node/2645942/saudi-arabia",
+      "title": "Saudi ecotourism milestone as Al-Urumah Season draws 800000 visitors - Arab News",
+      "content_text": "... tourism and conservation-focused travel. The Imam Abdulaziz bin ... responsible outdoor recreation. From 52,000 visitors in its first edition ...",
+      "date_published": "2026-06-04T10:00:25+00:00"
+    },
+    {
       "id": "https://www.dimsumdaily.hk/hong-kong-government-mulls-hike-reservations-and-sharp-island-marine-park-after-holiday-crowd-surge/",
       "url": "https://www.dimsumdaily.hk/hong-kong-government-mulls-hike-reservations-and-sharp-island-marine-park-after-holiday-crowd-surge/",
       "title": "Hong Kong government mulls hike reservations and Sharp Island marine park after holiday ...",
@@ -68,13 +75,6 @@
       "title": "Tokyo's Shibuya introduces on-the-spot fines for littering amid overtourism - Travel Tomorrow",
       "content_text": "Shibuya in Tokyo, Japan has introduced on-the-spot fines for littering as it tackles rising waste and overtourism. Visitors can now be fined €10 ...",
       "date_published": "2026-06-03T14:14:46+00:00"
-    },
-    {
-      "id": "https://www.dailyexpress.com.my/news/282438/agri-tourism-the-way-forward/",
-      "url": "https://www.dailyexpress.com.my/news/282438/agri-tourism-the-way-forward/",
-      "title": "Agri-tourism the way forward | Daily Express Malaysia - Sabah's Leading News Portal",
-      "content_text": "KENINGAU: The Chairman of Merampong Keningau Community and Agro-based Tourism Cooperative Berhad (Kopetam Bhd), Salehuddin Tahir, ...",
-      "date_published": "2026-06-03T13:08:14+00:00"
     }
   ]
 }

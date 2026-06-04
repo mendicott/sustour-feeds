@@ -5,5 +5,69 @@
   "feed_url": "https://mendicott.github.io/sustour-feeds/countries/tunisia.json",
   "description": "Top 10 most recent sustainable-tourism items for Tunisia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
   "language": "en",
-  "items": []
+  "items": [
+    {
+      "id": "https://www.travelmole.com/news/tunisia-maritime-wellness-tourism/",
+      "url": "https://www.travelmole.com/news/tunisia-maritime-wellness-tourism/",
+      "title": "Tunisia puts its hopes in maritime and wellness tourism strategy - TravelMole",
+      "content_text": "The sector continues to support the country's broader strategy to diversify tourism beyond traditional sun-and-sea travel. Tekaya also highlighted ...",
+      "date_published": "2026-06-04T06:45:14+00:00"
+    },
+    {
+      "id": "https://enterpriseam.com/menaplus/2026/06/03/the-war-in-the-gulf-has-brought-misery-to-gcc-and-levant-operators-and-made-winners-out-of-egypt-and-morocco/",
+      "url": "https://enterpriseam.com/menaplus/2026/06/03/the-war-in-the-gulf-has-brought-misery-to-gcc-and-levant-operators-and-made-winners-out-of-egypt-and-morocco/",
+      "title": "The war in the Gulf has brought misery to GCC and Levant operators - EnterpriseAM",
+      "content_text": "Tunisia's post-2015 tourism recovery has been slower, but tourism ... \"[Many] countries regularly attend travel exhibitions and tourism ...",
+      "date_published": "2026-06-03T13:41:18+00:00"
+    },
+    {
+      "id": "https://www.tuigroup.com/en/newsroom/news/the-worlds-most-beautiful-beaches-according-to-science",
+      "url": "https://www.tuigroup.com/en/newsroom/news/the-worlds-most-beautiful-beaches-according-to-science",
+      "title": "The world's most beautiful beaches, according to science | TUI Group",
+      "content_text": "TUI Group is one of the world's leading tourism groups: 1600 travel ... Tunisia ranks as the home to the world's most beautiful beach according ...",
+      "date_published": "2026-06-03T19:43:42+00:00"
+    },
+    {
+      "id": "https://www.climatecentral.org/world-cup-2026/matches/36/story",
+      "url": "https://www.climatecentral.org/world-cup-2026/matches/36/story",
+      "title": "Tunisia vs Japan slide-style view | World Cup 2026 Climate Tracker",
+      "content_text": "Tunisia vs Japan at Estadio Monterrey on June 20, 2026. 79% likelihood of performance-impairing heat with climate change.",
+      "date_published": "2026-06-04T00:44:18+00:00"
+    },
+    {
+      "id": "https://www.bursa.ro/travel-journal-tunisia-people-and-places-28202956",
+      "url": "https://www.bursa.ro/travel-journal-tunisia-people-and-places-28202956",
+      "title": "TRAVEL JOURNAL Tunisia - People and Places - 03.06.2026 | BURSA.RO",
+      "content_text": "Hotel owners, traders, guides, entrepreneurs and families who have benefited from the proximity of the sea and tourism. In the tourist ports you ...",
+      "date_published": "2026-06-03T11:41:14+00:00"
+    },
+    {
+      "id": "https://www.the-independent.com/travel/news-and-advice/tunisia-travel-advice-middle-east-conflict-b2988566.html",
+      "url": "https://www.the-independent.com/travel/news-and-advice/tunisia-travel-advice-middle-east-conflict-b2988566.html",
+      "title": "Is it safe to travel to Tunisia? Your rights amid ongoing conflict in Middle East",
+      "content_text": "From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing.",
+      "date_published": "2026-06-04T09:38:59+00:00"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/03/tunisia-world-cup-2026-team-guide",
+      "url": "https://www.theguardian.com/football/2026/jun/03/tunisia-world-cup-2026-team-guide",
+      "title": "Tunisia World Cup 2026 team guide - The Guardian",
+      "content_text": "Having stormed through African qualifying without conceding a goal, can Sabri Lamouchi lead the Eagles of Carthage out of the group stage for the ...",
+      "date_published": "2026-06-04T09:34:20+00:00"
+    },
+    {
+      "id": "https://sis.gov.eg/en/presidency/foreign-affairs/presidents-receptions/president-el-sisi-meets-tunisian-minister-mohamed-ali-nafti/",
+      "url": "https://sis.gov.eg/en/presidency/foreign-affairs/presidents-receptions/president-el-sisi-meets-tunisian-minister-mohamed-ali-nafti/",
+      "title": "President El-Sisi Meets Tunisian Minister Mohamed Ali Nafti",
+      "content_text": "... Tunisia at both the official and popular levels. This is in addition to the need to strengthen cooperation across all fields and implement the ...",
+      "date_published": "2026-06-04T00:19:16+00:00"
+    },
+    {
+      "id": "https://www.rbfa.be/en/news/revamped-fan-village-belgium-tunisia",
+      "url": "https://www.rbfa.be/en/news/revamped-fan-village-belgium-tunisia",
+      "title": "Revamped Fan Village for Belgium – Tunisia | Royal Belgian FA",
+      "content_text": "Good news for supporters. A few weeks ago, the national coach launched the search for the Fan Selection: 26 supporters who will travel together with ...",
+      "date_published": "2026-06-03T13:45:19+00:00"
+    }
+  ]
 }
