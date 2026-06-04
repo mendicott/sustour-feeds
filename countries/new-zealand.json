@@ -7,18 +7,18 @@
   "language": "en",
   "items": [
     {
-      "id": "https://www.worldatlas.com/places/8-most-scenic-drives-in-new-zealand.html",
-      "url": "https://www.worldatlas.com/places/8-most-scenic-drives-in-new-zealand.html",
-      "title": "8 Most Scenic Drives in New Zealand - World Atlas",
-      "content_text": "... trip destinations. Compressed into two islands roughly the size of ... State Highway 43 traces the old Māori travel route across the central ...",
-      "date_published": "2026-06-03T08:47:25+00:00"
-    },
-    {
       "id": "https://www.travelweekly-asia.com/Destination-Travel/New-Zealand-is-riding-the-coolcation-wave-from-Asia",
       "url": "https://www.travelweekly-asia.com/Destination-Travel/New-Zealand-is-riding-the-coolcation-wave-from-Asia",
       "title": "New Zealand is riding the 'coolcation' wave from Asia - Travel Weekly Asia",
       "content_text": "Amid evolving global travel dynamics, New Zealand tourism stakeholders are seeing increased interest from Asian leisure travellers and incentive ...",
       "date_published": "2026-06-03T09:02:22+00:00"
+    },
+    {
+      "id": "https://www.worldatlas.com/places/8-most-scenic-drives-in-new-zealand.html",
+      "url": "https://www.worldatlas.com/places/8-most-scenic-drives-in-new-zealand.html",
+      "title": "8 Most Scenic Drives in New Zealand - World Atlas",
+      "content_text": "... trip destinations. Compressed into two islands roughly the size of ... State Highway 43 traces the old Māori travel route across the central ...",
+      "date_published": "2026-06-03T08:47:25+00:00"
     },
     {
       "id": "https://www.stuff.co.nz/nz-news/360987316/visitor-spending-drives-16b-jump-new-zealand-services-exports",
@@ -56,13 +56,6 @@
       "date_published": "2026-06-03T08:43:50+00:00"
     },
     {
-      "id": "https://www.middleeastmonitor.com/20260603-new-zealand-bans-entry-of-extremist-settlers/",
-      "url": "https://www.middleeastmonitor.com/20260603-new-zealand-bans-entry-of-extremist-settlers/",
-      "title": "New Zealand bans entry of extremist settlers - Middle East Monitor",
-      "content_text": "New Zealand on Tuesday announced travel bans on three extremist ... West Bank. Foreign Minister Winston Peters said the ban applies to ...",
-      "date_published": "2026-06-03T07:54:06+00:00"
-    },
-    {
       "id": "https://carbon-pulse.com/517945/",
       "url": "https://carbon-pulse.com/517945/",
       "title": "New Zealand climate commission consults on emissions advice update following methane ...",
@@ -70,11 +63,18 @@
       "date_published": "2026-06-03T07:34:47+00:00"
     },
     {
-      "id": "https://www.gns.cri.nz/news/earth-sciences-new-zealand-and-ara-ake-join-forces-to-accelerate-geoheat-with-new-action-plan/",
-      "url": "https://www.gns.cri.nz/news/earth-sciences-new-zealand-and-ara-ake-join-forces-to-accelerate-geoheat-with-new-action-plan/",
-      "title": "Earth Sciences New Zealand and Ara Ake join forces to accelerate geoheat with new action plan",
-      "content_text": "Geoheat refers to heat below 150°C and has many practical, low emission uses. The Action Plan has been written to support the delivery of the ...",
-      "date_published": "2026-06-03T07:25:12+00:00"
+      "id": "https://www.rnz.co.nz/news/weather/597102/well-and-truly-on-its-way-el-nino-very-likely-to-peak-over-new-zealand-summer",
+      "url": "https://www.rnz.co.nz/news/weather/597102/well-and-truly-on-its-way-el-nino-very-likely-to-peak-over-new-zealand-summer",
+      "title": "'Well and truly on its way': El Niño very likely to peak over New Zealand summer | RNZ News",
+      "content_text": "Temperatures during El Niño could be \"spiky\" he said, and that was set against a background of warming temperatures caused by climate change. \"As ...",
+      "date_published": "2026-06-03T11:26:54+00:00"
+    },
+    {
+      "id": "https://thespinoff.co.nz/the-bulletin/03-06-2026/the-missing-climate-briefing-email-has-been-found",
+      "url": "https://thespinoff.co.nz/the-bulletin/03-06-2026/the-missing-climate-briefing-email-has-been-found",
+      "title": "The missing climate briefing email has been found | The Spinoff",
+      "content_text": "Like the case brought by Michael Smith – a spokesperson on climate change for the Iwi Chairs Forum – against seven large New Zealand companies, ...",
+      "date_published": "2026-06-03T11:23:50+00:00"
     }
   ]
 }

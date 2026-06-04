@@ -14,6 +14,13 @@
       "date_published": "2026-06-03T01:15:09+00:00"
     },
     {
+      "id": "https://www.dailysabah.com/arts/far-from-buenos-aires-tango-finds-welcoming-home-in-istanbul/news",
+      "url": "https://www.dailysabah.com/arts/far-from-buenos-aires-tango-finds-welcoming-home-in-istanbul/news",
+      "title": "Far from Buenos Aires, tango finds welcoming home in Istanbul | Daily Sabah",
+      "content_text": "Far from tango's birthplace in working-class districts and port areas of Buenos Aires and Montevideo in Argentina and Uruguay, dance enthusiasts ...",
+      "date_published": "2026-06-02T14:42:59+00:00"
+    },
+    {
       "id": "https://www.kmbc.com/article/argentina-fans-bike-10500-miles-kansas-city-world-cup/71475277",
       "url": "https://www.kmbc.com/article/argentina-fans-bike-10500-miles-kansas-city-world-cup/71475277",
       "title": "Argentina fans travel more than 10000 miles across 17 countries by bike for World Cup",
@@ -49,20 +56,6 @@
       "date_published": "2026-06-02T17:35:15+00:00"
     },
     {
-      "id": "https://www.travelandtourworld.com/news/article/lp1mw1qez1az/",
-      "url": "https://www.travelandtourworld.com/news/article/lp1mw1qez1az/",
-      "title": "Argentina Overtakes United States, Chile, France, Portugal, Uruguay, Colombia, and More ...",
-      "content_text": "Direct connectivity has facilitated easier travel from major tourism markets, enabling Brazil to attract both short-term leisure travelers and long- ...",
-      "date_published": "2026-06-02T16:37:07+00:00"
-    },
-    {
-      "id": "https://www.dailysabah.com/arts/far-from-buenos-aires-tango-finds-welcoming-home-in-istanbul/news",
-      "url": "https://www.dailysabah.com/arts/far-from-buenos-aires-tango-finds-welcoming-home-in-istanbul/news",
-      "title": "Far from Buenos Aires, tango finds welcoming home in Istanbul | Daily Sabah",
-      "content_text": "Far from tango's birthplace in working-class districts and port areas of Buenos Aires and Montevideo in Argentina and Uruguay, dance enthusiasts ...",
-      "date_published": "2026-06-02T14:42:59+00:00"
-    },
-    {
       "id": "https://www.bnamericas.com/en/features/milei-accelerates-railway-investments-ahead-of-privatizations",
       "url": "https://www.bnamericas.com/en/features/milei-accelerates-railway-investments-ahead-of-privatizations",
       "title": "Milei accelerates railway investments ahead of privatizations - BNamericas",
@@ -70,11 +63,18 @@
       "date_published": "2026-06-03T05:16:13+00:00"
     },
     {
-      "id": "https://energynow.com/2026/06/chevron-applies-for-argentina-tax-break-program-with-13-8-billion-investment-plan/",
-      "url": "https://energynow.com/2026/06/chevron-applies-for-argentina-tax-break-program-with-13-8-billion-investment-plan/",
-      "title": "Chevron Applies for Argentina Tax Break Program With $13.8 Billion Investment Plan",
-      "content_text": "(Reuters) - Chevron has applied to join Argentina's incentive regime for large investments for a…",
-      "date_published": "2026-06-03T04:58:04+00:00"
+      "id": "https://www.youtube.com/shorts/OCWHo0vI6WE",
+      "url": "https://www.youtube.com/shorts/OCWHo0vI6WE",
+      "title": "World Cup KC: Argentina fans travel more than 10,000 miles across 17 countries - YouTube",
+      "content_text": "... United States. At the time, they didn't even know where Argentina would ... travel arrived as they coasted into the Nelson-Atkins Museum of ...",
+      "date_published": "2026-06-03T01:51:57+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/lp1mw1qez1az/",
+      "url": "https://www.travelandtourworld.com/news/article/lp1mw1qez1az/",
+      "title": "Argentina Overtakes United States, Chile, France, Portugal, Uruguay, Colombia, and More ...",
+      "content_text": "Direct connectivity has facilitated easier travel from major tourism markets, enabling Brazil to attract both short-term leisure travelers and long- ...",
+      "date_published": "2026-06-02T16:37:07+00:00"
     }
   ]
 }

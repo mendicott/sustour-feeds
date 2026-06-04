@@ -6,21 +6,21 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/new-zealand.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for New Zealand. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 03 Jun 2026 23:12:40 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Jun 2026 00:16:11 +0000</lastBuildDate>
 <language>en</language>
-<item>
-<title>8 Most Scenic Drives in New Zealand - World Atlas</title>
-<link>https://www.worldatlas.com/places/8-most-scenic-drives-in-new-zealand.html</link>
-<guid isPermaLink="false">https://www.worldatlas.com/places/8-most-scenic-drives-in-new-zealand.html</guid>
-<pubDate>Wed, 03 Jun 2026 08:47:25 +0000</pubDate>
-<description>... trip destinations. Compressed into two islands roughly the size of ... State Highway 43 traces the old Māori travel route across the central ...</description>
-</item>
 <item>
 <title>New Zealand is riding the 'coolcation' wave from Asia - Travel Weekly Asia</title>
 <link>https://www.travelweekly-asia.com/Destination-Travel/New-Zealand-is-riding-the-coolcation-wave-from-Asia</link>
 <guid isPermaLink="false">https://www.travelweekly-asia.com/Destination-Travel/New-Zealand-is-riding-the-coolcation-wave-from-Asia</guid>
 <pubDate>Wed, 03 Jun 2026 09:02:22 +0000</pubDate>
 <description>Amid evolving global travel dynamics, New Zealand tourism stakeholders are seeing increased interest from Asian leisure travellers and incentive ...</description>
+</item>
+<item>
+<title>8 Most Scenic Drives in New Zealand - World Atlas</title>
+<link>https://www.worldatlas.com/places/8-most-scenic-drives-in-new-zealand.html</link>
+<guid isPermaLink="false">https://www.worldatlas.com/places/8-most-scenic-drives-in-new-zealand.html</guid>
+<pubDate>Wed, 03 Jun 2026 08:47:25 +0000</pubDate>
+<description>... trip destinations. Compressed into two islands roughly the size of ... State Highway 43 traces the old Māori travel route across the central ...</description>
 </item>
 <item>
 <title>Visitor spending drives $1.6b jump in New Zealand services exports - Stuff</title>
@@ -58,13 +58,6 @@
 <description>New Zealand Auckland Christchurch Queenstown; Travel Insider ... Travel Insurance Book travel insurance for your next trip. Uber Earn ...</description>
 </item>
 <item>
-<title>New Zealand bans entry of extremist settlers - Middle East Monitor</title>
-<link>https://www.middleeastmonitor.com/20260603-new-zealand-bans-entry-of-extremist-settlers/</link>
-<guid isPermaLink="false">https://www.middleeastmonitor.com/20260603-new-zealand-bans-entry-of-extremist-settlers/</guid>
-<pubDate>Wed, 03 Jun 2026 07:54:06 +0000</pubDate>
-<description>New Zealand on Tuesday announced travel bans on three extremist ... West Bank. Foreign Minister Winston Peters said the ban applies to ...</description>
-</item>
-<item>
 <title>New Zealand climate commission consults on emissions advice update following methane ...</title>
 <link>https://carbon-pulse.com/517945/</link>
 <guid isPermaLink="false">https://carbon-pulse.com/517945/</guid>
@@ -72,11 +65,18 @@
 <description>New Zealand's Climate Change Commission (CCC) is seeking feedback on how to update its advice on the country's fourth emissions budget, ...</description>
 </item>
 <item>
-<title>Earth Sciences New Zealand and Ara Ake join forces to accelerate geoheat with new action plan</title>
-<link>https://www.gns.cri.nz/news/earth-sciences-new-zealand-and-ara-ake-join-forces-to-accelerate-geoheat-with-new-action-plan/</link>
-<guid isPermaLink="false">https://www.gns.cri.nz/news/earth-sciences-new-zealand-and-ara-ake-join-forces-to-accelerate-geoheat-with-new-action-plan/</guid>
-<pubDate>Wed, 03 Jun 2026 07:25:12 +0000</pubDate>
-<description>Geoheat refers to heat below 150°C and has many practical, low emission uses. The Action Plan has been written to support the delivery of the ...</description>
+<title>'Well and truly on its way': El Niño very likely to peak over New Zealand summer | RNZ News</title>
+<link>https://www.rnz.co.nz/news/weather/597102/well-and-truly-on-its-way-el-nino-very-likely-to-peak-over-new-zealand-summer</link>
+<guid isPermaLink="false">https://www.rnz.co.nz/news/weather/597102/well-and-truly-on-its-way-el-nino-very-likely-to-peak-over-new-zealand-summer</guid>
+<pubDate>Wed, 03 Jun 2026 11:26:54 +0000</pubDate>
+<description>Temperatures during El Niño could be "spiky" he said, and that was set against a background of warming temperatures caused by climate change. "As ...</description>
+</item>
+<item>
+<title>The missing climate briefing email has been found | The Spinoff</title>
+<link>https://thespinoff.co.nz/the-bulletin/03-06-2026/the-missing-climate-briefing-email-has-been-found</link>
+<guid isPermaLink="false">https://thespinoff.co.nz/the-bulletin/03-06-2026/the-missing-climate-briefing-email-has-been-found</guid>
+<pubDate>Wed, 03 Jun 2026 11:23:50 +0000</pubDate>
+<description>Like the case brought by Michael Smith – a spokesperson on climate change for the Iwi Chairs Forum – against seven large New Zealand companies, ...</description>
 </item>
 </channel>
 </rss>
