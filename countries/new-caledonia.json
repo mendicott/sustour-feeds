@@ -5,5 +5,20 @@
   "feed_url": "https://mendicott.github.io/sustour-feeds/countries/new-caledonia.json",
   "description": "Top 10 most recent sustainable-tourism items for New Caledonia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
   "language": "en",
-  "items": []
+  "items": [
+    {
+      "id": "https://fijisun.com.fj/living/travel/fiji-airways-returns-to-new-caledonia-with-direct-nouma-flights",
+      "url": "https://fijisun.com.fj/living/travel/fiji-airways-returns-to-new-caledonia-with-direct-nouma-flights",
+      "title": "Fiji Airways returns to New Caledonia with direct Nouméa flights",
+      "content_text": "... tourism, trade and regional ties. \"New ... travel corridor for regional organisations and development agencies based in Suva and Nouméa.",
+      "date_published": "2026-06-04T01:50:09+00:00"
+    },
+    {
+      "id": "https://www.fbcnews.com.fj/news/direct-noumea-flights-return-this-september/",
+      "url": "https://www.fbcnews.com.fj/news/direct-noumea-flights-return-this-september/",
+      "title": "Direct Nouméa flights return this September - FBC News",
+      "content_text": "... tourism, trade, and business links across the Pacific. The national carrier announced that its direct service to New Caledonia will resume on ...",
+      "date_published": "2026-06-03T12:14:19+00:00"
+    }
+  ]
 }

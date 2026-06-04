@@ -5,5 +5,20 @@
   "feed_url": "https://mendicott.github.io/sustour-feeds/countries/vanuatu.json",
   "description": "Top 10 most recent sustainable-tourism items for Vanuatu. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
   "language": "en",
-  "items": []
+  "items": [
+    {
+      "id": "https://www.dailypost.vu/news/vanuatu-moves-to-strengthen-disaster-recovery-systems/article_becf2fae-5c39-5510-8ac7-0be45c7aa313.html",
+      "url": "https://www.dailypost.vu/news/vanuatu-moves-to-strengthen-disaster-recovery-systems/article_becf2fae-5c39-5510-8ac7-0be45c7aa313.html",
+      "title": "Vanuatu moves to strengthen disaster recovery systems | News | dailypost.vu",
+      "content_text": "Matthew Tasale, Director of Energy at the Ministry of Climate Change ... Vanuatu Sports · Tourism · Local Events · Online Features · Chinese News ...",
+      "date_published": "2026-06-03T00:44:59+00:00"
+    },
+    {
+      "id": "https://news.cgtn.com/news/2026-06-03/news-1NG3lPmNiEg/share_amp.html",
+      "url": "https://news.cgtn.com/news/2026-06-03/news-1NG3lPmNiEg/share_amp.html",
+      "title": "EMSC: M5.7 earthquake hits VANUATU REGION - CGTN",
+      "content_text": "EMSC: M5.7 earthquake hits VANUATU REGION. Updated 2026.06.03 18 ... Travel · Nature · Picture · Video · Live · Radio · Specials · Transcript · EUROPE ...",
+      "date_published": "2026-06-03T16:04:15+00:00"
+    }
+  ]
 }

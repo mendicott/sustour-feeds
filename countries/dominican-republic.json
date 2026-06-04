@@ -5,5 +5,41 @@
   "feed_url": "https://mendicott.github.io/sustour-feeds/countries/dominican-republic.json",
   "description": "Top 10 most recent sustainable-tourism items for Dominican Republic. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
   "language": "en",
-  "items": []
+  "items": [
+    {
+      "id": "https://dominicantoday.com/dominican-government-delivers-equipment-to-combat-sargassum-on-boca-chica-beaches/",
+      "url": "https://dominicantoday.com/dominican-government-delivers-equipment-to-combat-sargassum-on-boca-chica-beaches/",
+      "title": "Dominican government delivers equipment to combat sargassum on Boca Chica beaches",
+      "content_text": "The first and only english language online news publication in the Dominican Republic. Providing local and international news, DR guides and ...",
+      "date_published": "2026-06-03T22:11:59+00:00"
+    },
+    {
+      "id": "https://dominicantoday.com/dominican-senate-approves-us600-million-for-climate-action-and-punta-cana-water-infrastructure/",
+      "url": "https://dominicantoday.com/dominican-senate-approves-us600-million-for-climate-action-and-punta-cana-water-infrastructure/",
+      "title": "Dominican Senate approves US$600 million for climate action and Punta Cana water infrastructure",
+      "content_text": "Santo Domingo.- The Dominican Republic Senate has approved two ... climate change. A second financing agreement worth US$400 million was ...",
+      "date_published": "2026-06-04T00:42:04+00:00"
+    },
+    {
+      "id": "https://dominicantoday.com/suriname-and-dominican-republic-seek-greater-parliamentary-exchange/",
+      "url": "https://dominicantoday.com/suriname-and-dominican-republic-seek-greater-parliamentary-exchange/",
+      "title": "Suriname and Dominican Republic seek greater parliamentary exchange",
+      "content_text": "... climate change, and can achieve greater prosperity through collaboration. ... tourism, security, environmental sustainability, technology, energy ...",
+      "date_published": "2026-06-04T01:46:57+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/chccm63uet58/",
+      "url": "https://www.travelandtourworld.com/news/article/chccm63uet58/",
+      "title": "Mexico Joins Brazil, Jamaica, Colombia, Aruba, El Salvador, Dominican Republic, and More ...",
+      "content_text": "This expansion is more than just a procedural update; it represents a strategic push to enhance travel accessibility, foster tourism, and ensure ...",
+      "date_published": "2026-06-04T02:56:51+00:00"
+    },
+    {
+      "id": "https://www.curacaochronicle.com/post/unknown/curacao-seeks-new-export-opportunities-through-dominican-republic-partnership",
+      "url": "https://www.curacaochronicle.com/post/unknown/curacao-seeks-new-export-opportunities-through-dominican-republic-partnership",
+      "title": "Curaçao Seeks New Export Opportunities Through Dominican Republic Partnership",
+      "content_text": "SANTO DOMINGO – Minister of Economic Development Dr. Roderick Middelhof is exploring new opportunities to expand C...",
+      "date_published": "2026-06-03T14:28:15+00:00"
+    }
+  ]
 }

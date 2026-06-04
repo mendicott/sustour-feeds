@@ -5,5 +5,13 @@
   "feed_url": "https://mendicott.github.io/sustour-feeds/countries/french-polynesia.json",
   "description": "Top 10 most recent sustainable-tourism items for French Polynesia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
   "language": "en",
-  "items": []
+  "items": [
+    {
+      "id": "https://www.travelweekly.com/Travel-News/Tour-Operators/VBT-Country-Walkers-introduces-Discovery-collection",
+      "url": "https://www.travelweekly.com/Travel-News/Tour-Operators/VBT-Country-Walkers-introduces-Discovery-collection",
+      "title": "VBT | Country Walkers introduces its Discovery collection - Travel Weekly",
+      "content_text": "VBT | Country Walkers will launch Discovery Tours in 2027 with 10 itineraries, offering cultural immersion in destinations like Patagonia, Tahiti, ...",
+      "date_published": "2026-06-04T02:38:04+00:00"
+    }
+  ]
 }

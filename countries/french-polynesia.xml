@@ -6,7 +6,14 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/french-polynesia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for French Polynesia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 04 Jun 2026 00:16:11 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Jun 2026 08:37:33 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>VBT | Country Walkers introduces its Discovery collection - Travel Weekly</title>
+<link>https://www.travelweekly.com/Travel-News/Tour-Operators/VBT-Country-Walkers-introduces-Discovery-collection</link>
+<guid isPermaLink="false">https://www.travelweekly.com/Travel-News/Tour-Operators/VBT-Country-Walkers-introduces-Discovery-collection</guid>
+<pubDate>Thu, 04 Jun 2026 02:38:04 +0000</pubDate>
+<description>VBT | Country Walkers will launch Discovery Tours in 2027 with 10 itineraries, offering cultural immersion in destinations like Patagonia, Tahiti, ...</description>
+</item>
 </channel>
 </rss>
