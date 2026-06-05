@@ -7,11 +7,25 @@
   "language": "en",
   "items": [
     {
+      "id": "https://connectingtravel.com/photos/first-look-tulah-india",
+      "url": "https://connectingtravel.com/photos/first-look-tulah-india",
+      "title": "First Look: Tulåh, India - Photos - Connecting Travel",
+      "content_text": "Set within 30 acres of forests and medicinal gardens in northern Kerala, Tulåh Clinical Wellness marks the India debut of Dubai-based KEF Hospitality.",
+      "date_published": "2026-06-04T21:20:28+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/ak777d1iv3o5/",
       "url": "https://www.travelandtourworld.com/news/article/ak777d1iv3o5/",
       "title": "Jordan Joins Israel, UAE, Saudi Arabia, Qatar, Oman, Egypt, Turkey and Others as Mega ...",
       "content_text": "Oman is positioning itself as the Gulf's leading sustainable tourism destination. Investments in Muscat, Salalah, and Musandam focus on eco ...",
       "date_published": "2026-06-03T16:30:15+00:00"
+    },
+    {
+      "id": "https://mediaoffice.ae/en/news/2026/jun/04-06/emirates-recycles-and-reuses-88000-kilograms-of-plastic-from-inflight-dining",
+      "url": "https://mediaoffice.ae/en/news/2026/jun/04-06/emirates-recycles-and-reuses-88000-kilograms-of-plastic-from-inflight-dining",
+      "title": "Emirates recycles and reuses 88000 kilograms of plastic from inflight dining",
+      "content_text": "Business Class, Premium Economy and Economy Class menus also transitioned to the same responsibly sourced paper. More on these topics. Tourism · Dubai ...",
+      "date_published": "2026-06-05T00:53:39+00:00"
     },
     {
       "id": "https://www.mediaoffice.abudhabi/en/environment/under-the-directives-of-hamdan-bin-zayed-environment-agency-abu-dhabi-ead-signs-framework-partnership-agreement-with-international-union-for-conservation-of-nature-iucn/",
@@ -42,39 +56,25 @@
       "date_published": "2026-06-03T08:12:48+00:00"
     },
     {
-      "id": "https://www.travelandtourworld.com/news/article/pzyixemrbsp1/",
-      "url": "https://www.travelandtourworld.com/news/article/pzyixemrbsp1/",
-      "title": "Bahrain Joins Qatar, UAE, Saudi Arabia, and Oman in Middle East Tourism Downturn as Q1 ...",
-      "content_text": "Middle East tourism slumped as Bahrain, Qatar, UAE, Saudi Arabia and Oman saw arrivals fall by fourteen percent in Q1 2026, as travel demand was ...",
-      "date_published": "2026-06-04T06:49:34+00:00"
+      "id": "https://trinidadexpress.com/opinion/letters/ideas-to-build-our-tourism/article_d5ec7149-5221-4b00-8af3-dea385131cfb.html",
+      "url": "https://trinidadexpress.com/opinion/letters/ideas-to-build-our-tourism/article_d5ec7149-5221-4b00-8af3-dea385131cfb.html",
+      "title": "Ideas to build our tourism | Letters to Editor | trinidadexpress.com",
+      "content_text": "I think the Government should seek out budget airlines (Breeze Airways, etc) and private jet businesses in different places (Dubai, Dublin, ...",
+      "date_published": "2026-06-05T03:22:39+00:00"
     },
     {
-      "id": "https://connectingtravel.com/news/sheikh-hamdan-highlights-dubai-tourism-priorities",
-      "url": "https://connectingtravel.com/news/sheikh-hamdan-highlights-dubai-tourism-priorities",
-      "title": "Sheikh Hamdan highlights Dubai tourism priorities - Connecting Travel",
-      "content_text": "Dubai will continue strengthening its tourism sector through closer public-private collaboration, investment support and measures aimed at ...",
-      "date_published": "2026-06-04T03:13:29+00:00"
+      "id": "https://skift.com/2026/06/04/dubai-turns-to-new-visitors-and-events-to-ride-out-tourism-slump/",
+      "url": "https://skift.com/2026/06/04/dubai-turns-to-new-visitors-and-events-to-ride-out-tourism-slump/",
+      "title": "Dubai Turns to New Visitors and Events to Ride Out Iran War Tourism Slump - Skift",
+      "content_text": "Dubai Tourism is counting on lessons learned during the 2008 global financial crisis and Covid to ride out the demand shock caused by the war.",
+      "date_published": "2026-06-05T01:33:36+00:00"
     },
     {
-      "id": "https://m.economictimes.com/nri/visit/dubai-to-introduce-easier-medical-visas-under-new-health-tourism-plan/articleshow/131479758.cms",
-      "url": "https://m.economictimes.com/nri/visit/dubai-to-introduce-easier-medical-visas-under-new-health-tourism-plan/articleshow/131479758.cms",
-      "title": "Dubai to introduce easier medical visas under new health tourism plan",
-      "content_text": "... travelling to Dubai for medical treatment. The agreement was signed by Lieutenant General Mohammed Ahmed Al Marri, Director General of GDRFA Dubai ...",
-      "date_published": "2026-06-03T23:31:25+00:00"
-    },
-    {
-      "id": "https://observer.com/2026/06/art-museum-outposts-museum-lending-programs-guide/",
-      "url": "https://observer.com/2026/06/art-museum-outposts-museum-lending-programs-guide/",
-      "title": "How Outposts Turned the World's Greatest Museums into Instruments of Soft Power",
-      "content_text": "... museums on strategy, governance and financial sustainability, told Observer. \"Cities like Abu Dhabi, Seoul and Bilbao enter into structured ...",
-      "date_published": "2026-06-03T12:52:20+00:00"
-    },
-    {
-      "id": "https://gulfnews.com/uae/health/dubai-simplifies-medical-visas-to-boost-health-tourism-1.500561518",
-      "url": "https://gulfnews.com/uae/health/dubai-simplifies-medical-visas-to-boost-health-tourism-1.500561518",
-      "title": "Dubai simplifies medical visas to boost health tourism - Gulf News",
-      "content_text": "Dubai simplifies medical visas to boost health tourism. New GDRFA Dubai-DHA partnership streamlines treatment travel ... ecosystems that place people at ...",
-      "date_published": "2026-06-03T04:37:57+00:00"
+      "id": "https://www.aninews.in/news/world/middle-east/world-environment-day-uae-reinforces-its-leadership-in-sustainability-addressing-climate-challenges20260605055300/",
+      "url": "https://www.aninews.in/news/world/middle-east/world-environment-day-uae-reinforces-its-leadership-in-sustainability-addressing-climate-challenges20260605055300/",
+      "title": "World Environment Day: UAE reinforces its leadership in sustainability, addressing climate ...",
+      "content_text": "Dubai [UAE], June 5 (ANI/WAM): The United Arab Emirates is marking World Environment Day, observed annually on June 5, while reaffirming its ...",
+      "date_published": "2026-06-05T01:33:00+00:00"
     }
   ]
 }
