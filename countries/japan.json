@@ -7,6 +7,27 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.japantimes.co.jp/news/2026/06/06/japan/asuka-fujiwara-ancient-capitals-unesco/",
+      "url": "https://www.japantimes.co.jp/news/2026/06/06/japan/asuka-fujiwara-ancient-capitals-unesco/",
+      "title": "Asuka-Fujiwara ancient capitals to join World Heritage list - The Japan Times",
+      "content_text": "Inscription recommendations by the International Council on Monuments and Sites, or ICOMOS, are usually adopted. If the Asuka-Fujiwara ancient ...",
+      "date_published": "2026-06-06T06:34:05+00:00"
+    },
+    {
+      "id": "https://www.pressreader.com/france/euronews-english-edition/20260606/282342571520331",
+      "url": "https://www.pressreader.com/france/euronews-english-edition/20260606/282342571520331",
+      "title": "'If you throw trash, you lose cash': Tokyo tourist district introduces littering fines",
+      "content_text": "... overtourism. The move is the latest attempt to balance Japan's booming visitor economy with the needs of local residents. Litterers in the popular ...",
+      "date_published": "2026-06-06T04:07:43+00:00"
+    },
+    {
+      "id": "https://newsonjapan.com/article/149541.php",
+      "url": "https://newsonjapan.com/article/149541.php",
+      "title": "Japan's Ancient Capitals Await World Heritage Status",
+      "content_text": "The recommendation was issued by the International Council on Monuments and Sites (ICOMOS), which advises UNESCO on World Heritage nominations. A ...",
+      "date_published": "2026-06-06T05:47:41+00:00"
+    },
+    {
       "id": "https://traveltomorrow.com/tokyos-shibuya-introduces-on-the-spot-fines-for-littering-amid-overtourism/",
       "url": "https://traveltomorrow.com/tokyos-shibuya-introduces-on-the-spot-fines-for-littering-amid-overtourism/",
       "title": "Tokyo's Shibuya introduces on-the-spot fines for littering amid overtourism - Travel Tomorrow",
@@ -35,6 +56,13 @@
       "date_published": "2026-06-03T11:36:41+00:00"
     },
     {
+      "id": "https://www3.nhk.or.jp/nhkworld/en/news/20260606_01/",
+      "url": "https://www3.nhk.or.jp/nhkworld/en/news/20260606_01/",
+      "title": "Asuka-Fujiwara ancient capitals set for UNESCO World Heritage List | NHK WORLD-JAPAN News",
+      "content_text": "Japan currently has 21 UNESCO World Cultural Heritage sites, and is on course to have another. An advisory body to the organization has ...",
+      "date_published": "2026-06-06T08:59:50+00:00"
+    },
+    {
       "id": "https://globalnation.inquirer.net/326179/over-30-island-nations-join-inaugural-ocean-forum-in-tokyo",
       "url": "https://globalnation.inquirer.net/326179/over-30-island-nations-join-inaugural-ocean-forum-in-tokyo",
       "title": "Over 30 island nations join inaugural ocean forum in Tokyo",
@@ -47,34 +75,6 @@
       "title": "Japan: Modern-day samurais battle new foe: Climate change - France 24",
       "content_text": "Japan: Modern-day samurais battle new foe: Climate change. Issued on: 03/06/2026 - 17:49. Share.",
       "date_published": "2026-06-04T03:51:40+00:00"
-    },
-    {
-      "id": "https://www.cnn.com/2026/06/03/travel/ishigaki-japan-keelung-taiwan-ferry-intl-hnk",
-      "url": "https://www.cnn.com/2026/06/03/travel/ishigaki-japan-keelung-taiwan-ferry-intl-hnk",
-      "title": "This Japanese island is closer to Taipei than Tokyo. A new ferry makes it easier to visit",
-      "content_text": "You can now fall asleep on a ferry in Taiwan and wake up in Japan. On the surface, the Yaima Maru offers a perfect slow-travel escape — a ...",
-      "date_published": "2026-06-04T03:04:25+00:00"
-    },
-    {
-      "id": "https://japan-forward.com/moving-to-rural-japan-considerations/",
-      "url": "https://japan-forward.com/moving-to-rural-japan-considerations/",
-      "title": "Is Rural Japan Right for You? Factors to Consider Before Moving",
-      "content_text": "Founder of Active Travel Japan and owner of a rural Airbnb shares insights on visas, starting a business and the pros and cons of life in Japan.",
-      "date_published": "2026-06-03T13:46:30+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/jsztl5f149wt/",
-      "url": "https://www.travelandtourworld.com/news/article/jsztl5f149wt/",
-      "title": "Japan Travel Bucket List Reveals 5 Unmissable Places for a Powerful, Soul-Stirring Adventure",
-      "content_text": "One day can centre on peace tourism and city food. The next can centre on shrine scenery and island walks. This pairing gives travellers contrast ...",
-      "date_published": "2026-06-03T11:21:42+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/cduok59kvu8z/",
-      "url": "https://www.travelandtourworld.com/news/article/cduok59kvu8z/",
-      "title": "Japan Tourism Expansion Accelerates as Marubeni Acquires Okinawa Tourist Service to ...",
-      "content_text": "The prefecture has also been actively pursuing a long-term strategy aimed at becoming a globally recognized sustainable tourism destination. Local ...",
-      "date_published": "2026-06-03T02:29:03+00:00"
     }
   ]
 }
