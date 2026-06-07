@@ -7,11 +7,46 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.iisd.org/publications/report/nature-based-solutions-inventory-zambia",
+      "url": "https://www.iisd.org/publications/report/nature-based-solutions-inventory-zambia",
+      "title": "Nature-Based Solutions Inventory for Zambia",
+      "content_text": "This inventory showcases interventions implemented in Zambia that use ecosystem processes, restoration, or management to reduce climate ...",
+      "date_published": "2026-06-06T06:31:50+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/s4d6fz528g4i/",
       "url": "https://www.travelandtourworld.com/news/article/s4d6fz528g4i/",
       "title": "Tanzania Joins Botswana, Kenya, Rwanda, Zambia, Uganda, Zimbabwe ... - Travel And Tour World",
       "content_text": "Tanzania Joins Botswana, Kenya, Rwanda, Zambia, Uganda, Zimbabwe and More to Revolutionize African Safari Tourism with Private Cliffside Villas, ...",
       "date_published": "2026-06-06T09:27:02+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/qb94r3rv5tvw/",
+      "url": "https://www.travelandtourworld.com/news/article/qb94r3rv5tvw/",
+      "title": "South Africa Joins Zambia, Tanzania and Botswana in Leading Africa's New Luxury Safari ...",
+      "content_text": "South Africa, Zambia, Tanzania and Botswana are redefining luxury safari tourism through wellness retreats, slow travel experiences, ...",
+      "date_published": "2026-06-05T11:10:11+00:00"
+    },
+    {
+      "id": "https://techreviewafrica.com/news/5813/zamtel-supports-zatex-2026-as-zambia-travel-expo-opens-in-lusaka",
+      "url": "https://techreviewafrica.com/news/5813/zamtel-supports-zatex-2026-as-zambia-travel-expo-opens-in-lusaka",
+      "title": "Zamtel supports ZATEX 2026 as Zambia Travel Expo opens in Lusaka - Tech Review Africa",
+      "content_text": "The annual expo convenes industry players, policymakers, and development partners to explore strategies for strengthening Zambia's tourism sector ...",
+      "date_published": "2026-06-07T06:35:31+00:00"
+    },
+    {
+      "id": "https://atta.travel/resource/five-new-safari-lodges-raising-the-bar-for-luxury-travel-across-africa.html",
+      "url": "https://atta.travel/resource/five-new-safari-lodges-raising-the-bar-for-luxury-travel-across-africa.html",
+      "title": "Five New Safari Lodges Raising the Bar for Luxury Travel Across Africa - ATTA",
+      "content_text": "... Zambia, and Botswana placing equal emphasis on design, immersive ... travel and tourism. Members are encouraged to check this resource ...",
+      "date_published": "2026-06-06T04:39:31+00:00"
+    },
+    {
+      "id": "https://www.pressreader.com/zambia/zambia-daily-mail-798j/20260606/281608132114005",
+      "url": "https://www.pressreader.com/zambia/zambia-daily-mail-798j/20260606/281608132114005",
+      "title": "Telling Zambia's story to the world | Zambia Daily Mail - PressReader",
+      "content_text": "The campaign seeks to attract foreign direct investment, increase tourism arrivals, strengthen exports, promote local enterprise, support job creation ...",
+      "date_published": "2026-06-06T09:19:44+00:00"
     },
     {
       "id": "https://www.heraldonline.co.zw/zimbabwe-showcases-tourism-potential-at-zambia-travel-expo/",
@@ -35,25 +70,11 @@
       "date_published": "2026-06-06T15:33:02+00:00"
     },
     {
-      "id": "https://www2.fundsforngos.org/leadership/call-for-capacity-strengthening-partner-for-the-urban-futures-project-zambia-and-zimbabwe/amp/",
-      "url": "https://www2.fundsforngos.org/leadership/call-for-capacity-strengthening-partner-for-the-urban-futures-project-zambia-and-zimbabwe/amp/",
-      "title": "Call for Capacity Strengthening Partner for the Urban Futures Project (Zambia and Zimbabwe)",
-      "content_text": "It responds to interconnected challenges in urban regions, including: Climate change impacts on cities; Rapid urbanization pressures; Food insecurity ...",
-      "date_published": "2026-06-03T11:29:28+00:00"
-    },
-    {
-      "id": "https://observer.ug/viewpoint/fifa-caf-ought-not-to-lock-africa-out-of-world-cup/",
-      "url": "https://observer.ug/viewpoint/fifa-caf-ought-not-to-lock-africa-out-of-world-cup/",
-      "title": "Fifa, Caf ought not to lock Africa out of World Cup - The Observer",
-      "content_text": "As a result of the breakout, football enthusiasts from DR Congo neighbours such as Uganda, Rwanda, Zambia, Angola and Congo-Brazzaville may not travel ...",
-      "date_published": "2026-06-03T11:00:43+00:00"
-    },
-    {
-      "id": "https://www.travelnews.co.za/article/countries-tighten-travel-rules-amid-ebola-outbreak",
-      "url": "https://www.travelnews.co.za/article/countries-tighten-travel-rules-amid-ebola-outbreak",
-      "title": "Countries tighten travel rules amid Ebola outbreak | Travelnews",
-      "content_text": "Zambia. Zambia has increased its screening and surveillance for Ebola at its ports of entry, after authorities cleared two suspected cases. \"Zambia ...",
-      "date_published": "2026-06-03T04:38:40+00:00"
+      "id": "https://www.aciafrica.org/amp/news/22193/world-environment-day-caritas-zambia-calls-for-climate-justice-urges-response-to-cry-of-the-earth-cry-of-the-poor",
+      "url": "https://www.aciafrica.org/amp/news/22193/world-environment-day-caritas-zambia-calls-for-climate-justice-urges-response-to-cry-of-the-earth-cry-of-the-poor",
+      "title": "World Environment Day: Caritas Zambia Calls for Climate Justice, Urges Response to \"cry of ...",
+      "content_text": "In a Friday, June 5 press release, Caritas Zambia Executive Director, Fr. Gabriel Mapulanga, described environmental degradation and climate change as ...",
+      "date_published": "2026-06-05T23:49:30+00:00"
     }
   ]
 }

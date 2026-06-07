@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/new-zealand.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for New Zealand. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 07 Jun 2026 08:06:01 +0000</lastBuildDate>
+<lastBuildDate>Sun, 07 Jun 2026 10:03:30 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>The biggest attack on conservation land in New Zealand's history - Greenpeace Aotearoa</title>
@@ -51,6 +51,13 @@
 <description>Jerez de la Frontera · Porto and the Douro Valley · Alba · Tain-l'Hermitage, Ardèche · Haro, Rioja · Mosel river · Christchurch.</description>
 </item>
 <item>
+<title>I moved from New Zealand to the Middle East: The strange dichotomy of feeling safe in a war zone</title>
+<link>https://www.thepost.co.nz/travel/361010575/i-moved-new-zealand-middle-east-strange-dichotomy-feeling-safe-war-zone</link>
+<guid isPermaLink="false">https://www.thepost.co.nz/travel/361010575/i-moved-new-zealand-middle-east-strange-dichotomy-feeling-safe-war-zone</guid>
+<pubDate>Sat, 06 Jun 2026 10:20:15 +0000</pubDate>
+<description>Moving to Jordan to study Arabic, Kiwi journalist Madeline Croad discovers a version of the Middle East rarely seen from afar.</description>
+</item>
+<item>
 <title>New Zealand Temporarily Reduces Visitor Visa Fees for Pacific Nationals - Envoy Global</title>
 <link>https://www.envoyglobal.com/news-alert/new-zealand-temporarily-reduces-visitor-visa-fees-for-pacific-nationals-2/</link>
 <guid isPermaLink="false">https://www.envoyglobal.com/news-alert/new-zealand-temporarily-reduces-visitor-visa-fees-for-pacific-nationals-2/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://thebalisun.com/visa-free-bali-travel-could-be-about-to-make-a-comeback-what-tourists-need-to-know/</guid>
 <pubDate>Fri, 05 Jun 2026 00:50:08 +0000</pubDate>
 <description>Visa-free travel could be about to return for Bali's top international arrivals including Australian and New Zealand tourists.</description>
-</item>
-<item>
-<title>Surf, sewage, survival – young athletes on the frontline of climate change - University of Waikato</title>
-<link>https://www.waikato.ac.nz/news-events/news/surf-sewage-survival-young-athletes-on-the-frontline-of-climate-change/</link>
-<guid isPermaLink="false">https://www.waikato.ac.nz/news-events/news/surf-sewage-survival-young-athletes-on-the-frontline-of-climate-change/</guid>
-<pubDate>Thu, 04 Jun 2026 09:55:03 +0000</pubDate>
-<description>Featuring 22 black-and-white portraits and quotes from focus groups, the exhibition toured sports clubs, schools, marae and the Sport New Zealand ...</description>
 </item>
 </channel>
 </rss>
