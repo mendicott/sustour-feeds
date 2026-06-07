@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/united-kingdom.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for United Kingdom. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 06 Jun 2026 22:02:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 07 Jun 2026 08:06:01 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>The world's most extreme solutions to overtourism - The Telegraph</title>
+<link>https://www.telegraph.co.uk/travel/news/extreme-solutions-to-overtourism/</link>
+<guid isPermaLink="false">https://www.telegraph.co.uk/travel/news/extreme-solutions-to-overtourism/</guid>
+<pubDate>Sun, 07 Jun 2026 00:40:51 +0000</pubDate>
+<description>Lisbon · Seville · New York City · Hotels · UK · Europe · North America · South ... But it's far from the only destination that has to take drastic ...</description>
+</item>
 <item>
 <title>ZAWYA: AlUla recognised in Wanderlust Green List for sustainable astrotourism excellence</title>
 <link>https://www.tradingview.com/news/reuters.com,2026-06-03:newsml_Zaw6s3LD9:0-zawya-alula-recognised-in-wanderlust-green-list-for-sustainable-astrotourism-excellence/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/dm5xf11fk8hf/</guid>
 <pubDate>Fri, 05 Jun 2026 09:05:39 +0000</pubDate>
 <description>... travel experiences. The launch of ... Beach cleanliness, transport reforms, environmental protection, visitor safety, heritage conservation ...</description>
-</item>
-<item>
-<title>Hundreds of whales slaughtered in Faroe Islands as annual cull turns sea blood red</title>
-<link>https://www.the-independent.com/news/world/europe/faroe-islands-whales-annual-hunt-b2988590.html</link>
-<guid isPermaLink="false">https://www.the-independent.com/news/world/europe/faroe-islands-whales-annual-hunt-b2988590.html</guid>
-<pubDate>Wed, 03 Jun 2026 22:24:35 +0000</pubDate>
-<description>Warning: Graphic Content ** More than 70 British MPs have called on the UK government to push to ban the hunts.</description>
 </item>
 </channel>
 </rss>

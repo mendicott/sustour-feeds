@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.telegraph.co.uk/travel/news/extreme-solutions-to-overtourism/",
+      "url": "https://www.telegraph.co.uk/travel/news/extreme-solutions-to-overtourism/",
+      "title": "The world's most extreme solutions to overtourism - The Telegraph",
+      "content_text": "Lisbon · Seville · New York City · Hotels · UK · Europe · North America · South ... But it's far from the only destination that has to take drastic ...",
+      "date_published": "2026-06-07T00:40:51+00:00"
+    },
+    {
       "id": "https://www.tradingview.com/news/reuters.com,2026-06-03:newsml_Zaw6s3LD9:0-zawya-alula-recognised-in-wanderlust-green-list-for-sustainable-astrotourism-excellence/",
       "url": "https://www.tradingview.com/news/reuters.com,2026-06-03:newsml_Zaw6s3LD9:0-zawya-alula-recognised-in-wanderlust-green-list-for-sustainable-astrotourism-excellence/",
       "title": "ZAWYA: AlUla recognised in Wanderlust Green List for sustainable astrotourism excellence",
@@ -68,13 +75,6 @@
       "title": "United Kingdom Joins Sri Lanka, Thailand, Indonesia and Vietnam in Reshaping Long-Haul ...",
       "content_text": "... travel experiences. The launch of ... Beach cleanliness, transport reforms, environmental protection, visitor safety, heritage conservation ...",
       "date_published": "2026-06-05T09:05:39+00:00"
-    },
-    {
-      "id": "https://www.the-independent.com/news/world/europe/faroe-islands-whales-annual-hunt-b2988590.html",
-      "url": "https://www.the-independent.com/news/world/europe/faroe-islands-whales-annual-hunt-b2988590.html",
-      "title": "Hundreds of whales slaughtered in Faroe Islands as annual cull turns sea blood red",
-      "content_text": "Warning: Graphic Content ** More than 70 British MPs have called on the UK government to push to ban the hunts.",
-      "date_published": "2026-06-03T22:24:35+00:00"
     }
   ]
 }
