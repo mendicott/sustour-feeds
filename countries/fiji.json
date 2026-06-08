@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.fbcnews.com.fj/news/1200-unite-for-environmental-protection-campaign-2/",
+      "url": "https://www.fbcnews.com.fj/news/1200-unite-for-environmental-protection-campaign-2/",
+      "title": "1200 unite for environmental protection campaign - FBC News",
+      "content_text": "... environmental protection and the need for collective action to safeguard Fiji's natural resources. ... Blues weekend boosts Pacific Harbour tourism ...",
+      "date_published": "2026-06-07T16:33:41+00:00"
+    },
+    {
       "id": "https://www.theaustralian.com.au/world/fiji-blocks-australian-billionaire-ian-maloufs-900m-waste-incinerator-project/news-story/526a22905bbc1a27bd97105c30cf6876",
       "url": "https://www.theaustralian.com.au/world/fiji-blocks-australian-billionaire-ian-maloufs-900m-waste-incinerator-project/news-story/526a22905bbc1a27bd97105c30cf6876",
       "title": "Fiji rejects Ian Malouf's $900m waste-to-energy incinerator | The Australian",
@@ -63,18 +70,11 @@
       "date_published": "2026-06-07T16:18:32+00:00"
     },
     {
-      "id": "https://businessdesk.co.nz/article/travel/fijis-rise-beyond-the-reef-collective-women-weaving-fashion-with-compassion",
-      "url": "https://businessdesk.co.nz/article/travel/fijis-rise-beyond-the-reef-collective-women-weaving-fashion-with-compassion",
-      "title": "Fiji's Rise Beyond the Reef collective: women weaving fashion with compassion",
-      "content_text": "It's not often you get to see for yourself, but when I travelled to Fiji recently, as a guest of Tourism Fiji, I saw the good work that can be done by ...",
-      "date_published": "2026-06-07T05:06:33+00:00"
-    },
-    {
-      "id": "https://islandsbusiness.com/news-break/fiji-presses-donors-for-simpler-faster-climate-finance/",
-      "url": "https://islandsbusiness.com/news-break/fiji-presses-donors-for-simpler-faster-climate-finance/",
-      "title": "Fiji presses donors for simpler, faster climate finance - Islands Business",
-      "content_text": "She argued that the pressure from climate change, biodiversity loss, pollution and ecosystem degradation is now rising faster than governments can ...",
-      "date_published": "2026-06-05T08:45:34+00:00"
+      "id": "https://www.fijitimes.com.fj/call-for-greater-climate-funding/",
+      "url": "https://www.fijitimes.com.fj/call-for-greater-climate-funding/",
+      "title": "Call for greater climate funding - The Fiji Times",
+      "content_text": "Listen to this article: Minister for Information, Environment and Climate Change Lynda Tabuya at the Scaling Nature-Positive Solutions for ...",
+      "date_published": "2026-06-07T12:07:40+00:00"
     }
   ]
 }

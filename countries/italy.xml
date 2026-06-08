@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 08 Jun 2026 09:06:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Jun 2026 10:03:05 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Overtourism: Which European countries are becoming the most hostile to travellers?</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/w7viuz1cl3yw/</guid>
 <pubDate>Wed, 03 Jun 2026 12:18:49 +0000</pubDate>
 <description>Europe fights overtourism as Italy, Spain, France, Greece, Netherlands and Portugal impose caps, taxes and rental restrictions in 2026.</description>
+</item>
+<item>
+<title>Vatican–UNESCO Meeting: What It Means for Italy's UNESCO Sites - inItaly</title>
+<link>https://www.initaly.it/en/articolo/incontro-vaticano-unesco-quale-impatto-per-i-siti-unesco-in-italia-18838</link>
+<guid isPermaLink="false">https://www.initaly.it/en/articolo/incontro-vaticano-unesco-quale-impatto-per-i-siti-unesco-in-italia-18838</guid>
+<pubDate>Sun, 07 Jun 2026 23:42:39 +0000</pubDate>
+<description>Stronger collaboration between the Holy See and UNESCO can speed up conservation interventions, promote sustainable cultural tourism practices and ...</description>
 </item>
 <item>
 <title>European Overtourism Backlash in 2026: How Spain, Greece and Italy Are Reshaping ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://news.gtp.gr/2026/06/03/greece-italy-can-lead-sustainable-tourism-transition-says-minister/</guid>
 <pubDate>Thu, 04 Jun 2026 08:58:04 +0000</pubDate>
 <description>Greece and Italy can help shape a more sustainable and resilient tourism model while addressing shared challenges, according to Tourism Minister ...</description>
-</item>
-<item>
-<title>Phygital Sustainability Expo 2026 - Turismo Roma</title>
-<link>https://www.turismoroma.it/en/events/phygital-sustainability-expo-2026</link>
-<guid isPermaLink="false">https://www.turismoroma.it/en/events/phygital-sustainability-expo-2026</guid>
-<pubDate>Wed, 03 Jun 2026 23:16:20 +0000</pubDate>
-<description>Italian sustainability returns to the institutional heart of Made in Italy with the 7th edition of the Phygital Sustainability Expo®, the European ...</description>
 </item>
 </channel>
 </rss>
