@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=ScP45TwbfCs",
+      "url": "https://www.youtube.com/watch?v=ScP45TwbfCs",
+      "title": "Puerto Rico travel must-see for history lovers, and anyone interested in Indigenous heritage",
+      "content_text": "Puerto Rico travel must-see for history lovers, and anyone interested in Indigenous heritage. Tibes Indigenous Ceremonial Ground in Ponce, ...",
+      "date_published": "2026-06-07T18:39:01+00:00"
+    },
+    {
       "id": "https://www.caribjournal.com/2026/06/06/southwest-airlines-puerto-rico-flights-new/",
       "url": "https://www.caribjournal.com/2026/06/06/southwest-airlines-puerto-rico-flights-new/",
       "title": "Southwest Airlines Just Launched a New Puerto Rico Flight and Is Adding Another, Opening ...",
@@ -68,13 +75,6 @@
       "title": "Here are the 6 things the CT-Puerto Rico Trade Commission will focus on - CT Mirror",
       "content_text": "Quickly, members agreed to the creation of economy, tourism, housing, education and healthcare subcommittees. Then, state Rep. Geraldo Reyes, D ...",
       "date_published": "2026-06-04T02:20:50+00:00"
-    },
-    {
-      "id": "https://www.usatoday.com/story/travel/cruises/2026/06/02/norwegian-viva-cruises-canceled-san-juan/90377280007/",
-      "url": "https://www.usatoday.com/story/travel/cruises/2026/06/02/norwegian-viva-cruises-canceled-san-juan/90377280007/",
-      "title": "Norwegian Cruise Line cancels months of cruises on Viva - USA Today",
-      "content_text": "The ship was scheduled to sail from Lisbon, Portugal, to San Juan, Puerto Rico, before homeporting there, according to CruiseMapper. The ship will ...",
-      "date_published": "2026-06-04T09:55:01+00:00"
     }
   ]
 }

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/puerto-rico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Puerto Rico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 07 Jun 2026 22:03:04 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Jun 2026 09:06:48 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Puerto Rico travel must-see for history lovers, and anyone interested in Indigenous heritage</title>
+<link>https://www.youtube.com/watch?v=ScP45TwbfCs</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=ScP45TwbfCs</guid>
+<pubDate>Sun, 07 Jun 2026 18:39:01 +0000</pubDate>
+<description>Puerto Rico travel must-see for history lovers, and anyone interested in Indigenous heritage. Tibes Indigenous Ceremonial Ground in Ponce, ...</description>
+</item>
 <item>
 <title>Southwest Airlines Just Launched a New Puerto Rico Flight and Is Adding Another, Opening ...</title>
 <link>https://www.caribjournal.com/2026/06/06/southwest-airlines-puerto-rico-flights-new/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://ctmirror.org/2026/06/03/ct-puerto-rico-trade-commission-2/</guid>
 <pubDate>Thu, 04 Jun 2026 02:20:50 +0000</pubDate>
 <description>Quickly, members agreed to the creation of economy, tourism, housing, education and healthcare subcommittees. Then, state Rep. Geraldo Reyes, D ...</description>
-</item>
-<item>
-<title>Norwegian Cruise Line cancels months of cruises on Viva - USA Today</title>
-<link>https://www.usatoday.com/story/travel/cruises/2026/06/02/norwegian-viva-cruises-canceled-san-juan/90377280007/</link>
-<guid isPermaLink="false">https://www.usatoday.com/story/travel/cruises/2026/06/02/norwegian-viva-cruises-canceled-san-juan/90377280007/</guid>
-<pubDate>Thu, 04 Jun 2026 09:55:01 +0000</pubDate>
-<description>The ship was scheduled to sail from Lisbon, Portugal, to San Juan, Puerto Rico, before homeporting there, according to CruiseMapper. The ship will ...</description>
 </item>
 </channel>
 </rss>
