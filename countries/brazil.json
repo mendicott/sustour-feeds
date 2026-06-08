@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.travelandtourworld.com/news/article/7jphvqp1vwss/",
+      "url": "https://www.travelandtourworld.com/news/article/7jphvqp1vwss/",
+      "title": "US Joins Canada, Australia, New Zealand, Colombia, Mexico, Brazil as Indigenous Tourism ...",
+      "content_text": "As demand for meaningful travel rises, Indigenous tourism is becoming an increasingly important pillar of the global tourism economy. Advertisement ...",
+      "date_published": "2026-06-08T13:25:41+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/9qzk6ey9hi8z/",
       "url": "https://www.travelandtourworld.com/news/article/9qzk6ey9hi8z/",
       "title": "Brazil Ecotourism Breakthrough Turns Mato Grosso do Sul Into Global Travel Magnet for ...",
@@ -63,18 +70,11 @@
       "date_published": "2026-06-05T04:23:02+00:00"
     },
     {
-      "id": "https://www.travelandtourworld.com/news/article/ik6b13f7kbd0/",
-      "url": "https://www.travelandtourworld.com/news/article/ik6b13f7kbd0/",
-      "title": "US Overtakes Canada, Mexico, Brazil, Germany, France, Spain, and Other Countries as the ...",
-      "content_text": "... rainforests, wildlife, adventure tourism, and luxury eco-resorts. Direct flights from major U.S. cities, strong tourism marketing, and growing ...",
-      "date_published": "2026-06-06T08:25:59+00:00"
-    },
-    {
-      "id": "https://tucson.com/news/science/html_a09917a8-fbd0-5a9b-bc5b-9d086286d4cc.html",
-      "url": "https://tucson.com/news/science/html_a09917a8-fbd0-5a9b-bc5b-9d086286d4cc.html",
-      "title": "In Brazil's Amazon, Fires Threaten The Environment And Way Of Life - Arizona Daily Star",
-      "content_text": "World News · Sci/health · Fires · Climate Change · Amazon Basin · Amazon Rainforest · Brazil · Environment · Rainforest · Facebook · Twitter · Bluesky ...",
-      "date_published": "2026-06-06T01:13:33+00:00"
+      "id": "https://www.traveldailymedia.com/visitbritain-connects-uk-tourism-with-brazil/",
+      "url": "https://www.traveldailymedia.com/visitbritain-connects-uk-tourism-with-brazil/",
+      "title": "VisitBritain connects UK tourism with Brazil - Travel Daily Media",
+      "content_text": "VisitBritain's 'Brazil Mission 2026' event in São Paulo aims to strengthen UK tourism by connecting British suppliers with Brazilian travel ...",
+      "date_published": "2026-06-08T06:15:43+00:00"
     }
   ]
 }

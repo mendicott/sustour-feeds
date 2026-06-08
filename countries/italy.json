@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.yahoo.com/news/videos/italys-popular-amalfi-region-battles-090303224.html",
+      "url": "https://www.yahoo.com/news/videos/italys-popular-amalfi-region-battles-090303224.html",
+      "title": "Italy's popular Amalfi region battles overtourism - Yahoo",
+      "content_text": "Italy's popular Amalfi region battles overtourism. Associated Press Videos. Updated Mon, June 8, 2026 at 2:03 AM PDT. Add Yahoo as a preferred source ...",
+      "date_published": "2026-06-08T09:36:09+00:00"
+    },
+    {
       "id": "https://www.euronews.com/my-europe/2026/06/04/overtourism-which-european-countries-are-becoming-the-most-hostile-to-travellers",
       "url": "https://www.euronews.com/my-europe/2026/06/04/overtourism-which-european-countries-are-becoming-the-most-hostile-to-travellers",
       "title": "Overtourism: Which European countries are becoming the most hostile to travellers?",
@@ -68,13 +75,6 @@
       "title": "Underrated Walking Routes in Europe: Slow Travel Guide | Kansas City Star",
       "content_text": "Slow travel has moved from niche philosophy to mainstream travel style ... tourism. It is one of southern Italy's most overlooked long ...",
       "date_published": "2026-06-04T19:49:43+00:00"
-    },
-    {
-      "id": "https://news.gtp.gr/2026/06/03/greece-italy-can-lead-sustainable-tourism-transition-says-minister/",
-      "url": "https://news.gtp.gr/2026/06/03/greece-italy-can-lead-sustainable-tourism-transition-says-minister/",
-      "title": "Greece, Italy Can Lead Sustainable Tourism Transition, Says Minister - GTP Headlines",
-      "content_text": "Greece and Italy can help shape a more sustainable and resilient tourism model while addressing shared challenges, according to Tourism Minister ...",
-      "date_published": "2026-06-04T08:58:04+00:00"
     }
   ]
 }

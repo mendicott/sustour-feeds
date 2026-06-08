@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 08 Jun 2026 10:03:05 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Jun 2026 22:03:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Italy's popular Amalfi region battles overtourism - Yahoo</title>
+<link>https://www.yahoo.com/news/videos/italys-popular-amalfi-region-battles-090303224.html</link>
+<guid isPermaLink="false">https://www.yahoo.com/news/videos/italys-popular-amalfi-region-battles-090303224.html</guid>
+<pubDate>Mon, 08 Jun 2026 09:36:09 +0000</pubDate>
+<description>Italy's popular Amalfi region battles overtourism. Associated Press Videos. Updated Mon, June 8, 2026 at 2:03 AM PDT. Add Yahoo as a preferred source ...</description>
+</item>
 <item>
 <title>Overtourism: Which European countries are becoming the most hostile to travellers?</title>
 <link>https://www.euronews.com/my-europe/2026/06/04/overtourism-which-european-countries-are-becoming-the-most-hostile-to-travellers</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.kansascity.com/living/travel/article316007410.html</guid>
 <pubDate>Thu, 04 Jun 2026 19:49:43 +0000</pubDate>
 <description>Slow travel has moved from niche philosophy to mainstream travel style ... tourism. It is one of southern Italy's most overlooked long ...</description>
-</item>
-<item>
-<title>Greece, Italy Can Lead Sustainable Tourism Transition, Says Minister - GTP Headlines</title>
-<link>https://news.gtp.gr/2026/06/03/greece-italy-can-lead-sustainable-tourism-transition-says-minister/</link>
-<guid isPermaLink="false">https://news.gtp.gr/2026/06/03/greece-italy-can-lead-sustainable-tourism-transition-says-minister/</guid>
-<pubDate>Thu, 04 Jun 2026 08:58:04 +0000</pubDate>
-<description>Greece and Italy can help shape a more sustainable and resilient tourism model while addressing shared challenges, according to Tourism Minister ...</description>
 </item>
 </channel>
 </rss>
