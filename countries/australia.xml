@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/australia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Australia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 08 Jun 2026 22:03:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Jun 2026 10:04:32 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Lady Elliot Island pioneer among two honoured for shaping Australian ecotourism</title>
+<link>https://karryon.com.au/forgood/ecotourism-australia-awards/</link>
+<guid isPermaLink="false">https://karryon.com.au/forgood/ecotourism-australia-awards/</guid>
+<pubDate>Tue, 09 Jun 2026 01:42:09 +0000</pubDate>
+<description>Ecotourism Australia has presented Lifetime Achievement Awards to Lady Elliot Island operator Peter Gash OAM and former Chair Dr Claire Ellis.</description>
+</item>
 <item>
 <title>US Joins Canada, Australia, New Zealand, Colombia, Mexico, Brazil as Indigenous Tourism ...</title>
 <link>https://www.travelandtourworld.com/news/article/7jphvqp1vwss/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.theguardian.com/world/2026/jun/04/fiji-offshore-rubbish-waste-government-rejects-australian-billionaire-pacific-ashtray-plan</guid>
 <pubDate>Fri, 05 Jun 2026 01:26:54 +0000</pubDate>
 <description>Government rejects offshore rubbish being shipped to Fiji and burned after opposition from traditional landowners and tourism operators.</description>
-</item>
-<item>
-<title>Fiji knocks back Australian billionaire-backed waste-to-energy project in tourism hotspot</title>
-<link>https://www.rnz.co.nz/news/pacific/597310/fiji-knocks-back-australian-billionaire-backed-waste-to-energy-project-in-tourism-hotspot</link>
-<guid isPermaLink="false">https://www.rnz.co.nz/news/pacific/597310/fiji-knocks-back-australian-billionaire-backed-waste-to-energy-project-in-tourism-hotspot</guid>
-<pubDate>Fri, 05 Jun 2026 01:15:13 +0000</pubDate>
-<description>Photo: Faeboo / Fiji Ministry of Environment and Climate Change. Fiji's Environment Ministry has rejected an environmental impact assessment (EIA) ...</description>
 </item>
 </channel>
 </rss>

@@ -7,11 +7,25 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.tourismupdate.com/article/black-rhino-reintroduced-into-matusadona",
+      "url": "https://www.tourismupdate.com/article/black-rhino-reintroduced-into-matusadona",
+      "title": "Black rhino reintroduced into Matusadona | Southern & East African Tourism Update",
+      "content_text": "A herd of black rhino has been reintroduced into Zimbabwe's Matusadona National Park landscape after an absence of more than 30 years.",
+      "date_published": "2026-06-08T18:58:21+00:00"
+    },
+    {
       "id": "https://www.wanderlustmagazine.com/news/black-rhino-return-to-zimbabwes-matusadona-national-park-following-30-year-absence/",
       "url": "https://www.wanderlustmagazine.com/news/black-rhino-return-to-zimbabwes-matusadona-national-park-following-30-year-absence/",
       "title": "Black rhino return to Zimbabwe's Matusadona National Park following 30-year absence",
       "content_text": "... Zimbabwe. The 17 animals, from Imire Rhino and Wildlife Conservancy ... © Wanderlust Travel Media Ltd, 1993 - 2026. All Rights Reserved. No ...",
       "date_published": "2026-06-05T22:55:10+00:00"
+    },
+    {
+      "id": "https://www.getaway.co.za/travel-news/critically-endangered-black-rhinos-flown-into-zimbabwe-reserve/",
+      "url": "https://www.getaway.co.za/travel-news/critically-endangered-black-rhinos-flown-into-zimbabwe-reserve/",
+      "title": "Critically endangered black rhinos flown into Zimbabwe reserve - Getaway Magazine",
+      "content_text": "Follow us on social media for more travel news, inspiration, and guides. You can also tag us to be featured. Instagram | Facebook | Twitter. ALSO READ ...",
+      "date_published": "2026-06-08T21:11:40+00:00"
     },
     {
       "id": "https://atta.travel/resource/black-rhino-return-to-zimbabwe-s-matusadona-national-park.html",
@@ -26,6 +40,13 @@
       "title": "Bulawayo eyes stronger rural tourism linkages | Sunday News (Zimbabwe) - PressReader",
       "content_text": "2026-06-07 - Nqobile Bhebhe Zimpapers Senior Writer Tourism · Travel · Sustainability · Economics · Ecology · Social Sciences · Bulawayo ...",
       "date_published": "2026-06-07T09:25:11+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/8kbc8l0bmwfg/",
+      "url": "https://www.travelandtourworld.com/news/article/8kbc8l0bmwfg/",
+      "title": "South Africa and Zimbabwe Prepare for a Major 2026 Travel Boom as Visitors Choose ...",
+      "content_text": "The Zimbabwe Tourism Authority describes Zambezi National Park as a scenic park beside Victoria Falls, with elephant, buffalo, giraffe, zebra and ...",
+      "date_published": "2026-06-08T21:19:08+00:00"
     },
     {
       "id": "https://www.heraldonline.co.zw/bulawayo-eyes-stronger-rural-tourism-linkages/",
@@ -54,27 +75,6 @@
       "title": "From Guyo to global: Zim's heritage on a plate | The Herald (Zimbabwe) | PressReader",
       "content_text": "2026-06-04 - Charles Mavhunga Tourism · Travel · Cooking · Food · Kwekwe · Zimbabwe · Earth · Africa · Saudi Vision 2030 · World Tourism ...",
       "date_published": "2026-06-04T06:04:08+00:00"
-    },
-    {
-      "id": "https://www.chinadaily.com.cn/a/202606/05/WS6a22615ea310d6866eb4ca5c.html",
-      "url": "https://www.chinadaily.com.cn/a/202606/05/WS6a22615ea310d6866eb4ca5c.html",
-      "title": "Zimbabwe gets relief from water woes - World - Chinadaily.com.cn",
-      "content_text": "Zhao said climate change has intensified water shortages across much of Zimbabwe, forcing many communities to rely on raw water from rivers and ...",
-      "date_published": "2026-06-05T17:46:42+00:00"
-    },
-    {
-      "id": "https://www.heraldonline.co.zw/zimunya-tourism-prodigy-wins-diaspora-honour/",
-      "url": "https://www.heraldonline.co.zw/zimunya-tourism-prodigy-wins-diaspora-honour/",
-      "title": "Zimunya tourism prodigy wins Diaspora honour - The Herald",
-      "content_text": "Dr Nyakunu said empowering young people with entrepreneurial and sustainability skills is critical for the future of Zimbabwe's tourism sector. \"Young ...",
-      "date_published": "2026-06-04T22:08:27+00:00"
-    },
-    {
-      "id": "https://www.heraldonline.co.zw/push-intensifies-for-cleaner-plastic-free-zimbabwe/",
-      "url": "https://www.heraldonline.co.zw/push-intensifies-for-cleaner-plastic-free-zimbabwe/",
-      "title": "Push intensifies for cleaner, plastic-free Zimbabwe - The Herald",
-      "content_text": "ZIMBABWE has intensified efforts to combat plastic pollution ... climate change continues to affect livelihoods, biodiversity and food security.",
-      "date_published": "2026-06-07T23:11:57+00:00"
     }
   ]
 }

@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/brazil.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Brazil. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 08 Jun 2026 22:03:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Jun 2026 10:04:32 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>US Joins Canada, Australia, New Zealand, Colombia, Mexico, Brazil as Indigenous Tourism ...</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/4ob1gjh8560j/</guid>
 <pubDate>Fri, 05 Jun 2026 23:57:32 +0000</pubDate>
 <description>Global ecotourism is expanding rapidly, with Peru and major regions driving growth as travellers choose sustainable, nature‑based travel ...</description>
+</item>
+<item>
+<title>Half of Brazil's forests are on private land - Valor International</title>
+<link>https://valorinternational.globo.com/environment/news/2026/06/08/half-of-brazils-forests-are-on-private-land.ghtml</link>
+<guid isPermaLink="false">https://valorinternational.globo.com/environment/news/2026/06/08/half-of-brazils-forests-are-on-private-land.ghtml</guid>
+<pubDate>Tue, 09 Jun 2026 04:02:37 +0000</pubDate>
+<description>Conserved, restored, and planted forests, combined with near-zero deforestation, could enable Brazil to reverse its long-term trend of forest loss and ...</description>
 </item>
 <item>
 <title>In Brazil's Cerrado region, Indigenous fire practices reshape wildfire strategy - AP News</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://english.news.cn/20260605/bb62e6597e0b4f97a50f871d550e5176/c.html</guid>
 <pubDate>Fri, 05 Jun 2026 04:23:02 +0000</pubDate>
 <description>Xing led a visit to Brazil in April, where association members participated in an inspection tour. Since returning, she has often described to friends ...</description>
-</item>
-<item>
-<title>VisitBritain connects UK tourism with Brazil - Travel Daily Media</title>
-<link>https://www.traveldailymedia.com/visitbritain-connects-uk-tourism-with-brazil/</link>
-<guid isPermaLink="false">https://www.traveldailymedia.com/visitbritain-connects-uk-tourism-with-brazil/</guid>
-<pubDate>Mon, 08 Jun 2026 06:15:43 +0000</pubDate>
-<description>VisitBritain's 'Brazil Mission 2026' event in São Paulo aims to strengthen UK tourism by connecting British suppliers with Brazilian travel ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/oceania.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Oceania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 08 Jun 2026 22:03:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Jun 2026 10:04:32 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Lady Elliot Island pioneer among two honoured for shaping Australian ecotourism</title>
+<link>https://karryon.com.au/forgood/ecotourism-australia-awards/</link>
+<guid isPermaLink="false">https://karryon.com.au/forgood/ecotourism-australia-awards/</guid>
+<pubDate>Tue, 09 Jun 2026 01:42:09 +0000</pubDate>
+<description>Ecotourism Australia has presented Lifetime Achievement Awards to Lady Elliot Island operator Peter Gash OAM and former Chair Dr Claire Ellis.</description>
+</item>
 <item>
 <title>US Joins Canada, Australia, New Zealand, Colombia, Mexico, Brazil as Indigenous Tourism ...</title>
 <link>https://www.travelandtourworld.com/news/article/7jphvqp1vwss/</link>
@@ -44,6 +51,13 @@
 <description>According to Taiwan's Presidential Office, Hsiao's visit has three goals: to deepen bilateral relations, assist Palau in promoting sustainable tourism ...</description>
 </item>
 <item>
+<title>Climate change: Vanuatu puts communities in the driver's seat on loss and damage action</title>
+<link>https://www.unocha.org/news/climate-change-vanuatu-puts-communities-drivers-seat-loss-and-damage-action</link>
+<guid isPermaLink="false">https://www.unocha.org/news/climate-change-vanuatu-puts-communities-drivers-seat-loss-and-damage-action</guid>
+<pubDate>Mon, 08 Jun 2026 16:24:36 +0000</pubDate>
+<description>A heavy decision has weighed on the people of Marou, a village in Emau Island — one of Vanuatu's 83 islands in the South Pacific Ocean for some time.</description>
+</item>
+<item>
 <title>Protect our oceans or risk $4.2-billion tourism hit - Divernet</title>
 <link>https://divernet.com/scuba-news/protect-our-oceans-or-risk-4-2-billion-tourism-hit/</link>
 <guid isPermaLink="false">https://divernet.com/scuba-news/protect-our-oceans-or-risk-4-2-billion-tourism-hit/</guid>
@@ -63,20 +77,6 @@
 <guid isPermaLink="false">https://www.fbcnews.com.fj/news/1200-unite-for-environmental-protection-campaign-2/</guid>
 <pubDate>Sun, 07 Jun 2026 16:33:41 +0000</pubDate>
 <description>... environmental protection and the need for collective action to safeguard Fiji's natural resources. ... Blues weekend boosts Pacific Harbour tourism ...</description>
-</item>
-<item>
-<title>Ecotourism retreat proposed for Hamersley Inlet Reserve near Western Australia's ...</title>
-<link>https://www.ausleisure.com.au/news/ecotourism-retreat-proposed-for-hamersley-inlet-reserve-near-western-australias-fitzgerald-river-national-park</link>
-<guid isPermaLink="false">https://www.ausleisure.com.au/news/ecotourism-retreat-proposed-for-hamersley-inlet-reserve-near-western-australias-fitzgerald-river-national-park</guid>
-<pubDate>Sun, 07 Jun 2026 03:48:33 +0000</pubDate>
-<description>Ecotourism operator Wander Group Australia Pty Ltd (Wander), which operates luxury off-grid accommodation experiences in regional destinations across ...</description>
-</item>
-<item>
-<title>Nature Tourism Retreat Proposed for Hamersley Inlet - Mirage News</title>
-<link>https://www.miragenews.com/nature-tourism-retreat-proposed-for-hamersley-1687251/</link>
-<guid isPermaLink="false">https://www.miragenews.com/nature-tourism-retreat-proposed-for-hamersley-1687251/</guid>
-<pubDate>Sat, 06 Jun 2026 07:58:24 +0000</pubDate>
-<description>Australian ecotourism operator Wander identified as preferred proponent for a short-stay accommodation opportunity at Hamersley Inlet Reserve.</description>
 </item>
 </channel>
 </rss>
