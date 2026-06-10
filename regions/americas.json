@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.travelpulse.com/news/destinations/mahahual-mexico-receives-protected-status-to-allow-only-ecotourism-development",
+      "url": "https://www.travelpulse.com/news/destinations/mahahual-mexico-receives-protected-status-to-allow-only-ecotourism-development",
+      "title": "Mahahual, Mexico Receives Protected Status to Allow Only Ecotourism Development",
+      "content_text": "The destination will become a \"benchmark\" for Mexico ecotourism after rejecting Royal Caribbean's private destination development plans.",
+      "date_published": "2026-06-10T13:03:36+00:00"
+    },
+    {
       "id": "https://mexicobusiness.news/sustainability/news/mexico-starts-holbox-circular-economy-pilot-program",
       "url": "https://mexicobusiness.news/sustainability/news/mexico-starts-holbox-circular-economy-pilot-program",
       "title": "Mexico Starts Holbox Circular Economy Pilot Program",
@@ -68,13 +75,6 @@
       "title": "Africa's Travel Indaba 2026: A Landmark Edition Focused on Growth",
       "content_text": "... Indigenous Tourism Association of Canada · CATO Expresses Strong Support for the Indigenous Tourism Association of Canada. CATO is urging continued ...",
       "date_published": "2026-06-08T04:20:15+00:00"
-    },
-    {
-      "id": "https://riviera-maya-news.com/government-of-mexico-announces-decree-to-allow-only-ecotourism-projects-in-mahahual/2026.html",
-      "url": "https://riviera-maya-news.com/government-of-mexico-announces-decree-to-allow-only-ecotourism-projects-in-mahahual/2026.html",
-      "title": "Government of Mexico announces decree to allow only ecotourism projects in Mahahual",
-      "content_text": "Mahahual, Q.R. -- President Claudia Sheinbaum has announced a decree to promote only ecotourism in Mahahual and surrounding communities.",
-      "date_published": "2026-06-07T01:11:23+00:00"
     }
   ]
 }

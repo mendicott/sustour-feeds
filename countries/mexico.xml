@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 10 Jun 2026 10:04:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Jun 2026 22:04:30 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mahahual, Mexico Receives Protected Status to Allow Only Ecotourism Development</title>
+<link>https://www.travelpulse.com/news/destinations/mahahual-mexico-receives-protected-status-to-allow-only-ecotourism-development</link>
+<guid isPermaLink="false">https://www.travelpulse.com/news/destinations/mahahual-mexico-receives-protected-status-to-allow-only-ecotourism-development</guid>
+<pubDate>Wed, 10 Jun 2026 13:03:36 +0000</pubDate>
+<description>The destination will become a "benchmark" for Mexico ecotourism after rejecting Royal Caribbean's private destination development plans.</description>
+</item>
 <item>
 <title>Mexico Starts Holbox Circular Economy Pilot Program</title>
 <link>https://mexicobusiness.news/sustainability/news/mexico-starts-holbox-circular-economy-pilot-program</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/w5348v3n7084/</guid>
 <pubDate>Thu, 04 Jun 2026 03:40:22 +0000</pubDate>
 <description>Mexico rejects Royal Caribbean's Caribbean tourism project. Discover what it means for cruise passengers, sustainable travel, and future visits.</description>
-</item>
-<item>
-<title>Mexico Takes Stand Against Large-Scale Cruise Tourism Expansion in Cozumel to Protect ...</title>
-<link>https://www.travelandtourworld.com/news/article/nkd1a553e8y7/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/nkd1a553e8y7/</guid>
-<pubDate>Tue, 02 Jun 2026 21:54:55 +0000</pubDate>
-<description>... coral reef conservation, and sustainable tourism policy ... Europe · Europe · Creator-Led Tourism Redefines Global Travel Across Europe, United States ...</description>
 </item>
 </channel>
 </rss>

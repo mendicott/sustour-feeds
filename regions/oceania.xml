@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/oceania.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Oceania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 10 Jun 2026 10:04:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Jun 2026 22:04:30 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Conservation International Celebrates French Polynesia's Leadership in Global Ocean Protection</title>
+<link>https://www.conservation.org/press/conservation-international-celebrates-french-polynesias-leadership-in-global-ocean-protection</link>
+<guid isPermaLink="false">https://www.conservation.org/press/conservation-international-celebrates-french-polynesias-leadership-in-global-ocean-protection</guid>
+<pubDate>Wed, 10 Jun 2026 07:16:56 +0000</pubDate>
+<description>Papeete, Tahiti (June 8, 2026) – To commemorate World Oceans Day ... They also act as buffers against adverse climate change effects, and ...</description>
+</item>
 <item>
 <title>Joint Press Release: Australia and UNDP Sign Contribution Agreement to Support Recovery ...</title>
 <link>https://www.undp.org/cambodia/press-releases/joint-press-release-australia-and-undp-sign-contribution-agreement-support-recovery-and-mine-action-cambodias-border-affected</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/aly88ot8niwv/</guid>
 <pubDate>Tue, 09 Jun 2026 14:11:44 +0000</pubDate>
 <description>These practices align with global trends toward environmentally and socially responsible travel. Cultural Immersion Enhances Adventure Tourism.</description>
-</item>
-<item>
-<title>Regional Australia can't afford to wait for the tourists to come back - PRWire</title>
-<link>https://prwire.com.au/pr/129053/regional-australia-can-t-afford-to-wait-for-the-tourists-to-come-back</link>
-<guid isPermaLink="false">https://prwire.com.au/pr/129053/regional-australia-can-t-afford-to-wait-for-the-tourists-to-come-back</guid>
-<pubDate>Tue, 09 Jun 2026 09:53:38 +0000</pubDate>
-<description>Across Australia, more regions are developing coordinated agritourism strategies to help local operators build resilience, create jobs and attract ...</description>
 </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/germany.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Germany. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 10 Jun 2026 10:04:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Jun 2026 22:04:30 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Wild Rügen - Tourism vs. Nature Conservation - DW</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.dw.com/en/seahorses-smugglers-safaris-a-coastal-comeback/av-77300047</guid>
 <pubDate>Wed, 03 Jun 2026 06:32:17 +0000</pubDate>
 <description>A local conservation project is now turning them into a source of tourism and community support ... Travel · Advertising · German News Service.</description>
+</item>
+<item>
+<title>Poland Sets to Unite with Canada, Germany, Sweden, Norway, Netherlands, United ...</title>
+<link>https://www.travelandtourworld.com/news/article/fl5jdzvxgx4w/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/fl5jdzvxgx4w/</guid>
+<pubDate>Wed, 10 Jun 2026 17:33:36 +0000</pubDate>
+<description>GDS Forum &amp; Impact Day 2026 in Poland is drawing global attention as tourism leaders, sustainability experts and destination managers prepare to meet ...</description>
 </item>
 <item>
 <title>United Kingdom Joins Ireland, Germany and France to Launch Europe's Ultimate Romantic ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/d4bn13x908c1/</guid>
 <pubDate>Fri, 05 Jun 2026 10:18:07 +0000</pubDate>
 <description>Croatia reports strong tourism growth in 2026, driven by key markets, expanded US connectivity, and a focus on sustainable year-round travel.</description>
-</item>
-<item>
-<title>Climate Talk: Film-Screening "Stories from the Blue Frontier" - Geneva Environment Network</title>
-<link>https://www.genevaenvironmentnetwork.org/events/climate-talk-film-screening-stories-from-the-blue-frontier/</link>
-<guid isPermaLink="false">https://www.genevaenvironmentnetwork.org/events/climate-talk-film-screening-stories-from-the-blue-frontier/</guid>
-<pubDate>Thu, 04 Jun 2026 10:18:02 +0000</pubDate>
-<description>The film, which was produced by the German Embassy in Suva, provides a voice to rural communities in Fiji on the adverse impacts of climate change ...</description>
 </item>
 </channel>
 </rss>
