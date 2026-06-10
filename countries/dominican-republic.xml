@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/dominican-republic.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Dominican Republic. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 09 Jun 2026 22:04:14 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Jun 2026 10:04:01 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Meet three young people driving ecological activism in the Dominican Republic</title>
+<link>https://globalvoices.org/2026/06/09/meet-three-young-people-driving-ecological-activism-in-the-dominican-republic/</link>
+<guid isPermaLink="false">https://globalvoices.org/2026/06/09/meet-three-young-people-driving-ecological-activism-in-the-dominican-republic/</guid>
+<pubDate>Wed, 10 Jun 2026 00:01:11 +0000</pubDate>
+<description>The DR's tourism star is on the rise, but that narrative of prosperity conceals the less visible, more urgent issue of environmental pressure on ...</description>
+</item>
 <item>
 <title>Dominican Tourism Journalists Launch Strategic Overhaul to Address AI And Sustainability</title>
 <link>https://newsinamerica.com/en/travel/2026/dominican-tourism-journalists-launch-strategic-overhaul-to-address-ai-and-sustainability/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://dominicantoday.com/suriname-and-dominican-republic-seek-greater-parliamentary-exchange/</guid>
 <pubDate>Thu, 04 Jun 2026 01:46:57 +0000</pubDate>
 <description>... climate change, and can achieve greater prosperity through collaboration. ... tourism, security, environmental sustainability, technology, energy ...</description>
-</item>
-<item>
-<title>Cuba Joins Jamaica, Barbados, Bahamas, Dominican Republic, Venezuela, Trinidad and ...</title>
-<link>https://www.travelandtourworld.com/news/article/islu77ippr6m/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/islu77ippr6m/</guid>
-<pubDate>Tue, 09 Jun 2026 09:11:41 +0000</pubDate>
-<description>US sanctions raise concerns for Caribbean tourism, cruise industry, aviation and travel investment as Cuba and regional destinations assess ...</description>
 </item>
 </channel>
 </rss>

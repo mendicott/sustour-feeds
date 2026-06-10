@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/macau-china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Macau (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 09 Jun 2026 22:04:14 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Jun 2026 10:04:01 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>China eases cross-border travel rules for Hong Kong and Macau yacht owners</title>
+<link>https://www.superyachttimes.com/yacht-news/china-eases-cross-border-yacht-travel-rules-hong-kong-macau</link>
+<guid isPermaLink="false">https://www.superyachttimes.com/yacht-news/china-eases-cross-border-yacht-travel-rules-hong-kong-macau</guid>
+<pubDate>Wed, 10 Jun 2026 01:41:04 +0000</pubDate>
+<description>In March 2025, lawmakers in Hong Kong urged the government to enhance yacht tourism in the Greater Bay Area (GBA) and further develop the necessary ...</description>
+</item>
 <item>
 <title>SAR enacts cultural heritage protection award regulations | Macau Business</title>
 <link>https://macaubusiness.com/sar-enacts-cultural-heritage-protection-award-regulations/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://macaudailytimes.com.mo/lawmakers-see-urgency-for-fifth-macau-taipa-link-govt-insists-on-lrt-and-caution.html</guid>
 <pubDate>Wed, 03 Jun 2026 20:18:17 +0000</pubDate>
 <description>... Macau International Integrated Tourism and Cultural Zone, planned for the coastal area east of Macau Tower. Authorities believe that the fifth ...</description>
-</item>
-<item>
-<title>International Travel Expo, S. China Industry Fair, China Cultural and Natural Heritage Day</title>
-<link>https://www.chinadailyasia.com/newsletter/pulse2021/article/583490</link>
-<guid isPermaLink="false">https://www.chinadailyasia.com/newsletter/pulse2021/article/583490</guid>
-<pubDate>Fri, 05 Jun 2026 10:55:30 +0000</pubDate>
-<description>Macao's historic downtown has been a UNESCO World Heritage site since 2005, and a series of decorations and events will light it up on June 13, China ...</description>
 </item>
 </channel>
 </rss>

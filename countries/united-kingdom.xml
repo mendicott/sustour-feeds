@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/united-kingdom.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for United Kingdom. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 09 Jun 2026 22:04:14 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Jun 2026 10:04:01 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>British Media Praises Dubrovnik's Battle Against Mass Tourism</title>
+<link>https://www.thedubrovniktimes.com/news/dubrovnik/item/19937-british-media-praises-dubrovnik-s-battle-against-mass-tourism</link>
+<guid isPermaLink="false">https://www.thedubrovniktimes.com/news/dubrovnik/item/19937-british-media-praises-dubrovnik-s-battle-against-mass-tourism</guid>
+<pubDate>Wed, 10 Jun 2026 03:01:18 +0000</pubDate>
+<description>Award-winning travel journalist Greg Dickinson spent several days in Dubrovnik investigating how the city has transformed itself over the past nine ...</description>
+</item>
 <item>
 <title>UK overseas territory Montserrat joins Blue Belt Programme - Oceanographic Magazine</title>
 <link>https://oceanographicmagazine.com/news/uk-overseas-territory-montserrat-joins-blue-belt-programme/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.thirdsector.co.uk/charity-receives-625000-gift-mystery-donor/fundraising/article/1960658</guid>
 <pubDate>Sat, 06 Jun 2026 03:33:54 +0000</pubDate>
 <description>The National Trust for Scotland has received a mysterious £625,000 donation for one of its cultural heritage projects. The conservation charity ...</description>
-</item>
-<item>
-<title>£1.8 Million Eco-Tourism Campus Opens on Scotland NC500 Route | Streamline</title>
-<link>https://streamlinefeed.co.ke/news/1-8-million-eco-tourism-campus-opens-scotland-nc500</link>
-<guid isPermaLink="false">https://streamlinefeed.co.ke/news/1-8-million-eco-tourism-campus-opens-scotland-nc500</guid>
-<pubDate>Fri, 05 Jun 2026 00:15:11 +0000</pubDate>
-<description>A £1.8 million eco-tourism campus has opened on Scotland's NC500 route, aiming to combat rural depopulation through sustainability training.</description>
 </item>
 </channel>
 </rss>

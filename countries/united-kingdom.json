@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.thedubrovniktimes.com/news/dubrovnik/item/19937-british-media-praises-dubrovnik-s-battle-against-mass-tourism",
+      "url": "https://www.thedubrovniktimes.com/news/dubrovnik/item/19937-british-media-praises-dubrovnik-s-battle-against-mass-tourism",
+      "title": "British Media Praises Dubrovnik's Battle Against Mass Tourism",
+      "content_text": "Award-winning travel journalist Greg Dickinson spent several days in Dubrovnik investigating how the city has transformed itself over the past nine ...",
+      "date_published": "2026-06-10T03:01:18+00:00"
+    },
+    {
       "id": "https://oceanographicmagazine.com/news/uk-overseas-territory-montserrat-joins-blue-belt-programme/",
       "url": "https://oceanographicmagazine.com/news/uk-overseas-territory-montserrat-joins-blue-belt-programme/",
       "title": "UK overseas territory Montserrat joins Blue Belt Programme - Oceanographic Magazine",
@@ -68,13 +75,6 @@
       "title": "Charity receives £625,000 gift from mystery donor | Third Sector",
       "content_text": "The National Trust for Scotland has received a mysterious £625,000 donation for one of its cultural heritage projects. The conservation charity ...",
       "date_published": "2026-06-06T03:33:54+00:00"
-    },
-    {
-      "id": "https://streamlinefeed.co.ke/news/1-8-million-eco-tourism-campus-opens-scotland-nc500",
-      "url": "https://streamlinefeed.co.ke/news/1-8-million-eco-tourism-campus-opens-scotland-nc500",
-      "title": "£1.8 Million Eco-Tourism Campus Opens on Scotland NC500 Route | Streamline",
-      "content_text": "A £1.8 million eco-tourism campus has opened on Scotland's NC500 route, aiming to combat rural depopulation through sustainability training.",
-      "date_published": "2026-06-05T00:15:11+00:00"
     }
   ]
 }
