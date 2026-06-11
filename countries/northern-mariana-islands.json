@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.rnz.co.nz/news/pacific_northern-marianas/597738/el-nino-could-bring-up-to-five-more-typhoons-to-marianas-this-year",
+      "url": "https://www.rnz.co.nz/news/pacific_northern-marianas/597738/el-nino-could-bring-up-to-five-more-typhoons-to-marianas-this-year",
+      "title": "El Niño could bring up to five more typhoons to Marianas this year | RNZ News",
+      "content_text": "Typhoon Sinlaku deals heavy blow to CNMI's tourism industry. 4 Jun ... Guam, Northern Mariana Islands seek visa-free travel for Filipinos · CNMI ...",
+      "date_published": "2026-06-09T19:25:24+00:00"
+    },
+    {
       "id": "https://eturbonews.com/northern-mariana-islands-philippines-visa-free-travel-tourism/",
       "url": "https://eturbonews.com/northern-mariana-islands-philippines-visa-free-travel-tourism/",
       "title": "Northern Mariana Islands Seek Visa-Free Access for Filipinos to Revive Tourism - eTurboNews",
@@ -35,6 +42,20 @@
       "date_published": "2026-06-07T10:19:52+00:00"
     },
     {
+      "id": "https://puertoricoreport.com/the-declaration-to-end-colonialism-in-u-s-territories/",
+      "url": "https://puertoricoreport.com/the-declaration-to-end-colonialism-in-u-s-territories/",
+      "title": "The Declaration to End Colonialism in U.S. Territories - PUERTO RICO REPORT",
+      "content_text": "U.S. Virgin Islands; Guam; Northern Mariana Islands; American Samoa. At the briefing, Puerto Rico's Resident Commissioner in Washington, Pablo José ...",
+      "date_published": "2026-06-10T17:58:16+00:00"
+    },
+    {
+      "id": "https://www.rnz.co.nz/news/pacific_northern-marianas/597781/cnmi-disaster-food-aid-approved-nearly-two-months-after-typhoon-sinlaku",
+      "url": "https://www.rnz.co.nz/news/pacific_northern-marianas/597781/cnmi-disaster-food-aid-approved-nearly-two-months-after-typhoon-sinlaku",
+      "title": "CNMI disaster food aid approved nearly two months after Typhoon Sinlaku | RNZ News",
+      "content_text": "But Northern Mariana Islands' residents have been cautioned the nutrition assistance benefits will not be distributed immediately.",
+      "date_published": "2026-06-10T00:48:06+00:00"
+    },
+    {
       "id": "https://www.rnz.co.nz/news/pacific_northern-marianas/597621/super-typhoon-sinlaku-wipes-out-up-to-60-percent-of-saipan-livestock",
       "url": "https://www.rnz.co.nz/news/pacific_northern-marianas/597621/super-typhoon-sinlaku-wipes-out-up-to-60-percent-of-saipan-livestock",
       "title": "Super Typhoon Sinlaku wipes out up to 60 percent of Saipan livestock | RNZ News",
@@ -54,27 +75,6 @@
       "title": "Guam, Northern Mariana Islands seek visa-free travel for Filipinos | RNZ News",
       "content_text": "Guam governor Lou Leon Guerrero and CNMI governor David Apatang say the move would strengthen regional ties, boost tourism, and improve air links ...",
       "date_published": "2026-06-08T00:39:24+00:00"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/06/07/news/guam-cnmi-governors-push-visa-free-travel-for-filipinos/2360149",
-      "url": "https://www.manilatimes.net/2026/06/07/news/guam-cnmi-governors-push-visa-free-travel-for-filipinos/2360149",
-      "title": "Guam, CNMI governors push visa-free travel for Filipinos - The Manila Times",
-      "content_text": "SAIPAN, Northern Marianas—Guam Gov. Lourdes A. Leon Guerrero and CNMI Gov. David M. Apatang urged the US government to add the Philippines to the ...",
-      "date_published": "2026-06-07T07:52:20+00:00"
-    },
-    {
-      "id": "https://www.rnz.co.nz/news/pacific_northern-marianas/597244/typhoon-sinlaku-cripples-cnmi-s-tourism-as-industry-stakeholders-hope-for-summer-recovery",
-      "url": "https://www.rnz.co.nz/news/pacific_northern-marianas/597244/typhoon-sinlaku-cripples-cnmi-s-tourism-as-industry-stakeholders-hope-for-summer-recovery",
-      "title": "Typhoon Sinlaku cripples CNMI's tourism as industry stakeholders hope for summer recovery - RNZ",
-      "content_text": "Super Typhoon Sinlaku dealt a devastating blow to the Commonwealth of the Northern Mariana Islands' (CNMI) tourism industry, with visitor arrivals ...",
-      "date_published": "2026-06-04T03:08:16+00:00"
-    },
-    {
-      "id": "https://www.mvariety.com/news/local/local-news-march-tourist-arrivals-down-8/article_2fa94283-e9d7-4e53-84b6-51b6e48c1d97.html/",
-      "url": "https://www.mvariety.com/news/local/local-news-march-tourist-arrivals-down-8/article_2fa94283-e9d7-4e53-84b6-51b6e48c1d97.html/",
-      "title": "March tourist arrivals down 8% - Marianas Variety News & Views",
-      "content_text": "... travel agencies highlighting \"sportscation\" and immersive travel experiences on Saipan and Rota. ... tourism through the Japan Circuit Ladies ...",
-      "date_published": "2026-06-04T02:08:32+00:00"
     }
   ]
 }
