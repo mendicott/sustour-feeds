@@ -7,6 +7,20 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.dailystar.co.uk/news/weird-news/anti-tourism-protesters-glue-airbnb-37279308",
+      "url": "https://www.dailystar.co.uk/news/weird-news/anti-tourism-protesters-glue-airbnb-37279308",
+      "title": "Anti-tourism protesters glue Airbnb key boxes shut in Brits' holiday hotspot - Daily Star",
+      "content_text": "Mass rallies opposing over-tourism swept across Spain last summer, with activists contending that the expansion of short-term rentals is making it ...",
+      "date_published": "2026-06-11T10:35:55+00:00"
+    },
+    {
+      "id": "https://www.theportugalnews.com/news/2026-06-11/portugal-ranks-among-most-tourism-resistant-destination/1038025",
+      "url": "https://www.theportugalnews.com/news/2026-06-11/portugal-ranks-among-most-tourism-resistant-destination/1038025",
+      "title": "Portugal ranks among most tourism resistant destination",
+      "content_text": "Researchers found evidence of anti-tourism demonstrations in more than 40 Spanish cities, including main destinations such as Barcelona and the Canary ...",
+      "date_published": "2026-06-11T09:22:24+00:00"
+    },
+    {
       "id": "https://streamlinefeed.co.ke/news/spain-overtourism-crisis-escalates-as-arrivals-approach-record-100-million",
       "url": "https://streamlinefeed.co.ke/news/spain-overtourism-crisis-escalates-as-arrivals-approach-record-100-million",
       "title": "Spain Overtourism Crisis Escalates As Arrivals Approach Record 100 Million | Streamline",
@@ -61,20 +75,6 @@
       "title": "Exact dates Spanish island anti-tourism protests are planned including July - YorkshireLive",
       "content_text": "A major anti-tourism protest is planned in Majorca which will coincide with peak school dates for Brits, as anti-tourist graffiti has taken on a ...",
       "date_published": "2026-06-10T13:27:24+00:00"
-    },
-    {
-      "id": "https://uz.kursiv.media/en/2026-06-10/anti-tourism-anger-grows-in-spain-as-kill-a-tourist-sign-sparks-outrage/",
-      "url": "https://uz.kursiv.media/en/2026-06-10/anti-tourism-anger-grows-in-spain-as-kill-a-tourist-sign-sparks-outrage/",
-      "title": "Anti-tourism anger grows in Spain as 'Kill a Tourist' sign sparks outrage",
-      "content_text": "... anti-tourism protests intensify across the Balearic and Canary Islands over housing and overtourism concerns.",
-      "date_published": "2026-06-10T13:19:50+00:00"
-    },
-    {
-      "id": "https://www.express.co.uk/news/world/2214962/panic-spain-100-million-tourists",
-      "url": "https://www.express.co.uk/news/world/2214962/panic-spain-100-million-tourists",
-      "title": "Panic in Spain as country braces for 'record-breaking 100m tourists' | World - Daily Express",
-      "content_text": "The popular holiday destination could break records for international arrivals this year as tensions over overtourism continue to rise.",
-      "date_published": "2026-06-10T08:01:35+00:00"
     }
   ]
 }

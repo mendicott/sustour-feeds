@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/macau-china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Macau (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 11 Jun 2026 10:05:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 11 Jun 2026 22:05:29 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Macao Secures Its Place at the Forefront of Responsible Tourism as Sands China ...</title>
+<link>https://www.travelandtourworld.com/news/article/k4deca7ows6a/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/k4deca7ows6a/</guid>
+<pubDate>Thu, 11 Jun 2026 14:24:56 +0000</pubDate>
+<description>Sands China earns Top 1% CSA scores in Global and China Sustainability Yearbook, highlighting ESG excellence and tourism innovation in Macao.</description>
+</item>
 <item>
 <title>Climate change-fuelled storm decimated world's rarest great ape: study | Macau Business</title>
 <link>https://macaubusiness.com/climate-change-fuelled-storm-decimated-worlds-rarest-great-ape-study/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.chinadailyasia.com/article/634537</guid>
 <pubDate>Fri, 05 Jun 2026 10:33:28 +0000</pubDate>
 <description>... Macao's historic downtown next week ... The International Travel Expo 2026 is set to return to the Hong Kong Convention and Exhibition Centre ...</description>
-</item>
-<item>
-<title>Portugal: New satellite map shows high-risk areas for wildfires | Macau Business</title>
-<link>https://macaubusiness.com/portugal-new-satellite-map-shows-high-risk-areas-for-wildfires/</link>
-<guid isPermaLink="false">https://macaubusiness.com/portugal-new-satellite-map-shows-high-risk-areas-for-wildfires/</guid>
-<pubDate>Fri, 05 Jun 2026 01:22:39 +0000</pubDate>
-<description>He emphasised that "LandOS" uses official information produced by government bodies as its basis, which uses a range of data, statistical, climatic ...</description>
 </item>
 </channel>
 </rss>

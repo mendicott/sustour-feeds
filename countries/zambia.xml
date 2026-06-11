@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/zambia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Zambia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 11 Jun 2026 10:05:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 11 Jun 2026 22:05:29 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>NHCC seeks heritage tourism partnerships | Daily Nation Newspaper - PressReader</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.iisd.org/publications/report/nature-based-solutions-inventory-zambia</guid>
 <pubDate>Sat, 06 Jun 2026 06:31:50 +0000</pubDate>
 <description>This inventory showcases interventions implemented in Zambia that use ecosystem processes, restoration, or management to reduce climate ...</description>
+</item>
+<item>
+<title>Stanbic premieres Zambezi conservation documentary | Zambia Daily Mail - PressReader</title>
+<link>https://www.pressreader.com/zambia/zambia-daily-mail-798j/20260611/281758455979570</link>
+<guid isPermaLink="false">https://www.pressreader.com/zambia/zambia-daily-mail-798j/20260611/281758455979570</guid>
+<pubDate>Thu, 11 Jun 2026 09:27:21 +0000</pubDate>
+<description>Through powerful storytelling and on-the-ground footage, the film explores the growing challenges facing the Zambezi, including climate change, ...</description>
 </item>
 <item>
 <title>Tanzania Joins Botswana, Kenya, Rwanda, Zambia, Uganda, Zimbabwe and More to ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.pressreader.com/zambia/zambia-daily-mail-798j/20260606/281608132114005</guid>
 <pubDate>Sat, 06 Jun 2026 09:19:44 +0000</pubDate>
 <description>The campaign seeks to attract foreign direct investment, increase tourism arrivals, strengthen exports, promote local enterprise, support job creation ...</description>
-</item>
-<item>
-<title>Zimbabwe Showcases tourism potential at Zambia Travel Expo - The Herald</title>
-<link>https://www.heraldonline.co.zw/zimbabwe-showcases-tourism-potential-at-zambia-travel-expo/</link>
-<guid isPermaLink="false">https://www.heraldonline.co.zw/zimbabwe-showcases-tourism-potential-at-zambia-travel-expo/</guid>
-<pubDate>Fri, 05 Jun 2026 23:38:33 +0000</pubDate>
-<description>Nqobile Bhebhe nqobile.bhebhe@chronicle.co.zw. Zimbabwe is participating in the Zambia Travel Expo (ZATEX) 2026, which began yesterday and ...</description>
 </item>
 </channel>
 </rss>

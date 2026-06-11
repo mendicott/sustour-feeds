@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.travelandtourworld.com/news/article/chkgzzt6zzi4/",
+      "url": "https://www.travelandtourworld.com/news/article/chkgzzt6zzi4/",
+      "title": "India Joins United States, United Kingdom, Australia, Germany, France and Japan as Bhumi ...",
+      "content_text": "Why is Sikkim considered a leading sustainable tourism destination in India? Sikkim is known for its strong focus on environmental protection ...",
+      "date_published": "2026-06-11T13:29:03+00:00"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=y5fT8hLNrps",
       "url": "https://www.youtube.com/watch?v=y5fT8hLNrps",
       "title": "Short-term rentals under fire as Cape Town grapples with overtourism • FRANCE 24 English",
@@ -42,6 +49,13 @@
       "date_published": "2026-06-03T12:18:49+00:00"
     },
     {
+      "id": "https://www.nationalgeographic.com/travel/article/solar-powered-camping",
+      "url": "https://www.nationalgeographic.com/travel/article/solar-powered-camping",
+      "title": "Go off the grid in style at these solar-powered glamping destinations | National Geographic",
+      "content_text": "Huttopia, founded in 1999 in France, is striving for nature-based hospitality as they expand their camping and glamping options into the United States ...",
+      "date_published": "2026-06-11T15:04:34+00:00"
+    },
+    {
       "id": "https://www.france24.com/en/live-news/20260608-our-mission-as-oceanians-french-polynesia-to-protect-more-ocean",
       "url": "https://www.france24.com/en/live-news/20260608-our-mission-as-oceanians-french-polynesia-to-protect-more-ocean",
       "title": "'Our mission as Oceanians': French Polynesia to protect more ocean - France 24",
@@ -61,20 +75,6 @@
       "title": "Coral reefs in French Polynesia are stuck between life and death",
       "content_text": "You know climate change isn't stopping because politicians don't want to talk about it. Donate to The Climate Solutions Reporting Project and we won't ...",
       "date_published": "2026-06-05T20:57:09+00:00"
-    },
-    {
-      "id": "https://www.france24.com/en/live-news/20260603-thousands-protest-jared-kushner-linked-resort-project-in-albania",
-      "url": "https://www.france24.com/en/live-news/20260603-thousands-protest-jared-kushner-linked-resort-project-in-albania",
-      "title": "Thousands protest Jared Kushner-linked resort project in Albania - France 24",
-      "content_text": "Thousands of Albanians protested Tuesday against a coastal tourism complex allegedly linked to US President Donald Trump's son-in-law Jared ...",
-      "date_published": "2026-06-03T03:53:47+00:00"
-    },
-    {
-      "id": "https://www.ncregister.com/cna/itinerary-confirmed-for-pope-leo-xiv-s-trip-to-france-paris-lourdes-and-metz",
-      "url": "https://www.ncregister.com/cna/itinerary-confirmed-for-pope-leo-xiv-s-trip-to-france-paris-lourdes-and-metz",
-      "title": "Itinerary Confirmed for Pope Leo XIV's Trip to France: Paris, Lourdes, and Metz",
-      "content_text": "'We are able to publicly confirm that Paris will welcome the Holy Father on Sept. 25 and 26 as part of his apostolic journey to France!",
-      "date_published": "2026-06-10T02:37:17+00:00"
     }
   ]
 }
