@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 12 Jun 2026 10:05:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Jun 2026 22:04:56 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Greece's Santorini Cruise Port Crisis Deepens As New Passenger Flow Rules Expose ...</title>
+<link>https://www.travelandtourworld.com/news/article/pln9sy308i0s/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/pln9sy308i0s/</guid>
+<pubDate>Fri, 12 Jun 2026 09:18:21 +0000</pubDate>
+<description>Greece's Santorini tightens cruise passenger flow rules as port pressure, cable car access and overtourism reshape island tourism.</description>
+</item>
 <item>
 <title>Greece Overtourism Crisis Reshapes Island Travel: New Sustainable Tourism Strategy ...</title>
 <link>https://www.travelandtourworld.com/news/article/zeeuc2vz1u3q/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.express.co.uk/travel/articles/2212987/greece-fury-overtourism-laws-mykonos-santorini</guid>
 <pubDate>Thu, 04 Jun 2026 08:12:50 +0000</pubDate>
 <description>Santorini island, Greece. The new laws hope to curb unchecked overtourism and safeguard local ecosystems (Image: Getty). Greece's latest ...</description>
-</item>
-<item>
-<title>Italy Joins Spain, France, Greece, Netherlands, Portugal and Other Countries as Europe ...</title>
-<link>https://www.travelandtourworld.com/news/article/w7viuz1cl3yw/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/w7viuz1cl3yw/</guid>
-<pubDate>Wed, 03 Jun 2026 12:18:49 +0000</pubDate>
-<description>Europe fights overtourism as Italy, Spain, France, Greece, Netherlands and Portugal impose caps, taxes and rental restrictions in 2026.</description>
 </item>
 </channel>
 </rss>

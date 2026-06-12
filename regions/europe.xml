@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/europe.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Europe. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 12 Jun 2026 10:05:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Jun 2026 22:04:56 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Greece's Santorini Cruise Port Crisis Deepens As New Passenger Flow Rules Expose ...</title>
+<link>https://www.travelandtourworld.com/news/article/pln9sy308i0s/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/pln9sy308i0s/</guid>
+<pubDate>Fri, 12 Jun 2026 09:18:21 +0000</pubDate>
+<description>Greece's Santorini tightens cruise passenger flow rules as port pressure, cable car access and overtourism reshape island tourism.</description>
+</item>
 <item>
 <title>Vatican and UNESCO: practical impacts on Italy's UNESCO sites - inItaly</title>
 <link>https://www.initaly.it/en/articolo/vaticano-e-unesco-impatti-concreti-sui-siti-unesco-in-italia-19794</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.thedubrovniktimes.com/news/dubrovnik/item/19937-british-media-praises-dubrovnik-s-battle-against-mass-tourism</guid>
 <pubDate>Wed, 10 Jun 2026 03:01:18 +0000</pubDate>
 <description>Award-winning travel journalist Greg Dickinson spent several days in Dubrovnik investigating how the city has transformed itself over the past nine ...</description>
-</item>
-<item>
-<title>Spain Overtourism Crisis Escalates As Arrivals Approach Record 100 Million | Streamline</title>
-<link>https://streamlinefeed.co.ke/news/spain-overtourism-crisis-escalates-as-arrivals-approach-record-100-million</link>
-<guid isPermaLink="false">https://streamlinefeed.co.ke/news/spain-overtourism-crisis-escalates-as-arrivals-approach-record-100-million</guid>
-<pubDate>Tue, 09 Jun 2026 20:51:34 +0000</pubDate>
-<description>Spain Overtourism Crisis Escalates As Arrivals Approach Record 100 Million ... Anti-tourism coalitions have mobilized tens of thousands of ...</description>
 </item>
 </channel>
 </rss>

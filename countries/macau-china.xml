@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/macau-china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Macau (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 12 Jun 2026 10:05:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Jun 2026 22:04:56 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Macau: The environmental cost of tourism - Plataforma Media</title>
+<link>https://www.plataformamedia.com/en/2026/06/12/macau-the-environmental-cost-of-tourism/</link>
+<guid isPermaLink="false">https://www.plataformamedia.com/en/2026/06/12/macau-the-environmental-cost-of-tourism/</guid>
+<pubDate>Fri, 12 Jun 2026 07:23:17 +0000</pubDate>
+<description>The 2025 Macau Environmental Report shows a city with cleaner air and lower local greenhouse gas emissions, but also more waste. Municipal solid waste ...</description>
+</item>
 <item>
 <title>Macao Secures Its Place at the Forefront of Responsible Tourism as Sands China ...</title>
 <link>https://www.travelandtourworld.com/news/article/k4deca7ows6a/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://ecomagazine.com/news/coastal/how-macau-strengthened-its-typhoon-resilience-without-massive-seawalls/</guid>
 <pubDate>Sat, 06 Jun 2026 02:10:54 +0000</pubDate>
 <description>Against this backdrop, Professor Hiroshi Takagi from the School of Environment and Society, Institute of Science Tokyo (Science Tokyo), Japan ...</description>
-</item>
-<item>
-<title>International Travel Expo, South China Industry Fair, China Cultural and Natural Heritage Day</title>
-<link>https://www.chinadailyasia.com/article/634537</link>
-<guid isPermaLink="false">https://www.chinadailyasia.com/article/634537</guid>
-<pubDate>Fri, 05 Jun 2026 10:33:28 +0000</pubDate>
-<description>... Macao's historic downtown next week ... The International Travel Expo 2026 is set to return to the Hong Kong Convention and Exhibition Centre ...</description>
 </item>
 </channel>
 </rss>
