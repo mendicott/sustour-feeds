@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/europe.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Europe. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 11 Jun 2026 22:05:29 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Jun 2026 10:05:08 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Vatican and UNESCO: practical impacts on Italy's UNESCO sites - inItaly</title>
+<link>https://www.initaly.it/en/articolo/vaticano-e-unesco-impatti-concreti-sui-siti-unesco-in-italia-19794</link>
+<guid isPermaLink="false">https://www.initaly.it/en/articolo/vaticano-e-unesco-impatti-concreti-sui-siti-unesco-in-italia-19794</guid>
+<pubDate>Thu, 11 Jun 2026 21:24:14 +0000</pubDate>
+<description>Why this matters. Stable coordination between the Holy See and UNESCO can speed up conservation efforts, foster more responsible cultural tourism and ...</description>
+</item>
 <item>
 <title>Montserrat joins UK Blue Belt marine conservation programme - DIVE Magazine</title>
 <link>https://divemagazine.com/scuba-diving-news/montserrat-joins-uk-blue-belt-marine-conservation-programme</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://streamlinefeed.co.ke/news/spain-overtourism-crisis-escalates-as-arrivals-approach-record-100-million</guid>
 <pubDate>Tue, 09 Jun 2026 20:51:34 +0000</pubDate>
 <description>Spain Overtourism Crisis Escalates As Arrivals Approach Record 100 Million ... Anti-tourism coalitions have mobilized tens of thousands of ...</description>
-</item>
-<item>
-<title>Basilica Therma Roman bath in Türkiye enters UNESCO Tentative List</title>
-<link>https://en.yenisafak.com/life/basilica-therma-roman-bath-in-turkiye-added-to-unesco-tentative-list-3719293</link>
-<guid isPermaLink="false">https://en.yenisafak.com/life/basilica-therma-roman-bath-in-turkiye-added-to-unesco-tentative-list-3719293</guid>
-<pubDate>Tue, 09 Jun 2026 18:57:45 +0000</pubDate>
-<description>The ancient Basilica Therma Roman Bath, known locally as "Kral Kizi," has been included on the UNESCO World Heritage Tentative List in Yozgat ...</description>
 </item>
 </channel>
 </rss>

@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://allafrica.com/stories/202606110522.html",
+      "url": "https://allafrica.com/stories/202606110522.html",
+      "title": "Tanzania Film Board Endorses Season Two of Guardians of the Peak - allAfrica.com",
+      "content_text": "... series aimed at promoting environmental conservation, sustainable tourism, and clean energy through film.",
+      "date_published": "2026-06-11T19:53:01+00:00"
+    },
+    {
       "id": "https://www.thetraveler.org/tanzania-rides-solo-safari-boom-reshaping-africa-luxury-travel/",
       "url": "https://www.thetraveler.org/tanzania-rides-solo-safari-boom-reshaping-africa-luxury-travel/",
       "title": "Tanzania Rides Solo Safari Boom Reshaping Africa Luxury Travel",
@@ -68,13 +75,6 @@
       "title": "UNDP to Unlock Tourism Potentials on Lake Victoria Basin - Daily News",
       "content_text": "UNDP is drawing lessons from its successful Zanzibar blue economy projects, including eco-tourism, marine conservation, and sustainable fisheries ...",
       "date_published": "2026-06-07T04:25:51+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/pghpcvzn8ylg/",
-      "url": "https://www.travelandtourworld.com/news/article/pghpcvzn8ylg/",
-      "title": "Zanzibar's Blue Economy Climathon Ignites Climate Innovation as Communities and ...",
-      "content_text": "Zanzibar Blue Economy Climathon drives climate innovation for fisheries, seaweed farming, and eco-tourism with startup solutions and community ...",
-      "date_published": "2026-06-06T21:20:27+00:00"
     }
   ]
 }
