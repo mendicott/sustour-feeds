@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/japan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Japan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 12 Jun 2026 22:04:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2026 10:04:52 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Visitor fee for Japan highland resort Kamikochi eyed for conservation - Kyodo News</title>
+<link>https://english.kyodonews.net/articles/-/77829</link>
+<guid isPermaLink="false">https://english.kyodonews.net/articles/-/77829</guid>
+<pubDate>Sat, 13 Jun 2026 02:06:37 +0000</pubDate>
+<description>... conservation and measures against natural disasters ... Travel/Tourism · World · Sports · Feature · Arts · Podcast · World Cup · About us.</description>
+</item>
 <item>
 <title>Hong Kong's Ecotourism Boom at Breaking Point: Tourist Surges From China, Japan ...</title>
 <link>https://www.travelandtourworld.com/news/article/ay2hrx4fq93f/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://newsonjapan.com/article/149541.php</guid>
 <pubDate>Sat, 06 Jun 2026 05:47:41 +0000</pubDate>
 <description>The recommendation was issued by the International Council on Monuments and Sites (ICOMOS), which advises UNESCO on World Heritage nominations. A ...</description>
-</item>
-<item>
-<title>Tokyo's Shibuya introduces on-the-spot fines for littering amid overtourism - Travel Tomorrow</title>
-<link>https://traveltomorrow.com/tokyos-shibuya-introduces-on-the-spot-fines-for-littering-amid-overtourism/</link>
-<guid isPermaLink="false">https://traveltomorrow.com/tokyos-shibuya-introduces-on-the-spot-fines-for-littering-amid-overtourism/</guid>
-<pubDate>Wed, 03 Jun 2026 14:14:46 +0000</pubDate>
-<description>Shibuya in Tokyo, Japan has introduced on-the-spot fines for littering as it tackles rising waste and overtourism. Visitors can now be fined €10 ...</description>
 </item>
 </channel>
 </rss>

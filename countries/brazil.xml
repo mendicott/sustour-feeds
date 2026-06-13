@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/brazil.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Brazil. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 12 Jun 2026 22:04:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2026 10:04:52 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>US Joins Canada, Australia, New Zealand, Colombia, Mexico, Brazil as Indigenous Tourism ...</title>
@@ -58,6 +58,13 @@
 <description>... tourism projects in order to protect this area and create a sustainable reserve. "This is another of this place's attractions; it is a form of ...</description>
 </item>
 <item>
+<title>These are most underrated destinations in Brazil right now - Quartz</title>
+<link>https://qz.com/most-underrated-destinations-brazil</link>
+<guid isPermaLink="false">https://qz.com/most-underrated-destinations-brazil</guid>
+<pubDate>Thu, 11 Jun 2026 20:48:36 +0000</pubDate>
+<description>Brazil contains six major biomes, each with its own wildlife, landscape character, and ecological distinctiveness. It has a contemporary art museum ...</description>
+</item>
+<item>
 <title>Brazil projects itself as natural tourism powerhouse - EFE Comunica</title>
 <link>https://efecomunica.efe.com/en/brazil-seeks-to-captivate-foreign-tourists-with-stunning-natural-landscapes/</link>
 <guid isPermaLink="false">https://efecomunica.efe.com/en/brazil-seeks-to-captivate-foreign-tourists-with-stunning-natural-landscapes/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://valorinternational.globo.com/environment/news/2026/06/08/half-of-brazils-forests-are-on-private-land.ghtml</guid>
 <pubDate>Tue, 09 Jun 2026 04:02:37 +0000</pubDate>
 <description>Conserved, restored, and planted forests, combined with near-zero deforestation, could enable Brazil to reverse its long-term trend of forest loss and ...</description>
-</item>
-<item>
-<title>In Brazil's Cerrado region, Indigenous fire practices reshape wildfire strategy - AP News</title>
-<link>https://apnews.com/article/brazil-indigenous-wildfires-climate-change-87823ac02fc0af1971dbfc256612baa6</link>
-<guid isPermaLink="false">https://apnews.com/article/brazil-indigenous-wildfires-climate-change-87823ac02fc0af1971dbfc256612baa6</guid>
-<pubDate>Mon, 08 Jun 2026 06:34:29 +0000</pubDate>
-<description>Brazilian environmental officials have followed a zero-fire strategy for land management in the Cerrado savanna in central and northern Brazil.</description>
 </item>
 </channel>
 </rss>

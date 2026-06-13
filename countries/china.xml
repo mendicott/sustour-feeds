@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for China. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 12 Jun 2026 22:04:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2026 10:04:52 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>China tops world rankings for natural heritage conservation - Chinadaily.com.cn</title>
+<link>https://www.chinadaily.com.cn/a/202606/13/WS6a2cbe0da310986e2b45fbd0.html</link>
+<guid isPermaLink="false">https://www.chinadaily.com.cn/a/202606/13/WS6a2cbe0da310986e2b45fbd0.html</guid>
+<pubDate>Sat, 13 Jun 2026 02:21:07 +0000</pubDate>
+<description>Roughly 90 percent of China's natural and mixed natural-cultural UNESCO World Heritage sites have received a "good" or higher rating from the ...</description>
+</item>
 <item>
 <title>Int'l guests spotlight sustainable development, cooperation in central China's Shennongjia</title>
 <link>https://eng.yidaiyilu.gov.cn/p/03JABCL8.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351084</guid>
 <pubDate>Thu, 11 Jun 2026 18:12:26 +0000</pubDate>
 <description>... sustainable development of Chinese ICH tourism. The study employs a ... travel experiences and the mechanisms influencing tourism experience ...</description>
-</item>
-<item>
-<title>Across China: Cultural heritage fuels tourism boom in east China county - Xinhua</title>
-<link>https://english.news.cn/20260611/c7ee567988674100b74321c07d26af15/c.html</link>
-<guid isPermaLink="false">https://english.news.cn/20260611/c7ee567988674100b74321c07d26af15/c.html</guid>
-<pubDate>Thu, 11 Jun 2026 09:14:55 +0000</pubDate>
-<description>Vendors at an intangible cultural heritage night market call out to passersby, while visitors sip tea and enjoy the scenery at nearby teahouses. The ...</description>
 </item>
 </channel>
 </rss>
