@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.travelandtourworld.com/news/article/wtx935m9g7pw/",
+      "url": "https://www.travelandtourworld.com/news/article/wtx935m9g7pw/",
+      "title": "United States Joins United Kingdom, Canada, Australia, South Africa in ... - Travel And Tour World",
+      "content_text": "... endangered species facing significant challenges in the wild. How does conservation tourism benefit destinations? Conservation tourism supports ...",
+      "date_published": "2026-06-13T14:05:36+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/chkgzzt6zzi4/",
       "url": "https://www.travelandtourworld.com/news/article/chkgzzt6zzi4/",
       "title": "India Joins United States, United Kingdom, Australia, Germany, France and Japan as Bhumi ...",
@@ -42,6 +49,13 @@
       "date_published": "2026-06-05T23:57:32+00:00"
     },
     {
+      "id": "https://www.smh.com.au/lifestyle/life-and-relationships/as-a-farm-kid-a-journey-to-this-part-of-australia-took-me-right-back-to-my-childhood-20260603-p603l5.html",
+      "url": "https://www.smh.com.au/lifestyle/life-and-relationships/as-a-farm-kid-a-journey-to-this-part-of-australia-took-me-right-back-to-my-childhood-20260603-p603l5.html",
+      "title": "As a 'farm kid', a journey to this part of Australia took me right back to my childhood - SMH",
+      "content_text": "... agritourism (the intersection of agriculture and tourism) to diversify operations. CSIRO estimates agritourism will be worth about $19 billion by ...",
+      "date_published": "2026-06-13T19:05:51+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/2pka6o1t1ony/",
       "url": "https://www.travelandtourworld.com/news/article/2pka6o1t1ony/",
       "title": "Australia's Underwater Paradise at a Crossroads: Dive Tourism Industry, Great Barrier Reef ...",
@@ -61,20 +75,6 @@
       "title": "Regional Australia can't afford to wait for the tourists to come back - PRWire",
       "content_text": "Across Australia, more regions are developing coordinated agritourism strategies to help local operators build resilience, create jobs and attract ...",
       "date_published": "2026-06-09T09:53:38+00:00"
-    },
-    {
-      "id": "https://divernet.com/scuba-news/protect-our-oceans-or-risk-4-2-billion-tourism-hit/",
-      "url": "https://divernet.com/scuba-news/protect-our-oceans-or-risk-4-2-billion-tourism-hit/",
-      "title": "Protect our oceans or risk $4.2-billion tourism hit - Divernet",
-      "content_text": "Australia's leading dive operators are urging Environment Minister Murray Watt to expand marine sanctuary protections, warning the nation's ...",
-      "date_published": "2026-06-08T09:13:50+00:00"
-    },
-    {
-      "id": "https://minister.dcceew.gov.au/watt/media-releases/world-ocean-day-better-protecting-australias-marine-creatures",
-      "url": "https://minister.dcceew.gov.au/watt/media-releases/world-ocean-day-better-protecting-australias-marine-creatures",
-      "title": "World Ocean Day: Better Protecting Australia's Marine Creatures - Ministers",
-      "content_text": "\"Australia is home to some incredibly unique marine species that are often most at risk to the impacts of climate change, natural disasters, ...",
-      "date_published": "2026-06-08T00:41:56+00:00"
     }
   ]
 }

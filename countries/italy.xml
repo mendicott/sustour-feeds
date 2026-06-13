@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 13 Jun 2026 10:04:52 +0000</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2026 22:04:57 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Spain Joins Italy, Greece, France and Portugal in Massive Anti-Tourism Uprising as ...</title>
+<link>https://www.travelandtourworld.com/news/article/107ffbszizpo/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/107ffbszizpo/</guid>
+<pubDate>Sat, 13 Jun 2026 19:04:07 +0000</pubDate>
+<description>Anti-tourism protests spread across Europe as Spain, Italy, Greece, France and Portugal face overtourism pressure and rising local backlash.</description>
+</item>
 <item>
 <title>Vatican and UNESCO: practical impacts on Italy's UNESCO sites - inItaly</title>
 <link>https://www.initaly.it/en/articolo/vaticano-e-unesco-impatti-concreti-sui-siti-unesco-in-italia-19794</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/k9y0vvfpb40n/</guid>
 <pubDate>Wed, 10 Jun 2026 14:30:09 +0000</pubDate>
 <description>European holiday alert 2026: Radical new overtourism crackdowns high-tech border registration rules completely transform summer getaway plans.</description>
-</item>
-<item>
-<title>Spain Joins Italy, Greece and Portugal in Bold Inland Tourism Overhaul Inspired by Ancient ...</title>
-<link>https://www.travelandtourworld.com/news/article/u8yli3umao2g/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/u8yli3umao2g/</guid>
-<pubDate>Tue, 09 Jun 2026 08:29:10 +0000</pubDate>
-<description>... high-value tourism models. The ... Revenue has been optimized through high-value, low-volume operations targeting ultra-premium market segments.</description>
 </item>
 </channel>
 </rss>
