@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 14 Jun 2026 22:04:40 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 10:05:11 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Places that want to return their World Heritage status to UNESCO. - Vietnam.vn</title>
+<link>https://www.vietnam.vn/en/nhung-noi-muon-tra-lai-danh-hieu-di-san-the-gioi-cho-unesco</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/nhung-noi-muon-tra-lai-danh-hieu-di-san-the-gioi-cho-unesco</guid>
+<pubDate>Mon, 15 Jun 2026 00:35:12 +0000</pubDate>
+<description>"We don't want to restrict tourism, but rather to help it support conservation and heritage. World Heritage sites belong to all of humanity, and we ...</description>
+</item>
 <item>
 <title>The village wants to return its World Heritage status. - Vietnam.vn</title>
 <link>https://www.vietnam.vn/en/ngoi-lang-muon-tra-lai-danh-hieu-di-san-the-gioi</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.vietnam.vn/en/phat-trien-du-lich-sinh-thai-tai-vuon-quoc-gia-xuan-son-phai-gan-voi-bao-ton-rung-dac-dung</guid>
 <pubDate>Thu, 11 Jun 2026 10:30:01 +0000</pubDate>
 <description>All activities related to ecotourism, resort development, or livelihood stabilization programs for people in the buffer zone must be based on the ...</description>
-</item>
-<item>
-<title>Swedish investor proposes net-zero 5-star eco-resort in Vietnam - Tuoi tre news</title>
-<link>https://news.tuoitre.vn/swedish-investor-proposes-net-zero-5-star-eco-resort-in-vietnam-103260609171146033.htm</link>
-<guid isPermaLink="false">https://news.tuoitre.vn/swedish-investor-proposes-net-zero-5-star-eco-resort-in-vietnam-103260609171146033.htm</guid>
-<pubDate>Wed, 10 Jun 2026 14:54:35 +0000</pubDate>
-<description>... climate while contributing to the development of high-quality eco-tourism in the locality. The resort is also expected to directly create around ...</description>
 </item>
 </channel>
 </rss>

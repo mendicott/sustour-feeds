@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/fiji.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Fiji. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 14 Jun 2026 22:04:40 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 10:05:11 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Fiji expands protected ocean zones as it targets illegal fishing and declining stocks</title>
+<link>https://pmn.co.nz/read/pacific-region/fiji-expands-protected-ocean-zones-as-it-targets-illegal-fishing-and-declining-stocks</link>
+<guid isPermaLink="false">https://pmn.co.nz/read/pacific-region/fiji-expands-protected-ocean-zones-as-it-targets-illegal-fishing-and-declining-stocks</guid>
+<pubDate>Mon, 15 Jun 2026 09:02:29 +0000</pubDate>
+<description>Fiji plans to place 15 per cent of its Exclusive Economic Zone ... "Fisheries resources are under pressure due to overfishing, climate change ...</description>
+</item>
 <item>
 <title>Proposed floating island ecotourism project agreed to | Fiji Sun - PressReader</title>
 <link>https://www.pressreader.com/fiji/fiji-sun/20260613/281805700622678</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://oilprice.com/Energy/Energy-General/Fiji-Blocks-Controversial-Australian-Backed-Waste-Incinerator-Project.html</guid>
 <pubDate>Sun, 14 Jun 2026 15:09:57 +0000</pubDate>
 <description>Fiji has rejected a controversial Australian-backed waste-to-energy project, citing environmental, health, tourism, and public-interest concerns ...</description>
-</item>
-<item>
-<title>No project approval without environmental checks - FBC News</title>
-<link>https://www.fbcnews.com.fj/news/no-project-approval-without-environmental-checks/</link>
-<guid isPermaLink="false">https://www.fbcnews.com.fj/news/no-project-approval-without-environmental-checks/</guid>
-<pubDate>Sun, 14 Jun 2026 01:29:21 +0000</pubDate>
-<description>June 14, 2026 11:15 am. [The Ministry of Environment and Climate Change/Facebook]. Development projects in Fiji will face ...</description>
 </item>
 </channel>
 </rss>
