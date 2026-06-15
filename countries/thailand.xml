@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/thailand.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Thailand. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 15 Jun 2026 10:05:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 22:06:16 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Maya Bay: How conservationists saved Thailand's most famous beach from ruin | CNN</title>
+<link>https://edition.cnn.com/travel/article/maya-bay-thailand-recovery-c2e-spc-intl?from=mdr</link>
+<guid isPermaLink="false">https://edition.cnn.com/travel/article/maya-bay-thailand-recovery-c2e-spc-intl?from=mdr</guid>
+<pubDate>Mon, 15 Jun 2026 17:53:37 +0000</pubDate>
+<description>Back in 2018, Thai officials announced the indefinite closure of Maya Bay – made popular by 2000 film "The Beach" – to repair years of damage ...</description>
+</item>
 <item>
 <title>Forest Carbon Credit Initiative Bridges Thai Communities with Global Markets - Nation Thailand</title>
 <link>https://www.nationthailand.com/pr-news/sustaination/40067377</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://thethaiger.com/hot-news/environment/sig-and-wwf-forest-conservation-partnership-in-thailand</guid>
 <pubDate>Fri, 05 Jun 2026 06:49:09 +0000</pubDate>
 <description>Two years into their Forests Forward partnership, SIG and WWF-Thailand detail progress across 60000 hectares of Thai forest landscapes.</description>
-</item>
-<item>
-<title>Cambodia Joins Myanmar, Thailand, Vietnam, Laos and China at Mekong Tourism Forum ...</title>
-<link>https://www.travelandtourworld.com/news/article/h7vmulek966t/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/h7vmulek966t/</guid>
-<pubDate>Mon, 15 Jun 2026 04:02:37 +0000</pubDate>
-<description>The Mekong Tourism Forum 2026 is being hosted in Yangon under the theme of tourism that benefits communities while encouraging purposeful travel ...</description>
 </item>
 </channel>
 </rss>

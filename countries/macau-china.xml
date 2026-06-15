@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/macau-china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Macau (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 15 Jun 2026 10:05:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 22:06:16 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Colombia arrests US citizen after alleged child abuse | Macau Business</title>
+<link>https://macaubusiness.com/colombia-arrests-us-citizen-after-alleged-child-abuse/</link>
+<guid isPermaLink="false">https://macaubusiness.com/colombia-arrests-us-citizen-after-alleged-child-abuse/</guid>
+<pubDate>Mon, 15 Jun 2026 15:09:26 +0000</pubDate>
+<description>Several high-profile cases of children being exploited by foreigners in recent years have put the local government on guard against sex tourism. A ...</description>
+</item>
 <item>
 <title>Calmcation: Slowing Down at Your Own Pace at Four Seasons Tented Camp Golden Triangle</title>
 <link>https://www.newswit.com/en/iersv957ekcz3mvk6y5qo5bqj1y5m5l9</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.gov.mo/en/news/402683/</guid>
 <pubDate>Fri, 12 Jun 2026 18:39:03 +0000</pubDate>
 <description>Through this photography exhibition, it aims to present valuable archives to the world, deepen the public's understanding of archival preservation and ...</description>
-</item>
-<item>
-<title>MBtv: From "sightseeing" to "factory touring" - China's growing industrial tourism</title>
-<link>https://macaubusiness.com/mbtv-from-sightseeing-to-factory-touring-chinas-growing-industrial-tourism/</link>
-<guid isPermaLink="false">https://macaubusiness.com/mbtv-from-sightseeing-to-factory-touring-chinas-growing-industrial-tourism/</guid>
-<pubDate>Sun, 14 Jun 2026 11:24:52 +0000</pubDate>
-<description>China, Macau, MB.tv, MB.tv Featured, Reports | Industrial tourism is gaining popularity among Chinese visitors, reshaping the landscape of the ...</description>
 </item>
 </channel>
 </rss>

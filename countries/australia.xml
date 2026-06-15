@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/australia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Australia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 15 Jun 2026 10:05:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 22:06:16 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>New study finds more climate-resilient coral reefs than thought | The Australian</title>
+<link>https://www.theaustralian.com.au/nation/global-map-reveals-huge-network-of-coral-reefs-that-could-survive-climate-crisis/news-story/9fd31fee7eb2d8fbb8aeba861afffe59?amp</link>
+<guid isPermaLink="false">https://www.theaustralian.com.au/nation/global-map-reveals-huge-network-of-coral-reefs-that-could-survive-climate-crisis/news-story/9fd31fee7eb2d8fbb8aeba861afffe59?amp</guid>
+<pubDate>Mon, 15 Jun 2026 14:26:34 +0000</pubDate>
+<description>Travel · Education · Media · Technology · Science · Podcasts · Video; More ... coral reef ecosystems. Instead, we now know there are far more reefs ...</description>
+</item>
 <item>
 <title>Queensland secures Australia's second Conserved Area - Ministerial Media Statements</title>
 <link>https://statements.qld.gov.au/statements/105294</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.smh.com.au/traveller/inspiration/there-s-a-new-way-to-stay-on-one-of-australia-s-most-exclusive-islands-20260605-p6048p.html</guid>
 <pubDate>Mon, 15 Jun 2026 00:42:00 +0000</pubDate>
 <description>A 400-visitor cap, World Heritage protections and the fact that ... travel moments only the lucky few get to see · Travel tips · Fourteen of the ...</description>
-</item>
-<item>
-<title>Thailand's Similan Islands: Cerulean waters, fragile edges | The West Australian</title>
-<link>https://thewest.com.au/travel/thailands-similan-islands-cerulean-waters-fragile-edges-c-22340192</link>
-<guid isPermaLink="false">https://thewest.com.au/travel/thailands-similan-islands-cerulean-waters-fragile-edges-c-22340192</guid>
-<pubDate>Sun, 14 Jun 2026 07:56:13 +0000</pubDate>
-<description>... Phuket, anxious that we might miss our shuttle van. ... It's a reminder that even with environmental measures in place, the effects of overtourism are ...</description>
 </item>
 </channel>
 </rss>

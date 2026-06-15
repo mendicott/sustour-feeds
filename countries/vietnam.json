@@ -7,6 +7,20 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.vietnam.vn/en/nguoi-dan-con-phong-nam-tap-lam-du-lich-cong-dong",
+      "url": "https://www.vietnam.vn/en/nguoi-dan-con-phong-nam-tap-lam-du-lich-cong-dong",
+      "title": "The people of Phong Nam islet are starting to develop community tourism. - Vietnam.vn",
+      "content_text": "... community tourism and officially opened its doors to visitors on June 13th ... In community-based tourism, ensuring guests are welcomed with pleasure ...",
+      "date_published": "2026-06-15T15:15:13+00:00"
+    },
+    {
+      "id": "https://www.vietnam.vn/en/khai-mo-khong-gian-du-lich-dai-ngan-phia-tay-tinh-lam-dong",
+      "url": "https://www.vietnam.vn/en/khai-mo-khong-gian-du-lich-dai-ngan-phia-tay-tinh-lam-dong",
+      "title": "Opening up tourism opportunities in the vast forests of western Lam Dong province. - Vietnam.vn",
+      "content_text": "With its pristine natural ecosystem, world-class geological heritage, rich cultural identity, and distinctive agricultural practices, western Lam Dong ...",
+      "date_published": "2026-06-15T08:00:36+00:00"
+    },
+    {
       "id": "https://www.vietnam.vn/en/nhung-noi-muon-tra-lai-danh-hieu-di-san-the-gioi-cho-unesco",
       "url": "https://www.vietnam.vn/en/nhung-noi-muon-tra-lai-danh-hieu-di-san-the-gioi-cho-unesco",
       "title": "Places that want to return their World Heritage status to UNESCO. - Vietnam.vn",
@@ -61,20 +75,6 @@
       "title": "Sri Lanka - Where nature, memories, and hospitality tell a story together. - Vietnam.vn",
       "content_text": "... travel. That spirit, that aroma, that flavor is also reflected in ... I think, for Sri Lanka, sustainable tourism development shouldn't begin ...",
       "date_published": "2026-06-13T01:03:38+00:00"
-    },
-    {
-      "id": "https://www.vietnam.vn/en/lao-cai-hang-loat-xa-trien-khai-lay-y-kien-do-an-quy-hoach-chung",
-      "url": "https://www.vietnam.vn/en/lao-cai-hang-loat-xa-trien-khai-lay-y-kien-do-an-quy-hoach-chung",
-      "title": "Lao Cai: Numerous communes begin soliciting feedback on general planning projects. - Vietnam.vn",
-      "content_text": "Sub-region 2 is oriented towards sustainable forestry development linked with ecotourism and community tourism, effectively exploiting the ...",
-      "date_published": "2026-06-11T11:15:38+00:00"
-    },
-    {
-      "id": "https://www.vietnam.vn/en/phat-trien-du-lich-sinh-thai-tai-vuon-quoc-gia-xuan-son-phai-gan-voi-bao-ton-rung-dac-dung",
-      "url": "https://www.vietnam.vn/en/phat-trien-du-lich-sinh-thai-tai-vuon-quoc-gia-xuan-son-phai-gan-voi-bao-ton-rung-dac-dung",
-      "title": "Developing ecotourism in Xuan Son National Park must be linked to the conservation ... - Vietnam.vn",
-      "content_text": "All activities related to ecotourism, resort development, or livelihood stabilization programs for people in the buffer zone must be based on the ...",
-      "date_published": "2026-06-11T10:30:01+00:00"
     }
   ]
 }

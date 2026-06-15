@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/peru.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Peru. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 15 Jun 2026 10:05:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 22:06:16 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mexico Joins Brazil, Peru, Colombia, Jamaica, Argentina, Dominican Republic and More in ...</title>
+<link>https://www.travelandtourworld.com/news/article/dvui0xikjgl4/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/dvui0xikjgl4/</guid>
+<pubDate>Mon, 15 Jun 2026 16:07:31 +0000</pubDate>
+<description>UNESCO expands sustainable tourism and heritage safeguarding across Latin America &amp; Caribbean to build climate resilience and community growth.</description>
+</item>
 <item>
 <title>The Terraces of Cuyocuyo: an ancestral model that protects biodiversity and strengthens ...</title>
 <link>https://noticiasambientales.com/environment-en/the-terraces-of-cuyocuyo-an-ancestral-model-that-protects-biodiversity-and-strengthens-climate-resilience/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.ifpri.org/blog/making-food-system-costs-visible-a-policy-imperative-for-colombia-and-peru/</guid>
 <pubDate>Thu, 04 Jun 2026 22:47:24 +0000</pubDate>
 <description>Livestock system vs. crop production impacts. In both countries, environmental externalities dominate. Harmful land use, climate change, air pollution ...</description>
-</item>
-<item>
-<title>Chile Joins Norway, Ethiopia, India, Portugal, Peru, Russia, New Zealand and Colombia in ...</title>
-<link>https://www.travelandtourworld.com/news/article/0u6izsd7h0b5/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/0u6izsd7h0b5/</guid>
-<pubDate>Mon, 15 Jun 2026 01:41:59 +0000</pubDate>
-<description>Global index reveals 15 hidden natural wonders across Chile, Ethiopia and Norway showing what others are missing to in 2026 travel trends.</description>
 </item>
 </channel>
 </rss>
