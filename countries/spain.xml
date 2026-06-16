@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 15 Jun 2026 22:06:16 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 10:05:49 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Spain expands its marine protected areas to 22.5%, moving towards the 30% target for 2030</title>
+<link>https://noticiasambientales.com/environment-en/spain-expands-its-marine-protected-areas-to-22-5-moving-towards-the-30-target-for-2030/</link>
+<guid isPermaLink="false">https://noticiasambientales.com/environment-en/spain-expands-its-marine-protected-areas-to-22-5-moving-towards-the-30-target-for-2030/</guid>
+<pubDate>Tue, 16 Jun 2026 00:11:08 +0000</pubDate>
+<description>Specialized training has been crucial, with more than 6,300 professionals trained in protected area management and ecological monitoring. These ...</description>
+</item>
 <item>
 <title>Namibia Joins India, Spain, UAE, Jordan, Chile and More Countries Around the World in ...</title>
 <link>https://www.travelandtourworld.com/news/article/kpmsz1bj6uw8/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.euronews.com/my-europe/2026/06/04/overtourism-which-european-countries-are-becoming-the-most-hostile-to-travellers</guid>
 <pubDate>Sat, 06 Jun 2026 03:49:39 +0000</pubDate>
 <description>Spain, Italy, and France are the top three European countries where the backlash against mass tourism is the strongest, according to a new study by ...</description>
-</item>
-<item>
-<title>Europe Experiences Rising Overtourism Backlash as Spain, Italy and France Lead Strong ...</title>
-<link>https://www.travelandtourworld.com/news/article/6bjwmrv1vk7g/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/6bjwmrv1vk7g/</guid>
-<pubDate>Fri, 05 Jun 2026 19:08:23 +0000</pubDate>
-<description>Rapid visitor growth sparks overtourism protests and policy responses in Spain, Italy and France as communities push back on mass tourism ...</description>
 </item>
 </channel>
 </rss>
