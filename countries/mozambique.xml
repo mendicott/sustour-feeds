@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../feed.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Sustainable Tourism — Mozambique</title>
+<link>https://mendicott.github.io/sustour-feeds</link>
+<atom:link href="https://mendicott.github.io/sustour-feeds/countries/mozambique.xml" rel="self" type="application/rss+xml" />
+<description>Top 10 most recent sustainable-tourism items for Mozambique. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
+<lastBuildDate>Tue, 16 Jun 2026 21:26:47 +0000</lastBuildDate>
+<language>en</language>
+<item>
+<title>Paradise on the Indian Ocean: Mozambique's Untapped Tourism Frontier</title>
+<link>https://panafricanvisions.com/2026/06/paradise-on-the-indian-ocean-mozambiques-untapped-tourism-frontier/</link>
+<guid isPermaLink="false">https://panafricanvisions.com/2026/06/paradise-on-the-indian-ocean-mozambiques-untapped-tourism-frontier/</guid>
+<pubDate>Tue, 16 Jun 2026 17:14:16 +0000</pubDate>
+<description>From the Bazaruto Archipelago to Gorongosa National Park, Mozambique is steadily emerging as one of Africa's most compelling tourism destinations.</description>
+</item>
+<item>
+<title>Three Indians stranded in Mozambique seek government help after visa issues - The Hindu</title>
+<link>https://www.thehindu.com/news/national/karnataka/three-indians-stranded-in-mozambique-seek-government-help-after-visa-issues/article71108987.ece</link>
+<guid isPermaLink="false">https://www.thehindu.com/news/national/karnataka/three-indians-stranded-in-mozambique-seek-government-help-after-visa-issues/article71108987.ece</guid>
+<pubDate>Tue, 16 Jun 2026 13:01:33 +0000</pubDate>
+<description>Three Indians in Mozambique seek urgent government assistance after visa issues and lost travel documents ... travel. Punith Kumar R., State ...</description>
+</item>
+</channel>
+</rss>

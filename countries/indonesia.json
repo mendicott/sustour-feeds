@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Indonesia",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/indonesia.json",
+  "description": "Top 10 most recent sustainable-tourism items for Indonesia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://macaubusiness.com/agoda-unveils-asias-hidden-nature-retreats-for-2026/",
+      "url": "https://macaubusiness.com/agoda-unveils-asias-hidden-nature-retreats-for-2026/",
+      "title": "Agoda Unveils Asia's Hidden Nature Retreats for 2026 | Macau Business",
+      "content_text": "Labuan Bajo, Indonesia, is emerging as a gateway to the UNESCO World Heritage site of Komodo National Park. Known for its unique landscape and the ...",
+      "date_published": "2026-06-05T20:47:32+00:00"
+    },
+    {
+      "id": "https://voi.id/en/lifestyle/580133",
+      "url": "https://voi.id/en/lifestyle/580133",
+      "title": "Trail Run for Conservation, WWF invites the public to save the habitat of Sumatran elephants",
+      "content_text": "This trail run event is a collaboration between WWF-Indonesia and SalingJaga (Kitabisa), which carries the theme \"Every Step Echoes Convervation\". The ...",
+      "date_published": "2026-06-15T17:45:03+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/vjzng2dwynz9/",
+      "url": "https://www.travelandtourworld.com/news/article/vjzng2dwynz9/",
+      "title": "Thailand Joins Indonesia, Vietnam, Philippines, Cambodia, Laos, Myanmar and Sri Lanka ...",
+      "content_text": "... ethical tourism practices. Sustainability-focused guide training was ... Khiri Travel promotes travel to emerging and lesser-visited destinations, ...",
+      "date_published": "2026-06-06T11:51:11+00:00"
+    },
+    {
+      "id": "https://www.reuters.com/business/energy/china-mine-disaster-indonesia-policy-changes-upend-global-coal-market-2026-06-16/",
+      "url": "https://www.reuters.com/business/energy/china-mine-disaster-indonesia-policy-changes-upend-global-coal-market-2026-06-16/",
+      "title": "China mine disaster, Indonesia policy changes upend global coal market | Reuters",
+      "content_text": "Climate & Energy · Grid & Infrastructure · LNG · Coal · Gas ... climate change. In his previous avatar, he reported on sanctions-era global trade, human ...",
+      "date_published": "2026-06-16T12:53:38+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/9nl6lh7rksku/",
+      "url": "https://www.travelandtourworld.com/news/article/9nl6lh7rksku/",
+      "title": "New Zealand Joins Thailand, Vietnam, Indonesia, Malaysia, Singapore, Philippines, Sri ...",
+      "content_text": "... Green Tourism Growth Across Asia Pacific ... tourism infrastructure, green travel, and destination competitiveness has become impossible to ignore.",
+      "date_published": "2026-06-09T07:10:42+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/pobhkqapv3ey/",
+      "url": "https://www.travelandtourworld.com/news/article/pobhkqapv3ey/",
+      "title": "Greece Joins Kenya, Italy, Tanzania, Portugal, Spain, Indonesia and More Countries in the ...",
+      "content_text": "Marine park protection: Coral reefs and marine reserves need stricter ... I want to receive travel news and trade event updates from Travel And Tour ...",
+      "date_published": "2026-06-07T03:26:14+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/zzl2e1pkdn3i/",
+      "url": "https://www.travelandtourworld.com/news/article/zzl2e1pkdn3i/",
+      "title": "Vietnam Joins Thailand, Indonesia, Malaysia, Singapore, Philippines, Cambodia, and ...",
+      "content_text": "Brunei and Vietnam Embrace Slow Travel. Brunei has successfully targeted travelers interested in slow tourism experiences. Longer stays centered on ...",
+      "date_published": "2026-06-04T02:57:37+00:00"
+    },
+    {
+      "id": "https://qz.com/best-places-vacation-around-world-summer",
+      "url": "https://qz.com/best-places-vacation-around-world-summer",
+      "title": "The best places to vacation around the world this summer - Quartz",
+      "content_text": "Indonesia's Sumba Island operates on a climatic calendar that inverts the standard Southeast Asia summer travel logic: while Bali, Thailand, and ...",
+      "date_published": "2026-06-16T20:47:37+00:00"
+    },
+    {
+      "id": "https://www.stuff.co.nz/world-news/360993850/67-magnitude-earthquake-shakes-part-indonesia-causing-d",
+      "url": "https://www.stuff.co.nz/world-news/360993850/67-magnitude-earthquake-shakes-part-indonesia-causing-d",
+      "title": "A 6.7 magnitude earthquake shakes part of Indonesia, causing damage and injuries | Stuff",
+      "content_text": "Footage shows tremors destroying shops and splitting roads causing travel issues. Video Player is loading. Play Video. Play Skip Backward Skip ...",
+      "date_published": "2026-06-16T19:12:14+00:00"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=6KhjqpMxI7M",
+      "url": "https://www.youtube.com/watch?v=6KhjqpMxI7M",
+      "title": "1st Visuals- Strong 6.7 Quake Shakes Buildings, Panic In Hospital, People Flee - YouTube",
+      "content_text": "Indonesia Earthquake: 1st Visuals- Strong 6.7 Quake Shakes Buildings, Panic In Hospital, People Flee A 6.7 magnitude earthquake shook part of ...",
+      "date_published": "2026-06-16T18:05:51+00:00"
+    }
+  ]
+}

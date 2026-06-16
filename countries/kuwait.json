@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Kuwait",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/kuwait.json",
+  "description": "Top 10 most recent sustainable-tourism items for Kuwait. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.iqair.com/kw/newsroom/how-desertification-reshapes-the-planet",
+      "url": "https://www.iqair.com/kw/newsroom/how-desertification-reshapes-the-planet",
+      "title": "How desertification reshapes the planet | IQAir Kuwait",
+      "content_text": "The process is increasing globally due to climate change and rising temperatures. Transforming soil to desert creates sand and dust which can then be ...",
+      "date_published": "2026-06-15T19:17:58+00:00"
+    },
+    {
+      "id": "https://www.egypttoday.com/Article/1/147819/EgyptAir-to-resume-flights-to-Kuwait-starting-Wednesday",
+      "url": "https://www.egypttoday.com/Article/1/147819/EgyptAir-to-resume-flights-to-Kuwait-starting-Wednesday",
+      "title": "EgyptAir to resume flights to Kuwait starting Wednesday - EgyptToday",
+      "content_text": "... Kuwait starting Wednesday, June 17 ... Customers may also visit www.egyptair.com or contact the nearest EgyptAir sales office or their travel agent.",
+      "date_published": "2026-06-16T21:06:19+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/ajmyonxubybh/",
+      "url": "https://www.travelandtourworld.com/news/article/ajmyonxubybh/",
+      "title": "US Joins Iran, United Arab Emirates, Oman, Qatar, Bahrain, Saudi Arabia, Kuwait, Iraq ...",
+      "content_text": "BREAKING: Strait of Hormuz travel boom! Why Dubai, Muscat & Doha brace for a historic tourism, cruise & shipping surge. Essential 2026 Gulf travel ...",
+      "date_published": "2026-06-16T18:37:23+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/eme161f2bafj/",
+      "url": "https://www.travelandtourworld.com/news/article/eme161f2bafj/",
+      "title": "Saint Lucia Joins Bahamas, Aruba, Puerto Rico, Jamaica, Dominican Republic, Antigua ...",
+      "content_text": "UAE, Saudi Arabia, Kuwait and Bahrain remain critical global aviation and tourism ... Tags: bahamas, caribbean tourism, Middle East Travel, Saint Lucia, ...",
+      "date_published": "2026-06-16T18:21:50+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/nkj23hyl5u5s/",
+      "url": "https://www.travelandtourworld.com/news/article/nkj23hyl5u5s/",
+      "title": "Saudi Arabia Joins United Arab Emirates, Qatar, Oman, Bahrain and Kuwait to Ignite a ...",
+      "content_text": "GCC Luxury Tourism Moves from Prestige Hotels to Premium Travel Ecosystems. The future of luxury tourism in the GCC is being shaped by a clear shift ...",
+      "date_published": "2026-06-16T18:14:23+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/ibvqyk95ueb8/",
+      "url": "https://www.travelandtourworld.com/news/article/ibvqyk95ueb8/",
+      "title": "Iran Joins United States, Saudi Arabia, UAE, Kuwait and Qatar Amid Fragile Gulf Stability as ...",
+      "content_text": "Strait of Hormuz disruption continues despite US-Iran ceasefire efforts, impacting Gulf travel, cruise routes, aviation, energy markets and ...",
+      "date_published": "2026-06-16T18:10:22+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/untkfyu5tcg0/",
+      "url": "https://www.travelandtourworld.com/news/article/untkfyu5tcg0/",
+      "title": "United Arab Emirates Joins Qatar, Bahrain, Oman, Kuwait, Iraq, And More ... - Travel And Tour World",
+      "content_text": "United Arab Emirates joins Qatar, Bahrain, Oman, Kuwait, Iraq and more countries in targeting tourism growth through insurance-led air travel ...",
+      "date_published": "2026-06-16T18:09:10+00:00"
+    },
+    {
+      "id": "https://www.cntravellerme.com/story/kuwait-international-airports-terminal-4-to-open-to-international-airlines",
+      "url": "https://www.cntravellerme.com/story/kuwait-international-airports-terminal-4-to-open-to-international-airlines",
+      "title": "Kuwait International Airport's Terminal 4 to open to international airlines",
+      "content_text": "A plane of Kuwait Airways approaches Kuwait International Airport in Farwaniya Governorate Kuwait April 26 2026 ... travel period, forcing many to ...",
+      "date_published": "2026-06-16T15:44:33+00:00"
+    },
+    {
+      "id": "https://timeskuwait.com/kuwait-to-soon-resume-limited-international-flights-through-terminal-4/",
+      "url": "https://timeskuwait.com/kuwait-to-soon-resume-limited-international-flights-through-terminal-4/",
+      "title": "Kuwait to soon resume limited international flights through Terminal 4",
+      "content_text": "He called on travelers to arrive at the airport at least three hours before departure to ensure smooth completion of travel procedures and avoid ...",
+      "date_published": "2026-06-16T14:46:31+00:00"
+    },
+    {
+      "id": "https://blog.wego.com/kuwait-foreign-investor-residency-what-the-new-15-year-permit-really-demands/",
+      "url": "https://blog.wego.com/kuwait-foreign-investor-residency-what-the-new-15-year-permit-really-demands/",
+      "title": "Kuwait Foreign Investor Residency: What the New 15-Year Permit Really Demands",
+      "content_text": "Travel policies, prices, visa requirements, and conditions can change rapidly. We strongly recommend verifying critical details with official ...",
+      "date_published": "2026-06-16T11:12:53+00:00"
+    }
+  ]
+}

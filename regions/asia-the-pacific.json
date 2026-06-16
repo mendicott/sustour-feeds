@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Asia & the Pacific",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/regions/asia-the-pacific.json",
+  "description": "Top 10 most recent sustainable-tourism items for Asia & the Pacific. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.travelandtourworld.com/news/article/utril92dawj6/",
+      "url": "https://www.travelandtourworld.com/news/article/utril92dawj6/",
+      "title": "Vietnam's New National Park Ecotourism Uncovers a Rare Wetland Paradise Caught ...",
+      "content_text": "U Minh Hạ National Park ecotourism highlights Vietnam eco tourism growth, wetland travel, and conservation challenges.",
+      "date_published": "2026-06-16T21:16:47+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/4jf0e2w0vzv3/",
+      "url": "https://www.travelandtourworld.com/news/article/4jf0e2w0vzv3/",
+      "title": "Slovakia Joins Tanzania, Italy, China and Morocco as UNESCO World Heritage Tourism ...",
+      "content_text": "Slovakia and Tanzania join Italy, China and Morocco in spotlight as UNESCO tourism growth raises overtourism, heritage preservation and community ...",
+      "date_published": "2026-06-15T20:21:24+00:00"
+    },
+    {
+      "id": "https://vietnamnews.vn/life-style/1782882/unesco-names-phong-nha-ke-bang-a-world-biosphere-reserve.html",
+      "url": "https://vietnamnews.vn/life-style/1782882/unesco-names-phong-nha-ke-bang-a-world-biosphere-reserve.html",
+      "title": "UNESCO names Phong Nha–Kẻ Bàng a World Biosphere Reserve - Vietnam News",
+      "content_text": "The landmark designation highlights the park's global significance and is set to boost conservation, community livelihoods, and sustainable tourism in",
+      "date_published": "2026-06-06T09:51:41+00:00"
+    },
+    {
+      "id": "https://www.thecooldown.com/green-tech/coral-reef-restoration-pom-pom-island/",
+      "url": "https://www.thecooldown.com/green-tech/coral-reef-restoration-pom-pom-island/",
+      "title": "Devastated coral reefs off a remote island are getting a second chance with surprising help: concrete",
+      "content_text": "... coral reef around Pom Pom Island in Malaysia have been ruined by climate change and blast fishing. A conservation group hopes to restore the area ...",
+      "date_published": "2026-06-08T20:36:14+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/tag/saudi-arabia-biodiversity-tourism/",
+      "url": "https://www.travelandtourworld.com/news/article/tag/saudi-arabia-biodiversity-tourism/",
+      "title": "Saudi Arabia biodiversity tourism - Travel And Tour World",
+      "content_text": "Jazan showcases its native chaste tree, enhancing biodiversity, eco-tourism potential, and promoting sustainable tourism under Saudi Vision 2030 ...",
+      "date_published": "2026-06-07T11:06:58+00:00"
+    },
+    {
+      "id": "https://www.dawn.com/news/amp/2005747",
+      "url": "https://www.dawn.com/news/amp/2005747",
+      "title": "KMC to develop mangrove park at China Creek - Newspaper - DAWN.COM",
+      "content_text": "KARACHI: In a significant initiative aimed at strengthening environmental sustainability, promoting eco-tourism and ... Biodiversity Park and Learning ...",
+      "date_published": "2026-06-07T00:57:07+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/q6307xicn0jz/",
+      "url": "https://www.travelandtourworld.com/news/article/q6307xicn0jz/",
+      "title": "Saudi Arabia Surpasses Oman, UAE, Qatar, Bahrain, Jordan and Others in Ecotourism ...",
+      "content_text": "Desert Tourism. Eco Retreats, Sustainable Hospitality. Qatar Uses Mangroves, Desert Landscapes and Biosphere Reserves to Grow Sustainable Tourism.",
+      "date_published": "2026-06-06T11:38:08+00:00"
+    },
+    {
+      "id": "https://www.chosun.com/english/travel-food-en/2026/06/06/HYDJF3APHNFG5FJKGC2RHWHR6A/",
+      "url": "https://www.chosun.com/english/travel-food-en/2026/06/06/HYDJF3APHNFG5FJKGC2RHWHR6A/",
+      "title": "Korean Tidal Flats Expansion Recommended by UNESCO Advisory Body",
+      "content_text": "The Korea Heritage Service announced on the 5th that the International Union for Conservation of Nature (IUCN), an advisory body to the UNESCO World ...",
+      "date_published": "2026-06-06T07:50:02+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/1e91twe1bfs2/",
+      "url": "https://www.travelandtourworld.com/news/article/1e91twe1bfs2/",
+      "title": "Oman Joins UAE, Saudi Arabia, Jordan, and Egypt in Expanding Protected Desert Safari ...",
+      "content_text": "... Coral Reef Conservation to Promote Sustainable Eco-Tourism Across the Middle East. Published on June 6, 2026. Loading Audio Player By Instaread ...",
+      "date_published": "2026-06-06T07:44:02+00:00"
+    },
+    {
+      "id": "https://macaubusiness.com/agoda-unveils-asias-hidden-nature-retreats-for-2026/",
+      "url": "https://macaubusiness.com/agoda-unveils-asias-hidden-nature-retreats-for-2026/",
+      "title": "Agoda Unveils Asia's Hidden Nature Retreats for 2026 | Macau Business",
+      "content_text": "Labuan Bajo, Indonesia, is emerging as a gateway to the UNESCO World Heritage site of Komodo National Park. Known for its unique landscape and the ...",
+      "date_published": "2026-06-05T20:47:32+00:00"
+    }
+  ]
+}

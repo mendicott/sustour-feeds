@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — India",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/india.json",
+  "description": "Top 10 most recent sustainable-tourism items for India. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "http://www.uniindia.com/~/north-east-plays-an-important-role-in-india-s-growth-story-shekhawat/States/news/3878922.html",
+      "url": "http://www.uniindia.com/~/north-east-plays-an-important-role-in-india-s-growth-story-shekhawat/States/news/3878922.html",
+      "title": "North East plays an important role in India's growth story: Shekhawat",
+      "content_text": "... tourism and innovation, playing an ... a premier tourism destination. Discussions focused on sustainable tourism, heritage conservation ...",
+      "date_published": "2026-06-16T16:34:59+00:00"
+    },
+    {
+      "id": "https://carbon-pulse.com/522684/?site=cpp",
+      "url": "https://carbon-pulse.com/522684/?site=cpp",
+      "title": "India, Japan adopt rules under JCM, paving way for Article 6 projects - Carbon Pulse",
+      "content_text": "Carbon Pulse is a subscription-based service providing unrivalled news and intelligence on carbon pricing and climate change policies. See what we ...",
+      "date_published": "2026-06-16T16:05:47+00:00"
+    },
+    {
+      "id": "https://northeasttoday.in/northeast/arunachal-pradesh/arunachal-wins-big-at-india-today-tourism-awards-2026-siang-river-rafting-lumpo-homestay-honoured/",
+      "url": "https://northeasttoday.in/northeast/arunachal-pradesh/arunachal-wins-big-at-india-today-tourism-awards-2026-siang-river-rafting-lumpo-homestay-honoured/",
+      "title": "Arunachal Wins Big At India Today Tourism Awards 2026: Siang River Rafting, Lumpo ...",
+      "content_text": "\"May this achievement inspire us to continue promoting sustainable and responsible tourism across the State,\" the Deputy Chief Minister added. The ...",
+      "date_published": "2026-06-16T19:49:40+00:00"
+    },
+    {
+      "id": "https://www.indiatoday.in/amp/movies/celebrities/story/dia-mirza-clarifies-patriarchy-climate-change-remark-after-backlash-2928101-2026-06-16",
+      "url": "https://www.indiatoday.in/amp/movies/celebrities/story/dia-mirza-clarifies-patriarchy-climate-change-remark-after-backlash-2928101-2026-06-16",
+      "title": "Dia Mirza doubles down on 'patriarchy causes climate change' claim - India Today",
+      "content_text": "Dia Mirza has explained her remarks linking patriarchy to climate change after online backlash. She said her comments were about unequal power ...",
+      "date_published": "2026-06-16T17:56:19+00:00"
+    },
+    {
+      "id": "https://www.uniindia.com/~/lg-clears-shan-society-to-protect-snow-leopards-biodiversity-in-ladakh/States/news/3878866.html",
+      "url": "https://www.uniindia.com/~/lg-clears-shan-society-to-protect-snow-leopards-biodiversity-in-ladakh/States/news/3878866.html",
+      "title": "LG clears SHAN society to protect snow leopards, biodiversity in Ladakh - UNITED NEWS OF INDIA",
+      "content_text": "... tourism and sustainable livelihood. Since assuming charge as the Lieutenant Governor of Ladakh, Saxena has consistently placed environmental ...",
+      "date_published": "2026-06-16T15:57:08+00:00"
+    },
+    {
+      "id": "https://technode.global/2026/06/16/japans-murata-tribe-launch-medtech-open-innovation-programme-for-asean-and-india-startups/",
+      "url": "https://technode.global/2026/06/16/japans-murata-tribe-launch-medtech-open-innovation-programme-for-asean-and-india-startups/",
+      "title": "Japan's Murata Tribe launch MedTech open innovation program for ASEAN and India startups",
+      "content_text": "... environment-linked health risks from pollution, heat, and climate change; and expanding access to affordable screening and diagnosis beyond major ...",
+      "date_published": "2026-06-16T14:50:14+00:00"
+    },
+    {
+      "id": "http://www.uniindia.com/news/north/environment-world-croc-day/3878603.html",
+      "url": "http://www.uniindia.com/news/north/environment-world-croc-day/3878603.html",
+      "title": "World Croc Day Special: UP's Gharial success story draws attention beyond India",
+      "content_text": "... eco-tourism destination. \"World Croc Day is an opportunity to highlight the importance of conserving rare aquatic wildlife and protecting river ...",
+      "date_published": "2026-06-16T14:06:19+00:00"
+    },
+    {
+      "id": "https://nepalitimes.com/balancing-conservation-conservatives-with-pragmatism",
+      "url": "https://nepalitimes.com/balancing-conservation-conservatives-with-pragmatism",
+      "title": "Balancing conservation conservatives with pragmatism - Nepali Times",
+      "content_text": "Menon compares KVPT projects with that of the Indian National Trust for Art and Cultural Heritage ... travel and society. Editor: Sonia Awale ...",
+      "date_published": "2026-06-16T14:01:34+00:00"
+    },
+    {
+      "id": "https://carbon-pulse.com/522585/",
+      "url": "https://carbon-pulse.com/522585/",
+      "title": "India launches voluntary benefit-sharing certification for biological resources - Carbon Pulse",
+      "content_text": "FEATURE: New SBTi corporate climate standard sets meaningful internal carbon pricing goalposts, say experts · EU Commission seeks feedback on ocean ...",
+      "date_published": "2026-06-16T13:39:30+00:00"
+    },
+    {
+      "id": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2273527&reg=48&lang=1",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2273527&reg=48&lang=1",
+      "title": "India and Japan Adopt Rules of Implementation for Joint Crediting Mechanism Under Article ... - PIB",
+      "content_text": "Ministry of Environment, Forest and Climate Change. azadi ka amrit ... Posted On: 16 JUN 2026 3:02PM by PIB Delhi. The Government of the ...",
+      "date_published": "2026-06-16T13:32:53+00:00"
+    }
+  ]
+}

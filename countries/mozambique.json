@@ -1,0 +1,24 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Mozambique",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/mozambique.json",
+  "description": "Top 10 most recent sustainable-tourism items for Mozambique. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://panafricanvisions.com/2026/06/paradise-on-the-indian-ocean-mozambiques-untapped-tourism-frontier/",
+      "url": "https://panafricanvisions.com/2026/06/paradise-on-the-indian-ocean-mozambiques-untapped-tourism-frontier/",
+      "title": "Paradise on the Indian Ocean: Mozambique's Untapped Tourism Frontier",
+      "content_text": "From the Bazaruto Archipelago to Gorongosa National Park, Mozambique is steadily emerging as one of Africa's most compelling tourism destinations.",
+      "date_published": "2026-06-16T17:14:16+00:00"
+    },
+    {
+      "id": "https://www.thehindu.com/news/national/karnataka/three-indians-stranded-in-mozambique-seek-government-help-after-visa-issues/article71108987.ece",
+      "url": "https://www.thehindu.com/news/national/karnataka/three-indians-stranded-in-mozambique-seek-government-help-after-visa-issues/article71108987.ece",
+      "title": "Three Indians stranded in Mozambique seek government help after visa issues - The Hindu",
+      "content_text": "Three Indians in Mozambique seek urgent government assistance after visa issues and lost travel documents ... travel. Punith Kumar R., State ...",
+      "date_published": "2026-06-16T13:01:33+00:00"
+    }
+  ]
+}
