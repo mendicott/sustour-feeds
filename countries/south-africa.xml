@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/south-africa.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for South Africa. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 17 Jun 2026 10:05:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Jun 2026 22:06:36 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Request for Proposals: Sustainable Livelihood Fund (South Africa) - fundsforNGOs</title>
+<link>https://www2.fundsforngos.org/construction/request-for-proposals-sustainable-livelihood-fund-south-africa/</link>
+<guid isPermaLink="false">https://www2.fundsforngos.org/construction/request-for-proposals-sustainable-livelihood-fund-south-africa/</guid>
+<pubDate>Wed, 17 Jun 2026 08:39:13 +0000</pubDate>
+<description>Community-based tourism solutions. These initiatives help create jobs while promoting local culture and experiences. Environment and Green Economy.</description>
+</item>
 <item>
 <title>United States Joins United Kingdom, Canada, Australia, South Africa in ... - Travel And Tour World</title>
 <link>https://www.travelandtourworld.com/news/article/wtx935m9g7pw/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/oxifh5kne9zt/</guid>
 <pubDate>Fri, 12 Jun 2026 22:36:23 +0000</pubDate>
 <description>The segmentation strategy supports these principles by encouraging responsible tourism flows and reducing pressure on sensitive ecosystems. Key ...</description>
-</item>
-<item>
-<title>Cape Town Airbnb Rules Target Overtourism in 2026 - FTN news</title>
-<link>https://ftnnews.com/travel-news/accommodation/cape-town-short-term-rentals-face-new-rules-over-overtourism/</link>
-<guid isPermaLink="false">https://ftnnews.com/travel-news/accommodation/cape-town-short-term-rentals-face-new-rules-over-overtourism/</guid>
-<pubDate>Fri, 12 Jun 2026 11:50:52 +0000</pubDate>
-<description>Cape Town is moving to curb the rise of short-term rentals as the South African city grapples with overtourism and a growing share of housing ...</description>
 </item>
 </channel>
 </rss>

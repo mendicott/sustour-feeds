@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 17 Jun 2026 10:05:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Jun 2026 22:06:36 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Croatia Joins Spain, Italy, Netherlands and Europe's Overtourism Crackdown as Rovinj ...</title>
+<link>https://www.travelandtourworld.com/news/article/edgy06ra6cj3/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/edgy06ra6cj3/</guid>
+<pubDate>Wed, 17 Jun 2026 13:41:34 +0000</pubDate>
+<description>Rovinj's proposal reflects a wider movement across Europe, where many popular destinations are introducing measures to address overtourism while ...</description>
+</item>
 <item>
 <title>Japan Joins Italy, Spain, France, Netherlands, Greece, and Peru in a ... - Travel And Tour World</title>
 <link>https://www.travelandtourworld.com/news/article/c0art2tb6wgd/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.theportugalnews.com/news/2026-06-11/portugal-ranks-among-most-tourism-resistant-destination/1038025</guid>
 <pubDate>Thu, 11 Jun 2026 09:22:24 +0000</pubDate>
 <description>Researchers found evidence of anti-tourism demonstrations in more than 40 Spanish cities, including main destinations such as Barcelona and the Canary ...</description>
-</item>
-<item>
-<title>Spain Overtourism Crisis Escalates As Arrivals Approach Record 100 Million | Streamline</title>
-<link>https://streamlinefeed.co.ke/news/spain-overtourism-crisis-escalates-as-arrivals-approach-record-100-million</link>
-<guid isPermaLink="false">https://streamlinefeed.co.ke/news/spain-overtourism-crisis-escalates-as-arrivals-approach-record-100-million</guid>
-<pubDate>Tue, 09 Jun 2026 20:51:34 +0000</pubDate>
-<description>Spain Overtourism Crisis Escalates As Arrivals Approach Record 100 Million ... Anti-tourism coalitions have mobilized tens of thousands of ...</description>
 </item>
 </channel>
 </rss>

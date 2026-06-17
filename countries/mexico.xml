@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 17 Jun 2026 10:05:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Jun 2026 22:06:36 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mexico Redefines Sustainable Travel as Río Lagartos Launches Strict Tourism Governance ...</title>
+<link>https://www.travelandtourworld.com/news/article/te1vvdcwc9eu/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/te1vvdcwc9eu/</guid>
+<pubDate>Wed, 17 Jun 2026 11:12:47 +0000</pubDate>
+<description>Río Lagartos in Yucatán prepares for summer tourism with strict eco-fees, regulations, and conservation measures protecting the biosphere reserve.</description>
+</item>
 <item>
 <title>Mexico Joins Brazil, Peru, Colombia, Jamaica, Argentina, Dominican Republic and More in ...</title>
 <link>https://www.travelandtourworld.com/news/article/dvui0xikjgl4/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.ad-hoc-news.de/unterhaltung/reisen/cozumel-riff-exploring-arrecifes-de-cozumel-s-living-reef-world/69491012</guid>
 <pubDate>Sat, 06 Jun 2026 15:23:41 +0000</pubDate>
 <description>Mexican authorities created a national marine park off Cozumel to safeguard key coral reef habitats, seagrass beds, and associated wildlife. Over ...</description>
-</item>
-<item>
-<title>Switzerland Joins Mexico, France, Germany, Spain, Canada, US, Japan, South Africa and ...</title>
-<link>https://www.travelandtourworld.com/news/article/wdf6zepbwmxl/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/wdf6zepbwmxl/</guid>
-<pubDate>Tue, 16 Jun 2026 14:10:07 +0000</pubDate>
-<description>Supported by its world-famous beaches, biodiversity, national parks, volcanoes, adventure tourism, and eco-friendly travel experiences, Costa Rica ...</description>
 </item>
 </channel>
 </rss>

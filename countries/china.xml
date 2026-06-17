@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for China. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 17 Jun 2026 10:05:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Jun 2026 22:06:36 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Romania Joins China, Switzerland, Norway, Turkey and France in a High-Altitude ...</title>
+<link>https://www.travelandtourworld.com/news/article/7cfde4ax9uzt/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/7cfde4ax9uzt/</guid>
+<pubDate>Wed, 17 Jun 2026 17:27:52 +0000</pubDate>
+<description>Travel planners expect the bridge to be integrated into broader tourism circuits. These may include forest trails, heritage towns, and protected ...</description>
+</item>
 <item>
 <title>China tops world rankings for natural heritage conservation - Chinadaily.com.cn</title>
 <link>https://www.chinadaily.com.cn/a/202606/13/WS6a2cbe0da310986e2b45fbd0.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.chinadailyasia.com/article/635017</guid>
 <pubDate>Mon, 15 Jun 2026 16:23:18 +0000</pubDate>
 <description>Just in April, UNESCO signed a new cooperation agreement with Uzbekistan to advance heritage preservation and sustainable tourism. There is ...</description>
-</item>
-<item>
-<title>Cambodia Joins Myanmar, Thailand, Vietnam, Laos and China at Mekong Tourism Forum ...</title>
-<link>https://www.travelandtourworld.com/news/article/h7vmulek966t/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/h7vmulek966t/</guid>
-<pubDate>Mon, 15 Jun 2026 04:02:37 +0000</pubDate>
-<description>The Mekong Tourism Forum 2026 is being hosted in Yangon under the theme of tourism that benefits communities while encouraging purposeful travel ...</description>
 </item>
 </channel>
 </rss>

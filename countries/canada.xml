@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/canada.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Canada. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 17 Jun 2026 10:05:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Jun 2026 22:06:36 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Canada Sees Overtourism Reshape Travel Behaviour as Government Tourism Data ...</title>
+<link>https://www.travelandtourworld.com/news/article/9sumryzr3xu1/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/9sumryzr3xu1/</guid>
+<pubDate>Wed, 17 Jun 2026 19:22:17 +0000</pubDate>
+<description>Overtourism is changing Canadian travel habits, pushing demand for sustainable tourism, off-peak travel and less crowded destinations.</description>
+</item>
 <item>
 <title>Vancouver Island to Haida Gwaii Canada Unleashes Massive Island Tourism Boom ...</title>
 <link>https://www.travelandtourworld.com/news/article/fco1fhxf5wwy/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.canada.ca/en/parks-canada/news/2026/06/utsel-ke-dene-first-nation-northwest-territory-metis-nation-the-government-of-the-northwest-territories-and-parks-canada-making-an-announcement-reg.html</guid>
 <pubDate>Wed, 03 Jun 2026 14:44:32 +0000</pubDate>
 <description>... , the Government of the Northwest Territories and Parks Canada making an announcement regarding Thaıdene Nëné Indigenous Protected Area.</description>
-</item>
-<item>
-<title>Canada Joins Japan, Italy, Ireland, Greece, Spain and Switzerland as Overtourism Drives a ...</title>
-<link>https://www.travelandtourworld.com/news/article/s8ompnqmci5s/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/s8ompnqmci5s/</guid>
-<pubDate>Tue, 16 Jun 2026 18:12:31 +0000</pubDate>
-<description>As the northern hemisphere enters the peak summer travel period, Canada overtourism travel trends 2026 are emerging as one of the most significant ...</description>
 </item>
 </channel>
 </rss>

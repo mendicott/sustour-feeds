@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/france.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for France. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 17 Jun 2026 10:05:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Jun 2026 22:06:36 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Romania Joins China, Switzerland, Norway, Turkey and France in a High-Altitude ...</title>
+<link>https://www.travelandtourworld.com/news/article/7cfde4ax9uzt/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/7cfde4ax9uzt/</guid>
+<pubDate>Wed, 17 Jun 2026 17:27:52 +0000</pubDate>
+<description>Travel planners expect the bridge to be integrated into broader tourism circuits. These may include forest trails, heritage towns, and protected ...</description>
+</item>
 <item>
 <title>Japan Joins Italy, Spain, France, Netherlands, Greece, and Peru in a ... - Travel And Tour World</title>
 <link>https://www.travelandtourworld.com/news/article/c0art2tb6wgd/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/w7viuz1cl3yw/</guid>
 <pubDate>Wed, 03 Jun 2026 12:18:49 +0000</pubDate>
 <description>Europe fights overtourism as Italy, Spain, France, Greece, Netherlands and Portugal impose caps, taxes and rental restrictions in 2026.</description>
-</item>
-<item>
-<title>Switzerland Joins Mexico, France, Germany, Spain, Canada, US, Japan, South Africa and ...</title>
-<link>https://www.travelandtourworld.com/news/article/wdf6zepbwmxl/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/wdf6zepbwmxl/</guid>
-<pubDate>Tue, 16 Jun 2026 14:10:07 +0000</pubDate>
-<description>Supported by its world-famous beaches, biodiversity, national parks, volcanoes, adventure tourism, and eco-friendly travel experiences, Costa Rica ...</description>
 </item>
 </channel>
 </rss>

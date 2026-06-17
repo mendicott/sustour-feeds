@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/argentina.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Argentina. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 17 Jun 2026 10:05:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Jun 2026 22:06:36 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Mexico Joins Brazil, Peru, Colombia, Jamaica, Argentina, Dominican Republic and More in ...</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://esgnews.com/verra-certifies-first-government-led-jurisdictional-forest-carbon-program-in-argentina/</guid>
 <pubDate>Thu, 04 Jun 2026 00:54:10 +0000</pubDate>
 <description>Verra has approved its first government-led provincial forest carbon program under the VCS Jurisdictional and Nested REDD+ Framework.</description>
+</item>
+<item>
+<title>Hidden beneath Patagonia's arid lowlands, scientists found a cave system in Argentina with ...</title>
+<link>https://timesofindia.indiatimes.com/science/hidden-beneath-patagonias-arid-lowlands-scientists-found-a-cave-system-in-argentina-with-26-cave-restricted-species-and-the-biggest-threats-may-be-mining-tourism-and-drying-groundwater-not-the-darkness-itself/articleshow/131794299.cms</link>
+<guid isPermaLink="false">https://timesofindia.indiatimes.com/science/hidden-beneath-patagonias-arid-lowlands-scientists-found-a-cave-system-in-argentina-with-26-cave-restricted-species-and-the-biggest-threats-may-be-mining-tourism-and-drying-groundwater-not-the-darkness-itself/articleshow/131794299.cms</guid>
+<pubDate>Wed, 17 Jun 2026 13:12:10 +0000</pubDate>
+<description>... , housing 26 cave-restricted species, presenting urgent challenges from mining and tourism.</description>
 </item>
 <item>
 <title>Cuts in National Parks: Growing Concern for the Protection of Argentine Ecosystems</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.nationalobserver.com/2026/06/12/news/argentina-jaguar-reintroduction-project</guid>
 <pubDate>Fri, 12 Jun 2026 09:02:56 +0000</pubDate>
 <description>Darío Soraires, a wildlife tour guide, was sailing up the Bermejo River in northern Argentina when he saw them: two jaguars lying in a ravine. He ...</description>
-</item>
-<item>
-<title>Verra Certifies Its First Government-Led Jurisdictional Forest Carbon Program in Argentina</title>
-<link>https://verra.org/verra-certifies-its-first-government-led-jurisdictional-forest-carbon-program-in-argentina/</link>
-<guid isPermaLink="false">https://verra.org/verra-certifies-its-first-government-led-jurisdictional-forest-carbon-program-in-argentina/</guid>
-<pubDate>Wed, 03 Jun 2026 01:15:09 +0000</pubDate>
-<description>... climate finance. Unlike carbon projects that operate at a local scale, jurisdictional REDD+ programs credit verified emission reductions across an ...</description>
 </item>
 </channel>
 </rss>
