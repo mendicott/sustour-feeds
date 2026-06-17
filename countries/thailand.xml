@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/thailand.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Thailand. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 16 Jun 2026 22:06:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Jun 2026 10:05:39 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Hiking in Lung Pang opens up opportunities for ecotourism development in Thai Nguyen.</title>
+<link>https://www.vietnam.vn/en/hiking-lung-pang-mo-huong-phat-trien-du-lich-sinh-thai-o-thai-nguyen</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/hiking-lung-pang-mo-huong-phat-trien-du-lich-sinh-thai-o-thai-nguyen</guid>
+<pubDate>Tue, 16 Jun 2026 23:08:03 +0000</pubDate>
+<description>The activity aimed to survey and promote new tourism products, connect travel businesses, media, and the local community in developing ecotourism and ...</description>
+</item>
 <item>
 <title>Maya Bay: How conservationists saved Thailand's most famous beach from ruin | CNN</title>
 <link>https://edition.cnn.com/travel/article/maya-bay-thailand-recovery-c2e-spc-intl?from=mdr</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.nationthailand.com/news/tourism/40067098</guid>
 <pubDate>Sat, 06 Jun 2026 08:40:25 +0000</pubDate>
 <description>The Tourism Authority of Thailand has launched the WILD AWAKE JOURNEY campaign to encourage responsible green-season travel, wildlife conservation ...</description>
-</item>
-<item>
-<title>SIG and WWF mark second-year progress of forest conservation partnership in Thailand</title>
-<link>https://thethaiger.com/hot-news/environment/sig-and-wwf-forest-conservation-partnership-in-thailand</link>
-<guid isPermaLink="false">https://thethaiger.com/hot-news/environment/sig-and-wwf-forest-conservation-partnership-in-thailand</guid>
-<pubDate>Fri, 05 Jun 2026 06:49:09 +0000</pubDate>
-<description>Two years into their Forests Forward partnership, SIG and WWF-Thailand detail progress across 60000 hectares of Thai forest landscapes.</description>
 </item>
 </channel>
 </rss>

@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.vietnam.vn/en/hiking-lung-pang-mo-huong-phat-trien-du-lich-sinh-thai-o-thai-nguyen",
+      "url": "https://www.vietnam.vn/en/hiking-lung-pang-mo-huong-phat-trien-du-lich-sinh-thai-o-thai-nguyen",
+      "title": "Hiking in Lung Pang opens up opportunities for ecotourism development in Thai Nguyen.",
+      "content_text": "The activity aimed to survey and promote new tourism products, connect travel businesses, media, and the local community in developing ecotourism and ...",
+      "date_published": "2026-06-16T23:08:03+00:00"
+    },
+    {
       "id": "https://edition.cnn.com/travel/article/maya-bay-thailand-recovery-c2e-spc-intl?from=mdr",
       "url": "https://edition.cnn.com/travel/article/maya-bay-thailand-recovery-c2e-spc-intl?from=mdr",
       "title": "Maya Bay: How conservationists saved Thailand's most famous beach from ruin | CNN",
@@ -68,13 +75,6 @@
       "title": "TAT launches WILD AWAKE JOURNEY to promote green-season conservation travel",
       "content_text": "The Tourism Authority of Thailand has launched the WILD AWAKE JOURNEY campaign to encourage responsible green-season travel, wildlife conservation ...",
       "date_published": "2026-06-06T08:40:25+00:00"
-    },
-    {
-      "id": "https://thethaiger.com/hot-news/environment/sig-and-wwf-forest-conservation-partnership-in-thailand",
-      "url": "https://thethaiger.com/hot-news/environment/sig-and-wwf-forest-conservation-partnership-in-thailand",
-      "title": "SIG and WWF mark second-year progress of forest conservation partnership in Thailand",
-      "content_text": "Two years into their Forests Forward partnership, SIG and WWF-Thailand detail progress across 60000 hectares of Thai forest landscapes.",
-      "date_published": "2026-06-05T06:49:09+00:00"
     }
   ]
 }
