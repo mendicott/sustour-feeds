@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 17 Jun 2026 22:06:36 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 10:06:34 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Save Turtles Run returns to Con Dao for fifth anniversary - Vietnam Investment Review</title>
+<link>https://vir.com.vn/save-turtles-run-returns-to-con-dao-for-fifth-anniversary-155048.html</link>
+<guid isPermaLink="false">https://vir.com.vn/save-turtles-run-returns-to-con-dao-for-fifth-anniversary-155048.html</guid>
+<pubDate>Thu, 18 Jun 2026 09:00:42 +0000</pubDate>
+<description>The Save Turtles Run has returned to Con Dao, aiming to raise awareness of sea turtle conservation and responsible tourism.</description>
+</item>
 <item>
 <title>Vietnam Turns Hội An Into A Global Eco Travel Sensation As Cycling Streets, Plastic Free ...</title>
 <link>https://www.travelandtourworld.com/news/article/w3zhsabnwcwi/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.vietnam.vn/en/ngoi-lang-muon-tra-lai-danh-hieu-di-san-the-gioi</guid>
 <pubDate>Sun, 14 Jun 2026 04:29:19 +0000</pubDate>
 <description>UNESCO World Heritage status brings in significant tourism revenue but also disrupts local life, leading many communities to want to relinquish ...</description>
-</item>
-<item>
-<title>Awakening and spreading the indigenous culture of Can Gio. - Vietnam.vn</title>
-<link>https://www.vietnam.vn/en/danh-thuc-lan-toa-van-hoa-ban-dia-can-gio</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/danh-thuc-lan-toa-van-hoa-ban-dia-can-gio</guid>
-<pubDate>Sun, 14 Jun 2026 03:42:52 +0000</pubDate>
-<description>These distinctive cultural and historical characteristics have created many advantages and potentials for Can Gio to develop various forms of tourism, ...</description>
 </item>
 </channel>
 </rss>

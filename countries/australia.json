@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.abc.net.au/news/2026-06-18/national-trust-south-australia-parliamentary-inquiry-crisis/106809584",
+      "url": "https://www.abc.net.au/news/2026-06-18/national-trust-south-australia-parliamentary-inquiry-crisis/106809584",
+      "title": "National Trust of SA referred to parliamentary committee over 'accountability and oversight' concerns",
+      "content_text": "... tourism venues to remain closed. (ABC News: Shannon Pearce). In short: The National Trust of South Australia, the state's premier heritage ...",
+      "date_published": "2026-06-18T06:07:24+00:00"
+    },
+    {
       "id": "https://www.theaustralian.com.au/nation/global-map-reveals-huge-network-of-coral-reefs-that-could-survive-climate-crisis/news-story/9fd31fee7eb2d8fbb8aeba861afffe59?amp",
       "url": "https://www.theaustralian.com.au/nation/global-map-reveals-huge-network-of-coral-reefs-that-could-survive-climate-crisis/news-story/9fd31fee7eb2d8fbb8aeba861afffe59?amp",
       "title": "New study finds more climate-resilient coral reefs than thought | The Australian",
@@ -68,13 +75,6 @@
       "title": "Joint media release: Queensland secures Australia's second Conserved Area - Ministers",
       "content_text": "They provide conservation in places where formal protection is not possible, appropriate or supported. ... Minister for the Environment and Tourism ...",
       "date_published": "2026-06-15T05:11:14+00:00"
-    },
-    {
-      "id": "https://www.smh.com.au/traveller/inspiration/there-s-a-new-way-to-stay-on-one-of-australia-s-most-exclusive-islands-20260605-p6048p.html",
-      "url": "https://www.smh.com.au/traveller/inspiration/there-s-a-new-way-to-stay-on-one-of-australia-s-most-exclusive-islands-20260605-p6048p.html",
-      "title": "There's a new way to stay on one of Australia's most exclusive islands",
-      "content_text": "A 400-visitor cap, World Heritage protections and the fact that ... travel moments only the lucky few get to see · Travel tips · Fourteen of the ...",
-      "date_published": "2026-06-15T00:42:00+00:00"
     }
   ]
 }

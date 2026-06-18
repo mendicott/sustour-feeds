@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/australia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Australia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 17 Jun 2026 22:06:36 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 10:06:34 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>National Trust of SA referred to parliamentary committee over 'accountability and oversight' concerns</title>
+<link>https://www.abc.net.au/news/2026-06-18/national-trust-south-australia-parliamentary-inquiry-crisis/106809584</link>
+<guid isPermaLink="false">https://www.abc.net.au/news/2026-06-18/national-trust-south-australia-parliamentary-inquiry-crisis/106809584</guid>
+<pubDate>Thu, 18 Jun 2026 06:07:24 +0000</pubDate>
+<description>... tourism venues to remain closed. (ABC News: Shannon Pearce). In short: The National Trust of South Australia, the state's premier heritage ...</description>
+</item>
 <item>
 <title>New study finds more climate-resilient coral reefs than thought | The Australian</title>
 <link>https://www.theaustralian.com.au/nation/global-map-reveals-huge-network-of-coral-reefs-that-could-survive-climate-crisis/news-story/9fd31fee7eb2d8fbb8aeba861afffe59?amp</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://minister.dcceew.gov.au/watt/media-releases/joint-media-release-queensland-secures-australias-second-conserved-area</guid>
 <pubDate>Mon, 15 Jun 2026 05:11:14 +0000</pubDate>
 <description>They provide conservation in places where formal protection is not possible, appropriate or supported. ... Minister for the Environment and Tourism ...</description>
-</item>
-<item>
-<title>There's a new way to stay on one of Australia's most exclusive islands</title>
-<link>https://www.smh.com.au/traveller/inspiration/there-s-a-new-way-to-stay-on-one-of-australia-s-most-exclusive-islands-20260605-p6048p.html</link>
-<guid isPermaLink="false">https://www.smh.com.au/traveller/inspiration/there-s-a-new-way-to-stay-on-one-of-australia-s-most-exclusive-islands-20260605-p6048p.html</guid>
-<pubDate>Mon, 15 Jun 2026 00:42:00 +0000</pubDate>
-<description>A 400-visitor cap, World Heritage protections and the fact that ... travel moments only the lucky few get to see · Travel tips · Fourteen of the ...</description>
 </item>
 </channel>
 </rss>
