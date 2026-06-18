@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 18 Jun 2026 10:06:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 22:06:14 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Nuevo Laredo looks to turn hunting ranches into ecotourism sites - Mexico News Daily</title>
+<link>https://mexiconewsdaily.com/travel/nuevo-laredo-hunting-ranches-ecotourism/</link>
+<guid isPermaLink="false">https://mexiconewsdaily.com/travel/nuevo-laredo-hunting-ranches-ecotourism/</guid>
+<pubDate>Thu, 18 Jun 2026 19:29:34 +0000</pubDate>
+<description>Nuevo Laredo, Tamaulipas, is looking to diversify its hunting ranch tourism and encourage ecotourism in the off-season.</description>
+</item>
 <item>
 <title>Mexico Redefines Sustainable Travel as Río Lagartos Launches Strict Tourism Governance ...</title>
 <link>https://www.travelandtourworld.com/news/article/te1vvdcwc9eu/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://riviera-maya-news.com/government-of-mexico-announces-decree-to-allow-only-ecotourism-projects-in-mahahual/2026.html</guid>
 <pubDate>Sun, 07 Jun 2026 01:11:23 +0000</pubDate>
 <description>Mahahual, Q.R. -- President Claudia Sheinbaum has announced a decree to promote only ecotourism in Mahahual and surrounding communities.</description>
-</item>
-<item>
-<title>Cozumel-Riff: Exploring Arrecifes de Cozumel's Living Reef World - Ad-hoc-news.de</title>
-<link>https://www.ad-hoc-news.de/unterhaltung/reisen/cozumel-riff-exploring-arrecifes-de-cozumel-s-living-reef-world/69491012</link>
-<guid isPermaLink="false">https://www.ad-hoc-news.de/unterhaltung/reisen/cozumel-riff-exploring-arrecifes-de-cozumel-s-living-reef-world/69491012</guid>
-<pubDate>Sat, 06 Jun 2026 15:23:41 +0000</pubDate>
-<description>Mexican authorities created a national marine park off Cozumel to safeguard key coral reef habitats, seagrass beds, and associated wildlife. Over ...</description>
 </item>
 </channel>
 </rss>

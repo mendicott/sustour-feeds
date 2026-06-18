@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 18 Jun 2026 10:06:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 22:06:14 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Greece Joins Spain, Italy, Belgium, Netherlands, France, Portugal, And ... - Travel And Tour World</title>
+<link>https://www.travelandtourworld.com/news/article/w1zwgzfrof02/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/w1zwgzfrof02/</guid>
+<pubDate>Thu, 18 Jun 2026 09:36:04 +0000</pubDate>
+<description>Greece joins Spain, Italy, Belgium, Netherlands, France, Portugal, and several other European nations in imposing strict overtourism rules due to ...</description>
+</item>
 <item>
 <title>Greece Joins Turkey, Netherlands, Spain, Portugal, Italy, France, Austria ... - Travel And Tour World</title>
 <link>https://www.travelandtourworld.com/news/article/1i11ahphd5ak/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/pln9sy308i0s/</guid>
 <pubDate>Fri, 12 Jun 2026 09:18:21 +0000</pubDate>
 <description>Greece's Santorini tightens cruise passenger flow rules as port pressure, cable car access and overtourism reshape island tourism.</description>
-</item>
-<item>
-<title>Greece Overtourism Crisis Reshapes Island Travel: New Sustainable Tourism Strategy ...</title>
-<link>https://www.travelandtourworld.com/news/article/zeeuc2vz1u3q/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/zeeuc2vz1u3q/</guid>
-<pubDate>Sat, 06 Jun 2026 20:23:09 +0000</pubDate>
-<description>Instead of maximizing visitor numbers, countries are prioritizing meaningful travel experiences and long-term sustainability. For Greece, this ...</description>
 </item>
 </channel>
 </rss>

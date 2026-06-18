@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/colombia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Colombia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 18 Jun 2026 10:06:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 22:06:14 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>The Colombian Pacific Prepares to Welcome More Than 8,000 Humpback Whales</title>
+<link>https://colombiaone.com/2026/06/18/colombian-pacific-whales/</link>
+<guid isPermaLink="false">https://colombiaone.com/2026/06/18/colombian-pacific-whales/</guid>
+<pubDate>Thu, 18 Jun 2026 19:06:31 +0000</pubDate>
+<description>Beyond creating seasonal employment, whale-watching tourism supports environmental conservation initiatives and strengthens sustainable ...</description>
+</item>
 <item>
 <title>Mexico Joins Brazil, Peru, Colombia, Jamaica, Argentina, Dominican Republic and More in ...</title>
 <link>https://www.travelandtourworld.com/news/article/dvui0xikjgl4/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.sei.org/features/varadero-a-living-lab-exploring-coastal-resilience-in-colombia/</guid>
 <pubDate>Mon, 08 Jun 2026 21:13:23 +0000</pubDate>
 <description>The coral reef in Varadero, Colombia, offers a striking lesson in resilience and is home to a SEI-led living lab.</description>
-</item>
-<item>
-<title>Why farmers see Colombia's knife-edge election as a battle for the Amazon's future</title>
-<link>https://www.theguardian.com/global-development/2026/jun/17/armed-groups-colombian-farmers-election-run-off-guaviare-small-landowners-security-candidate</link>
-<guid isPermaLink="false">https://www.theguardian.com/global-development/2026/jun/17/armed-groups-colombian-farmers-election-run-off-guaviare-small-landowners-security-candidate</guid>
-<pubDate>Wed, 17 Jun 2026 11:17:00 +0000</pubDate>
-<description>Many small-scale landowners now include conservation measures alongside everyday farming. But progress is precarious, and the threat of guerrilla ...</description>
 </item>
 </channel>
 </rss>

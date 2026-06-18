@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 18 Jun 2026 10:06:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 22:06:14 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Greece Joins Spain, Italy, Belgium, Netherlands, France, Portugal, And ... - Travel And Tour World</title>
+<link>https://www.travelandtourworld.com/news/article/w1zwgzfrof02/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/w1zwgzfrof02/</guid>
+<pubDate>Thu, 18 Jun 2026 09:36:04 +0000</pubDate>
+<description>Greece joins Spain, Italy, Belgium, Netherlands, France, Portugal, and several other European nations in imposing strict overtourism rules due to ...</description>
+</item>
 <item>
 <title>Greece Joins Turkey, Netherlands, Spain, Portugal, Italy, France, Austria ... - Travel And Tour World</title>
 <link>https://www.travelandtourworld.com/news/article/1i11ahphd5ak/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/107ffbszizpo/</guid>
 <pubDate>Sat, 13 Jun 2026 19:04:07 +0000</pubDate>
 <description>Anti-tourism protests spread across Europe as Spain, Italy, Greece, France and Portugal face overtourism pressure and rising local backlash.</description>
-</item>
-<item>
-<title>Vatican and UNESCO: practical impacts on Italy's UNESCO sites - inItaly</title>
-<link>https://www.initaly.it/en/articolo/vaticano-e-unesco-impatti-concreti-sui-siti-unesco-in-italia-19794</link>
-<guid isPermaLink="false">https://www.initaly.it/en/articolo/vaticano-e-unesco-impatti-concreti-sui-siti-unesco-in-italia-19794</guid>
-<pubDate>Thu, 11 Jun 2026 21:24:14 +0000</pubDate>
-<description>Why this matters. Stable coordination between the Holy See and UNESCO can speed up conservation efforts, foster more responsible cultural tourism and ...</description>
 </item>
 </channel>
 </rss>

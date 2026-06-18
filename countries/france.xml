@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/france.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for France. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 18 Jun 2026 10:06:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 22:06:14 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Greece Joins Spain, Italy, Belgium, Netherlands, France, Portugal, And ... - Travel And Tour World</title>
+<link>https://www.travelandtourworld.com/news/article/w1zwgzfrof02/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/w1zwgzfrof02/</guid>
+<pubDate>Thu, 18 Jun 2026 09:36:04 +0000</pubDate>
+<description>Greece joins Spain, Italy, Belgium, Netherlands, France, Portugal, and several other European nations in imposing strict overtourism rules due to ...</description>
+</item>
 <item>
 <title>Greece Joins Turkey, Netherlands, Spain, Portugal, Italy, France, Austria ... - Travel And Tour World</title>
 <link>https://www.travelandtourworld.com/news/article/1i11ahphd5ak/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.euronews.com/my-europe/2026/06/04/overtourism-which-european-countries-are-becoming-the-most-hostile-to-travellers</guid>
 <pubDate>Sat, 06 Jun 2026 03:49:39 +0000</pubDate>
 <description>Spain, Italy, and France are the top three European countries where the backlash against mass tourism is the strongest, according to a new study by ...</description>
-</item>
-<item>
-<title>Europe Experiences Rising Overtourism Backlash as Spain, Italy and France Lead Strong ...</title>
-<link>https://www.travelandtourworld.com/news/article/6bjwmrv1vk7g/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/6bjwmrv1vk7g/</guid>
-<pubDate>Fri, 05 Jun 2026 19:08:23 +0000</pubDate>
-<description>Rapid visitor growth sparks overtourism protests and policy responses in Spain, Italy and France as communities push back on mass tourism ...</description>
 </item>
 </channel>
 </rss>
