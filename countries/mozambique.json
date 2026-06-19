@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.tourismupdate.com/article/rhinos-translocated-to-mozambique-park",
+      "url": "https://www.tourismupdate.com/article/rhinos-translocated-to-mozambique-park",
+      "title": "Rhinos translocated to Mozambique park | Southern & East African Tourism Update",
+      "content_text": "Mozambique has completed the final phase of a major rhino translocation programme with nine female white rhinos successfully moved to Zinave ...",
+      "date_published": "2026-06-19T13:37:03+00:00"
+    },
+    {
       "id": "https://www.plataformamedia.com/en/2026/06/18/mozambique-president-chapo-sustainable-land-water-management-africa/",
       "url": "https://www.plataformamedia.com/en/2026/06/18/mozambique-president-chapo-sustainable-land-water-management-africa/",
       "title": "Mozambique advocates for sustainable land and water management in Africa - Plataforma Media",
@@ -35,6 +42,13 @@
       "date_published": "2026-06-14T11:10:48+00:00"
     },
     {
+      "id": "https://www.aman-alliance.org/Home/ContentDetail/104260",
+      "url": "https://www.aman-alliance.org/Home/ContentDetail/104260",
+      "title": "Business News - Mozambique: Invest more in sustainable land, water management - Lusa",
+      "content_text": "\"Grasslands are among the most important ecosystems in Africa. However, many of these ecosystems are under severe pressure due to climate change, ...",
+      "date_published": "2026-06-19T13:33:48+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/wr6r31sygtm2/",
       "url": "https://www.travelandtourworld.com/news/article/wr6r31sygtm2/",
       "title": "South Africa, Mozambique, Zimbabwe, Zambia, Botswana, Namibia, Malawi and eSwatini ...",
@@ -56,25 +70,11 @@
       "date_published": "2026-06-18T05:12:55+00:00"
     },
     {
-      "id": "https://www.aman-alliance.org/Home/ContentDetail/104224",
-      "url": "https://www.aman-alliance.org/Home/ContentDetail/104224",
-      "title": "Business News - Mozambique: Nation lost 5,000 ha mangrove forests in 2024 due to ... - Lusa",
-      "content_text": "Maputo, June 17, 2026 (Lusa) - Mozambique lost around 5,000 ... climate change. \"We want to provide solutions to address the challenge ...",
-      "date_published": "2026-06-18T07:38:55+00:00"
-    },
-    {
-      "id": "https://clubofmozambique.com/news/mozambique-president-chapo-attracts-new-investment-interest-in-luanda/",
-      "url": "https://clubofmozambique.com/news/mozambique-president-chapo-attracts-new-investment-interest-in-luanda/",
-      "title": "Mozambique: President Chapo attracts new investment interest in Luanda",
-      "content_text": "The Secretary-General of UN Tourism, Shaikha Al Nuwais, expressed satisfaction with the meeting with the Mozambican Head of State and said she intends ...",
-      "date_published": "2026-06-18T13:00:07+00:00"
-    },
-    {
-      "id": "https://www.plusnews.org/mozambique-lost-5000-hectares-of-mangroves-in-2024-due-to-climate-events/",
-      "url": "https://www.plusnews.org/mozambique-lost-5000-hectares-of-mangroves-in-2024-due-to-climate-events/",
-      "title": "Mozambique Lost 5,000 Hectares of Mangroves in 2024 Due to Climate Events - PlusNews",
-      "content_text": "... climate change. \"We want to bring solutions to address the challenge of climate vulnerability (…), the data should help decision-makers know where ...",
-      "date_published": "2026-06-17T21:05:07+00:00"
+      "id": "https://clubofmozambique.com/news/mozambique-chapo-calls-for-structural-investment-in-tourism/",
+      "url": "https://clubofmozambique.com/news/mozambique-chapo-calls-for-structural-investment-in-tourism/",
+      "title": "Mozambique: Chapo calls for structural investment in tourism",
+      "content_text": "Mozambican President Daniel Chapo calls for structural investment in the tourism sector for economic transformation, reducing the country's ...",
+      "date_published": "2026-06-19T18:30:30+00:00"
     }
   ]
 }

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 19 Jun 2026 10:05:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 22:06:17 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Italy's Venice Faces Major Tourism Shake-Up as City Plans to Raise Day-Tripper Entry Fee ...</title>
+<link>https://www.travelandtourworld.com/news/article/enm9ay3haep8/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/enm9ay3haep8/</guid>
+<pubDate>Fri, 19 Jun 2026 15:05:51 +0000</pubDate>
+<description>Addressing Overtourism and Resident Challenges. Venice faces a chronic imbalance between the number of visitors and residents in its historic centre.</description>
+</item>
 <item>
 <title>Europe's beaches tighten rules as overtourism pressures mount - MSN</title>
 <link>https://www.msn.com/en-gb/travel/news/europe-s-beaches-tighten-rules-as-overtourism-pressures-mount/ss-AA25WDFC</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.initaly.it/en/articolo/progetto-borghi-17-milioni-di-euro-per-il-rilancio-di-canistro-20487</guid>
 <pubDate>Sun, 14 Jun 2026 14:29:57 +0000</pubDate>
 <description>The investment targets actions that combine heritage conservation ... tourism activities. The initiative seeks to strengthen local identity and ...</description>
-</item>
-<item>
-<title>Italy Tightens Sardinia Beach Access as Punta Molentis Shade Rules Signal New Era of ...</title>
-<link>https://www.travelandtourworld.com/news/article/pg3x367x54kz/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/pg3x367x54kz/</guid>
-<pubDate>Sun, 14 Jun 2026 08:13:45 +0000</pubDate>
-<description>High-value natural sites are becoming managed tourism assets. Visitors must now plan around rules, booking systems, fees, carrying capacity and ...</description>
 </item>
 </channel>
 </rss>

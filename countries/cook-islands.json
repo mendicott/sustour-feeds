@@ -7,6 +7,20 @@
   "language": "en",
   "items": [
     {
+      "id": "http://www.cookislandsnews.com/internal/national/environment/te-ipukarea-society-turns-30/",
+      "url": "http://www.cookislandsnews.com/internal/national/environment/te-ipukarea-society-turns-30/",
+      "title": "Te Ipukarea Society turns 30! - Cook Islands News",
+      "content_text": "According to TIS, during the 1980s, rising tourism repeatedly sidelined environmental priorities, highlighting the need for proactive preservation. By ...",
+      "date_published": "2026-06-19T18:21:32+00:00"
+    },
+    {
+      "id": "https://www.cookislandsnews.com/internal/national/outer-islands/education/traditional-voyaging-reaches-northern-group-islands/",
+      "url": "https://www.cookislandsnews.com/internal/national/outer-islands/education/traditional-voyaging-reaches-northern-group-islands/",
+      "title": "Traditional voyaging reaches Northern Group islands - Cook Islands News",
+      "content_text": "Vaka Paikea is sailing through the Northern Group islands for the first time, carrying with it a mission to revive and pass on traditional Cook ...",
+      "date_published": "2026-06-18T18:56:29+00:00"
+    },
+    {
       "id": "https://www.cookislandsnews.com/internal/national/local/environment/tourism/tourism-and-local-habits-blamed-for-beach-plastic-in-cook-islands/",
       "url": "https://www.cookislandsnews.com/internal/national/local/environment/tourism/tourism-and-local-habits-blamed-for-beach-plastic-in-cook-islands/",
       "title": "Tourism and local habits blamed for beach plastic in Cook Islands",
@@ -61,20 +75,6 @@
       "title": "Letter: Finding our way forward - Cook Islands News",
       "content_text": "The island has experienced significant growth in tourism, business activity, and residential development. More homes are being used as holiday ...",
       "date_published": "2026-06-12T06:50:53+00:00"
-    },
-    {
-      "id": "https://www.news.com.au/travel/destinations/pacific/tiny-island-nation-wants-australian-travellers-attention/news-story/79211a91fa9e566db071c1a3b734b912",
-      "url": "https://www.news.com.au/travel/destinations/pacific/tiny-island-nation-wants-australian-travellers-attention/news-story/79211a91fa9e566db071c1a3b734b912",
-      "title": "Tiny island nation wants Australian travellers' attention | news.com.au",
-      "content_text": "The Cook Islands – a tropical nation located about halfway between Australia and Hawaii – heavily relies on tourism to drive its economy.",
-      "date_published": "2026-06-08T02:16:39+00:00"
-    },
-    {
-      "id": "https://www.cookislandsnews.com/internal/national/culture/economy/seabed-mining-company-backed-trust-funds-cultural-and-educational-projects/",
-      "url": "https://www.cookislandsnews.com/internal/national/culture/economy/seabed-mining-company-backed-trust-funds-cultural-and-educational-projects/",
-      "title": "Seabed mining company-backed trust funds cultural and educational projects - Cook Islands News",
-      "content_text": "Cultural arts have received a major boost through funding support aimed at preserving and celebrating Cook Islands heritage for future ...",
-      "date_published": "2026-06-02T18:42:39+00:00"
     }
   ]
 }

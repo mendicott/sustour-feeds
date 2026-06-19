@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.undp.org/africa/stories/better-data-better-cities",
+      "url": "https://www.undp.org/africa/stories/better-data-better-cities",
+      "title": "Better Data, Better Cities | United Nations Development Programme",
+      "content_text": "The pilot testing of the Tourism Activity Tracker at the Botanical Gardens in Fort Portal City, Uganda, assessing how the tool performs in capturing ...",
+      "date_published": "2026-06-18T21:46:04+00:00"
+    },
+    {
       "id": "https://www.ad-hoc-news.de/unterhaltung/reisen/bwindi-impenetrable-national-park-uganda-s-gorilla-heartland/69536318",
       "url": "https://www.ad-hoc-news.de/unterhaltung/reisen/bwindi-impenetrable-national-park-uganda-s-gorilla-heartland/69536318",
       "title": "Bwindi Impenetrable National Park: Uganda's Gorilla Heartland - Ad-hoc-news.de",
@@ -63,18 +70,11 @@
       "date_published": "2026-06-11T01:31:49+00:00"
     },
     {
-      "id": "https://www.travelandtourworld.com/news/article/nvm53k47097x/",
-      "url": "https://www.travelandtourworld.com/news/article/nvm53k47097x/",
-      "title": "Kenya OverTakes Nigeria, South Africa, Egypt, Tanzania, Ghana, Uganda ... - Travel And Tour World",
-      "content_text": "... eco-friendly and sustainable tourism initiatives combine to reshape the continent's travel hierarchy ... green tourism development. New Economic Impact ...",
-      "date_published": "2026-06-18T20:51:49+00:00"
-    },
-    {
-      "id": "https://edition.cnn.com/2026/06/18/travel/video/uganda-change-of-scenery-rhinos-boat-safari-spc",
-      "url": "https://edition.cnn.com/2026/06/18/travel/video/uganda-change-of-scenery-rhinos-boat-safari-spc",
-      "title": "This cruise gets you up close to Uganda's wildlife - CNN",
-      "content_text": "Queen Elizabeth National Park is home to Uganda's largest diversity of species. CNN's Victoria Rubadiri sets out on boat a safari that meets ...",
-      "date_published": "2026-06-18T19:09:27+00:00"
+      "id": "https://atta.travel/resource/uganda-wildlife-authority-receives-heavy-machinery-to-improve-access-across-national-parks.html",
+      "url": "https://atta.travel/resource/uganda-wildlife-authority-receives-heavy-machinery-to-improve-access-across-national-parks.html",
+      "title": "Uganda Wildlife Authority receives heavy machinery to improve access across national parks - ATTA",
+      "content_text": "Uganda Wildlife Authority (UWA) has taken delivery of 11 pieces of road ... travel and tourism. Members are encouraged to check this resource ...",
+      "date_published": "2026-06-19T16:14:32+00:00"
     }
   ]
 }

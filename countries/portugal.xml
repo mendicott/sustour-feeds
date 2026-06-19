@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/portugal.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Portugal. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 19 Jun 2026 10:05:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 22:06:17 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Greece Joins Spain, Italy, Belgium, Netherlands, France, Portugal, And ... - Travel And Tour World</title>
@@ -58,6 +58,13 @@
 <description>Europe fights overtourism as Italy, Spain, France, Greece, Netherlands and Portugal impose caps, taxes and rental restrictions in 2026.</description>
 </item>
 <item>
+<title>Portugal's housing supply improves as short-term rental scrutiny continues</title>
+<link>https://shorttermrentalz.com/news/portugal-housing-supply-short-term-rental/</link>
+<guid isPermaLink="false">https://shorttermrentalz.com/news/portugal-housing-supply-short-term-rental/</guid>
+<pubDate>Fri, 19 Jun 2026 12:25:48 +0000</pubDate>
+<description>Several municipalities have tightened restrictions around Alojamento Local (AL) licences, particularly in tourism hotspots including Lisbon and Porto, ...</description>
+</item>
+<item>
 <title>Spain Joins Italy, France, Greece, Portugal, Netherlands, Germany, Croatia, Austria ...</title>
 <link>https://www.travelandtourworld.com/news/article/wjmqtt5rwq9p/</link>
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/wjmqtt5rwq9p/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/3yo9l8bfx5bf/</guid>
 <pubDate>Mon, 15 Jun 2026 09:29:14 +0000</pubDate>
 <description>Spain, Germany, Italy, Ireland, Finland, Cyprus, Portugal EU island coastal strategy boosts sustainable tourism, climate resilience, connectivity, ...</description>
-</item>
-<item>
-<title>Spain Joins Italy, Greece and Portugal in Bold Inland Tourism Overhaul Inspired by Ancient ...</title>
-<link>https://www.travelandtourworld.com/news/article/u8yli3umao2g/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/u8yli3umao2g/</guid>
-<pubDate>Tue, 09 Jun 2026 08:29:10 +0000</pubDate>
-<description>... high-value tourism models. The ... Revenue has been optimized through high-value, low-volume operations targeting ultra-premium market segments.</description>
 </item>
 </channel>
 </rss>

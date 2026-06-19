@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/middle-east.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Middle East. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 19 Jun 2026 10:05:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 22:06:17 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Egypt pushing to turn Sharm El-Sheikh reserves into global ecotourism destinations</title>
+<link>https://english.ahram.org.eg/NewsContent/1/1238/571182/Egypt/Tourism/Egypt-pushing-to-turn-Sharm-ElSheikh-reserves-into.aspx</link>
+<guid isPermaLink="false">https://english.ahram.org.eg/NewsContent/1/1238/571182/Egypt/Tourism/Egypt-pushing-to-turn-Sharm-ElSheikh-reserves-into.aspx</guid>
+<pubDate>Fri, 19 Jun 2026 12:51:23 +0000</pubDate>
+<description>... nature tourism enthusiasts alike. Minister Awad stressed that all projects must minimize heavy construction, use easily removable natural ...</description>
+</item>
 <item>
 <title>Oman elected to Unesco Intangible Heritage panel</title>
 <link>https://www.omanobserver.om/article/1191454/oman/oman-elected-to-unesco-intangible-heritage-panel</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.undp.org/egypt/press-releases/egypt-undp-and-gfcr-launches-egyptian-red-sea-initiative-ersi-advance-coral-reef-conservation-and-sustainable-blue-economy</guid>
 <pubDate>Mon, 08 Jun 2026 07:49:51 +0000</pubDate>
 <description>Chitose Noguchi, Resident Representative of the United Nations Development Programme (UNDP) in Egypt; and Mr. ... tourism, the blue economy, and the ...</description>
-</item>
-<item>
-<title>Egypt launches Red Sea Initiative to protect coral reefs, advance sustainable blue economy</title>
-<link>https://www.dailynewsegypt.com/2026/06/07/egypt-launches-red-sea-initiative-to-protect-coral-reefs-advance-sustainable-blue-economy/</link>
-<guid isPermaLink="false">https://www.dailynewsegypt.com/2026/06/07/egypt-launches-red-sea-initiative-to-protect-coral-reefs-advance-sustainable-blue-economy/</guid>
-<pubDate>Sun, 07 Jun 2026 23:36:59 +0000</pubDate>
-<description>... coral reef ecosystems, strengthen climate resilience, and promote sustainable tourism and green investment along the Red Sea coast. The initiative ...</description>
 </item>
 </channel>
 </rss>
