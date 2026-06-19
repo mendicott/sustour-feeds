@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 18 Jun 2026 22:06:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 10:05:59 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Europe's beaches tighten rules as overtourism pressures mount - MSN</title>
+<link>https://www.msn.com/en-gb/travel/news/europe-s-beaches-tighten-rules-as-overtourism-pressures-mount/ss-AA25WDFC</link>
+<guid isPermaLink="false">https://www.msn.com/en-gb/travel/news/europe-s-beaches-tighten-rules-as-overtourism-pressures-mount/ss-AA25WDFC</guid>
+<pubDate>Thu, 18 Jun 2026 10:38:32 +0000</pubDate>
+<description>Europe's beaches tighten rules as overtourism pressures mount ... New beach restrictions: Authorities in Spain, Italy, Greece and France are enforcing ...</description>
+</item>
 <item>
 <title>Greece Joins Spain, Italy, Belgium, Netherlands, France, Portugal, And ... - Travel And Tour World</title>
 <link>https://www.travelandtourworld.com/news/article/w1zwgzfrof02/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/o8vw4musj2p1/</guid>
 <pubDate>Sat, 13 Jun 2026 17:16:24 +0000</pubDate>
 <description>Santorini cruise travel rules change with new Greece tourist fees, port restrictions, and overtourism measures affecting global travelers in 2026.</description>
-</item>
-<item>
-<title>Greece's Santorini Cruise Port Crisis Deepens As New Passenger Flow Rules Expose ...</title>
-<link>https://www.travelandtourworld.com/news/article/pln9sy308i0s/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/pln9sy308i0s/</guid>
-<pubDate>Fri, 12 Jun 2026 09:18:21 +0000</pubDate>
-<description>Greece's Santorini tightens cruise passenger flow rules as port pressure, cable car access and overtourism reshape island tourism.</description>
 </item>
 </channel>
 </rss>
