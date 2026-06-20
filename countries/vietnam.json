@@ -7,11 +7,25 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.vietnam.vn/en/ket-noi-doanh-nghiep-kien-tao-he-sinh-thai-du-lich-xanh",
+      "url": "https://www.vietnam.vn/en/ket-noi-doanh-nghiep-kien-tao-he-sinh-thai-du-lich-xanh",
+      "title": "Connecting businesses, creating a green tourism ecosystem. - Vietnam.vn",
+      "content_text": "During the peak summer tourist season, eco-tourism destinations such as May Waterfall, Dong Quan Waterfall, Pu Luong, Nang Cat Village, Ma Hao ...",
+      "date_published": "2026-06-19T23:24:48+00:00"
+    },
+    {
       "id": "https://en.vietnamplus.vn/vietnams-oldest-national-park-rok-partners-strengthen-cooperation-post345892.vnp",
       "url": "https://en.vietnamplus.vn/vietnams-oldest-national-park-rok-partners-strengthen-cooperation-post345892.vnp",
       "title": "Vietnam's oldest national park, RoK partners strengthen cooperation",
       "content_text": "It's aim is to establish a long-term cooperation framework to promote biodiversity conservation, climate change response, and greater youth engagement ...",
       "date_published": "2026-06-19T16:30:23+00:00"
+    },
+    {
+      "id": "https://vovworld.vn/news/5-vietnamese-villages-to-apply-for-un-tourisms-best-tourism-villages-2026-2444197.vov5",
+      "url": "https://vovworld.vn/news/5-vietnamese-villages-to-apply-for-un-tourisms-best-tourism-villages-2026-2444197.vov5",
+      "title": "5 Vietnamese villages to apply for UN Tourism's Best Tourism Villages 2026 - VOV World",
+      "content_text": "... community tourism village of Lang Son province. The winners will be ... Winning this award would help us develop community-based tourism in ...",
+      "date_published": "2026-06-19T16:16:55+00:00"
     },
     {
       "id": "https://www.vietnam.vn/en/khai-thac-tiem-nang-du-lich-sinh-thai-tai-kon-ka-kinh",
@@ -61,20 +75,6 @@
       "title": "Vietnam Is Turning a Little-Known UNESCO Paradise Into a Global Travel Sensation With a ...",
       "content_text": "Vietnam boosts sustainable tourism in Chàm Islands with forest restoration, biodiversity protection, and eco-friendly travel plans.",
       "date_published": "2026-06-17T13:03:36+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/utril92dawj6/",
-      "url": "https://www.travelandtourworld.com/news/article/utril92dawj6/",
-      "title": "Vietnam's New National Park Ecotourism Uncovers a Rare Wetland Paradise Caught ...",
-      "content_text": "U Minh Hạ National Park ecotourism highlights Vietnam eco tourism growth, wetland travel, and conservation challenges.",
-      "date_published": "2026-06-16T21:16:47+00:00"
-    },
-    {
-      "id": "https://www.vietnam.vn/en/trai-tham-don-dong-von-dau-tu-vao-du-lich-cong-dong",
-      "url": "https://www.vietnam.vn/en/trai-tham-don-dong-von-dau-tu-vao-du-lich-cong-dong",
-      "title": "Rolling out the red carpet for investment in community-based tourism. - Vietnam.vn",
-      "content_text": "... community tourism ... In reality, many tourism projects, including community-based tourism, have faced difficulties due to land-related issues.",
-      "date_published": "2026-06-16T09:25:37+00:00"
     }
   ]
 }

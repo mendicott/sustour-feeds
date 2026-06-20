@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/egypt.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Egypt. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 19 Jun 2026 22:06:17 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 10:06:18 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Egypt pushing to turn South Sinai reserves into global ecotourism destinations - Tourism</title>
+<link>https://english.ahram.org.eg/NewsContent/1/1238/571182/Egypt/Tourism/Egypt-pushing-to-turn-South-Sinai-reserves-into-gl.aspx</link>
+<guid isPermaLink="false">https://english.ahram.org.eg/NewsContent/1/1238/571182/Egypt/Tourism/Egypt-pushing-to-turn-South-Sinai-reserves-into-gl.aspx</guid>
+<pubDate>Fri, 19 Jun 2026 14:23:09 +0000</pubDate>
+<description>Egypts environment ministry is moving forward with a series of environmental investment projects in Sharm El-Sheikh and South Sinai, ...</description>
+</item>
 <item>
 <title>Egypt pushing to turn Sharm El-Sheikh reserves into global ecotourism destinations</title>
 <link>https://english.ahram.org.eg/NewsContent/1/1238/571182/Egypt/Tourism/Egypt-pushing-to-turn-Sharm-ElSheikh-reserves-into.aspx</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.egypttoday.com/Article/1/147615/Egypt-to-establish-Coral-Reef-Fund-Min-of-Environment</guid>
 <pubDate>Sun, 07 Jun 2026 19:49:18 +0000</pubDate>
 <description>... Coral Reef Fund ... tourism, and community-based development projects, reflecting its view that sustainable financing is essential for long-term ...</description>
-</item>
-<item>
-<title>Egypt Launches Initiative for Red Sea Coral Reef Fund - khabars7</title>
-<link>https://watan.khabars7.com/en/257721/egypt-launches-initiative-for-red-sea-coral-reef-fund/</link>
-<guid isPermaLink="false">https://watan.khabars7.com/en/257721/egypt-launches-initiative-for-red-sea-coral-reef-fund/</guid>
-<pubDate>Sun, 07 Jun 2026 10:55:06 +0000</pubDate>
-<description>... Tourism and Antiquities, and several other officials from various ... coral reef conservation along the governorate's coasts. He noted that ...</description>
 </item>
 </channel>
 </rss>
