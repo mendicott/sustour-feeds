@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/argentina.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Argentina. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 20 Jun 2026 10:06:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 22:05:48 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>El Impenetrable National Park Enhances Sustainable Adventure Tourism in Northern Argentina</title>
+<link>https://www.travelandtourworld.com/news/article/mr734vn6mame/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/mr734vn6mame/</guid>
+<pubDate>Sat, 20 Jun 2026 15:49:08 +0000</pubDate>
+<description>A different option from the usual travel suggestions is the mix of comfort, regional food and close-up wildlife encounters. For the adventure seeker, ...</description>
+</item>
 <item>
 <title>Mexico Joins Brazil, Peru, Colombia, Jamaica, Argentina, Dominican Republic and More in ...</title>
 <link>https://www.travelandtourworld.com/news/article/dvui0xikjgl4/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/9f71u15o1cla/</guid>
 <pubDate>Sat, 13 Jun 2026 08:09:02 +0000</pubDate>
 <description>Greece and Colombia sign a landmark tourism cooperation pact, expanding Greece's Latin America tourism strategy and boosting cultural, nature, ...</description>
-</item>
-<item>
-<title>Breeding phenology plasticity to climate revealed by automated monitoring of two Eudpytes ...</title>
-<link>https://www.nature.com/articles/s41598-026-54931-0</link>
-<guid isPermaLink="false">https://www.nature.com/articles/s41598-026-54931-0</guid>
-<pubDate>Fri, 12 Jun 2026 16:36:36 +0000</pubDate>
-<description>Wildlife Conservation Society, Buenos Aires, Argentina. Raya Rey Andrea. Department of Animal Ecology &amp; Biodiversity, Justus-Liebig University ...</description>
 </item>
 </channel>
 </rss>
