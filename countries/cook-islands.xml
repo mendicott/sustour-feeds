@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/cook-islands.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Cook Islands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 20 Jun 2026 22:05:48 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 10:06:19 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Te Ipukarea Society: TIS continues to grow tomorrow's environmental stewards</title>
+<link>https://www.cookislandsnews.com/internal/opinion/editorials/te-ipukarea-society-tis-continues-to-grow-tomorrows-environmental-stewards/</link>
+<guid isPermaLink="false">https://www.cookislandsnews.com/internal/opinion/editorials/te-ipukarea-society-tis-continues-to-grow-tomorrows-environmental-stewards/</guid>
+<pubDate>Sun, 21 Jun 2026 00:08:07 +0000</pubDate>
+<description>As Te Ipukarea Society (TIS) marks 30 years of environmental stewardship in the Cook Islands this week, one thing remains clear: the work must ...</description>
+</item>
 <item>
 <title>Te Ipukarea Society turns 30! - Cook Islands News</title>
 <link>http://www.cookislandsnews.com/internal/national/environment/te-ipukarea-society-turns-30/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.cookislandsnews.com/internal/national/local/new-electric-motorbikes-for-local-puna-amid-global-fuel-crisis/</guid>
 <pubDate>Mon, 15 Jun 2026 05:49:02 +0000</pubDate>
 <description>The Ministry of Finance and Economic Management (MFEM) is providing 10 new electric motorbikes for Community Safety and Monitoring work in ...</description>
-</item>
-<item>
-<title>Letter: Finding our way forward - Cook Islands News</title>
-<link>https://www.cookislandsnews.com/internal/national/opinion/letters-to-the-editor/letter-finding-our-way-forward/</link>
-<guid isPermaLink="false">https://www.cookislandsnews.com/internal/national/opinion/letters-to-the-editor/letter-finding-our-way-forward/</guid>
-<pubDate>Fri, 12 Jun 2026 06:50:53 +0000</pubDate>
-<description>The island has experienced significant growth in tourism, business activity, and residential development. More homes are being used as holiday ...</description>
 </item>
 </channel>
 </rss>
