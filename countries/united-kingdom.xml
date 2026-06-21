@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/united-kingdom.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for United Kingdom. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 21 Jun 2026 10:06:19 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 22:05:40 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Brazil Joins United States, Canada, United Kingdom, France, Germany, Italy, Spain ...</title>
+<link>https://www.travelandtourworld.com/news/article/s5xbe1ld140r/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/s5xbe1ld140r/</guid>
+<pubDate>Sun, 21 Jun 2026 15:25:07 +0000</pubDate>
+<description>Community Tourism Creates New Opportunities. Community-based tourism has become one of Rio's fastest-growing travel segments. Local guides, artists, ...</description>
+</item>
 <item>
 <title>Emirates SkyCargo flies in 'crime-fighting' dogs on mission to protect wildlife from poachers</title>
 <link>https://gulfnews.com/business/aviation/emirates-skycargo-flies-in-crime-fighting-dogs-on-mission-to-protect-wildlife-from-poachers-1.500578700</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.thedubrovniktimes.com/news/dubrovnik/item/19937-british-media-praises-dubrovnik-s-battle-against-mass-tourism</guid>
 <pubDate>Wed, 10 Jun 2026 03:01:18 +0000</pubDate>
 <description>Award-winning travel journalist Greg Dickinson spent several days in Dubrovnik investigating how the city has transformed itself over the past nine ...</description>
-</item>
-<item>
-<title>UK overseas territory Montserrat joins Blue Belt Programme - Oceanographic Magazine</title>
-<link>https://oceanographicmagazine.com/news/uk-overseas-territory-montserrat-joins-blue-belt-programme/</link>
-<guid isPermaLink="false">https://oceanographicmagazine.com/news/uk-overseas-territory-montserrat-joins-blue-belt-programme/</guid>
-<pubDate>Tue, 09 Jun 2026 03:34:09 +0000</pubDate>
-<description>The initiative comes at a critical time for the island, which faces severe climate change threats, including rising sea levels, ocean warming, and ...</description>
 </item>
 </channel>
 </rss>

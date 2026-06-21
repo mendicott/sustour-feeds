@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 21 Jun 2026 10:06:19 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 22:05:40 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Vietnam Turns National Park Into a Bold New Sustainable Travel Showcase as Eco Tourism ...</title>
+<link>https://www.travelandtourworld.com/news/article/rlckuv1ldujo/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/rlckuv1ldujo/</guid>
+<pubDate>Sun, 21 Jun 2026 14:49:25 +0000</pubDate>
+<description>Cúc Phương National Park sustainable travel reshapes Vietnam eco tourism with conservation, wildlife protection and responsible travel Asia ...</description>
+</item>
 <item>
 <title>Connecting businesses, creating a green tourism ecosystem. - Vietnam.vn</title>
 <link>https://www.vietnam.vn/en/ket-noi-doanh-nghiep-kien-tao-he-sinh-thai-du-lich-xanh</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.vietnam.vn/en/xanh-hoa-mo-than</guid>
 <pubDate>Wed, 17 Jun 2026 14:41:09 +0000</pubDate>
 <description>In particular, Na Duong Coal Company owns the Na Duong Basin, one of the typical geological heritage sites within the UNESCO Lang Son Global Geopark.</description>
-</item>
-<item>
-<title>Vietnam Is Turning a Little-Known UNESCO Paradise Into a Global Travel Sensation With a ...</title>
-<link>https://www.travelandtourworld.com/news/article/y0vqp99o0je0/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/y0vqp99o0je0/</guid>
-<pubDate>Wed, 17 Jun 2026 13:03:36 +0000</pubDate>
-<description>Vietnam boosts sustainable tourism in Chàm Islands with forest restoration, biodiversity protection, and eco-friendly travel plans.</description>
 </item>
 </channel>
 </rss>

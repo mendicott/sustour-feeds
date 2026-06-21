@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=7QW5CWTpYCo",
+      "url": "https://www.youtube.com/watch?v=7QW5CWTpYCo",
+      "title": "The vault that saved Syria's crops #travel #documentary - YouTube",
+      "content_text": "... travel guides, luxury destination comparisons, hidden gems, bucket list adventures, and honest travel insights from around the world. From ...",
+      "date_published": "2026-06-20T21:23:52+00:00"
+    },
+    {
       "id": "https://www.muslimnetwork.tv/unesco-helps-preserve-syrias-aleppo-museum-artifacts-through-training/",
       "url": "https://www.muslimnetwork.tv/unesco-helps-preserve-syrias-aleppo-museum-artifacts-through-training/",
       "title": "UNESCO helps preserve Syria's Aleppo Museum artifacts through training",
@@ -63,18 +70,11 @@
       "date_published": "2026-06-17T00:09:47+00:00"
     },
     {
-      "id": "https://www.travelandtourworld.com/news/article/jiivwls6xhsh/",
-      "url": "https://www.travelandtourworld.com/news/article/jiivwls6xhsh/",
-      "title": "Israel Joins Lebanon, Syria, Iraq, and Iran in Witnessing Unprecedented Travel Restrictions ...",
-      "content_text": "Active airspace closures and a shocking 90-passenger departure cap at Ben Gurion Airport have left thousands of European holidaymakers scrambling ...",
-      "date_published": "2026-06-20T03:42:50+00:00"
-    },
-    {
-      "id": "https://sfuturem.org/en/2026/06/syria-ranked-among-the-worlds-most-dangerous-hunger-hotspots/",
-      "url": "https://sfuturem.org/en/2026/06/syria-ranked-among-the-worlds-most-dangerous-hunger-hotspots/",
-      "title": "Syria ranked among the world's most dangerous hunger hotspots - تيار المستقبل السوري",
-      "content_text": "... climate change, and, most importantly, the limited humanitarian funding, which decreased by 59% between 2022 and 2025. This has reduced the ...",
-      "date_published": "2026-06-19T22:56:34+00:00"
+      "id": "https://www.arabnews.com/node/2648041/middle-east",
+      "url": "https://www.arabnews.com/node/2648041/middle-east",
+      "title": "Syria to launch direct Damascus-Amsterdam flights in July - Arab News",
+      "content_text": "Travel · Entertainment · Food & Health · The Six · Books & Gaming · Opinion ... After that, Moscow became the only European destination to which Syrians ...",
+      "date_published": "2026-06-21T15:58:24+00:00"
     }
   ]
 }

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/middle-east.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Middle East. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 21 Jun 2026 10:06:19 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 22:05:40 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mourners gather in Beirut to pay respects to Lebanese conservationist who died after Israeli strike</title>
+<link>https://www.washingtonpost.com/world/2026/06/21/lebanon-israel-hezbollah-sea-turtles-environmentalist-khalil/1929d2ac-6da1-11f1-8730-e7fd0e2a6404_story.html</link>
+<guid isPermaLink="false">https://www.washingtonpost.com/world/2026/06/21/lebanon-israel-hezbollah-sea-turtles-environmentalist-khalil/1929d2ac-6da1-11f1-8730-e7fd0e2a6404_story.html</guid>
+<pubDate>Sun, 21 Jun 2026 19:08:55 +0000</pubDate>
+<description>The Orange House, which Khalil helped build into a small conservation hub and ecotourism site in Mansouri, became a refuge for endangered ...</description>
+</item>
 <item>
 <title>Mecca Joins Medina, Jeddah, Riyadh, Doha, and Dubai in Preparing for an Astonishing ...</title>
 <link>https://www.travelandtourworld.com/news/article/tlmldjelus4o/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://cairoscene.com/News/Red-Sea-Initiative-for-Coral-Reef-Conservation-Launched-in-Egypt</guid>
 <pubDate>Tue, 09 Jun 2026 15:03:56 +0000</pubDate>
 <description>... coral reef monitoring programmes and expand the network of mooring ... tourism sector. Community participation is also a key component of the ...</description>
-</item>
-<item>
-<title>Egypt Launches Red Sea Initiative to Protect Coral Reefs and Build a Sustainable Blue Economy</title>
-<link>https://news.fundsforngos.org/2026/06/08/egypt-launches-red-sea-initiative-to-protect-coral-reefs-and-build-a-sustainable-blue-economy/</link>
-<guid isPermaLink="false">https://news.fundsforngos.org/2026/06/08/egypt-launches-red-sea-initiative-to-protect-coral-reefs-and-build-a-sustainable-blue-economy/</guid>
-<pubDate>Mon, 08 Jun 2026 23:37:43 +0000</pubDate>
-<description>Travel and Tourism · Women · Youth · Funds ... Egypt has launched the Egyptian Red Sea Initiative, a national programme aimed at protecting coral reef ...</description>
 </item>
 </channel>
 </rss>

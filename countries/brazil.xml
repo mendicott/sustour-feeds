@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/brazil.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Brazil. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 21 Jun 2026 10:06:19 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 22:05:40 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Brazil Joins United States, Canada, United Kingdom, France, Germany, Italy, Spain ...</title>
+<link>https://www.travelandtourworld.com/news/article/s5xbe1ld140r/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/s5xbe1ld140r/</guid>
+<pubDate>Sun, 21 Jun 2026 15:25:07 +0000</pubDate>
+<description>Community Tourism Creates New Opportunities. Community-based tourism has become one of Rio's fastest-growing travel segments. Local guides, artists, ...</description>
+</item>
 <item>
 <title>Whale season in Ilhabelan, Brazil, highlights responsible tourism - TravelMole</title>
 <link>https://www.travelmole.com/news/whale-season-in-ilhabelan-brazil-highlights-responsible-tourism</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/4ob1gjh8560j/</guid>
 <pubDate>Fri, 05 Jun 2026 23:57:32 +0000</pubDate>
 <description>Global ecotourism is expanding rapidly, with Peru and major regions driving growth as travellers choose sustainable, nature‑based travel ...</description>
-</item>
-<item>
-<title>Fire risk mitigation underpins durable Nature-based Climate Solutions in the Amazon</title>
-<link>https://www.nature.com/articles/s43247-026-03765-9</link>
-<guid isPermaLink="false">https://www.nature.com/articles/s43247-026-03765-9</guid>
-<pubDate>Fri, 19 Jun 2026 10:01:41 +0000</pubDate>
-<description>Amazon Environmental Research Institute, Brasilia, Brazil. Celso H. L. Silva-Junior. Graduate Program in Biodiversity and Conservation, Federal ...</description>
 </item>
 </channel>
 </rss>
