@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/europe.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Europe. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 22 Jun 2026 10:06:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Jun 2026 22:06:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Dissatisfaction with mass tourism is growing in Europe</title>
+<link>https://logos-pres.md/en/news/dissatisfaction-with-mass-tourism-is-growing-in-europe/</link>
+<guid isPermaLink="false">https://logos-pres.md/en/news/dissatisfaction-with-mass-tourism-is-growing-in-europe/</guid>
+<pubDate>Mon, 22 Jun 2026 18:28:58 +0000</pubDate>
+<description>Spain, Italy and France face rising protests over overtourism, housing pressure and strain on urban infrastructure.</description>
+</item>
 <item>
 <title>Venice, Italy Faces €50 Entry Fee Shock as Overtourism Clampdown Intensifies</title>
 <link>https://www.travelandtourworld.com/news/article/jva4f2to8zri/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/j7rdqy2gbhmi/</guid>
 <pubDate>Sun, 21 Jun 2026 05:44:20 +0000</pubDate>
 <description>... tourism models toward a more thoughtful, slow-travel approach. ... The town is being marketed as a world leader in cultural heritage management by ...</description>
-</item>
-<item>
-<title>Venice is considering a 50-euro entry fee, but the mayor's proposal has divided opinion</title>
-<link>https://en.ilsole24ore.com/art/venice-is-considering-a-50-euro-entry-fee-but-the-mayors-proposal-is-dividing-opinion-AIMdSFnD</link>
-<guid isPermaLink="false">https://en.ilsole24ore.com/art/venice-is-considering-a-50-euro-entry-fee-but-the-mayors-proposal-is-dividing-opinion-AIMdSFnD</guid>
-<pubDate>Sat, 20 Jun 2026 22:44:35 +0000</pubDate>
-<description>Overtourism, Europe raises the price of access: from tickets on Greek islands to taxes on cruises in Croatia. Le ultime di 24+ · Da quasi tre ...</description>
 </item>
 </channel>
 </rss>

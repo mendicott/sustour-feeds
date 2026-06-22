@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/france.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for France. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 22 Jun 2026 10:06:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Jun 2026 22:06:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Dissatisfaction with mass tourism is growing in Europe</title>
+<link>https://logos-pres.md/en/news/dissatisfaction-with-mass-tourism-is-growing-in-europe/</link>
+<guid isPermaLink="false">https://logos-pres.md/en/news/dissatisfaction-with-mass-tourism-is-growing-in-europe/</guid>
+<pubDate>Mon, 22 Jun 2026 18:28:58 +0000</pubDate>
+<description>Spain, Italy and France face rising protests over overtourism, housing pressure and strain on urban infrastructure.</description>
+</item>
 <item>
 <title>France Sustainable Travel Revolution Redefines Tourism With High Speed Rail, Cycling ...</title>
 <link>https://www.travelandtourworld.com/news/article/k810j8tv0qqd/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=GC9Vnms4Bv8</guid>
 <pubDate>Tue, 16 Jun 2026 15:39:22 +0000</pubDate>
 <description>In French Polynesia, a couple turned turtle conservation into a thriving eco-tourism business. From a few turtles to hundreds — protection plus ...</description>
-</item>
-<item>
-<title>Spain Joins Italy, Greece, France and Portugal in Massive Anti-Tourism Uprising as ...</title>
-<link>https://www.travelandtourworld.com/news/article/107ffbszizpo/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/107ffbszizpo/</guid>
-<pubDate>Sat, 13 Jun 2026 19:04:07 +0000</pubDate>
-<description>Anti-tourism protests spread across Europe as Spain, Italy, Greece, France and Portugal face overtourism pressure and rising local backlash.</description>
 </item>
 </channel>
 </rss>

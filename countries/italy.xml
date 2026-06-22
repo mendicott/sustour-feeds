@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 22 Jun 2026 10:06:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Jun 2026 22:06:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Dissatisfaction with mass tourism is growing in Europe</title>
+<link>https://logos-pres.md/en/news/dissatisfaction-with-mass-tourism-is-growing-in-europe/</link>
+<guid isPermaLink="false">https://logos-pres.md/en/news/dissatisfaction-with-mass-tourism-is-growing-in-europe/</guid>
+<pubDate>Mon, 22 Jun 2026 18:28:58 +0000</pubDate>
+<description>Spain, Italy and France face rising protests over overtourism, housing pressure and strain on urban infrastructure.</description>
+</item>
 <item>
 <title>Venice, Italy Faces €50 Entry Fee Shock as Overtourism Clampdown Intensifies</title>
 <link>https://www.travelandtourworld.com/news/article/jva4f2to8zri/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/enm9ay3haep8/</guid>
 <pubDate>Fri, 19 Jun 2026 15:05:51 +0000</pubDate>
 <description>Addressing Overtourism and Resident Challenges. Venice faces a chronic imbalance between the number of visitors and residents in its historic centre.</description>
-</item>
-<item>
-<title>Europe's beaches tighten rules as overtourism pressures mount - MSN</title>
-<link>https://www.msn.com/en-gb/travel/news/europe-s-beaches-tighten-rules-as-overtourism-pressures-mount/ss-AA25WDFC</link>
-<guid isPermaLink="false">https://www.msn.com/en-gb/travel/news/europe-s-beaches-tighten-rules-as-overtourism-pressures-mount/ss-AA25WDFC</guid>
-<pubDate>Thu, 18 Jun 2026 10:38:32 +0000</pubDate>
-<description>Europe's beaches tighten rules as overtourism pressures mount ... New beach restrictions: Authorities in Spain, Italy, Greece and France are enforcing ...</description>
 </item>
 </channel>
 </rss>

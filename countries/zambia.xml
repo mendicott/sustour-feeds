@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/zambia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Zambia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 22 Jun 2026 10:06:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Jun 2026 22:06:27 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Zambia Safari Tourism Powers a New Era of Conservation and Community Wealth in 2026 ...</title>
@@ -51,6 +51,13 @@
 <description>This inventory showcases interventions implemented in Zambia that use ecosystem processes, restoration, or management to reduce climate ...</description>
 </item>
 <item>
+<title>The World's Largest Mammal Migration Isn't in the Serengeti—and Only About 800 People ...</title>
+<link>https://www.travelandleisure.com/worlds-largest-mammal-migration-in-zambia-12002092</link>
+<guid isPermaLink="false">https://www.travelandleisure.com/worlds-largest-mammal-migration-in-zambia-12002092</guid>
+<pubDate>Mon, 22 Jun 2026 15:10:37 +0000</pubDate>
+<description>Each year, over 10 million of straw-colored fruit bats (Eidolon helvum) migrate to Kasanka National Park in northern Zambia.</description>
+</item>
+<item>
 <title>Earth Festival: 27 -28 June 2014 | News24</title>
 <link>https://www.news24.com/travel/events/Earth-Festival-27-28-June-2014-20140609</link>
 <guid isPermaLink="false">https://www.news24.com/travel/events/Earth-Festival-27-28-June-2014-20140609</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/8ovkssagobox/</guid>
 <pubDate>Wed, 17 Jun 2026 10:16:18 +0000</pubDate>
 <description>Inside Zambia's secret eco-crisis: How illegal corporate farming threatens 10 million bats in the world's largest, most endangered mammal ...</description>
-</item>
-<item>
-<title>The world's largest mammal migration that few travellers ever see - BBC</title>
-<link>https://www.bbc.com/travel/article/20260603-the-worlds-largest-mammal-migration-that-few-travellers-ever-see</link>
-<guid isPermaLink="false">https://www.bbc.com/travel/article/20260603-the-worlds-largest-mammal-migration-that-few-travellers-ever-see</guid>
-<pubDate>Mon, 15 Jun 2026 18:44:25 +0000</pubDate>
-<description>Every year, millions of straw-coloured fruit bats descend on Zambia's little-known Kasanka National Park, creating one of Africa's most ...</description>
 </item>
 </channel>
 </rss>

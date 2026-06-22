@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/brazil.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Brazil. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 22 Jun 2026 10:06:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Jun 2026 22:06:27 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Brazil Joins United States, Canada, United Kingdom, France, Germany, Italy, Spain ...</title>
@@ -44,6 +44,13 @@
 <description>Mato Grosso do Sul is promoted as a leading ecotourism destination in Brazil through the Brasil DNA and NEX sustainable travel initiative in 2026.</description>
 </item>
 <item>
+<title>Peru Joins Brazil, Colombia, Ecuador, Chile and More Nations Have Destinations with ...</title>
+<link>https://www.travelandtourworld.com/news/article/1gtfetd908tz/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/1gtfetd908tz/</guid>
+<pubDate>Mon, 22 Jun 2026 14:26:17 +0000</pubDate>
+<description>Overtourism in South America rises as bucket-list travel overwhelms Peru, Brazil, Colombia, Ecuador and Chile causing crowds, price hikes and ...</description>
+</item>
+<item>
 <title>Fortaleza and Recife, Europe's closest Brazil: why they attract more travellers | Euronews</title>
 <link>https://www.euronews.com/travel/2026/06/15/fortaleza-and-recife-europes-closest-brazil-why-they-attract-more-travellers</link>
 <guid isPermaLink="false">https://www.euronews.com/travel/2026/06/15/fortaleza-and-recife-europes-closest-brazil-why-they-attract-more-travellers</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.kcl.ac.uk/events/climate-action-in-a-globalized-world</guid>
 <pubDate>Wed, 10 Jun 2026 16:53:38 +0000</pubDate>
 <description>Through discussions with Indigenous women leaders, policymakers, and institutional representatives from Brazil, the event seeks to broaden climate ...</description>
-</item>
-<item>
-<title>Peru Joins Brazil, Argentina, Venezuela, Ecuador and Other American Countries Offering ...</title>
-<link>https://www.travelandtourworld.com/news/article/4ob1gjh8560j/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/4ob1gjh8560j/</guid>
-<pubDate>Fri, 05 Jun 2026 23:57:32 +0000</pubDate>
-<description>Global ecotourism is expanding rapidly, with Peru and major regions driving growth as travellers choose sustainable, nature‑based travel ...</description>
 </item>
 </channel>
 </rss>

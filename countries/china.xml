@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for China. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 22 Jun 2026 10:06:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Jun 2026 22:06:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Chinas Xizangs tourism development offers lessons for other countries: Tunisian official</title>
+<link>https://www.sxdaily.com.cn/2026-06/22/content_20043585.html</link>
+<guid isPermaLink="false">https://www.sxdaily.com.cn/2026-06/22/content_20043585.html</guid>
+<pubDate>Mon, 22 Jun 2026 08:37:05 +0000</pubDate>
+<description>"Everything is well-preserved. That's real ecological tourism and responsible tourism," said a Tunisian official on his first visit to SW China's ...</description>
+</item>
 <item>
 <title>Romania Joins China, Switzerland, Norway, Turkey and France in a High-Altitude ...</title>
 <link>https://www.travelandtourworld.com/news/article/7cfde4ax9uzt/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/bxkqqyh86uzg/</guid>
 <pubDate>Thu, 18 Jun 2026 01:00:07 +0000</pubDate>
 <description>Myanmar hosts Mekong Tourism Forum 2026, uniting Greater Mekong nations to promote sustainable tourism, cultural heritage, community growth and ...</description>
-</item>
-<item>
-<title>China, South Korea release millions of fry and juvenile in Yellow Sea to conserve fishery ...</title>
-<link>https://www.globaltimes.cn/page/202606/1363705.shtml</link>
-<guid isPermaLink="false">https://www.globaltimes.cn/page/202606/1363705.shtml</guid>
-<pubDate>Tue, 16 Jun 2026 22:02:10 +0000</pubDate>
-<description>The event aims to conserve fishery resources and protect the ecological environment of the Yellow Sea — a traditional fishing ground and shared marine ...</description>
 </item>
 </channel>
 </rss>
