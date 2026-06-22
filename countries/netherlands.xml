@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/netherlands.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Netherlands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 21 Jun 2026 22:05:40 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Jun 2026 10:06:13 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Netherlands Transforms Its Tourism Strategy as Amsterdam Restrictions Drive Growth in Eco ...</title>
+<link>https://www.travelandtourworld.com/news/article/wxlq90qwzae6/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/wxlq90qwzae6/</guid>
+<pubDate>Mon, 22 Jun 2026 07:47:21 +0000</pubDate>
+<description>Amsterdam's efforts to encourage responsible travel are helping redirect interest toward eco-friendly experiences, cycling holidays, and countryside ...</description>
+</item>
 <item>
 <title>Greece Joins Spain, Italy, Belgium, Netherlands, France, Portugal, And ... - Travel And Tour World</title>
 <link>https://www.travelandtourworld.com/news/article/w1zwgzfrof02/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/k9y0vvfpb40n/</guid>
 <pubDate>Wed, 10 Jun 2026 14:30:09 +0000</pubDate>
 <description>European holiday alert 2026: Radical new overtourism crackdowns high-tech border registration rules completely transform summer getaway plans.</description>
-</item>
-<item>
-<title>Colloquium: Adam Wójciński (C&amp;O) - TU Delft</title>
-<link>https://www.tudelft.nl/en/ae/current/calendar/colloquia/colloquium-adam-wojcinski-co</link>
-<guid isPermaLink="false">https://www.tudelft.nl/en/ae/current/calendar/colloquia/colloquium-adam-wojcinski-co</guid>
-<pubDate>Sun, 21 Jun 2026 03:26:32 +0000</pubDate>
-<description>The reintroduction and subsequent increases of the aviation tax in the Netherlands have raised questions regarding the leakage of Dutch passengers to ...</description>
 </item>
 </channel>
 </rss>
