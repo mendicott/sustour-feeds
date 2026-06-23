@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 23 Jun 2026 10:06:48 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 22:06:17 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>GEF Clears Mexico's iCOAST Program for Implementation</title>
+<link>https://mexicobusiness.news/sustainability/news/gef-clears-mexicos-icoast-program-implementation</link>
+<guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/gef-clears-mexicos-icoast-program-implementation</guid>
+<pubDate>Tue, 23 Jun 2026 18:41:27 +0000</pubDate>
+<description>The Global Environment Facility (GEF) has approved the Integrated Collaborative Approaches for Sustainable Tourism (iCOAST) project in Mexico, an ...</description>
+</item>
 <item>
 <title>Nuevo Laredo looks to turn hunting ranches into ecotourism sites - Mexico News Daily</title>
 <link>https://mexiconewsdaily.com/travel/nuevo-laredo-hunting-ranches-ecotourism/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/7jphvqp1vwss/</guid>
 <pubDate>Mon, 08 Jun 2026 13:25:41 +0000</pubDate>
 <description>As demand for meaningful travel rises, Indigenous tourism is becoming an increasingly important pillar of the global tourism economy. Advertisement ...</description>
-</item>
-<item>
-<title>Government of Mexico announces decree to allow only ecotourism projects in Mahahual</title>
-<link>https://riviera-maya-news.com/government-of-mexico-announces-decree-to-allow-only-ecotourism-projects-in-mahahual/2026.html</link>
-<guid isPermaLink="false">https://riviera-maya-news.com/government-of-mexico-announces-decree-to-allow-only-ecotourism-projects-in-mahahual/2026.html</guid>
-<pubDate>Sun, 07 Jun 2026 01:11:23 +0000</pubDate>
-<description>Mahahual, Q.R. -- President Claudia Sheinbaum has announced a decree to promote only ecotourism in Mahahual and surrounding communities.</description>
 </item>
 </channel>
 </rss>

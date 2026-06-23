@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 23 Jun 2026 10:06:48 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 22:06:17 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Italy Overtakes Spain, Netherlands, Croatia, Greece, Germany, Iceland, And More Countries ...</title>
+<link>https://www.travelandtourworld.com/news/article/co7101o8dadx/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/co7101o8dadx/</guid>
+<pubDate>Tue, 23 Jun 2026 16:15:47 +0000</pubDate>
+<description>Italy overtakes Spain, Netherlands, Croatia, Greece, Germany, Iceland, and more countries in Europe in implementing a sweeping overtourism ...</description>
+</item>
 <item>
 <title>Dissatisfaction with mass tourism is growing in Europe</title>
 <link>https://logos-pres.md/en/news/dissatisfaction-with-mass-tourism-is-growing-in-europe/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/vt8gjeulb1d8/</guid>
 <pubDate>Sat, 20 Jun 2026 00:08:08 +0000</pubDate>
 <description>Italy could dramatically raise Venice entry fees to €50 as officials intensify efforts to tackle overtourism, sparking legal and public outrage.</description>
-</item>
-<item>
-<title>Italy's Venice Faces Major Tourism Shake-Up as City Plans to Raise Day-Tripper Entry Fee ...</title>
-<link>https://www.travelandtourworld.com/news/article/enm9ay3haep8/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/enm9ay3haep8/</guid>
-<pubDate>Fri, 19 Jun 2026 15:05:51 +0000</pubDate>
-<description>Addressing Overtourism and Resident Challenges. Venice faces a chronic imbalance between the number of visitors and residents in its historic centre.</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/europe.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Europe. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 23 Jun 2026 10:06:48 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 22:06:17 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Italy Overtakes Spain, Netherlands, Croatia, Greece, Germany, Iceland, And More Countries ...</title>
+<link>https://www.travelandtourworld.com/news/article/co7101o8dadx/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/co7101o8dadx/</guid>
+<pubDate>Tue, 23 Jun 2026 16:15:47 +0000</pubDate>
+<description>Italy overtakes Spain, Netherlands, Croatia, Greece, Germany, Iceland, and more countries in Europe in implementing a sweeping overtourism ...</description>
+</item>
 <item>
 <title>Dissatisfaction with mass tourism is growing in Europe</title>
 <link>https://logos-pres.md/en/news/dissatisfaction-with-mass-tourism-is-growing-in-europe/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/s5xbe1ld140r/</guid>
 <pubDate>Sun, 21 Jun 2026 15:25:07 +0000</pubDate>
 <description>Community Tourism Creates New Opportunities. Community-based tourism has become one of Rio's fastest-growing travel segments. Local guides, artists, ...</description>
-</item>
-<item>
-<title>Monte Sant'Angelo, Italy: Celebrating Dual UNESCO Heritage Sites Through Sustainable Tourism</title>
-<link>https://www.travelandtourworld.com/news/article/j7rdqy2gbhmi/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/j7rdqy2gbhmi/</guid>
-<pubDate>Sun, 21 Jun 2026 05:44:20 +0000</pubDate>
-<description>... tourism models toward a more thoughtful, slow-travel approach. ... The town is being marketed as a world leader in cultural heritage management by ...</description>
 </item>
 </channel>
 </rss>
