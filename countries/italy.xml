@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 24 Jun 2026 10:09:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Jun 2026 22:08:23 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Venice mayor proposes 900% tourist fee hike to tackle overtourism: 'BETTER FOR US'</title>
+<link>https://ca.news.yahoo.com/venice-mayor-proposes-900-tourist-190239739.html</link>
+<guid isPermaLink="false">https://ca.news.yahoo.com/venice-mayor-proposes-900-tourist-190239739.html</guid>
+<pubDate>Tue, 23 Jun 2026 21:31:21 +0000</pubDate>
+<description>It's no secret that the Italian city of Venice is being overwhelmed by overtourism. But its new mayor has a proposal: Hike the tourist fee for day- ...</description>
+</item>
 <item>
 <title>Italy Overtakes Spain, Netherlands, Croatia, Greece, Germany, Iceland, And More Countries ...</title>
 <link>https://www.travelandtourworld.com/news/article/co7101o8dadx/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/2iswwsxx4w2r/</guid>
 <pubDate>Sat, 20 Jun 2026 00:32:07 +0000</pubDate>
 <description>... manage rising overtourism pressures impacting Rome, Capri and other historic destinations across the country.</description>
-</item>
-<item>
-<title>Venice Unleashes New Tourist Entry Bombshell As Europe's Overtourism War Explodes Into ...</title>
-<link>https://www.travelandtourworld.com/news/article/vt8gjeulb1d8/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/vt8gjeulb1d8/</guid>
-<pubDate>Sat, 20 Jun 2026 00:08:08 +0000</pubDate>
-<description>Italy could dramatically raise Venice entry fees to €50 as officials intensify efforts to tackle overtourism, sparking legal and public outrage.</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/brazil.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Brazil. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 24 Jun 2026 10:09:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Jun 2026 22:08:23 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Rota dos Corais, Pernambuco, Tourism Evolves into Global Model for Coral Reef ...</title>
+<link>https://www.travelandtourworld.com/news/article/xayeuiebdu17/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/xayeuiebdu17/</guid>
+<pubDate>Wed, 24 Jun 2026 18:42:55 +0000</pubDate>
+<description>Brazil Rota dos Corais tourism lets visitors join coral reef restoration through regenerative travel led by Biofábrica de Corais in Pernambuco.</description>
+</item>
 <item>
 <title>Brazil Showcases the Future of Eco-Travel with Regenerative Coral Reef Restoration ...</title>
 <link>https://www.travelandtourworld.com/news/article/yway965qfsjw/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/pykyfaqby5qc/</guid>
 <pubDate>Tue, 23 Jun 2026 09:26:44 +0000</pubDate>
 <description>Chile, Bolivia, Argentina and Peru unite in a powerful astrotourism corridor linking deserts, salt flats and world-class dark skies for tourism ...</description>
-</item>
-<item>
-<title>Peru Joins Brazil, Colombia, Ecuador, Chile and More Nations Have Destinations with ...</title>
-<link>https://www.travelandtourworld.com/news/article/1gtfetd908tz/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/1gtfetd908tz/</guid>
-<pubDate>Mon, 22 Jun 2026 14:26:17 +0000</pubDate>
-<description>Overtourism in South America rises as bucket-list travel overwhelms Peru, Brazil, Colombia, Ecuador and Chile causing crowds, price hikes and ...</description>
 </item>
 </channel>
 </rss>

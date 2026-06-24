@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/argentina.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Argentina. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 24 Jun 2026 10:09:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Jun 2026 22:08:23 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>El Impenetrable National Park Enhances Sustainable Adventure Tourism in Northern Argentina</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://esgnews.com/verra-certifies-first-government-led-jurisdictional-forest-carbon-program-in-argentina/</guid>
 <pubDate>Thu, 04 Jun 2026 00:54:10 +0000</pubDate>
 <description>Verra has approved its first government-led provincial forest carbon program under the VCS Jurisdictional and Nested REDD+ Framework.</description>
+</item>
+<item>
+<title>Argentina to Return Two Rare Maned Wolves to the Wild - U.S. News &amp; World Report</title>
+<link>https://www.usnews.com/news/top-news/articles/2026-06-24/argentina-to-return-two-rare-maned-wolves-to-the-wild</link>
+<guid isPermaLink="false">https://www.usnews.com/news/top-news/articles/2026-06-24/argentina-to-return-two-rare-maned-wolves-to-the-wild</guid>
+<pubDate>Wed, 24 Jun 2026 20:20:53 +0000</pubDate>
+<description>By Lucila Sigal. BUENOS AIRES, June ⁠24 (Reuters) - ⁠Conservationists will return ⁠two maned wolves, rescued after the ​death of their mother, ...</description>
 </item>
 <item>
 <title>Brazil Joins Chile, Argentina, Peru, Colombia, Ecuador, Uruguay, Bolivia, Paraguay, Costa ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.thecooldown.com/green-tech/marine-wildlife-trafficking-detection-ai-technology/</guid>
 <pubDate>Mon, 22 Jun 2026 06:13:52 +0000</pubDate>
 <description>An airport seizure outside Buenos Aires has put a largely overlooked criminal trade back in focus: marine wildlife trafficking.</description>
-</item>
-<item>
-<title>Argentina's race to mine puts private companies before communities - Dialogue Earth</title>
-<link>https://dialogue.earth/en/business/argentinas-race-to-mine-puts-private-companies-before-communities/</link>
-<guid isPermaLink="false">https://dialogue.earth/en/business/argentinas-race-to-mine-puts-private-companies-before-communities/</guid>
-<pubDate>Thu, 18 Jun 2026 14:51:34 +0000</pubDate>
-<description>Amid growing global demand for copper, lithium and liquefied natural gas, Argentina is seeking to position itself as a leading supplier. During the ...</description>
 </item>
 </channel>
 </rss>
