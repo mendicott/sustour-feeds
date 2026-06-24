@@ -1,0 +1,59 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Venezuela",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/venezuela.json",
+  "description": "Top 10 most recent sustainable-tourism items for Venezuela. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.travelandtourworld.com/news/article/4ob1gjh8560j/",
+      "url": "https://www.travelandtourworld.com/news/article/4ob1gjh8560j/",
+      "title": "Peru Joins Brazil, Argentina, Venezuela, Ecuador and Other American Countries Offering ...",
+      "content_text": "Global ecotourism is expanding rapidly, with Peru and major regions driving growth as travellers choose sustainable, nature‑based travel ...",
+      "date_published": "2026-06-05T23:57:32+00:00"
+    },
+    {
+      "id": "https://macaubusiness.com/brazil-more-asylum-seekers-from-cuba-than-from-venezuela-in-2025-government/",
+      "url": "https://macaubusiness.com/brazil-more-asylum-seekers-from-cuba-than-from-venezuela-in-2025-government/",
+      "title": "Brazil: More asylum seekers from Cuba than from Venezuela in 2025 - government",
+      "content_text": "... Tourism A look at innovation vs. authenticity By Jerome Keong Lecturer ... That habit now carries into travel. Many young people opt for ...",
+      "date_published": "2026-06-23T20:28:15+00:00"
+    },
+    {
+      "id": "https://www.miragenews.com/oas-backs-democracy-growth-in-cuba-nicaragua-1697808/",
+      "url": "https://www.miragenews.com/oas-backs-democracy-growth-in-cuba-nicaragua-1697808/",
+      "title": "OAS Backs Democracy Growth in Cuba, Nicaragua, Venezuela - Mirage News",
+      "content_text": "The General Secretariat of the Organization of American States (OAS) reiterates its commitment to the expansion of democratic and civic space ...",
+      "date_published": "2026-06-23T23:40:35+00:00"
+    },
+    {
+      "id": "https://finance.yahoo.com/energy/articles/venezuela-post-maduro-oil-majors-145939397.html",
+      "url": "https://finance.yahoo.com/energy/articles/venezuela-post-maduro-oil-majors-145939397.html",
+      "title": "Venezuela post-Maduro: will oil majors invest again? - Yahoo Finance",
+      "content_text": "The new episode of the Energy Technology podcast discusses Venezuela's oil outlook and the likelihood that foreign investment will spark a ...",
+      "date_published": "2026-06-23T15:02:22+00:00"
+    },
+    {
+      "id": "https://www.zawya.com/en/press-release/africa-press-releases/venezuela-energy-week-2026-launches-high-impact-deal-room-to-accelerate-energy-investment-and-transactions-xoowo1c1",
+      "url": "https://www.zawya.com/en/press-release/africa-press-releases/venezuela-energy-week-2026-launches-high-impact-deal-room-to-accelerate-energy-investment-and-transactions-xoowo1c1",
+      "title": "Venezuela Energy Week 2026 Launches High-Impact Deal Room to Accelerate Energy ...",
+      "content_text": "The launch comes amid renewed momentum in Venezuela's energy sector, as the country continues efforts to rebuild production capacity and attract ...",
+      "date_published": "2026-06-23T13:56:07+00:00"
+    },
+    {
+      "id": "https://www.news.com.au/world/trump-gives-update-on-iran-venezuela-during-quantum-tech-signing-ceremony-we-have-an-oil-gusher/video/0c55bb691f2608515e6877ee95299658",
+      "url": "https://www.news.com.au/world/trump-gives-update-on-iran-venezuela-during-quantum-tech-signing-ceremony-we-have-an-oil-gusher/video/0c55bb691f2608515e6877ee95299658",
+      "title": "Trump gives update on Iran, Venezuela during quantum tech signing ceremony",
+      "content_text": "President Donald Trump shared a positive view of Iran negotiation on June 22, claiming to reporters that the Strait of Hormuz was \"totally open.\"",
+      "date_published": "2026-06-23T11:30:30+00:00"
+    },
+    {
+      "id": "https://english.alarabiya.net/News/world/2026/06/23/maduro-ouster-put-venezuela-on-the-right-path-interim-leader",
+      "url": "https://english.alarabiya.net/News/world/2026/06/23/maduro-ouster-put-venezuela-on-the-right-path-interim-leader",
+      "title": "Maduro ouster put Venezuela on 'the right path': Interim leader - Al Arabiya",
+      "content_text": "Travel and Tourism · Variety · Sports · Video · Podcast · Home · News · World News ... Maduro's former vice president Rodriguez took power in Venezuela ...",
+      "date_published": "2026-06-23T07:35:53+00:00"
+    }
+  ]
+}

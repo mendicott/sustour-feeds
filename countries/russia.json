@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Russia",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/russia.json",
+  "description": "Top 10 most recent sustainable-tourism items for Russia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.omanobserver.om/article/1191645/features/lifestyle/russias-falcon-diplomacy",
+      "url": "https://www.omanobserver.om/article/1191645/features/lifestyle/russias-falcon-diplomacy",
+      "title": "Russia's falcon diplomacy - Oman Observer",
+      "content_text": "... ecological tourism and the sustainable use of wildlife. Delegations ... Travel · Fashion · Photography · Films/Tv · Books · Music · The Opera · Weekend.",
+      "date_published": "2026-06-22T15:02:42+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/g2c70mc0z4ag/",
+      "url": "https://www.travelandtourworld.com/news/article/g2c70mc0z4ag/",
+      "title": "France Joins Russia, US, Canada, Germany, UK, China and Others in Driving Massive ...",
+      "content_text": "... tourism, supported by geographic proximity and long-standing travel ties. ... High-value, low-volume tourism segment; Strong policy alignment with ...",
+      "date_published": "2026-06-21T14:24:35+00:00"
+    },
+    {
+      "id": "https://www.seychellesnewsagency.com/articles/22117/russian-experts-to-undertake-specialised-3d-mapping-of-mission-ruins-of-venns-town-in-seychelles",
+      "url": "https://www.seychellesnewsagency.com/articles/22117/russian-experts-to-undertake-specialised-3d-mapping-of-mission-ruins-of-venns-town-in-seychelles",
+      "title": "Russian experts to undertake specialised 3D mapping of Mission Ruins of Venn's Town in ...",
+      "content_text": "Victoria, Seychelles | June 23, 2026, Tuesday @13:17 in National ... Tourism and Culture of Seychelles. The mission has the support of the ...",
+      "date_published": "2026-06-23T16:15:47+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/ajxa7bsydg8s/",
+      "url": "https://www.travelandtourworld.com/news/article/ajxa7bsydg8s/",
+      "title": "Netherlands Joins Russia, Germany, Romania and Others in Major Travel and Aviation Shift ...",
+      "content_text": "The headline signals a wider shift in international travel diplomacy as Syria moves to restore long-suspended aviation links with Europe through ...",
+      "date_published": "2026-06-22T14:30:29+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/cowoligz5yy4/",
+      "url": "https://www.travelandtourworld.com/news/article/cowoligz5yy4/",
+      "title": "Russia Joins Kazakhstan, Laos, Vietnam and Global Travellers as it Unleashes a Colossal ...",
+      "content_text": "China plans to launch 160 tourist trains by 2030, combining luxury rail travel, themed experiences and cross-border connectivity.",
+      "date_published": "2026-06-23T07:18:48+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/owqlw7ho5cgs/",
+      "url": "https://www.travelandtourworld.com/news/article/owqlw7ho5cgs/",
+      "title": "Mauritius Sees Russian Visitor Numbers Surge as New Ethiopian Airlines Route via Addis ...",
+      "content_text": "With visitor arrivals from Russia continuing to rise and tourism stakeholders focusing on premium travel segments, Mauritius is strengthening its ...",
+      "date_published": "2026-06-24T05:57:41+00:00"
+    },
+    {
+      "id": "https://panafricanvisions.com/2026/06/west-africa-missing-out-in-russias-tourism-boom/",
+      "url": "https://panafricanvisions.com/2026/06/west-africa-missing-out-in-russias-tourism-boom/",
+      "title": "West Africa Missing Out in Russia's Tourism Boom - PAN AFRICAN VISIONS",
+      "content_text": "The most famous West African countries are: Burkina Faso, Côte d'Voire, Ghana, Mali, Nigeria, and Senegal, … but unfortunately, it is quite difficult ...",
+      "date_published": "2026-06-24T03:45:33+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/u6azgci68vu2/",
+      "url": "https://www.travelandtourworld.com/news/article/u6azgci68vu2/",
+      "title": "UAE joins Russia, Syria, Malaysia, Greece, Egypt, Jordan, France and more countries in a ...",
+      "content_text": "UAE joins Russia, Syria, Malaysia, Greece, Egypt, Jordan, France and more countries in a growing regional travel network surge as Air Arabia Abu ...",
+      "date_published": "2026-06-24T08:14:45+00:00"
+    },
+    {
+      "id": "https://8am.media/eng/putin-accuses-ukraine-of-targeting-russias-energy-infrastructure/",
+      "url": "https://8am.media/eng/putin-accuses-ukraine-of-targeting-russias-energy-infrastructure/",
+      "title": "Putin Accuses Ukraine of Targeting Russia's Energy Infrastructure - Hasht-e Subh",
+      "content_text": "... Kyiv intends to target infrastructure facilities in order to disrupt energy supplies and affect Russia's tourism season. The Russian president ...",
+      "date_published": "2026-06-24T07:46:07+00:00"
+    },
+    {
+      "id": "https://www.wbur.org/hereandnow/2026/06/23/ukraine-russia-air-strikes",
+      "url": "https://www.wbur.org/hereandnow/2026/06/23/ukraine-russia-air-strikes",
+      "title": "Thousands flee Ukraine as Russian air assaults continue | Here & Now - WBUR",
+      "content_text": "The ocean is suffering from climate chaos. Could it also ...",
+      "date_published": "2026-06-24T04:08:36+00:00"
+    }
+  ]
+}

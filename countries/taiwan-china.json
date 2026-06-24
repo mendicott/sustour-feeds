@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Taiwan (China)",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/taiwan-china.json",
+  "description": "Top 10 most recent sustainable-tourism items for Taiwan (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.taiwannews.com.tw/en/news/6375497",
+      "url": "https://www.taiwannews.com.tw/en/news/6375497",
+      "title": "Palau president defends Taiwan ties | Taiwan News | Jun. 3, 2026 12:02",
+      "content_text": "According to Taiwan's Presidential Office, Hsiao's visit has three goals: to deepen bilateral relations, assist Palau in promoting sustainable tourism ...",
+      "date_published": "2026-06-03T10:09:40+00:00"
+    },
+    {
+      "id": "https://focustaiwan.tw/politics/202606090020",
+      "url": "https://focustaiwan.tw/politics/202606090020",
+      "title": "Hsiao inspects Taiwan-aided fisheries, tourism projects in Palau",
+      "content_text": "Taipei, June 9 (CNA) Vice President Hsiao Bi-khim (蕭美琴) on Tuesday visited the Palau National Aquaculture Center and a center tasked with ...",
+      "date_published": "2026-06-10T00:12:31+00:00"
+    },
+    {
+      "id": "https://english.president.gov.tw/News/7155",
+      "url": "https://english.president.gov.tw/News/7155",
+      "title": "Vice President Hsiao attends welcome banquet hosted by President Surangel S. Whipps Jr ...",
+      "content_text": "She noted that Taiwan and Palau have shared values in the commitment to preserving the natural environment and in the democracy and freedom that ...",
+      "date_published": "2026-06-08T20:57:51+00:00"
+    },
+    {
+      "id": "https://www.straitstimes.com/asia/how-a-new-tourist-ferry-from-taiwan-to-japan-could-play-a-different-role-in-times-of-crisis",
+      "url": "https://www.straitstimes.com/asia/how-a-new-tourist-ferry-from-taiwan-to-japan-could-play-a-different-role-in-times-of-crisis",
+      "title": "How a new tourist ferry from Taiwan to Japan could play a different role in times of crisis",
+      "content_text": "But while it is marketed as an affordable and leisurely alternative to flying, the ferry route – which marks the first regular maritime travel ...",
+      "date_published": "2026-06-23T14:59:09+00:00"
+    },
+    {
+      "id": "https://www.taipeitimes.com/News/world/archives/2026/06/17/2003859264",
+      "url": "https://www.taipeitimes.com/News/world/archives/2026/06/17/2003859264",
+      "title": "Vast areas of climate-resistant coral reefs found: study - Taipei Times",
+      "content_text": "... climate change. A new study presented at ... Fish swim at a coral reef inside a restricted area in Teahupo'o, Tahiti, French Polynesia, on Aug.",
+      "date_published": "2026-06-16T18:27:12+00:00"
+    },
+    {
+      "id": "https://www.taipeitimes.com/News/taiwan/archives/2026/06/10/2003858861",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/06/10/2003858861",
+      "title": "VP inspects Taiwan-aided fisheries, tourism projects in Palau - Taipei Times",
+      "content_text": "VP inspects Taiwan-aided fisheries, tourism projects in Palau ... Vice President Hsiao Bi-khim (蕭美琴) yesterday visited the Palau National Aquaculture ...",
+      "date_published": "2026-06-10T03:10:26+00:00"
+    },
+    {
+      "id": "https://focustaiwan.tw/politics/202606080006",
+      "url": "https://focustaiwan.tw/politics/202606080006",
+      "title": "Palau president affirms Taiwan sovereignty during Hsiao's visit",
+      "content_text": "Koror, Palau, June 8 (CNA) Palau ... Palau's natural beauty and focus on sustainable tourism would continue to attract Taiwanese visitors.",
+      "date_published": "2026-06-09T07:01:51+00:00"
+    },
+    {
+      "id": "https://www.taiwannews.com.tw/en/news/6378441",
+      "url": "https://www.taiwannews.com.tw/en/news/6378441",
+      "title": "Hsiao encourages Taiwanese to visit Palau during snorkeling tour with Whipps - Taiwan News",
+      "content_text": "She encouraged Taiwanese to reward themselves with a tropical island getaway. She said she was impressed by the country's efforts to balance tourism ...",
+      "date_published": "2026-06-08T22:23:48+00:00"
+    },
+    {
+      "id": "https://www.epicureasia.com/drinks/49047/journey-through-taiwans-teahouse-culture/",
+      "url": "https://www.epicureasia.com/drinks/49047/journey-through-taiwans-teahouse-culture/",
+      "title": "Journey Through Taiwan's Teahouse Culture",
+      "content_text": "Journey Through Taiwan's Teahouse Culture: from an organic farm in Pinglin to the teahouses of Jiufen and Taipei's modern tea venues ... Travel · Videos ...",
+      "date_published": "2026-06-23T15:46:04+00:00"
+    },
+    {
+      "id": "https://english.president.gov.tw/News/7157",
+      "url": "https://english.president.gov.tw/News/7157",
+      "title": "Vice President Hsiao calls on President Surangel S. Whipps, Jr., visits Palau National ...",
+      "content_text": "As island nations on the frontlines of climate change, Taiwan and Palau also share a responsibility to build resilience. ... Tourism and Development ...",
+      "date_published": "2026-06-08T22:42:30+00:00"
+    }
+  ]
+}

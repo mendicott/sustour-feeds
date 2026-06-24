@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Switzerland",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/switzerland.json",
+  "description": "Top 10 most recent sustainable-tourism items for Switzerland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.cbc.ca/player/play/video/9.7246480",
+      "url": "https://www.cbc.ca/player/play/video/9.7246480",
+      "title": "Manitoba group raising funds to repatriate Indigenous artifacts from Switzerland | CBC.ca",
+      "content_text": "Indigenous tourism in Alberta getting $8.2M boost through renewed partnership. More Like This. Video. 1:51. Lheidli T'enneh items returned from Royal ...",
+      "date_published": "2026-06-23T22:25:35+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/7cfde4ax9uzt/",
+      "url": "https://www.travelandtourworld.com/news/article/7cfde4ax9uzt/",
+      "title": "Romania Joins China, Switzerland, Norway, Turkey and France in a High-Altitude ...",
+      "content_text": "Travel planners expect the bridge to be integrated into broader tourism circuits. These may include forest trails, heritage towns, and protected ...",
+      "date_published": "2026-06-17T17:27:52+00:00"
+    },
+    {
+      "id": "https://www.winnipegsun.com/national-news/indigenous-group-seeks-help-repatriating-cultural-items-from-switzerland/article_89ca0c53-7710-5495-a7cc-99e572130279.html",
+      "url": "https://www.winnipegsun.com/national-news/indigenous-group-seeks-help-repatriating-cultural-items-from-switzerland/article_89ca0c53-7710-5495-a7cc-99e572130279.html",
+      "title": "Indigenous group seeks help repatriating cultural items from Switzerland - Winnipeg Sun",
+      "content_text": "Travel · Eat Play Stay Winnipeg · Travel Manitoba · Travel Essentials · Obituaries · Classifieds · Place an Ad · Celebrations · Pet Posts & Adoptions ...",
+      "date_published": "2026-06-24T01:10:21+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/wdf6zepbwmxl/",
+      "url": "https://www.travelandtourworld.com/news/article/wdf6zepbwmxl/",
+      "title": "Switzerland Joins Mexico, France, Germany, Spain, Canada, US, Japan, South Africa and ...",
+      "content_text": "Supported by its world-famous beaches, biodiversity, national parks, volcanoes, adventure tourism, and eco-friendly travel experiences, Costa Rica ...",
+      "date_published": "2026-06-16T14:10:07+00:00"
+    },
+    {
+      "id": "https://www.powder.com/news/braunwald-swiss-ski-resort-closes",
+      "url": "https://www.powder.com/news/braunwald-swiss-ski-resort-closes",
+      "title": "Swiss Resort Braunwald Will No Longer Offering Skiing - POWDER Magazine",
+      "content_text": "\"Alpine tourism is under pressure,\" writes Braunwald. \"Climate change and shifting consumer behavior are challenging the entire industry. For ...",
+      "date_published": "2026-06-23T16:40:33+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/kmxq2ragdprl/",
+      "url": "https://www.travelandtourworld.com/news/article/kmxq2ragdprl/",
+      "title": "Norway Outshines Switzerland, Austria and France as Europe's Tourism Map Is Redrawn by ...",
+      "content_text": "... Svalbard, tourism ... Tags: Arctic Tourism, Austria shoulder season tourism shift analysis, Austria Travel, climate change impact on Swiss Alps tourism ...",
+      "date_published": "2026-06-22T10:15:49+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/9x0gl197zjy6/",
+      "url": "https://www.travelandtourworld.com/news/article/9x0gl197zjy6/",
+      "title": "Italy Joins France, Spain, Switzerland, and Austria in Driving a Massive Journey-Focused ...",
+      "content_text": "Italy, France, Spain, Switzerland and Austria lead Europe's slow travel boom as rail expansion, food tourism and sustainable journeys reshape ...",
+      "date_published": "2026-06-22T03:54:40+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/sqkhc0vacmcm/",
+      "url": "https://www.travelandtourworld.com/news/article/sqkhc0vacmcm/",
+      "title": "Andorra Joins Switzerland, Austria, France, Italy, Spain, Finland, Norway and Canada in ...",
+      "content_text": "Andorra hosts the 2026 World Congress on Snow, Mountain and Wellness Tourism, advancing sustainable travel, AI innovation and global mountain ...",
+      "date_published": "2026-06-21T17:24:13+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/vhg0iydvlxgx/",
+      "url": "https://www.travelandtourworld.com/news/article/vhg0iydvlxgx/",
+      "title": "Iceland Joins New Zealand, Switzerland, Slovenia, Ireland, Austria, Portugal, Singapore ...",
+      "content_text": "For the global travel industry, these destinations represent benchmark examples of sustainable tourism supported by safety, social cohesion, and ...",
+      "date_published": "2026-06-21T16:05:50+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/4rt58jfv74s9/",
+      "url": "https://www.travelandtourworld.com/news/article/4rt58jfv74s9/",
+      "title": "Italy Joins France, Spain, Switzerland, Germany and Austria as Civita di Bagnoregio ...",
+      "content_text": "... Travel and Sustainable Tourism Across the Continent: Latest Update You Need To Know ... Growing interest in slow travel, sustainable tourism ...",
+      "date_published": "2026-06-13T13:03:49+00:00"
+    }
+  ]
+}

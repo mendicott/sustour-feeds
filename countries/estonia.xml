@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../feed.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Sustainable Tourism — Estonia</title>
+<link>https://mendicott.github.io/sustour-feeds</link>
+<atom:link href="https://mendicott.github.io/sustour-feeds/countries/estonia.xml" rel="self" type="application/rss+xml" />
+<description>Top 10 most recent sustainable-tourism items for Estonia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
+<lastBuildDate>Wed, 24 Jun 2026 10:09:51 +0000</lastBuildDate>
+<language>en</language>
+<item>
+<title>Austria Joins Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland ...</title>
+<link>https://www.travelandtourworld.com/news/article/fiavc84k2t32/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/fiavc84k2t32/</guid>
+<pubDate>Mon, 22 Jun 2026 05:16:57 +0000</pubDate>
+<description>EU advisory relief boosts Assam tourism, eco-travel, homestays, business growth and local industries across Northeast India.</description>
+</item>
+<item>
+<title>Reykjavik Joins Copenhagen, Bergen, Tallinn, and Riga in Massive Long-Haul Coolcation ...</title>
+<link>https://www.travelandtourworld.com/news/article/t8s44g97zajv/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/t8s44g97zajv/</guid>
+<pubDate>Tue, 23 Jun 2026 11:24:41 +0000</pubDate>
+<description>It grew as Iceland's tourism recovery, strong air links, renewable-energy credentials, green urban spaces, cultural festivals and low-risk travel ...</description>
+</item>
+<item>
+<title>Superintendent recounts Scandinavian study tour, urges expanded global learning and 24 ...</title>
+<link>https://citizenportal.ai/articles/6158582/new-york/school-districts/west-seneca-central-school-district/superintendent-recounts-scandinavian-study-tour-urges-expanded-global-learning-and-24month-notice-for-student-travel</link>
+<guid isPermaLink="false">https://citizenportal.ai/articles/6158582/new-york/school-districts/west-seneca-central-school-district/superintendent-recounts-scandinavian-study-tour-urges-expanded-global-learning-and-24month-notice-for-student-travel</guid>
+<pubDate>Tue, 23 Jun 2026 13:46:14 +0000</pubDate>
+<description>Superintendent Dr. Krueger told the Board of Education July 22 about a nine‑day professional learning trip to Stockholm, Helsinki and Tallinn and ...</description>
+</item>
+<item>
+<title>Amusement Parks - Estonia | Statista Market Forecast</title>
+<link>https://www.statista.com/outlook/amo/entertainment/amusement-parks/estonia</link>
+<guid isPermaLink="false">https://www.statista.com/outlook/amo/entertainment/amusement-parks/estonia</guid>
+<pubDate>Mon, 22 Jun 2026 21:20:30 +0000</pubDate>
+<description>Travel Tourism &amp; Hospitality · Media · Health, Pharma &amp; Medtech. Insights. Market Insights. Market forecast and expert KPIs for 1000+ markets in 190+ ...</description>
+</item>
+</channel>
+</rss>

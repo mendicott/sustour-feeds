@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Paraguay",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/paraguay.json",
+  "description": "Top 10 most recent sustainable-tourism items for Paraguay. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.travelandtourworld.com/news/article/o7s3pbjw4fvp/",
+      "url": "https://www.travelandtourworld.com/news/article/o7s3pbjw4fvp/",
+      "title": "Brazil Joins Chile, Argentina, Peru, Colombia, Ecuador, Uruguay, Bolivia, Paraguay, Costa ...",
+      "content_text": "Major sustainable tourism destinations: Patagonia, Amazon Rainforest, Torres del Paine, Chilean Fjords; Key tourism trends: Eco-tourism, carbon ...",
+      "date_published": "2026-06-23T20:22:57+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/kv7axj9e6ixu/",
+      "url": "https://www.travelandtourworld.com/news/article/kv7axj9e6ixu/",
+      "title": "Paraguay Joins Palau and Uzbekistan in Emerging Unexplored Tourism Gems as Travellers ...",
+      "content_text": "This surge reflects growing interest in sustainable travel, ecotourism, and unique heritage experiences. Paraguay: South America's Hidden Cultural ...",
+      "date_published": "2026-06-08T17:45:56+00:00"
+    },
+    {
+      "id": "https://asunciontimes.com/people/local-celebrities/people-of-asuncion-23-ryan-aranda-from-the-u-s-paraguay-gave-me-a-sense-of-belonging/",
+      "url": "https://asunciontimes.com/people/local-celebrities/people-of-asuncion-23-ryan-aranda-from-the-u-s-paraguay-gave-me-a-sense-of-belonging/",
+      "title": "People Of Asunción #23, Ryan Aranda From The U.S: \"Paraguay Gave Me A Sense Of Belonging\"",
+      "content_text": "Visit places like Areguá, San Bernardino, Caacupé, and, if you have the opportunity, travel even farther to Encarnación or the Triple Frontier region.",
+      "date_published": "2026-06-23T09:54:06+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/kw1n7ws26p45/",
+      "url": "https://www.travelandtourworld.com/news/article/kw1n7ws26p45/",
+      "title": "Uzbekistan joins Paraguay, El Salvador , New Caledonia, Mongolia, Palau ... - Travel And Tour World",
+      "content_text": "Uzbekistan has emerged as one of the fastest-growing tourism destinations in the first quarter of 2026 due to a combination of rich cultural ...",
+      "date_published": "2026-06-11T07:07:33+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/08y8uwkani1a/",
+      "url": "https://www.travelandtourworld.com/news/article/08y8uwkani1a/",
+      "title": "Argentina Joins Uruguay, Chile, Paraguay, Bolivia, Peru, Ecuador, Brazil ... - Travel And Tour World",
+      "content_text": "South America safety ranking 2026 highlights Uruguay, Chile and Argentina with key safety scores, solo travel and LGBTQ+ tourism trends.",
+      "date_published": "2026-06-23T05:34:10+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/jxg3xtg7pnsf/",
+      "url": "https://www.travelandtourworld.com/news/article/jxg3xtg7pnsf/",
+      "title": "Brazil Joins Argentina, Chile, Peru, Colombia, Ecuador, Bolivia, Paraguay, Uruguay, Costa ...",
+      "content_text": "Luxury Tourism Expands Across Brazil. Luxury travel is becoming a significant driver of growth across Brazil's nature destinations. Today's high-end ...",
+      "date_published": "2026-06-18T11:42:53+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/ankd2si5bdek/",
+      "url": "https://www.travelandtourworld.com/news/article/ankd2si5bdek/",
+      "title": "Ecuador Joins Brazil, Argentina, Chile, Peru, Colombia, Uruguay, Paraguay, Bolivia ...",
+      "content_text": "South America Benefits from Global Travel Diversification. Tourism flows are increasingly spreading beyond traditional hotspots. As travellers seek ...",
+      "date_published": "2026-06-23T14:03:31+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/2zcao4nkg2bj/",
+      "url": "https://www.travelandtourworld.com/news/article/2zcao4nkg2bj/",
+      "title": "Brazil Joins Argentina, Chile, Peru, Colombia, Uruguay, Paraguay, Ecuador, Bolivia, Mexico ...",
+      "content_text": "Tourism activity in the city remains strong, supported by leisure travel, international events, cruise tourism and regional connectivity. The city's ...",
+      "date_published": "2026-06-17T00:03:14+00:00"
+    },
+    {
+      "id": "https://www.pressreader.com/france/euronews-english-edition/20260610/282213722509136",
+      "url": "https://www.pressreader.com/france/euronews-english-edition/20260610/282213722509136",
+      "title": "Paraguay, Palau, Uzbekistan: The lesser-trod destinations travellers are flocking to this year",
+      "content_text": "... Tourism SecretaryGeneral Shaikha Al Nuwais. Paraguay, New Caledonia, El Salvador: Where tourism is growing. Europe, the world's largest travel ...",
+      "date_published": "2026-06-10T03:57:49+00:00"
+    },
+    {
+      "id": "https://www.northernbeachesreview.com.au/story/9298539/how-failed-socialist-utopia-ties-australia-to-paraguay/",
+      "url": "https://www.northernbeachesreview.com.au/story/9298539/how-failed-socialist-utopia-ties-australia-to-paraguay/",
+      "title": "How failed socialist utopia ties Australia to Paraguay - St George & Sutherland Shire Leader",
+      "content_text": "... Paraguay. Photo: Tony ... Every Saturday and Tuesday, explore destinations deals, tips & travel writing to transport you around the globe.",
+      "date_published": "2026-06-24T04:39:15+00:00"
+    }
+  ]
+}

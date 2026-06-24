@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Azerbaijan",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/azerbaijan.json",
+  "description": "Top 10 most recent sustainable-tourism items for Azerbaijan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://vietnamtourism.gov.vn/en/post/21596",
+      "url": "https://vietnamtourism.gov.vn/en/post/21596",
+      "title": "Viet Nam shares community-based tourism development experience at CICA Conference",
+      "content_text": "(TITC) - On June 23, in the Republic of Azerbaijan, Vice Chairwoman of the Viet Nam National Authority of Tourism (VNAT) Nguyen Thi Hoa Mai led ...",
+      "date_published": "2026-06-24T08:23:20+00:00"
+    },
+    {
+      "id": "https://caliber.az/en/post/ecology-development-income-azerbaijan-s-green-tourism-formula",
+      "url": "https://caliber.az/en/post/ecology-development-income-azerbaijan-s-green-tourism-formula",
+      "title": "Ecology, development, income: Azerbaijan's green tourism formula - Review by Khazar Akhundov",
+      "content_text": "The tourism sector is among the industries most vulnerable to the impacts of climate change. To address these challenges, one of the United ...",
+      "date_published": "2026-06-24T07:38:44+00:00"
+    },
+    {
+      "id": "https://caliber.az/en/post/azerbaijan-hosts-green-tourism-conference-focused-on-eco-friendly-approaches",
+      "url": "https://caliber.az/en/post/azerbaijan-hosts-green-tourism-conference-focused-on-eco-friendly-approaches",
+      "title": "Azerbaijan hosts tourism conference focused on eco-friendly approaches - Caliber.Az",
+      "content_text": "Azerbaijan is holding an international conference on Green Tourism, jointly organised by the State Tourism Agency of Azerbaijan and the ...",
+      "date_published": "2026-06-23T14:23:12+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/ajh8dbgw44pp/",
+      "url": "https://www.travelandtourworld.com/news/article/ajh8dbgw44pp/",
+      "title": "Azerbaijan Brings Together CICA Countries to Accelerate Green Tourism, Eco-Friendly ...",
+      "content_text": "... travel, eco-tourism investment and regional tourism cooperation ... Azerbaijan Brings Together CICA Countries to Accelerate Green Tourism, Eco-Friendly ...",
+      "date_published": "2026-06-23T09:58:53+00:00"
+    },
+    {
+      "id": "https://www.philstar.com/nation/2026/06/11/2534339/mindoros-sablayan-town-named-unesco-biosphere-reserve",
+      "url": "https://www.philstar.com/nation/2026/06/11/2534339/mindoros-sablayan-town-named-unesco-biosphere-reserve",
+      "title": "Mindoro's Sablayan town named Unesco biosphere reserve - Philstar.com",
+      "content_text": "... Tourism said as it welcomed the designation yesterday. Sablayan joined other biosphere reserves in Albania, Algeria, Aruba, Azerbaijan, Cameroon ...",
+      "date_published": "2026-06-10T23:30:38+00:00"
+    },
+    {
+      "id": "https://caliber.az/en/post/tajikistan-backs-azerbaijan-s-green-tourism-initiative-within-cica-framework",
+      "url": "https://caliber.az/en/post/tajikistan-backs-azerbaijan-s-green-tourism-initiative-within-cica-framework",
+      "title": "Tajikistan backs Azerbaijan's green tourism initiative within CICA framework - Caliber.Az",
+      "content_text": "\"At a time when the world is facing challenges related to climate change, environmental degradation and the sustainable use of natural resources, ...",
+      "date_published": "2026-06-23T09:12:36+00:00"
+    },
+    {
+      "id": "https://azertag.az/en/xeber/conference_on_circular_green_tourism_in_cica_countries_kicks_off_in_baku-4278863",
+      "url": "https://azertag.az/en/xeber/conference_on_circular_green_tourism_in_cica_countries_kicks_off_in_baku-4278863",
+      "title": "Conference on Circular Green Tourism in CICA countries kicks off in Baku - AZERTAC",
+      "content_text": "The conference brings together the CICA Secretariat and delegations from CICA member states, including Türkiye, Kazakhstan, Kyrgyzstan, Tajikistan ...",
+      "date_published": "2026-06-23T09:04:23+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/kox8y9dh2jnq/",
+      "url": "https://www.travelandtourworld.com/news/article/kox8y9dh2jnq/",
+      "title": "Armenia Joins Georgia, Azerbaijan, Turkey, Iran, Italy and Europe as Rising Cultural ...",
+      "content_text": "Armenia boosts tourism with UNESCO heritage, direct flights, wine tourism, hiking trails, and cultural attractions, attracting more international ...",
+      "date_published": "2026-06-21T16:17:56+00:00"
+    },
+    {
+      "id": "https://operativmm.az/en/post/state-tourism-agency-shifts-to-new-strategic-development-model/74120",
+      "url": "https://operativmm.az/en/post/state-tourism-agency-shifts-to-new-strategic-development-model/74120",
+      "title": "State Tourism Agency shifts to new strategic development model",
+      "content_text": "... ECO Tourism Ministers meeting. Foto. Tourism. Shusha hosts 7th ECO Tourism Ministers meeting. 1 month ago · Azerbaijan and Turkiye strengthen tourism ...",
+      "date_published": "2026-06-23T18:27:01+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/0vs7m8g0zfcq/",
+      "url": "https://www.travelandtourworld.com/news/article/0vs7m8g0zfcq/",
+      "title": "Azerbaijan Strengthens Global Tourism and Cultural Influence with Powerful Showcase at ...",
+      "content_text": "Strategic Tourism Diplomacy Positions Azerbaijan as Emerging Global Travel Destination. Azerbaijan's participation at the Algeria International Fair ...",
+      "date_published": "2026-06-24T04:55:18+00:00"
+    }
+  ]
+}

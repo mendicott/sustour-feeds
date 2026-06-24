@@ -1,0 +1,17 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Latvia",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/latvia.json",
+  "description": "Top 10 most recent sustainable-tourism items for Latvia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.travelandtourworld.com/news/article/t8s44g97zajv/",
+      "url": "https://www.travelandtourworld.com/news/article/t8s44g97zajv/",
+      "title": "Reykjavik Joins Copenhagen, Bergen, Tallinn, and Riga in Massive Long-Haul Coolcation ...",
+      "content_text": "It grew as Iceland's tourism recovery, strong air links, renewable-energy credentials, green urban spaces, cultural festivals and low-risk travel ...",
+      "date_published": "2026-06-23T11:24:41+00:00"
+    }
+  ]
+}

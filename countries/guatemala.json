@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Guatemala",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/guatemala.json",
+  "description": "Top 10 most recent sustainable-tourism items for Guatemala. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.travelandtourworld.com/news/article/h2ijkgohnrla/",
+      "url": "https://www.travelandtourworld.com/news/article/h2ijkgohnrla/",
+      "title": "Guatemala Issues a Powerful Wake-Up Call to Global Tourists After Volcán de Fuego ...",
+      "content_text": "Volcán de Fuego, ; Guatemala volcano tourism, ; volcano hiking safety, ; tourist exclusion zones, and ; adventure travel risks are becoming essential ...",
+      "date_published": "2026-06-23T18:18:52+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/q8n2gioz368p/",
+      "url": "https://www.travelandtourworld.com/news/article/q8n2gioz368p/",
+      "title": "Guatemala Surpasses US, Mexico, Canada, Jamaica, Dominican Republic, Costa Rica, and ...",
+      "content_text": "Strong demand for cultural heritage, eco-tourism, Mayan attractions, and adventure travel helped Guatemala achieve the fastest tourism growth among ...",
+      "date_published": "2026-06-05T22:39:13+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/oerm32zui9t6/",
+      "url": "https://www.travelandtourworld.com/news/article/oerm32zui9t6/",
+      "title": "Guatemala Volcán de Fuego Erupts Without Warning as Burning Rocks Rain Down on ...",
+      "content_text": "Tourism risks in active volcanic zones. The latest incident has reignited discussions about safety protocols in volcanic tourism zones. While ...",
+      "date_published": "2026-06-23T18:30:50+00:00"
+    },
+    {
+      "id": "https://www.modernghana.com/videonews/abc/2/670624",
+      "url": "https://www.modernghana.com/videonews/abc/2/670624",
+      "title": "Hikers flee as Guatemala volcano erupts, spewing ash and molten rock - Modern Ghana",
+      "content_text": "Hikers flee as Guatemala volcano erupts, spewing ash and molten rock. ... Travel/Tourism · References · MORE CATEGORIES · SPORTS · Sports · Sports News ...",
+      "date_published": "2026-06-23T14:16:12+00:00"
+    },
+    {
+      "id": "https://travelbinger.com/the-sleepy-central-american-country-that-is-quietly-becoming-the-next-big-destination",
+      "url": "https://travelbinger.com/the-sleepy-central-american-country-that-is-quietly-becoming-the-next-big-destination",
+      "title": "The Sleepy Central American Country That Is Quietly Becoming the Next Big Destination",
+      "content_text": "... Travel and Tourism Council. ... Antigua Guatemala is celebrated for its well-preserved colonial architecture, cobblestone streets, and cultural heritage ...",
+      "date_published": "2026-06-24T02:51:48+00:00"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=3ssN_F9rM4I",
+      "url": "https://www.youtube.com/watch?v=3ssN_F9rM4I",
+      "title": "Tourists run for cover as volcano erupts in Guatemala - YouTube",
+      "content_text": "Tourists run for cover as volcano erupts in Guatemala. @6abcActionNews18 likes324 views6 hours ago more. Subscribe. Comments. 1. Comment.",
+      "date_published": "2026-06-23T22:42:04+00:00"
+    },
+    {
+      "id": "https://abcnews.com/video/134144901/",
+      "url": "https://abcnews.com/video/134144901/",
+      "title": "Video Tourists flee erupting volcano in Guatemala - ABC News",
+      "content_text": "Tourists climbing Guatemala's Fuego Volcano had to make a run for their lives after it began erupting.",
+      "date_published": "2026-06-23T21:41:40+00:00"
+    },
+    {
+      "id": "https://en.travel2latam.com/news-107606-volaris-celebrates-11-years-of-strengthening-guatemalas-international-connectivity-and-enabling-more-than-270000-people-to-fly-for-the-first-time.html",
+      "url": "https://en.travel2latam.com/news-107606-volaris-celebrates-11-years-of-strengthening-guatemalas-international-connectivity-and-enabling-more-than-270000-people-to-fly-for-the-first-time.html",
+      "title": "Volaris celebrates 11 years of strengthening Guatemala´s international connectivity ... - Travel2Latam",
+      "content_text": "... travel options for tourism, business, and family visits. \"Reaching 11 years in Guatemala is a source of pride for Volaris. During this time, we ...",
+      "date_published": "2026-06-23T14:41:58+00:00"
+    },
+    {
+      "id": "https://andina.pe/Ingles/noticia-peru%E2%80%93guatemala-free-trade-agreement-to-enter-into-force-on-july-1-1080710.aspx",
+      "url": "https://andina.pe/Ingles/noticia-peru%E2%80%93guatemala-free-trade-agreement-to-enter-into-force-on-july-1-1080710.aspx",
+      "title": "Peru–Guatemala Free Trade Agreement to enter into force on July 1 | News - ANDINA",
+      "content_text": "The decree further states that the Ministry of Foreign Trade and Tourism (Mincetur) will notify the relevant authorities of any measures necessary for ...",
+      "date_published": "2026-06-23T17:08:17+00:00"
+    },
+    {
+      "id": "https://www.bssnews.net/international/398739",
+      "url": "https://www.bssnews.net/international/398739",
+      "title": "President Arevalo rules out US military operations in Guatemala | International - BSS",
+      "content_text": "PANAMA CITY, June 23, 2026 (AFP) - Guatemalan President Bernardo Arevalo ruled out US military operations against organized crime in...",
+      "date_published": "2026-06-23T15:07:59+00:00"
+    }
+  ]
+}

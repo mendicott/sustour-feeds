@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Ireland",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/ireland.json",
+  "description": "Top 10 most recent sustainable-tourism items for Ireland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.newrymournedown.org/new-cross-border-unesco-network-will-connect-heritage-sites-across-ireland",
+      "url": "https://www.newrymournedown.org/new-cross-border-unesco-network-will-connect-heritage-sites-across-ireland",
+      "title": "New Cross-border UNESCO Network will Connect Heritage Sites Across Ireland",
+      "content_text": "... sustainable tourism, education, cultural identity and community development. Supported by the UK National Commission to UNESCO and National ...",
+      "date_published": "2026-06-11T08:12:50+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/r6d5og4zxelo/",
+      "url": "https://www.travelandtourworld.com/news/article/r6d5og4zxelo/",
+      "title": "Ireland Joins Italy, France, Spain, Portugal, Netherlands, Germany, Greece ... - Travel And Tour World",
+      "content_text": "This article breaks down how Europe's leading destinations are using tourist taxes to manage overtourism and reshape urban tourism ecosystems.",
+      "date_published": "2026-06-23T17:04:27+00:00"
+    },
+    {
+      "id": "https://ittn.ie/sustainability/south-africas-cape-vulture-nature-reserve-ranked-one-of-worlds-most-successful-sustainability-learning-resorts-in-world/",
+      "url": "https://ittn.ie/sustainability/south-africas-cape-vulture-nature-reserve-ranked-one-of-worlds-most-successful-sustainability-learning-resorts-in-world/",
+      "title": "South Africa's Cape Vulture Nature Reserve Ranked One of World's Most Successful ...",
+      "content_text": "Geoff has worked in business, news, consumer and travel journalism for more than 25 years; having worked for and contributed to the likes of The Irish ...",
+      "date_published": "2026-06-15T15:34:48+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/3yo9l8bfx5bf/",
+      "url": "https://www.travelandtourworld.com/news/article/3yo9l8bfx5bf/",
+      "title": "Spain Joins Germany, Italy, Ireland, Finland, Cyprus, Portugal and More as EU Unveils ...",
+      "content_text": "Spain, Germany, Italy, Ireland, Finland, Cyprus, Portugal EU island coastal strategy boosts sustainable tourism, climate resilience, connectivity, ...",
+      "date_published": "2026-06-15T09:29:14+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/t8rshcyfp0lh/",
+      "url": "https://www.travelandtourworld.com/news/article/t8rshcyfp0lh/",
+      "title": "Canada Unites with Italy, Ireland, France, England, Iceland, Netherlands and More Nations ...",
+      "content_text": "Consumer preferences are shifting towards slower and more meaningful travel experiences. Travellers increasingly value quality over quantity and ...",
+      "date_published": "2026-06-23T22:27:18+00:00"
+    },
+    {
+      "id": "https://www.irishecho.com/2026/6/consulate-gathering-closes-the-circle",
+      "url": "https://www.irishecho.com/2026/6/consulate-gathering-closes-the-circle",
+      "title": "Consulate Gathering Closes the Circle - Irish Echo",
+      "content_text": "... Cultural Resource Manager, Cherokee Nation Cultural Tourism. The ... Heritage Trust in collaboration with Ireland's Great Hunger Institute at ...",
+      "date_published": "2026-06-23T16:53:07+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/vhg0iydvlxgx/",
+      "url": "https://www.travelandtourworld.com/news/article/vhg0iydvlxgx/",
+      "title": "Iceland Joins New Zealand, Switzerland, Slovenia, Ireland, Austria, Portugal, Singapore ...",
+      "content_text": "For the global travel industry, these destinations represent benchmark examples of sustainable tourism supported by safety, social cohesion, and ...",
+      "date_published": "2026-06-21T16:05:50+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/5pt3s9kihjqq/",
+      "url": "https://www.travelandtourworld.com/news/article/5pt3s9kihjqq/",
+      "title": "Finland Joins Ireland, Austria, Norway and Iceland in Europe's New Travel Era as Cool ...",
+      "content_text": "Mediterranean Climate Stress and Tourism Shift. In the Mediterranean basin, a significant deterioration in environmental stability has been documented ...",
+      "date_published": "2026-06-18T10:17:09+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/53s073p6nb98/",
+      "url": "https://www.travelandtourworld.com/news/article/53s073p6nb98/",
+      "title": "Switzerland joins Norway, Finland, Austria, Slovenia, Iceland, Ireland and more countries in ...",
+      "content_text": "Europe is experiencing a structural change in its summer tourism patterns as rising temperatures reshape how and where people travel. The traditional ...",
+      "date_published": "2026-06-24T07:54:02+00:00"
+    },
+    {
+      "id": "https://droghedalife.com/e820000-funding-boost-for-carlingford-lough-tourism-projects/",
+      "url": "https://droghedalife.com/e820000-funding-boost-for-carlingford-lough-tourism-projects/",
+      "title": "€820000 Funding Boost for Carlingford Lough Tourism Projects - Drogheda Life",
+      "content_text": "Deputy Butterly said the investment will build on the success of the Great Lighthouses of Ireland project, an all island tourism partnership led by ...",
+      "date_published": "2026-06-24T06:33:14+00:00"
+    }
+  ]
+}

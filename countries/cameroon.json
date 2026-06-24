@@ -1,0 +1,45 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Cameroon",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/cameroon.json",
+  "description": "Top 10 most recent sustainable-tourism items for Cameroon. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.philstar.com/nation/2026/06/11/2534339/mindoros-sablayan-town-named-unesco-biosphere-reserve",
+      "url": "https://www.philstar.com/nation/2026/06/11/2534339/mindoros-sablayan-town-named-unesco-biosphere-reserve",
+      "title": "Mindoro's Sablayan town named Unesco biosphere reserve - Philstar.com",
+      "content_text": "... Tourism said as it welcomed the designation yesterday. Sablayan joined other biosphere reserves in Albania, Algeria, Aruba, Azerbaijan, Cameroon ...",
+      "date_published": "2026-06-10T23:30:38+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/7rnld8r1wvs6/",
+      "url": "https://www.travelandtourworld.com/news/article/7rnld8r1wvs6/",
+      "title": "Côte d'Ivoire, Abidjan, Senegal, Cameroon, Gabon and South Africa Regain Critical Air ...",
+      "content_text": "Air Côte d'Ivoire returns an Airbus A320neo to service after nearly a ... tourism organisations work to encourage greater intra-African travel.",
+      "date_published": "2026-06-18T06:28:13+00:00"
+    },
+    {
+      "id": "https://www.mofa.go.jp/press/release/pressite_000001_02449.html",
+      "url": "https://www.mofa.go.jp/press/release/pressite_000001_02449.html",
+      "title": "Africa Youth Program: Visit of African High School Students to Japan",
+      "content_text": "From June 29 to July 8, 134 students etc. from five African countries (Cameroon, Côte d'Ivoire, Ghana, Kenya and Mozambique) will visit Japan as ...",
+      "date_published": "2026-06-23T20:52:29+00:00"
+    },
+    {
+      "id": "https://www.environewsnigeria.com/why-cameroon-must-defend-its-citizens-against-xenophobia-discrimination/",
+      "url": "https://www.environewsnigeria.com/why-cameroon-must-defend-its-citizens-against-xenophobia-discrimination/",
+      "title": "Why Cameroon must defend its citizens against xenophobia, discrimination - EnviroNews",
+      "content_text": "Recent reports of xenophobic attacks against Africans, including Cameroonians and other foreign nationals in South Africa, have once again raised ...",
+      "date_published": "2026-06-23T18:09:20+00:00"
+    },
+    {
+      "id": "https://blog.wego.com/teams-not-in-the-2026-world-cup/",
+      "url": "https://blog.wego.com/teams-not-in-the-2026-world-cup/",
+      "title": "The Biggest Teams Missing From the 2026 World Cup - Wego Travel Blog",
+      "content_text": "Which teams are not in the 2026 World Cup? Italy · Nigeria · Poland · Denmark · Cameroon · Serbia · Frequently Asked Questions · Sources ...",
+      "date_published": "2026-06-23T16:22:58+00:00"
+    }
+  ]
+}

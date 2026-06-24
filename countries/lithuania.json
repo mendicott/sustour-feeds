@@ -1,0 +1,38 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Lithuania",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/lithuania.json",
+  "description": "Top 10 most recent sustainable-tourism items for Lithuania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.baltictimes.com/kedainiai___lithuania_s_capital_of_culture_2026__a_summer_when_culture_fills_the_entire_city/",
+      "url": "https://www.baltictimes.com/kedainiai___lithuania_s_capital_of_culture_2026__a_summer_when_culture_fills_the_entire_city/",
+      "title": "Kedainiai – Lithuania's Capital of Culture 2026: a summer when culture fills the entire city",
+      "content_text": "... Lithuania, and guests from abroad. Today, Kedainiai is emerging as one of Lithuania's most attractive cultural tourism destinations. The growing ...",
+      "date_published": "2026-06-23T10:41:01+00:00"
+    },
+    {
+      "id": "https://infoerdve.lt/en/lithuania-moves-to-drop-inactive-belarus-border-travel-deal/",
+      "url": "https://infoerdve.lt/en/lithuania-moves-to-drop-inactive-belarus-border-travel-deal/",
+      "title": "Lithuania Moves to Drop Inactive Belarus Border Travel Deal - Infoerdve.lt",
+      "content_text": "Lithuania's Seimas backed a bill to denounce an inactive Belarus border travel agreement that never entered into force.",
+      "date_published": "2026-06-23T15:15:35+00:00"
+    },
+    {
+      "id": "https://www.lrt.lt/en/news-in-english/19/2969084/lithuania-s-ruginiene-government-ten-moments-that-defined-272-days-in-office",
+      "url": "https://www.lrt.lt/en/news-in-english/19/2969084/lithuania-s-ruginiene-government-ten-moments-that-defined-272-days-in-office",
+      "title": "Lithuania's Ruginienė government: ten moments that defined 272 days in office - LRT",
+      "content_text": "The 2026 state budget allocated 4.79 billion euros, 5.38 percent of GDP, to national defence, a record for Lithuania. The budget also raised pensions, ...",
+      "date_published": "2026-06-23T14:51:47+00:00"
+    },
+    {
+      "id": "https://infoerdve.lt/en/lithuania-warns-drivers-about-fatigue-before-jonines/",
+      "url": "https://infoerdve.lt/en/lithuania-warns-drivers-about-fatigue-before-jonines/",
+      "title": "Lithuania Warns on Tired Driving Before Joninės - Infoerdve.lt",
+      "content_text": "People often combine work, family duties and travel, which can make fatigue feel like a normal part of the day rather than a warning sign. She said ...",
+      "date_published": "2026-06-23T13:27:14+00:00"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Israel",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/israel.json",
+  "description": "Top 10 most recent sustainable-tourism items for Israel. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.jpost.com/environment-and-climate-change/article-900326",
+      "url": "https://www.jpost.com/environment-and-climate-change/article-900326",
+      "title": "KKL-JNF is preserving endangered species with Jerusalem Botanical Garden and Eshtaol Nursery",
+      "content_text": "Several of Israel's rare and endangered species have begun producing seeds and flowering once again as a result of a joint conservation effort, ...",
+      "date_published": "2026-06-24T02:38:04+00:00"
+    },
+    {
+      "id": "https://www.commondreams.org/news/mona-khalil-dies",
+      "url": "https://www.commondreams.org/news/mona-khalil-dies",
+      "title": "'They Knew Exactly Who Mona Khalil Was': Israel Kills Lebanese Turtle Conservationist",
+      "content_text": "Khalil, 76, was mortally wounded when Israeli forces bombed her brightly painted conservation hub and ecotourism site, called the Orange House, in ...",
+      "date_published": "2026-06-22T21:56:13+00:00"
+    },
+    {
+      "id": "https://www.washingtonpost.com/world/2026/06/21/lebanon-israel-hezbollah-sea-turtles-environmentalist-khalil/1929d2ac-6da1-11f1-8730-e7fd0e2a6404_story.html",
+      "url": "https://www.washingtonpost.com/world/2026/06/21/lebanon-israel-hezbollah-sea-turtles-environmentalist-khalil/1929d2ac-6da1-11f1-8730-e7fd0e2a6404_story.html",
+      "title": "Mourners gather in Beirut to pay respects to Lebanese conservationist who died after Israeli strike",
+      "content_text": "The Orange House, which Khalil helped build into a small conservation hub and ecotourism site in Mansouri, became a refuge for endangered ...",
+      "date_published": "2026-06-21T19:08:55+00:00"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/6/21/mourners-gather-to-remember-lebanese-conservationist-killed-by-israel",
+      "url": "https://www.aljazeera.com/news/2026/6/21/mourners-gather-to-remember-lebanese-conservationist-killed-by-israel",
+      "title": "Mourners gather to remember Lebanese conservationist killed by Israel - Al Jazeera",
+      "content_text": "The Orange House Project, which Khalil helped build into a small conservation hub and ecotourism site in al-Mansouri, became a refuge for ...",
+      "date_published": "2026-06-21T20:26:01+00:00"
+    },
+    {
+      "id": "https://www.jpost.com/travel/article-899967",
+      "url": "https://www.jpost.com/travel/article-899967",
+      "title": "Einot Petzael: Hidden Jordan Valley springs and ancient history | The Jerusalem Post",
+      "content_text": "Deep in the Jordan Valley lies Einot Petzael, a hidden reserve of clear springs, wildlife, and ancient history from Herod's Phasaelis to biblical ...",
+      "date_published": "2026-06-20T18:18:16+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/ak777d1iv3o5/",
+      "url": "https://www.travelandtourworld.com/news/article/ak777d1iv3o5/",
+      "title": "Jordan Joins Israel, UAE, Saudi Arabia, Qatar, Oman, Egypt, Turkey and Others as Mega ...",
+      "content_text": "Oman is positioning itself as the Gulf's leading sustainable tourism destination. Investments in Muscat, Salalah, and Musandam focus on eco ...",
+      "date_published": "2026-06-03T16:30:15+00:00"
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cwylx1vq18zo",
+      "url": "https://www.bbc.com/news/articles/cwylx1vq18zo",
+      "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike - BBC",
+      "content_text": "... Green Southerners, told the BBC. ... Fast forward a year to 2000, and she helped establish the Orange House Project, an eco-tourism and conservation ...",
+      "date_published": "2026-06-20T17:54:49+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/4ap2r9xhdl1v/",
+      "url": "https://www.travelandtourworld.com/news/article/4ap2r9xhdl1v/",
+      "title": "Israel Joins Palestine and Lebanon to Dominate Middle East Travel Risk Alerts as Border ...",
+      "content_text": "Gaza has no normal tourism access, no commercial flights, fragile crossing arrangements and deep humanitarian constraints. The West Bank also faces ...",
+      "date_published": "2026-06-16T18:12:04+00:00"
+    },
+    {
+      "id": "https://www.jewishfederations.org/blog/all/federation-grantees-honored-with-israel-presidents-volunteerism-award-519684",
+      "url": "https://www.jewishfederations.org/blog/all/federation-grantees-honored-with-israel-presidents-volunteerism-award-519684",
+      "title": "Federation grantees honored with Israel President's Volunteerism award",
+      "content_text": "... travel to Israel ending? In 2024 Israel saw fewer than a million tourists. Last year the numbers rose slightly, to 1.3 million tourist entries. As ...",
+      "date_published": "2026-06-23T22:42:05+00:00"
+    },
+    {
+      "id": "https://www.smartraveller.gov.au/news-and-updates/travel-and-security-impacts-conflict-middle-east",
+      "url": "https://www.smartraveller.gov.au/news-and-updates/travel-and-security-impacts-conflict-middle-east",
+      "title": "Travel and security impacts of conflict in the Middle East - Smartraveller",
+      "content_text": "There remains a risk of attacks and escalation. The following countries are now at 'Level 3: Reconsider your need to travel'. Bahrain · Israel ...",
+      "date_published": "2026-06-17T23:17:23+00:00"
+    }
+  ]
+}

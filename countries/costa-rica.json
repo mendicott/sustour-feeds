@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Costa Rica",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/costa-rica.json",
+  "description": "Top 10 most recent sustainable-tourism items for Costa Rica. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.travelandtourworld.com/news/article/btmxg3ktkxoq/",
+      "url": "https://www.travelandtourworld.com/news/article/btmxg3ktkxoq/",
+      "title": "Costa Rica Tourism Growth Accelerates as European Ecotourism Interest Reaches New Heights",
+      "content_text": "Costa Rica sustainable tourism rises with 15.3% Spanish arrivals growth, boosted by European media coverage and eco-focused travel demand.",
+      "date_published": "2026-06-21T20:04:31+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/kp768tdey52u/",
+      "url": "https://www.travelandtourworld.com/news/article/kp768tdey52u/",
+      "title": "Canada Overtakes Mexico, Italy, Iceland, Japan, Costa Rica and More as a Top Ecotourism ...",
+      "content_text": "... eco-friendly travel. ... tourism growth, highlighting the rising influence of responsible travel on worldwide tourism trends.",
+      "date_published": "2026-06-08T21:38:41+00:00"
+    },
+    {
+      "id": "http://m.tribune242.com/news/2026/jun/19/endangered-iguana-can-be-andros-tourism-pillar/",
+      "url": "http://m.tribune242.com/news/2026/jun/19/endangered-iguana-can-be-andros-tourism-pillar/",
+      "title": "Endangered iguana can be Andros tourism pillar - The Tribune",
+      "content_text": "A CONSERVATION scientist believes the endangered Andros rock iguana could become a new pillar of the island's tourism ... Costa Rica and Indonesia's ...",
+      "date_published": "2026-06-19T17:54:51+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/wdf6zepbwmxl/",
+      "url": "https://www.travelandtourworld.com/news/article/wdf6zepbwmxl/",
+      "title": "Switzerland Joins Mexico, France, Germany, Spain, Canada, US, Japan, South Africa and ...",
+      "content_text": "Supported by its world-famous beaches, biodiversity, national parks, volcanoes, adventure tourism, and eco-friendly travel experiences, Costa Rica ...",
+      "date_published": "2026-06-16T14:10:07+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/jov3bg3rqabm/",
+      "url": "https://www.travelandtourworld.com/news/article/jov3bg3rqabm/",
+      "title": "Spain Joins Costa Rica, South Africa, Denmark, Greece, Chile and More in Unstoppable ...",
+      "content_text": "Global tourism in 2026 shifts to regenerative travel as Spain, Costa Rica, South Africa, Denmark and Greece lead sustainability and eco-tourism ...",
+      "date_published": "2026-06-14T20:58:21+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/tag/green-landmarks-and-infrastructure/",
+      "url": "https://www.travelandtourworld.com/news/article/tag/green-landmarks-and-infrastructure/",
+      "title": "Green Landmarks and Infrastructure - Travel And Tour World",
+      "content_text": "Qatar Joins Denmark, Costa Rica, New Zealand, Norway, Sweden, Palau, Iceland, Slovenia, and More Countries Dominating the Future of Sustainable ...",
+      "date_published": "2026-06-05T21:04:32+00:00"
+    },
+    {
+      "id": "https://ticotimes.net/2026/06/23/costa-rica-warns-environmental-crimes-are-linked-to-organized-networks",
+      "url": "https://ticotimes.net/2026/06/23/costa-rica-warns-environmental-crimes-are-linked-to-organized-networks",
+      "title": "Costa Rica Warns Environmental Crimes Are Linked to Organized Networks",
+      "content_text": "Costa Rican prosecutors warn that wildlife trafficking, illegal mining and other environmental crimes are increasingly tied to transnational ...",
+      "date_published": "2026-06-24T02:35:58+00:00"
+    },
+    {
+      "id": "https://www.kunr.org/energy-and-environment/2026-06-23/extreme-weather-is-becoming-more-frequent-in-costa-rica",
+      "url": "https://www.kunr.org/energy-and-environment/2026-06-23/extreme-weather-is-becoming-more-frequent-in-costa-rica",
+      "title": "Extreme weather is becoming more frequent in Costa Rica - KUNR Public Radio",
+      "content_text": "Recent heavy rainfall led to the river level increasing. Costa Rica relies on rainfall for its water supply. But climate change is having a ...",
+      "date_published": "2026-06-23T18:04:26+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/wtj72bcnk34m/",
+      "url": "https://www.travelandtourworld.com/news/article/wtj72bcnk34m/",
+      "title": "Mexico Outshines United States, Canada, Jamaica, Costa Rica, Panama and other North ...",
+      "content_text": "Costa Rica and Panama represent niche Tourism economies focused on eco tourism and transit based travel respectively. ... Cuba's Tourism Constraints ...",
+      "date_published": "2026-06-21T19:04:25+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/iynb5318i91e/",
+      "url": "https://www.travelandtourworld.com/news/article/iynb5318i91e/",
+      "title": "Mexico Joins Costa Rica, Brazil, Colombia, US, Canada, Chile And More Countries In ...",
+      "content_text": "This shift is being driven by rising global demand for responsible travel, climate adaptation pressures, and the need to diversify tourism revenues ...",
+      "date_published": "2026-06-18T15:47:05+00:00"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Nigeria",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/nigeria.json",
+  "description": "Top 10 most recent sustainable-tourism items for Nigeria. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.yahoo.com/news/world/articles/sea-took-everything-away-nigerias-023200601.html",
+      "url": "https://www.yahoo.com/news/world/articles/sea-took-everything-away-nigerias-023200601.html",
+      "title": "'The sea took everything away': Nigeria's 'Happy City' is being swallowed by the ocean",
+      "content_text": "The Guardian spotlighted Ayetoro, Nigeria, which has come to represent the kind of damage coastal erosion and rising seas can inflict on a whole ...",
+      "date_published": "2026-06-24T02:44:46+00:00"
+    },
+    {
+      "id": "https://guardian.ng/news/nigeria/metro/progress-giwa-leads-recycle-art-tour-2-0-across-lagos-divisions/",
+      "url": "https://guardian.ng/news/nigeria/metro/progress-giwa-leads-recycle-art-tour-2-0-across-lagos-divisions/",
+      "title": "Progress Giwa leads Recycle Art Tour 2.0 across Lagos divisions",
+      "content_text": "In commemoration of World Environment Day 2026, multidisciplinary artist and environmental advocate, Progress JesutomIwa Giwa.",
+      "date_published": "2026-06-24T03:05:45+00:00"
+    },
+    {
+      "id": "https://independent.ng/african-ministers-adopt-lome-declaration-to-fast-track-single-air-transport-market/",
+      "url": "https://independent.ng/african-ministers-adopt-lome-declaration-to-fast-track-single-air-transport-market/",
+      "title": "African Ministers Adopt Lomé Declaration To Fast-Track Single Air Transport Market",
+      "content_text": "LAGOS – African ministers responsible for transport, tourism, trade and finance have adopted the Lomé Ministerial Declaration on Accelerating ...",
+      "date_published": "2026-06-23T18:02:36+00:00"
+    },
+    {
+      "id": "https://panafricanvisions.com/2026/06/west-africa-missing-out-in-russias-tourism-boom/",
+      "url": "https://panafricanvisions.com/2026/06/west-africa-missing-out-in-russias-tourism-boom/",
+      "title": "West Africa Missing Out in Russia's Tourism Boom - PAN AFRICAN VISIONS",
+      "content_text": "The most famous West African countries are: Burkina Faso, Côte d'Voire, Ghana, Mali, Nigeria, and Senegal, … but unfortunately, it is quite difficult ...",
+      "date_published": "2026-06-24T03:45:33+00:00"
+    },
+    {
+      "id": "https://prnigeria.com/2026/06/23/flynas-completes-hajj/",
+      "url": "https://prnigeria.com/2026/06/23/flynas-completes-hajj/",
+      "title": "Flynas Completes 2026 Hajj Airlift in Record Two Weeks, Returns 11,832 Nigerian Pilgrims",
+      "content_text": "The successful completion of the 2026 Hajj airlift further reinforces Flynas' growing role in facilitating religious travel between Nigeria and Saudi ...",
+      "date_published": "2026-06-23T20:49:30+00:00"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=9EqsVD9NGyA",
+      "url": "https://www.youtube.com/watch?v=9EqsVD9NGyA",
+      "title": "NIGERIA'S AVIATION IN TURBULENCE - YouTube",
+      "content_text": "... travel taxes in Africa are among the highest in the world urging governments to reduce aviation taxes in order to unlock the continent's potential ...",
+      "date_published": "2026-06-23T17:51:24+00:00"
+    },
+    {
+      "id": "https://21stcenturychronicle.com/lagos-to-abidjan-traversing-west-africas-busiest-but-broken-highway/",
+      "url": "https://21stcenturychronicle.com/lagos-to-abidjan-traversing-west-africas-busiest-but-broken-highway/",
+      "title": "Lagos to Abidjan: Traversing West Africa's busiest but broken highway",
+      "content_text": "The route forms the backbone of the Lagos-Abidjan Corridor, connecting Nigeria, Benin ... travel across parts of Africa as stressful due to ...",
+      "date_published": "2026-06-21T13:14:43+00:00"
+    },
+    {
+      "id": "https://www.thisdaylive.com/2026/06/24/at-roundtable-in-london-sanwo-olu-dissects-lagos-climate-change-challenges/",
+      "url": "https://www.thisdaylive.com/2026/06/24/at-roundtable-in-london-sanwo-olu-dissects-lagos-climate-change-challenges/",
+      "title": "At Roundtable in London, Sanwo-Olu Dissects Lagos' Climate Change Challenges",
+      "content_text": "At a roundtable with other world leaders in London, yesterday, at the Climate Change Action Week, the Lagos State Governor, Mr. Babajide Sanwo-Olu, ...",
+      "date_published": "2026-06-24T04:00:31+00:00"
+    },
+    {
+      "id": "https://www.nigeriainfo.fm/news/homepagelagos/uk-heatwave-forces-school-closures-as-lightning-storms-disrupt-travel/",
+      "url": "https://www.nigeriainfo.fm/news/homepagelagos/uk-heatwave-forces-school-closures-as-lightning-storms-disrupt-travel/",
+      "title": "UK Heatwave Forces School Closures as Lightning Storms Disrupt Travel - Nigeria Info FM",
+      "content_text": "Dozens of schools across south-west England have closed or shortened the school day as the United Kingdom braces for an intense heatwave, ...",
+      "date_published": "2026-06-24T02:20:56+00:00"
+    },
+    {
+      "id": "https://www.channelstv.com/2026/06/23/honour-your-visa-terms-us-mission-tells-nigerians/",
+      "url": "https://www.channelstv.com/2026/06/23/honour-your-visa-terms-us-mission-tells-nigerians/",
+      "title": "Honour Your Visa Terms, US Mission Tells Nigerians - Channels TV",
+      "content_text": "Nigerian travellers have been reminded by the United States Mission in Nigeria to strictly comply with US immigration laws regarding their stay in the ...",
+      "date_published": "2026-06-23T20:59:29+00:00"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Bolivia",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/bolivia.json",
+  "description": "Top 10 most recent sustainable-tourism items for Bolivia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.travelandtourworld.com/news/article/o7s3pbjw4fvp/",
+      "url": "https://www.travelandtourworld.com/news/article/o7s3pbjw4fvp/",
+      "title": "Brazil Joins Chile, Argentina, Peru, Colombia, Ecuador, Uruguay, Bolivia, Paraguay, Costa ...",
+      "content_text": "Major sustainable tourism destinations: Patagonia, Amazon Rainforest, Torres del Paine, Chilean Fjords; Key tourism trends: Eco-tourism, carbon ...",
+      "date_published": "2026-06-23T20:22:57+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/pykyfaqby5qc/",
+      "url": "https://www.travelandtourworld.com/news/article/pykyfaqby5qc/",
+      "title": "Breaking Travel Shockwave: Chile Teams Up with Argentina, Peru, Bolivia & Brazil in a Bold ...",
+      "content_text": "Chile, Bolivia, Argentina and Peru unite in a powerful astrotourism corridor linking deserts, salt flats and world-class dark skies for tourism ...",
+      "date_published": "2026-06-23T09:26:44+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/22eaftlr54u9/",
+      "url": "https://www.travelandtourworld.com/news/article/22eaftlr54u9/",
+      "title": "Guadeloupe Joins Turks and Caicos, Bermuda, Ecuador, Argentina, Bolivia and More ...",
+      "content_text": "Scientific wellness, eco-tourism and educational travel could eventually become defining pillars of its tourism strategy. French Guiana is ...",
+      "date_published": "2026-06-16T00:10:48+00:00"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=FWAbImL9Usg",
+      "url": "https://www.youtube.com/watch?v=FWAbImL9Usg",
+      "title": "Walk Through Salar de Uyuni | Bolivia - YouTube",
+      "content_text": "Series: City Walks Street-level moments from Salar de Uyuni (Bolivia). A compact travel snapshot of Salar de Uyuni in Uyuni.",
+      "date_published": "2026-06-24T03:54:17+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/08y8uwkani1a/",
+      "url": "https://www.travelandtourworld.com/news/article/08y8uwkani1a/",
+      "title": "Argentina Joins Uruguay, Chile, Paraguay, Bolivia, Peru, Ecuador, Brazil ... - Travel And Tour World",
+      "content_text": "South America safety ranking 2026 highlights Uruguay, Chile and Argentina with key safety scores, solo travel and LGBTQ+ tourism trends.",
+      "date_published": "2026-06-23T05:34:10+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/jxg3xtg7pnsf/",
+      "url": "https://www.travelandtourworld.com/news/article/jxg3xtg7pnsf/",
+      "title": "Brazil Joins Argentina, Chile, Peru, Colombia, Ecuador, Bolivia, Paraguay, Uruguay, Costa ...",
+      "content_text": "Luxury Tourism Expands Across Brazil. Luxury travel is becoming a significant driver of growth across Brazil's nature destinations. Today's high-end ...",
+      "date_published": "2026-06-18T11:42:53+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/ankd2si5bdek/",
+      "url": "https://www.travelandtourworld.com/news/article/ankd2si5bdek/",
+      "title": "Ecuador Joins Brazil, Argentina, Chile, Peru, Colombia, Uruguay, Paraguay, Bolivia ...",
+      "content_text": "South America Benefits from Global Travel Diversification. Tourism flows are increasingly spreading beyond traditional hotspots. As travellers seek ...",
+      "date_published": "2026-06-23T14:03:31+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/2zcao4nkg2bj/",
+      "url": "https://www.travelandtourworld.com/news/article/2zcao4nkg2bj/",
+      "title": "Brazil Joins Argentina, Chile, Peru, Colombia, Uruguay, Paraguay, Ecuador, Bolivia, Mexico ...",
+      "content_text": "Tourism activity in the city remains strong, supported by leisure travel, international events, cruise tourism and regional connectivity. The city's ...",
+      "date_published": "2026-06-17T00:03:14+00:00"
+    },
+    {
+      "id": "https://www.news.com.au/breaking-news/bolivias-government-is-stoking-a-civil-war-expresident-evo-morales-tells-afp/news-story/e7b009fb7b52564b95829ce6dc0f340b",
+      "url": "https://www.news.com.au/breaking-news/bolivias-government-is-stoking-a-civil-war-expresident-evo-morales-tells-afp/news-story/e7b009fb7b52564b95829ce6dc0f340b",
+      "title": "Bolivia's government is 'stoking a civil war,' ex-president Evo Morales tells AFP",
+      "content_text": "Cities in Bolivia have suffered from shortages of food, fuel and medicine over the past seven weeks due to roadblocks conducted in protest of center- ...",
+      "date_published": "2026-06-24T04:33:08+00:00"
+    },
+    {
+      "id": "https://www.aol.com/news/bolivia-reopens-roads-warning-economic-153939623.html",
+      "url": "https://www.aol.com/news/bolivia-reopens-roads-warning-economic-153939623.html",
+      "title": "Bolivia reopens roads, but there's a warning about economic crisis - AOL.com",
+      "content_text": "How can I leave La Paz? If your presence in La Paz is not essential, the FCDO says, \"consider departing now if you judge you can access travel options ...",
+      "date_published": "2026-06-23T22:02:22+00:00"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Bangladesh",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/bangladesh.json",
+  "description": "Top 10 most recent sustainable-tourism items for Bangladesh. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.travelandtourworld.com/news/article/4ab2lvmu648o/",
+      "url": "https://www.travelandtourworld.com/news/article/4ab2lvmu648o/",
+      "title": "Bangladesh Joins India, Nepal, Bhutan, Sri Lanka, Thailand, Malaysia, Vietnam and ...",
+      "content_text": "... tourism, indigenous heritage, community travel, local economies and sustainable tourism. ... This balanced approach supports heritage conservation, ...",
+      "date_published": "2026-06-20T16:24:25+00:00"
+    },
+    {
+      "id": "https://bdnews24.com/bangladesh/146110b4810d",
+      "url": "https://bdnews24.com/bangladesh/146110b4810d",
+      "title": "Tarique tells WEF climate action should be treated as investment, not cost",
+      "content_text": "He said Bangladesh is investing in wetlands, wildlife habitats, coastal ecosystems, rainwater harvesting and greener construction practices. A target ...",
+      "date_published": "2026-06-23T21:54:50+00:00"
+    },
+    {
+      "id": "https://www.daily-sun.com/opinion/881994",
+      "url": "https://www.daily-sun.com/opinion/881994",
+      "title": "El Niño, Himalayas and a Shared Fate for Nepal and Bangladesh - Daily Sun",
+      "content_text": "The high mountains are losing their ice, and the consequences travel downhill towards some of the most densely populated lands on Earth. That slow ...",
+      "date_published": "2026-06-23T21:30:29+00:00"
+    },
+    {
+      "id": "https://unb.com.bd/category/Environment/coastal-adaptation-project-strengthens-resilience-of-over-7-lakh-people/188961",
+      "url": "https://unb.com.bd/category/Environment/coastal-adaptation-project-strengthens-resilience-of-over-7-lakh-people/188961",
+      "title": "Coastal adaptation project strengthens resilience of over 7 lakh people - UNB",
+      "content_text": "... climate-resilient livelihoods and enhancing institutional capacity to address climate risks. As ... Dhaka; June 23, 2026, 10:36 PM; by UNB NEWS. UNB ...",
+      "date_published": "2026-06-23T22:42:03+00:00"
+    },
+    {
+      "id": "https://www.daily-sun.com/diplomacy/881920/wef-president-and-ceo-meets-pm-tarique-in-dalian",
+      "url": "https://www.daily-sun.com/diplomacy/881920/wef-president-and-ceo-meets-pm-tarique-in-dalian",
+      "title": "PM seeks coordinated WEF measures for climate vulnerable countries - Daily Sun",
+      "content_text": "The prime minister said Bangladesh has introduced tax incentives for solar power generation to encourage renewable energy production and aims to meet ...",
+      "date_published": "2026-06-23T17:24:01+00:00"
+    },
+    {
+      "id": "https://www.usmuslims.com/bangladeshi-premier-seeks-implementation-of-climate-damage-fund-357774h.htm",
+      "url": "https://www.usmuslims.com/bangladeshi-premier-seeks-implementation-of-climate-damage-fund-357774h.htm",
+      "title": "Bangladeshi premier seeks implementation of climate damage fund - US Muslims",
+      "content_text": "DHAKA, Bangladesh (AA) - The Bangladeshi prime minister sought the implementation Tuesday of a promised \"damage fund\" and to make climate finance ...",
+      "date_published": "2026-06-23T21:22:29+00:00"
+    },
+    {
+      "id": "https://dailycountrytodaybd.com/story/pm-presses-for-climate-finance,-adaptation-and-loss-and-damage-fund-at-wef-summit",
+      "url": "https://dailycountrytodaybd.com/story/pm-presses-for-climate-finance,-adaptation-and-loss-and-damage-fund-at-wef-summit",
+      "title": "PM presses for climate finance, adaptation and Loss and Damage Fund at WEF summit",
+      "content_text": "He said Bangladesh believes climate action is not a cost. \"We see this as a much-needed investment for prosperity, stability, and shared future.",
+      "date_published": "2026-06-23T16:58:19+00:00"
+    },
+    {
+      "id": "https://www.daily-sun.com/diplomacy/881976",
+      "url": "https://www.daily-sun.com/diplomacy/881976",
+      "title": "Deliver on climate commitments - Daily Sun",
+      "content_text": "Deliver on climate commitments. PM Tarique urges world leaders at WEF meeting. Daily Sun Report, Dhaka. Published: 24 Jun 2026, 12:00 AM Updated: 24 ...",
+      "date_published": "2026-06-23T21:20:09+00:00"
+    },
+    {
+      "id": "https://www.thedailystar.net/news/bangladesh/news/climate-action-not-cost-investment-4206831",
+      "url": "https://www.thedailystar.net/news/bangladesh/news/climate-action-not-cost-investment-4206831",
+      "title": "'Climate action not a cost but an investment' | The Daily Star",
+      "content_text": "... climate finance more accessible, and advancing adaptation measures ... He is expected to return to Dhaka on the night of June 26. SHARE. Click ...",
+      "date_published": "2026-06-23T20:42:43+00:00"
+    },
+    {
+      "id": "https://uk.news.yahoo.com/bangladesh-says-300-billion-climate-151344246.html",
+      "url": "https://uk.news.yahoo.com/bangladesh-says-300-billion-climate-151344246.html",
+      "title": "Bangladesh says $300 billion climate finance goal falls short, calls for more support",
+      "content_text": "DHAKA, June 23 (Reuters) - Bangladesh called on Tuesday for more funds ... climate change, saying the global climate financing.",
+      "date_published": "2026-06-23T19:49:31+00:00"
+    }
+  ]
+}

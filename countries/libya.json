@@ -1,0 +1,59 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Libya",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/libya.json",
+  "description": "Top 10 most recent sustainable-tourism items for Libya. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://mei.edu/report/outlook-for-sustainable-agriculture-in-north-africa-report-card-assessment/",
+      "url": "https://mei.edu/report/outlook-for-sustainable-agriculture-in-north-africa-report-card-assessment/",
+      "title": "Outlook for Sustainable Agriculture in North Africa: Report Card Assessment",
+      "content_text": "... Libya, Tunisia, Algeria, Morocco, and Mauritania, and provides ... climate change and resource constraints. Sustained investments in water ...",
+      "date_published": "2026-06-22T18:02:54+00:00"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/YrAhB75dUYY",
+      "url": "https://www.youtube.com/shorts/YrAhB75dUYY",
+      "title": "What Happens to the 10 Activists of the Global Sumud Land Convoy Jailed in East Libya?",
+      "content_text": "... travel through Mauritania, Algeria, Tunisia, Libya and Egypt and into Rafah. In the land convoy were doctors, engineers, teachers and a lone ...",
+      "date_published": "2026-06-17T11:44:22+00:00"
+    },
+    {
+      "id": "https://sonna.so/en/article/Minister-of-Information-Receives-Acting-Libyan-Ambassador-to-Somalia",
+      "url": "https://sonna.so/en/article/Minister-of-Information-Receives-Acting-Libyan-Ambassador-to-Somalia",
+      "title": "Minister of Information Receives Acting Libyan Ambassador to Somalia | SONNA",
+      "content_text": "Mogadishu, (SONNA) — The Minister of Information, Culture and Tourism of the Federal Government of Somalia, H.E. Abdifatah Qasim Mahmoud, on ...",
+      "date_published": "2026-06-23T13:03:28+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/zlqlrgmgnwjj/",
+      "url": "https://www.travelandtourworld.com/news/article/zlqlrgmgnwjj/",
+      "title": "Algeria Joins Qatar, Morocco, Kuwait, Serbia, Iraq, Libya and More Countries as Turkey ...",
+      "content_text": "Turkey has expanded its entry facilitation framework for selected nationalities, easing visa requirements and broadening age-based exemptions in ...",
+      "date_published": "2026-06-23T20:59:55+00:00"
+    },
+    {
+      "id": "https://www.dailysabah.com/politics/turkish-intel-chief-meets-libyan-commander-saddam-haftar-in-benghazi/news",
+      "url": "https://www.dailysabah.com/politics/turkish-intel-chief-meets-libyan-commander-saddam-haftar-in-benghazi/news",
+      "title": "Turkish intel chief meets Libyan commander Saddam Haftar in Benghazi - Daily Sabah",
+      "content_text": "According to information obtained from sources, the talks focused on efforts to preserve stability in Libya and advance the country's political and ...",
+      "date_published": "2026-06-23T14:35:33+00:00"
+    },
+    {
+      "id": "https://www.amnesty.org/en/latest/news/2026/06/libya-eu-rival-authorities-intensify-xenophobic-and-racist-crackdown-on-refugees-and-migrants-in-libya-as-eu-seeks-to-deepen-ties/",
+      "url": "https://www.amnesty.org/en/latest/news/2026/06/libya-eu-rival-authorities-intensify-xenophobic-and-racist-crackdown-on-refugees-and-migrants-in-libya-as-eu-seeks-to-deepen-ties/",
+      "title": "Rival authorities intensify racist crackdown on migrants in Libya - Amnesty International",
+      "content_text": "The European Union is seeking to expand its migration cooperation with rival Libyan authorities and allied armed groups just as they have been ...",
+      "date_published": "2026-06-23T09:55:34+00:00"
+    },
+    {
+      "id": "https://www.thehour.com/news/world/article/libyan-warlord-convicted-over-abuses-at-detention-22314722.php",
+      "url": "https://www.thehour.com/news/world/article/libyan-warlord-convicted-over-abuses-at-detention-22314722.php",
+      "title": "Libyan warlord convicted over abuses at detention center, officials say - Norwalk Hour",
+      "content_text": "A Libyan warlord has been convicted of human rights violations at a detention facility in the country's west. Authorities say Ossama Anjiem, ...",
+      "date_published": "2026-06-23T05:51:41+00:00"
+    }
+  ]
+}

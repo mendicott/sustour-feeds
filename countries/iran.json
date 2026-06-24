@@ -1,0 +1,80 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Sustainable Tourism — Iran",
+  "home_page_url": "https://mendicott.github.io/sustour-feeds/index.html",
+  "feed_url": "https://mendicott.github.io/sustour-feeds/countries/iran.json",
+  "description": "Top 10 most recent sustainable-tourism items for Iran. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://www.travelandtourworld.com/news/article/q4p9hif26qoq/",
+      "url": "https://www.travelandtourworld.com/news/article/q4p9hif26qoq/",
+      "title": "Iran Joins United Arab Emirates, Saudi Arabia, Qatar, Oman, Bahrain, Egypt And More In ...",
+      "content_text": "Oman: Eco-Tourism And Nature-Based Travel Growth. Oman is emerging as a leading eco-tourism destination in the Gulf region. Its tourism strategy is ...",
+      "date_published": "2026-06-23T17:17:14+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/kox8y9dh2jnq/",
+      "url": "https://www.travelandtourworld.com/news/article/kox8y9dh2jnq/",
+      "title": "Armenia Joins Georgia, Azerbaijan, Turkey, Iran, Italy and Europe as Rising Cultural ...",
+      "content_text": "Armenia boosts tourism with UNESCO heritage, direct flights, wine tourism, hiking trails, and cultural attractions, attracting more international ...",
+      "date_published": "2026-06-21T16:17:56+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/fzlrz7p8rsz0/",
+      "url": "https://www.travelandtourworld.com/news/article/fzlrz7p8rsz0/",
+      "title": "Iran Joins Uzbekistan, Turkmenistan, Kazakhstan, China and UAE as Turkish Airlines ...",
+      "content_text": "Less unregulated independent travel in Turkmenistan; Increased demand for premium adventure tourism. FAQs. Why is tourism at the Darvaza Crater ...",
+      "date_published": "2026-06-24T07:52:43+00:00"
+    },
+    {
+      "id": "https://english.ahram.org.eg/NewsContentP/50/571453/AlAhram-Weekly/The-revival-of-Rosetta.aspx",
+      "url": "https://english.ahram.org.eg/NewsContentP/50/571453/AlAhram-Weekly/The-revival-of-Rosetta.aspx",
+      "title": "The revival of Rosetta - Heritage - Al-Ahram Weekly",
+      "content_text": "Combining heritage conservation with sustainable tourism development ... US ease restriction on Iran's World Cup team, allowing travel 2 days before....",
+      "date_published": "2026-06-23T21:24:26+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/o2ypcfd279wg/",
+      "url": "https://www.travelandtourworld.com/news/article/o2ypcfd279wg/",
+      "title": "Muscat, Dubai, Abu Dhabi, Doha and Manama Face New Tourism Questions as Iran re ...",
+      "content_text": "Iran's renewed Strait of Hormuz closure raises fresh concerns for Gulf tourism, cruise operations and regional travel connectivity across the ...",
+      "date_published": "2026-06-23T05:37:43+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/jiivwls6xhsh/",
+      "url": "https://www.travelandtourworld.com/news/article/jiivwls6xhsh/",
+      "title": "Israel Joins Lebanon, Syria, Iraq, and Iran in Witnessing Unprecedented Travel Restrictions ...",
+      "content_text": "Active airspace closures and a shocking 90-passenger departure cap at Ben Gurion Airport have left thousands of European holidaymakers scrambling ...",
+      "date_published": "2026-06-20T03:42:50+00:00"
+    },
+    {
+      "id": "https://www.insurancebusinessmag.com/nz/news/travel/gulf-ceasefire-tests-travel-and-marine-cover-579625.aspx",
+      "url": "https://www.insurancebusinessmag.com/nz/news/travel/gulf-ceasefire-tests-travel-and-marine-cover-579625.aspx",
+      "title": "Gulf ceasefire tests travel and marine cover - Insurance Business",
+      "content_text": "Israel, Iran, Lebanon and the Palestinian territories remain at Level Four - Do Not Travel. Travel cover hasn't caught up. The downgrade carries no ...",
+      "date_published": "2026-06-19T18:58:45+00:00"
+    },
+    {
+      "id": "https://www.axios.com/local/seattle/2026/06/23/seattle-world-cup-travel-dispute-iran-egypt-fifa-security-washington",
+      "url": "https://www.axios.com/local/seattle/2026/06/23/seattle-world-cup-travel-dispute-iran-egypt-fifa-security-washington",
+      "title": "Seattle at center of World Cup travel dispute involving Iran, Egypt - Axios",
+      "content_text": "Both Iran and Egypt say World Cup travel decisions put their teams at a disadvantage.",
+      "date_published": "2026-06-24T07:19:28+00:00"
+    },
+    {
+      "id": "https://www.wbur.org/hereandnow/2026/06/23/us-lifts-iran-sanctions",
+      "url": "https://www.wbur.org/hereandnow/2026/06/23/us-lifts-iran-sanctions",
+      "title": "U.S. temporarily lifts Iran oil sanctions | Here & Now - WBUR",
+      "content_text": "The ocean is suffering from climate chaos. Could it also ...",
+      "date_published": "2026-06-24T04:08:35+00:00"
+    },
+    {
+      "id": "https://www.king5.com/video/news/local/travel-restrictions-ease-for-iran-amid-egypts-disputes-ahead-of-seattle-world-cup-match/281-65b92d83-0e1c-439b-934c-e915657958d9",
+      "url": "https://www.king5.com/video/news/local/travel-restrictions-ease-for-iran-amid-egypts-disputes-ahead-of-seattle-world-cup-match/281-65b92d83-0e1c-439b-934c-e915657958d9",
+      "title": "Travel restrictions ease for Iran amid Egypt's disputes ahead of Seattle World Cup match",
+      "content_text": "Egypt and Iran's soccer teams have both been critical of travel restrictions ahead of their World Cup matchup in Seattle on Friday.",
+      "date_published": "2026-06-24T01:51:34+00:00"
+    }
+  ]
+}
