@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.yahoo.com/news/world/articles/french-polynesia-puts-30-waters-164400687.html",
+      "url": "https://www.yahoo.com/news/world/articles/french-polynesia-puts-30-waters-164400687.html",
+      "title": "French Polynesia puts 30% of its waters under protection, a big win for sharks, turtles, and more",
+      "content_text": "Healthy oceans also support coastal communities through food, tourism, and natural storm protection. The move stood out as a sign that some places are ...",
+      "date_published": "2026-06-25T17:23:47+00:00"
+    },
+    {
       "id": "https://www.msn.com/en-us/travel/news/tahiti-s-outer-islands-embrace-slow-sustainable-tourism-vision/ss-AA26585I",
       "url": "https://www.msn.com/en-us/travel/news/tahiti-s-outer-islands-embrace-slow-sustainable-tourism-vision/ss-AA26585I",
       "title": "Tahiti's outer islands embrace slow, sustainable tourism vision - MSN",
@@ -68,13 +75,6 @@
       "title": "Scientists identify 64000 sq miles of coral reef capable of surviving climate crisis",
       "content_text": "Tourism · Entertainment · Film, TV & Book Reviews · Restaurant & Bar ... coral reef inside a 'Rahui' or restricted area in Teahupo'o, Tahiti ...",
       "date_published": "2026-06-20T12:33:49+00:00"
-    },
-    {
-      "id": "https://www.msn.com/en-us/travel/tripideas/tahiti-tourism-grows-with-diving-cruises-and-cultural-focus/ss-AA25Momk",
-      "url": "https://www.msn.com/en-us/travel/tripideas/tahiti-tourism-grows-with-diving-cruises-and-cultural-focus/ss-AA25Momk",
-      "title": "Tahiti tourism grows with diving, cruises, and cultural focus - MSN",
-      "content_text": "... Tahiti's eco-tourism and heritage-based travel appeal ... Tahiti's eco-tourism and heritage-based travel appeal. References.",
-      "date_published": "2026-06-18T13:47:06+00:00"
     }
   ]
 }

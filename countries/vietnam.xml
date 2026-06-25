@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 25 Jun 2026 10:08:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 22:08:45 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Aspirations from the village - Vietnam.vn</title>
+<link>https://www.vietnam.vn/en/khat-vong-tu-ban-lang</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/khat-vong-tu-ban-lang</guid>
+<pubDate>Thu, 25 Jun 2026 14:03:05 +0000</pubDate>
+<description>... community-based tourism model, and utilized social media to promote the ... Community Tourism Development Youth Cooperative. The cooperative ...</description>
+</item>
 <item>
 <title>Auko Eco-Wellness Lodges to open in Phong Nha later this year - Travel Daily Media</title>
 <link>https://www.traveldailymedia.com/auko-eco-wellness-lodges-to-open-in-phong-nha-later-this-year/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://happyvietnam.vnanet.vn/en/vietnam-continues-to-promote-role-as-active-responsible-member-of-unesco/59118.html</guid>
 <pubDate>Mon, 22 Jun 2026 11:01:52 +0000</pubDate>
 <description>... heritage conservation with education, sustainable tourism and digital transformation.</description>
-</item>
-<item>
-<title>Heritage tourism powers Hue's growth in Central Vietnam - TravelMole</title>
-<link>https://www.travelmole.com/news/heritage-tourism-powers-hues-growth-in-central-vietnam</link>
-<guid isPermaLink="false">https://www.travelmole.com/news/heritage-tourism-powers-hues-growth-in-central-vietnam</guid>
-<pubDate>Mon, 22 Jun 2026 10:53:05 +0000</pubDate>
-<description>Heritage tourism, green tourism, community-based experiences and experiential travel are expected to underpin the city's next stage of growth.</description>
 </item>
 </channel>
 </rss>

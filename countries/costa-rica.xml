@@ -6,8 +6,22 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/costa-rica.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Costa Rica. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 25 Jun 2026 10:08:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 22:08:45 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Poachers Threaten One of Costa Rica's Best-Known Wildlife Refuges - The Tico Times</title>
+<link>https://ticotimes.net/2026/06/25/poachers-threaten-one-of-costa-ricas-best-known-wildlife-refuges</link>
+<guid isPermaLink="false">https://ticotimes.net/2026/06/25/poachers-threaten-one-of-costa-ricas-best-known-wildlife-refuges</guid>
+<pubDate>Thu, 25 Jun 2026 19:48:56 +0000</pubDate>
+<description>Camera traps at Costa Rica's Curú Wildlife Refuge have revealed illegal hunting activity, raising concerns for conservation, tourism and wildlife ...</description>
+</item>
+<item>
+<title>Costa Rica Outshines United States, Canada, Mexico, Belize, Panama and other North ...</title>
+<link>https://www.travelandtourworld.com/news/article/nw5jxv5vlq4y/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/nw5jxv5vlq4y/</guid>
+<pubDate>Thu, 25 Jun 2026 18:46:15 +0000</pubDate>
+<description>Explore why Costa Rica outshines United States, Canada, Mexico and others in eco tourism through biodiversity protection and sustainability ...</description>
+</item>
 <item>
 <title>Costa Rica Tourism Growth Accelerates as European Ecotourism Interest Reaches New Heights</title>
 <link>https://www.travelandtourworld.com/news/article/btmxg3ktkxoq/</link>
@@ -63,20 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/jov3bg3rqabm/</guid>
 <pubDate>Sun, 14 Jun 2026 20:58:21 +0000</pubDate>
 <description>Global tourism in 2026 shifts to regenerative travel as Spain, Costa Rica, South Africa, Denmark and Greece lead sustainability and eco-tourism ...</description>
-</item>
-<item>
-<title>Green Landmarks and Infrastructure - Travel And Tour World</title>
-<link>https://www.travelandtourworld.com/news/article/tag/green-landmarks-and-infrastructure/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/tag/green-landmarks-and-infrastructure/</guid>
-<pubDate>Fri, 05 Jun 2026 21:04:32 +0000</pubDate>
-<description>Qatar Joins Denmark, Costa Rica, New Zealand, Norway, Sweden, Palau, Iceland, Slovenia, and More Countries Dominating the Future of Sustainable ...</description>
-</item>
-<item>
-<title>Costa Rica Warns Environmental Crimes Are Linked to Organized Networks</title>
-<link>https://ticotimes.net/2026/06/23/costa-rica-warns-environmental-crimes-are-linked-to-organized-networks</link>
-<guid isPermaLink="false">https://ticotimes.net/2026/06/23/costa-rica-warns-environmental-crimes-are-linked-to-organized-networks</guid>
-<pubDate>Wed, 24 Jun 2026 02:35:58 +0000</pubDate>
-<description>Costa Rican prosecutors warn that wildlife trafficking, illegal mining and other environmental crimes are increasingly tied to transnational ...</description>
 </item>
 </channel>
 </rss>

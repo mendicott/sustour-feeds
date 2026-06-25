@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://kuwaittimes.com/article/45511/top-stories/heatwave-bakes-100m-europeans-at-over-35c/",
+      "url": "https://kuwaittimes.com/article/45511/top-stories/heatwave-bakes-100m-europeans-at-over-35c/",
+      "title": "Heatwave bakes 100m Europeans at over 35C | Kuwait Times Newspaper",
+      "content_text": "\"While heat domes are a natural weather phenomenon, anthropogenic climate change is making heatwaves more severe and more likely to reach record- ...",
+      "date_published": "2026-06-25T19:11:05+00:00"
+    },
+    {
       "id": "https://kuwaittimes.com/article/45402/kuwait/other-news/environment-society-urges-stronger-action-to-protect-wetlands/amp",
       "url": "https://kuwaittimes.com/article/45402/kuwait/other-news/environment-society-urges-stronger-action-to-protect-wetlands/amp",
       "title": "Environment society urges stronger action to protect wetlands - Kuwait Times",
@@ -68,13 +75,6 @@
       "title": "Kuwait is Quietly Becoming the Gulf's Next Tourism Giant with New Airports, Luxury Hotels ...",
       "content_text": "... tourism, Kuwait Airways, Jazeera Airways, and Kuwait ... tourism by improving two-way passenger movement and supporting business travel activities.",
       "date_published": "2026-06-23T13:48:12+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/q9nzc43i1fiq/",
-      "url": "https://www.travelandtourworld.com/news/article/q9nzc43i1fiq/",
-      "title": "Oman Joins Saudi Arabia, UAE, Qatar, Bahrain, and Kuwait in Sparking a ... - Travel And Tour World",
-      "content_text": "... Backpackers Ditch Asia for Adrenaline-Pumping ... A major transformation in global travel behaviour has been recorded as GCC adventure tourism ...",
-      "date_published": "2026-06-20T11:53:06+00:00"
     }
   ]
 }
