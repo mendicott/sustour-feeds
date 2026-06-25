@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/belgium.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Belgium. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 24 Jun 2026 22:08:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 10:08:28 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Responsible tourism champions honoured at Brussels awards ceremony - Travel Tomorrow</title>
@@ -58,6 +58,13 @@
 <description>Impact on Travel and Tourism. First Joint EU Culture Declaration, Elevates ... It is expected to enhance heritage conservation, expand cultural ...</description>
 </item>
 <item>
+<title>Europe's Extreme Heat Is Now Shutting Down Train Routes - Fodors Travel Guide</title>
+<link>https://www.fodors.com/world/europe/experiences/news/europes-record-heat-wave-is-causing-major-train-delays-and-cancellations</link>
+<guid isPermaLink="false">https://www.fodors.com/world/europe/experiences/news/europes-record-heat-wave-is-causing-major-train-delays-and-cancellations</guid>
+<pubDate>Wed, 24 Jun 2026 19:45:17 +0000</pubDate>
+<description>Europe's extreme heat wave is disrupting rail travel, causing train delays, cancellations, and infrastructure issues across France, Belgium, ...</description>
+</item>
+<item>
 <title>FCDO updates France, Spain and Portugal advice amid heatwave - News - Travel Weekly</title>
 <link>https://travelweekly.co.uk/news/fcdo-updates-france-spain-and-portugal-advice-amid-heatwave</link>
 <guid isPermaLink="false">https://travelweekly.co.uk/news/fcdo-updates-france-spain-and-portugal-advice-amid-heatwave</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.youtube.com/playlist?list=PLF2ChZWRc_TiedNVa3A3obH3HtYY2coP6</guid>
 <pubDate>Wed, 24 Jun 2026 19:10:34 +0000</pubDate>
 <description>Exploring Europe solo for the first time—from Amsterdam to Belgium and France. Sharing travel moments, food trips, and experiences across ...</description>
-</item>
-<item>
-<title>United Kingdom Joins Belgium, Denmark, France, Germany, Ireland, Luxembourg, the ...</title>
-<link>https://www.travelandtourworld.com/news/article/dh1p47ot1798/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/dh1p47ot1798/</guid>
-<pubDate>Wed, 24 Jun 2026 17:24:00 +0000</pubDate>
-<description>UK and North Sea partners push clean energy as fuel risks reshape aviation, cruise, ferries and corporate travel costs.</description>
 </item>
 </channel>
 </rss>

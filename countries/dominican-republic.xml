@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/dominican-republic.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Dominican Republic. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 24 Jun 2026 22:08:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 10:08:28 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Protecting the forest: ecotourism generates jobs in the Dominican Republic - World Bank</title>
+<link>https://www.worldbank.org/en/news/feature/2026/06/24/cuidar-el-bosque-ecoturismo-fuente-empleo-republica-dominicana</link>
+<guid isPermaLink="false">https://www.worldbank.org/en/news/feature/2026/06/24/cuidar-el-bosque-ecoturismo-fuente-empleo-republica-dominicana</guid>
+<pubDate>Thu, 25 Jun 2026 06:34:42 +0000</pubDate>
+<description>Sustainable tourism can be part of the answer. Through jobs like tourist guides, young people earn income that opens up opportunities without ...</description>
+</item>
 <item>
 <title>Mexico Joins Brazil, Peru, Colombia, Jamaica, Argentina, Dominican Republic and More in ...</title>
 <link>https://www.travelandtourworld.com/news/article/dvui0xikjgl4/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://dominicantoday.com/dominican-government-delivers-equipment-to-combat-sargassum-on-boca-chica-beaches/</guid>
 <pubDate>Wed, 03 Jun 2026 22:11:59 +0000</pubDate>
 <description>The first and only english language online news publication in the Dominican Republic. Providing local and international news, DR guides and ...</description>
-</item>
-<item>
-<title>Dominican Republic authorities, execs help tourists affected by resort fire - Travel Weekly</title>
-<link>https://www.travelweekly.com/Caribbean-Travel/authorities-help-tourists-impacted-by-DR-resort-fire?ct=carib</link>
-<guid isPermaLink="false">https://www.travelweekly.com/Caribbean-Travel/authorities-help-tourists-impacted-by-DR-resort-fire?ct=carib</guid>
-<pubDate>Sun, 21 Jun 2026 16:53:30 +0000</pubDate>
-<description>The Marbella Garden area at the Wyndham Grand Rio Mar Rainforest Beach and Golf Resort in Unexpected pleasures at Wyndham Grand Rio Mar. One of the ...</description>
 </item>
 </channel>
 </rss>
