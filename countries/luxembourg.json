@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.aol.com/news/report-shows-tuscaloosa-county-made-100448430.html",
+      "url": "https://www.aol.com/news/report-shows-tuscaloosa-county-made-100448430.html",
+      "title": "Report shows Tuscaloosa County made $1B in 2025 tourism sales - AOL.com",
+      "content_text": "Scenic hiking trails reveal Luxembourg's forests, rock formations, and river valleys. A lush section of the Müllerthal Trail with Schiessentümpel ...",
+      "date_published": "2026-06-26T03:23:42+00:00"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=NlLeseWEM0s",
       "url": "https://www.youtube.com/watch?v=NlLeseWEM0s",
       "title": "A Hidden Gem Along Mullerthal Trail Route 2 - Eulenburg - YouTube",
@@ -19,6 +26,13 @@
       "title": "FCDO updates France, Spain and Portugal advice amid heatwave - News - Travel Weekly",
       "content_text": "Meanwhile, Belgium, Luxembourg ... The BBC noted climate change is driving up temperatures around the world but particularly in Europe.",
       "date_published": "2026-06-24T08:33:03+00:00"
+    },
+    {
+      "id": "https://today.rtl.lu/news/luxembourg/luxembourg-bakes-in-record-heat-grand-duke-guillaumes-first-national-day-and-brussels-meets-taliban-622403647",
+      "url": "https://today.rtl.lu/news/luxembourg/luxembourg-bakes-in-record-heat-grand-duke-guillaumes-first-national-day-and-brussels-meets-taliban-622403647",
+      "title": "Luxembourg bakes in record heat, Grand Duke Guillaume's first National Day, and Brussels ...",
+      "content_text": "Luxembourg celebrates Grand Duke Guillaume's first National Day; Luxembourg hosts first tourism summit; UK's Starmer resigns as prime minister; EU ...",
+      "date_published": "2026-06-26T10:40:41+00:00"
     },
     {
       "id": "https://www.travelandtourworld.com/news/article/dh1p47ot1798/",
@@ -42,39 +56,25 @@
       "date_published": "2026-06-23T12:39:22+00:00"
     },
     {
+      "id": "https://today.rtl.lu/news/world/europe-heatwave-shattering-temperature-records-un-1198800025",
+      "url": "https://today.rtl.lu/news/world/europe-heatwave-shattering-temperature-records-un-1198800025",
+      "title": "Europe heatwave shattering temperature records: UN - RTL Today",
+      "content_text": "\"Extreme heat will occur more frequently, for longer duration and with greater intensity as global warming continues. ... 2026 RTL Luxembourg.",
+      "date_published": "2026-06-26T15:06:08+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/570vx65ncpty/",
+      "url": "https://www.travelandtourworld.com/news/article/570vx65ncpty/",
+      "title": "Luxembourg Unites With Ireland, Switzerland, Iceland, Singapore, Norway ... - Travel And Tour World",
+      "content_text": "Travel boom driven by IMF richest nations ranking reshapes tourism demand, aviation flows and luxury travel spending worldwide.",
+      "date_published": "2026-06-26T13:15:07+00:00"
+    },
+    {
       "id": "https://euobserver.com/224177/eu-ministers-plan-further-climate-policy-rollbacks-during-historic-heatwave/",
       "url": "https://euobserver.com/224177/eu-ministers-plan-further-climate-policy-rollbacks-during-historic-heatwave/",
       "title": "EU ministers plan further climate policy rollbacks during historic heatwave - EUobserver",
       "content_text": "Amsterdam. , 25 June 2026 17:51. European environment ministers met in Luxembourg on Thursday to prepare for the next UN climate summit and discuss ...",
       "date_published": "2026-06-25T16:09:53+00:00"
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/6/24/deaths-disruptions-across-europe-what-you-should-know-about-the-heatwave",
-      "url": "https://www.aljazeera.com/news/2026/6/24/deaths-disruptions-across-europe-what-you-should-know-about-the-heatwave",
-      "title": "Deaths, disruptions across Europe: What you should know about the heatwave - Al Jazeera",
-      "content_text": "Heat warnings were in place across European countries with the UK, Germany, France, Spain, Switzerland and Luxembourg all facing the highest-level red ...",
-      "date_published": "2026-06-24T15:28:10+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/j75h00awm1ze/",
-      "url": "https://www.travelandtourworld.com/news/article/j75h00awm1ze/",
-      "title": "Netherlands Joins Germany, France, United Kingdom, United States, Canada, Belgium and ...",
-      "content_text": "... Luxembourg Tourism Growth Accelerates in 2026 Driven by Free Public Transport, Strong Cross-Border Mobility, Rising Short-Haul European Travel and ...",
-      "date_published": "2026-06-23T09:09:43+00:00"
-    },
-    {
-      "id": "https://economynext.com/sri-lanka-pitches-infrastructure-green-energy-to-belgium-luxembourg-investors-276095/",
-      "url": "https://economynext.com/sri-lanka-pitches-infrastructure-green-energy-to-belgium-luxembourg-investors-276095/",
-      "title": "Sri Lanka pitches infrastructure, green energy to Belgium, Luxembourg investors | EconomyNext",
-      "content_text": "Tourism. Sri Lanka's Tourism body revises tourism earning calculation retrospectively from January 2026. story-page-image. Tuesday June 23, 2026 11 ...",
-      "date_published": "2026-06-23T05:44:21+00:00"
-    },
-    {
-      "id": "https://delano.lu/article/luxembourgs-heatwave-becomes-a-live-stress-test",
-      "url": "https://delano.lu/article/luxembourgs-heatwave-becomes-a-live-stress-test",
-      "title": "Luxembourg's heatwave becomes a live stress test | Delano News",
-      "content_text": "The current episode also shows why global climate language can understate local risk. Luxembourg is not experiencing climate change as a 1.5°C global ...",
-      "date_published": "2026-06-26T04:34:18+00:00"
     }
   ]
 }

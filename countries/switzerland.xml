@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/switzerland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Switzerland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 26 Jun 2026 10:08:35 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Jun 2026 22:08:50 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Italy Joins France, Greece, Ireland, Austria, Switzerland, and Portugal in Turning Heritage ...</title>
+<link>https://www.travelandtourworld.com/news/article/rhzn9afe7b2s/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/rhzn9afe7b2s/</guid>
+<pubDate>Fri, 26 Jun 2026 09:55:52 +0000</pubDate>
+<description>Italy is actively joining a powerful European movement that transforms heritage farming, agritourism, and eco-tourism into a high-value travel economy ...</description>
+</item>
 <item>
 <title>Swiss collector wants thousands of Indigenous artifacts returned to communities - Winnipeg Sun</title>
 <link>https://www.winnipegsun.com/national-news/swiss-collector-wants-thousands-of-indigenous-artifacts-returned-to-communities/article_07084f84-2add-5769-bd91-770c00c6102e.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/sqkhc0vacmcm/</guid>
 <pubDate>Sun, 21 Jun 2026 17:24:13 +0000</pubDate>
 <description>Andorra hosts the 2026 World Congress on Snow, Mountain and Wellness Tourism, advancing sustainable travel, AI innovation and global mountain ...</description>
-</item>
-<item>
-<title>Iceland Joins New Zealand, Switzerland, Slovenia, Ireland, Austria, Portugal, Singapore ...</title>
-<link>https://www.travelandtourworld.com/news/article/vhg0iydvlxgx/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/vhg0iydvlxgx/</guid>
-<pubDate>Sun, 21 Jun 2026 16:05:50 +0000</pubDate>
-<description>For the global travel industry, these destinations represent benchmark examples of sustainable tourism supported by safety, social cohesion, and ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/france.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for France. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 26 Jun 2026 10:08:35 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Jun 2026 22:08:50 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Italy Joins France, Greece, Ireland, Austria, Switzerland, and Portugal in Turning Heritage ...</title>
+<link>https://www.travelandtourworld.com/news/article/rhzn9afe7b2s/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/rhzn9afe7b2s/</guid>
+<pubDate>Fri, 26 Jun 2026 09:55:52 +0000</pubDate>
+<description>Italy is actively joining a powerful European movement that transforms heritage farming, agritourism, and eco-tourism into a high-value travel economy ...</description>
+</item>
 <item>
 <title>French Polynesia puts 30% of its waters under protection, a big win for sharks, turtles, and more</title>
 <link>https://www.yahoo.com/news/world/articles/french-polynesia-puts-30-waters-164400687.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.msn.com/en-gb/travel/news/europe-s-beaches-tighten-rules-as-overtourism-pressures-mount/ss-AA25WDFC</guid>
 <pubDate>Thu, 18 Jun 2026 10:38:32 +0000</pubDate>
 <description>Europe's beaches tighten rules as overtourism pressures mount ... New beach restrictions: Authorities in Spain, Italy, Greece and France are enforcing ...</description>
-</item>
-<item>
-<title>Greece Joins Spain, Italy, Belgium, Netherlands, France, Portugal, And ... - Travel And Tour World</title>
-<link>https://www.travelandtourworld.com/news/article/w1zwgzfrof02/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/w1zwgzfrof02/</guid>
-<pubDate>Thu, 18 Jun 2026 09:36:04 +0000</pubDate>
-<description>Greece joins Spain, Italy, Belgium, Netherlands, France, Portugal, and several other European nations in imposing strict overtourism rules due to ...</description>
 </item>
 </channel>
 </rss>
