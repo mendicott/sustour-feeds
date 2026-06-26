@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/new-zealand.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for New Zealand. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 25 Jun 2026 22:08:45 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Jun 2026 10:08:35 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>New Zealand Overtakes Bahamas, Belize, Croatia, Guatemala, Portugal, Fiji, Philippines ...</title>
@@ -51,6 +51,13 @@
 <description>And it's one of our greatest defences against climate breakdown because huge tracts of native forests in the conservation estate store vast amounts of ...</description>
 </item>
 <item>
+<title>A current ecosystem map for Aotearoa New Zealand - Ministry for the Environment</title>
+<link>https://environment.govt.nz/publications/a-current-ecosystem-map-for-aotearoa-new-zealand/</link>
+<guid isPermaLink="false">https://environment.govt.nz/publications/a-current-ecosystem-map-for-aotearoa-new-zealand/</guid>
+<pubDate>Thu, 25 Jun 2026 21:58:11 +0000</pubDate>
+<description>This project focused on mapping Ecosystem Functional Groups (EFGs)—broad ecosystem types defined by shared ecological processes—across New Zealand ...</description>
+</item>
+<item>
 <title>Nepal Joins Iceland, Bhutan, New Zealand, Maldives, Singapore, Costa Rica and More ...</title>
 <link>https://www.travelandtourworld.com/news/article/24fysx7cbnte/</link>
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/24fysx7cbnte/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.msn.com/en-us/travel/tripideas/new-zealand-s-scenic-tours-embrace-slow-travel-movement/ss-AA25LWmf</guid>
 <pubDate>Sun, 21 Jun 2026 13:55:27 +0000</pubDate>
 <description>New Zealand's scenic tours embrace slow-travel movement · Coastal train adventure: Great Journeys New Zealand's Signature Captivating Coast tour offers ...</description>
-</item>
-<item>
-<title>Tourism Firms Face Complex Path To Sustainability | Mirage News</title>
-<link>https://www.miragenews.com/tourism-firms-face-complex-path-to-1693614/</link>
-<guid isPermaLink="false">https://www.miragenews.com/tourism-firms-face-complex-path-to-1693614/</guid>
-<pubDate>Tue, 16 Jun 2026 22:18:35 +0000</pubDate>
-<description>Tourism businesses across Aotearoa New Zealand are working to become more sustainable, but a new study shows the process is complex and rarely ...</description>
 </item>
 </channel>
 </rss>

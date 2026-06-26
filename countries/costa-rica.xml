@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/costa-rica.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Costa Rica. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 25 Jun 2026 22:08:45 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Jun 2026 10:08:35 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Poachers Threaten One of Costa Rica's Best-Known Wildlife Refuges - The Tico Times</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/kp768tdey52u/</guid>
 <pubDate>Mon, 08 Jun 2026 21:38:41 +0000</pubDate>
 <description>... eco-friendly travel. ... tourism growth, highlighting the rising influence of responsible travel on worldwide tourism trends.</description>
+</item>
+<item>
+<title>Costa Rica Confirms Bird-Flu Case in Wild Marine Bird at Manuel Antonio - The Tico Times</title>
+<link>https://ticotimes.net/2026/06/25/costa-rica-confirms-bird-flu-case-in-wild-marine-bird-at-manuel-antonio</link>
+<guid isPermaLink="false">https://ticotimes.net/2026/06/25/costa-rica-confirms-bird-flu-case-in-wild-marine-bird-at-manuel-antonio</guid>
+<pubDate>Thu, 25 Jun 2026 23:23:50 +0000</pubDate>
+<description>The case is especially relevant for Manuel Antonio, where visitors, tour guides and local businesses rely heavily on nature tourism. The area is ...</description>
 </item>
 <item>
 <title>Nepal Joins Iceland, Bhutan, New Zealand, Maldives, Singapore, Costa Rica and More ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/wdf6zepbwmxl/</guid>
 <pubDate>Tue, 16 Jun 2026 14:10:07 +0000</pubDate>
 <description>Supported by its world-famous beaches, biodiversity, national parks, volcanoes, adventure tourism, and eco-friendly travel experiences, Costa Rica ...</description>
-</item>
-<item>
-<title>Spain Joins Costa Rica, South Africa, Denmark, Greece, Chile and More in Unstoppable ...</title>
-<link>https://www.travelandtourworld.com/news/article/jov3bg3rqabm/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/jov3bg3rqabm/</guid>
-<pubDate>Sun, 14 Jun 2026 20:58:21 +0000</pubDate>
-<description>Global tourism in 2026 shifts to regenerative travel as Spain, Costa Rica, South Africa, Denmark and Greece lead sustainability and eco-tourism ...</description>
 </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/hungary.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Hungary. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 25 Jun 2026 22:08:45 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Jun 2026 10:08:35 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Czech Republic Joins Germany, Poland, Slovakia, Hungary, Austria and Netherlands in ...</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/mxj369uakf66/</guid>
 <pubDate>Sun, 14 Jun 2026 15:10:04 +0000</pubDate>
 <description>The itinerary reflects the growing popularity of slow travel, heritage tourism, experiential cruising, and multi-country European vacations. Rather ...</description>
+</item>
+<item>
+<title>Alarming: Hungary is warming up faster than almost everywhere in Europe</title>
+<link>https://dailynewshungary.com/hungary-warming-up-faster-than-europe/</link>
+<guid isPermaLink="false">https://dailynewshungary.com/hungary-warming-up-faster-than-europe/</guid>
+<pubDate>Thu, 25 Jun 2026 19:19:52 +0000</pubDate>
+<description>With another intense heatwave arriving, scientists say the soaring temperatures show that climate change is no longer a future threat for Hungary—it ...</description>
 </item>
 <item>
 <title>Strasbourg Joins Passau, Cologne, Basel, and Budapest in Record-Breaking European ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.hungarianconservative.com/articles/current/jozsefvaros-airbnb-regulation-short-term-rentals/</guid>
 <pubDate>Thu, 25 Jun 2026 12:33:05 +0000</pubDate>
 <description>The Józsefváros municipal council has approved a new regulatory framework for short-term accommodation, introducing district, neighbourhood, ...</description>
-</item>
-<item>
-<title>Hungary Joins Finland, Germany, Portugal, Greece, Italy, Spain, And More Countries In ...</title>
-<link>https://www.travelandtourworld.com/news/article/uk07h181nvfu/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/uk07h181nvfu/</guid>
-<pubDate>Tue, 23 Jun 2026 10:22:46 +0000</pubDate>
-<description>The transformation is being driven by Eurostat-aligned travel patterns, increased cross-border weekend tourism, and a sharp rise in wellness, cultural ...</description>
 </item>
 </channel>
 </rss>

@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.travelandtourworld.com/news/article/cz9wkj8pxsjy/",
+      "url": "https://www.travelandtourworld.com/news/article/cz9wkj8pxsjy/",
+      "title": "Ubon Ratchathani Geopark Thailand Sparks UNESCO Buzz as Ancient Mekong ...",
+      "content_text": "Ubon Ratchathani Geopark in Thailand moves closer to UNESCO Global Geopark status, boosting eco-tourism, nature travel, and Mekong heritage ...",
+      "date_published": "2026-06-26T08:28:41+00:00"
+    },
+    {
       "id": "https://kuenselonline.com/news/krabi-showcased-as-thailands-first-sustainable-tourism-city",
       "url": "https://kuenselonline.com/news/krabi-showcased-as-thailands-first-sustainable-tourism-city",
       "title": "Krabi showcased as Thailand's first sustainable tourism city - Kuensel Online",
@@ -68,13 +75,6 @@
       "title": "Hiking in Lung Pang opens up opportunities for ecotourism development in Thai Nguyen.",
       "content_text": "The activity aimed to survey and promote new tourism products, connect travel businesses, media, and the local community in developing ecotourism and ...",
       "date_published": "2026-06-16T23:08:03+00:00"
-    },
-    {
-      "id": "https://edition.cnn.com/travel/article/maya-bay-thailand-recovery-c2e-spc-intl?from=mdr",
-      "url": "https://edition.cnn.com/travel/article/maya-bay-thailand-recovery-c2e-spc-intl?from=mdr",
-      "title": "Maya Bay: How conservationists saved Thailand's most famous beach from ruin | CNN",
-      "content_text": "Back in 2018, Thai officials announced the indefinite closure of Maya Bay – made popular by 2000 film \"The Beach\" – to repair years of damage ...",
-      "date_published": "2026-06-15T17:53:37+00:00"
     }
   ]
 }

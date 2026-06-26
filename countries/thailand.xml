@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/thailand.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Thailand. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 25 Jun 2026 22:08:45 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Jun 2026 10:08:35 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Ubon Ratchathani Geopark Thailand Sparks UNESCO Buzz as Ancient Mekong ...</title>
+<link>https://www.travelandtourworld.com/news/article/cz9wkj8pxsjy/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/cz9wkj8pxsjy/</guid>
+<pubDate>Fri, 26 Jun 2026 08:28:41 +0000</pubDate>
+<description>Ubon Ratchathani Geopark in Thailand moves closer to UNESCO Global Geopark status, boosting eco-tourism, nature travel, and Mekong heritage ...</description>
+</item>
 <item>
 <title>Krabi showcased as Thailand's first sustainable tourism city - Kuensel Online</title>
 <link>https://kuenselonline.com/news/krabi-showcased-as-thailands-first-sustainable-tourism-city</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.vietnam.vn/en/hiking-lung-pang-mo-huong-phat-trien-du-lich-sinh-thai-o-thai-nguyen</guid>
 <pubDate>Tue, 16 Jun 2026 23:08:03 +0000</pubDate>
 <description>The activity aimed to survey and promote new tourism products, connect travel businesses, media, and the local community in developing ecotourism and ...</description>
-</item>
-<item>
-<title>Maya Bay: How conservationists saved Thailand's most famous beach from ruin | CNN</title>
-<link>https://edition.cnn.com/travel/article/maya-bay-thailand-recovery-c2e-spc-intl?from=mdr</link>
-<guid isPermaLink="false">https://edition.cnn.com/travel/article/maya-bay-thailand-recovery-c2e-spc-intl?from=mdr</guid>
-<pubDate>Mon, 15 Jun 2026 17:53:37 +0000</pubDate>
-<description>Back in 2018, Thai officials announced the indefinite closure of Maya Bay – made popular by 2000 film "The Beach" – to repair years of damage ...</description>
 </item>
 </channel>
 </rss>
