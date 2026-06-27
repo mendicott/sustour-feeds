@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/jordan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Jordan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 27 Jun 2026 10:08:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 22:08:01 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Jordan's Ajloun Revives Historic Springs to Boost Eco-Tourism, Heritage Travel, Local ...</title>
+<link>https://www.travelandtourworld.com/news/article/zpwp8nkvtsb9/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/zpwp8nkvtsb9/</guid>
+<pubDate>Sat, 27 Jun 2026 19:05:29 +0000</pubDate>
+<description>Jordan is strengthening its position as a leading eco-tourism destination with an ambitious heritage restoration initiative in Ajloun that is ...</description>
+</item>
 <item>
 <title>Namibia Joins India, Spain, UAE, Jordan, Chile and More Countries Around the World in ...</title>
 <link>https://www.travelandtourworld.com/news/article/kpmsz1bj6uw8/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://petra.gov.jo/en/news/climate-resilience-project-targets-five-high-risk-areas-in-jordan</guid>
 <pubDate>Sun, 21 Jun 2026 12:46:43 +0000</pubDate>
 <description>Dhiban, June 21 (Petra) - A local advocacy plan under the Tabeaa (Nature) project was launched in the Dhiban district in Madaba on Sunday to ...</description>
-</item>
-<item>
-<title>Einot Petzael: Hidden Jordan Valley springs and ancient history | The Jerusalem Post</title>
-<link>https://www.jpost.com/travel/article-899967</link>
-<guid isPermaLink="false">https://www.jpost.com/travel/article-899967</guid>
-<pubDate>Sat, 20 Jun 2026 18:18:16 +0000</pubDate>
-<description>Deep in the Jordan Valley lies Einot Petzael, a hidden reserve of clear springs, wildlife, and ancient history from Herod's Phasaelis to biblical ...</description>
 </item>
 </channel>
 </rss>

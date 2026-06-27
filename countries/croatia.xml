@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/croatia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Croatia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 27 Jun 2026 10:08:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 22:08:01 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>US tourism surge meets Dubrovnik's overtourism challenges - MSN</title>
+<link>https://www.msn.com/en-us/travel/news/us-tourism-surge-meets-dubrovnik-s-overtourism-challenges/ss-AA26ETEJ?uxmode=ruby</link>
+<guid isPermaLink="false">https://www.msn.com/en-us/travel/news/us-tourism-surge-meets-dubrovnik-s-overtourism-challenges/ss-AA26ETEJ?uxmode=ruby</guid>
+<pubDate>Sat, 27 Jun 2026 19:30:48 +0000</pubDate>
+<description>Managing overtourism: Measures such as cruise ship caps, transport limits, and regional promotion aim to protect residents' quality of life while ...</description>
+</item>
 <item>
 <title>Dubrovnik's Overcrowding Crisis Deepens as Overtourism Strains Residents and Housing ...</title>
 <link>https://www.travelandtourworld.com/news/article/rfu0qf78z8g4/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://amp.scmp.com/lifestyle/travel-leisure/article/3358420/3-travel-alternatives-venice-barcelona-and-dubrovnik-fewer-tourists</guid>
 <pubDate>Fri, 26 Jun 2026 13:18:24 +0000</pubDate>
 <description>"Overtourism can be extremely localised and despite the headlines, there are many places that want and need more visitors. Tourism still has enormous ...</description>
-</item>
-<item>
-<title>Call for Applications: Civil Society Organizations 2026 (Croatia) - fundsforNGOs</title>
-<link>https://www2.fundsforngos.org/innovation/call-for-applications-civil-society-organizations-2026-croatia/amp/</link>
-<guid isPermaLink="false">https://www2.fundsforngos.org/innovation/call-for-applications-civil-society-organizations-2026-croatia/amp/</guid>
-<pubDate>Fri, 26 Jun 2026 10:23:58 +0000</pubDate>
-<description>Sustainable tourism; Innovative tourism practices. Projects may address both environmental and community wellbeing dimensions. One Health Approach.</description>
 </item>
 </channel>
 </rss>

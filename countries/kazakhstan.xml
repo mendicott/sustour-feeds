@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/kazakhstan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Kazakhstan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 27 Jun 2026 10:08:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 22:08:01 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Kazakhstan's Saiga Population Surpasses 4.6 Million - The Astana Times</title>
+<link>https://astanatimes.com/2026/06/kazakhstans-saiga-population-surpasses-4-6-million/</link>
+<guid isPermaLink="false">https://astanatimes.com/2026/06/kazakhstans-saiga-population-surpasses-4-6-million/</guid>
+<pubDate>Sat, 27 Jun 2026 05:02:35 +0000</pubDate>
+<description>ASTANA — Kazakhstan's saiga population has exceeded 4.6 million animals, marking a historic recovery for the critically endangered antelope and ...</description>
+</item>
 <item>
 <title>Feature: China-Central Asia cooperation brings hope to Aral Sea restoration - Xinhua</title>
 <link>https://english.news.cn/20260606/74641ea271b64894923dbdf39dea22e6/c.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://logos-pres.md/en/news/kazakhstan-and-afghanistan-will-establish-a-water-resources-management-body/</guid>
 <pubDate>Wed, 24 Jun 2026 13:14:59 +0000</pubDate>
 <description>A memorandum of cooperation on water resources management and irrigation, as well as the development of sustainable agriculture in the context of ...</description>
-</item>
-<item>
-<title>Access to Burabay's most popular landmark has been restricted - QRNews</title>
-<link>https://qrnews.kz/en/news/access-to-burabay-s-most-popular-landmark-has-been-restricted-NH0N6</link>
-<guid isPermaLink="false">https://qrnews.kz/en/news/access-to-burabay-s-most-popular-landmark-has-been-restricted-NH0N6</guid>
-<pubDate>Tue, 23 Jun 2026 14:29:22 +0000</pubDate>
-<description>QRNEWS is a reliable source of information about key events in Kazakhstan and across the globe.</description>
 </item>
 </channel>
 </rss>

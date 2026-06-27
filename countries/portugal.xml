@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/portugal.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Portugal. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 27 Jun 2026 10:08:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 22:08:01 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Portugal Stands With Spain, Italy, France and Others to Implement Aggressive Overtourism ...</title>
+<link>https://www.travelandtourworld.com/news/article/hdh0kf1cfimv/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/hdh0kf1cfimv/</guid>
+<pubDate>Sat, 27 Jun 2026 11:13:19 +0000</pubDate>
+<description>Portugal, Spain, Italy, France and others enforce overtourism crackdown with higher taxes, entry fees and visitor caps across Southern Europe.</description>
+</item>
 <item>
 <title>Italy Joins France, Greece, Ireland, Austria, Switzerland, and Portugal in Turning Heritage ...</title>
 <link>https://www.travelandtourworld.com/news/article/rhzn9afe7b2s/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.theportugalnews.com/news/2026-06-13/conservation-century/1036852</guid>
 <pubDate>Sat, 13 Jun 2026 14:51:05 +0000</pubDate>
 <description>Kruger National Park has marked its 100th anniversary, celebrating a century of wildlife conservation ... Travel · All · Tourism · Hidden Gems · Beach ...</description>
-</item>
-<item>
-<title>Portugal ranks among most tourism resistant destination</title>
-<link>https://www.theportugalnews.com/news/2026-06-11/portugal-ranks-among-most-tourism-resistant-destination/1038025</link>
-<guid isPermaLink="false">https://www.theportugalnews.com/news/2026-06-11/portugal-ranks-among-most-tourism-resistant-destination/1038025</guid>
-<pubDate>Thu, 11 Jun 2026 09:22:24 +0000</pubDate>
-<description>Researchers found evidence of anti-tourism demonstrations in more than 40 Spanish cities, including main destinations such as Barcelona and the Canary ...</description>
 </item>
 </channel>
 </rss>

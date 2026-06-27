@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 27 Jun 2026 10:08:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 22:08:01 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Community‐Based Tourism in Ba Bể Lake, Vietnam: Challenges, Local Roles, and ...</title>
+<link>https://onlinelibrary.wiley.com/doi/full/10.1002/sd.71341</link>
+<guid isPermaLink="false">https://onlinelibrary.wiley.com/doi/full/10.1002/sd.71341</guid>
+<pubDate>Sat, 27 Jun 2026 10:58:48 +0000</pubDate>
+<description>Community-based tourism (CBT) has emerged as a sustainable alternative to mass tourism, emphasizing local participation, cultural preservation, ...</description>
+</item>
 <item>
 <title>Kon Ka Kinh – the "green gem" paving the way for ecotourism in Gia Lai. - Vietnam.vn</title>
 <link>https://www.vietnam.vn/en/kon-ka-kinh-vien-ngoc-xanh-mo-loi-cho-du-lich-sinh-thai-gia-lai</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://en.vietnamplus.vn/non-nuoc-cao-bang-reaffirms-status-as-global-geopark-post347072.vnp</guid>
 <pubDate>Thu, 25 Jun 2026 00:51:17 +0000</pubDate>
 <description>Non Nuoc Cao Bang Global Geopark, UNESCO, natural heritage, cultural values, sustainable livelihood, Vietnam, Vietnamplus, Vietnam News Agency.</description>
-</item>
-<item>
-<title>Summer retreats in Vietnam's lush community tourism villages</title>
-<link>https://en.qdnd.vn/travel/people-and-land/summer-retreats-in-vietnam-s-lush-community-tourism-villages-592350</link>
-<guid isPermaLink="false">https://en.qdnd.vn/travel/people-and-land/summer-retreats-in-vietnam-s-lush-community-tourism-villages-592350</guid>
-<pubDate>Wed, 24 Jun 2026 11:50:00 +0000</pubDate>
-<description>Central Highlands province develops community-based tourism villages · Tra Que named among world's best tourism villages in 2024 · U.N. Tourism opens ...</description>
 </item>
 </channel>
 </rss>

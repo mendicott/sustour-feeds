@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 27 Jun 2026 10:08:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 22:08:01 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Portugal Stands With Spain, Italy, France and Others to Implement Aggressive Overtourism ...</title>
+<link>https://www.travelandtourworld.com/news/article/hdh0kf1cfimv/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/hdh0kf1cfimv/</guid>
+<pubDate>Sat, 27 Jun 2026 11:13:19 +0000</pubDate>
+<description>Portugal, Spain, Italy, France and others enforce overtourism crackdown with higher taxes, entry fees and visitor caps across Southern Europe.</description>
+</item>
 <item>
 <title>Barcelona, Spain Targets €30 Cruise Tax Shock as New Overtourism Strategy Sparks ...</title>
 <link>https://www.travelandtourworld.com/news/article/tuzz07756q9s/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/w9g2fawsnrd5/</guid>
 <pubDate>Mon, 22 Jun 2026 07:29:19 +0000</pubDate>
 <description>Spain approaches 100 million visitors while anti-overtourism protests expand from islands to mainland cities amid housing and sustainability ...</description>
-</item>
-<item>
-<title>Costa Rica Tourism Growth Accelerates as European Ecotourism Interest Reaches New Heights</title>
-<link>https://www.travelandtourworld.com/news/article/btmxg3ktkxoq/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/btmxg3ktkxoq/</guid>
-<pubDate>Sun, 21 Jun 2026 20:04:31 +0000</pubDate>
-<description>Costa Rica sustainable tourism rises with 15.3% Spanish arrivals growth, boosted by European media coverage and eco-focused travel demand.</description>
 </item>
 </channel>
 </rss>

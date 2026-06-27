@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/costa-rica.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Costa Rica. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 27 Jun 2026 10:08:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 22:08:01 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Costa Rica, Peru and Chile Dominate Global Nature Tourism as Ecotourism Reshapes ...</title>
+<link>https://www.travelandtourworld.com/news/article/hwigz1oagmnq/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/hwigz1oagmnq/</guid>
+<pubDate>Sat, 27 Jun 2026 11:08:33 +0000</pubDate>
+<description>Costa Rica, Belize, Peru, Chile and Ecuador drive global ecotourism growth with biodiversity travel, conservation tourism and sustainable travel ...</description>
+</item>
 <item>
 <title>Poachers Threaten One of Costa Rica's Best-Known Wildlife Refuges - The Tico Times</title>
 <link>https://ticotimes.net/2026/06/25/poachers-threaten-one-of-costa-ricas-best-known-wildlife-refuges</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">http://m.tribune242.com/news/2026/jun/19/endangered-iguana-can-be-andros-tourism-pillar/</guid>
 <pubDate>Fri, 19 Jun 2026 17:54:51 +0000</pubDate>
 <description>A CONSERVATION scientist believes the endangered Andros rock iguana could become a new pillar of the island's tourism ... Costa Rica and Indonesia's ...</description>
-</item>
-<item>
-<title>Switzerland Joins Mexico, France, Germany, Spain, Canada, US, Japan, South Africa and ...</title>
-<link>https://www.travelandtourworld.com/news/article/wdf6zepbwmxl/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/wdf6zepbwmxl/</guid>
-<pubDate>Tue, 16 Jun 2026 14:10:07 +0000</pubDate>
-<description>Supported by its world-famous beaches, biodiversity, national parks, volcanoes, adventure tourism, and eco-friendly travel experiences, Costa Rica ...</description>
 </item>
 </channel>
 </rss>
