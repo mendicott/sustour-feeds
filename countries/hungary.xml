@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/hungary.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Hungary. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 26 Jun 2026 22:08:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 10:08:18 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Czech Republic Joins Germany, Poland, Slovakia, Hungary, Austria and Netherlands in ...</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/mxj369uakf66/</guid>
 <pubDate>Sun, 14 Jun 2026 15:10:04 +0000</pubDate>
 <description>The itinerary reflects the growing popularity of slow travel, heritage tourism, experiential cruising, and multi-country European vacations. Rather ...</description>
+</item>
+<item>
+<title>South Africa in hot water: A rough guide to the country's overlooked thermal springs</title>
+<link>https://www.news24.com/life/travel/south-africa-in-hot-water-a-rough-guide-to-the-countrys-overlooked-thermal-springs-20260626-0857</link>
+<guid isPermaLink="false">https://www.news24.com/life/travel/south-africa-in-hot-water-a-rough-guide-to-the-countrys-overlooked-thermal-springs-20260626-0857</guid>
+<pubDate>Sat, 27 Jun 2026 03:58:09 +0000</pubDate>
+<description>Andrew Thompson follows the country's warm-water trail, from steaming Limpopo pools to quiet Karoo soaks. I've done a few famous soaks. In Budapest, ...</description>
 </item>
 <item>
 <title>Alarming: Hungary is warming up faster than almost everywhere in Europe</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://dailynewshungary.com/budapest-dirtiest-city-tourists-waste-crisis/</guid>
 <pubDate>Thu, 25 Jun 2026 06:08:33 +0000</pubDate>
 <description>These waste-growth trends also affect Budapest. More waste is being generated in the capital as consumption increases, while tourism can also put ...</description>
-</item>
-<item>
-<title>Budapest Approves New Framework to Regulate Airbnb-Style Rentals - Hungarian Conservative</title>
-<link>https://www.hungarianconservative.com/articles/current/jozsefvaros-airbnb-regulation-short-term-rentals/</link>
-<guid isPermaLink="false">https://www.hungarianconservative.com/articles/current/jozsefvaros-airbnb-regulation-short-term-rentals/</guid>
-<pubDate>Thu, 25 Jun 2026 12:33:05 +0000</pubDate>
-<description>The Józsefváros municipal council has approved a new regulatory framework for short-term accommodation, introducing district, neighbourhood, ...</description>
 </item>
 </channel>
 </rss>

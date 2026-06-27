@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 26 Jun 2026 22:08:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 10:08:18 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>IT.A.CÀ 2026 in Trento: "Geographies of Peace" across Valle di Ledro | inItaly</title>
+<link>https://www.initaly.it/en/articolo/itac-2026-a-trento-geografie-di-pace-tra-valle-di-ledro-e-23200</link>
+<guid isPermaLink="false">https://www.initaly.it/en/articolo/itac-2026-a-trento-geografie-di-pace-tra-valle-di-ledro-e-23200</guid>
+<pubDate>Fri, 26 Jun 2026 19:56:09 +0000</pubDate>
+<description>A.CÀ, Italy's leading festival on responsible tourism and recipient of recognition from the UN World Tourism Organization, launches its Trento edition ...</description>
+</item>
 <item>
 <title>Celebrity Weddings Have Became Overtourism's New Front Line - 2Oceansvibe</title>
 <link>https://www.2oceansvibe.com/entertainment/celebrities/celebrity-weddings-have-became-overtourisms-new-front-line/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/jva4f2to8zri/</guid>
 <pubDate>Mon, 22 Jun 2026 09:33:37 +0000</pubDate>
 <description>Venice may raise its entry fee to €50 as overtourism controls tighten, reshaping travel access, QR checks, and visitor costs across Europe.</description>
-</item>
-<item>
-<title>Food festivals 2026: moving towards sustainable, narrative tourism - inItaly</title>
-<link>https://www.initaly.it/en/articolo/sagre-2026-tra-turismo-sostenibile-e-narrazione-del-territorio-22144</link>
-<guid isPermaLink="false">https://www.initaly.it/en/articolo/sagre-2026-tra-turismo-sostenibile-e-narrazione-del-territorio-22144</guid>
-<pubDate>Sun, 21 Jun 2026 22:45:23 +0000</pubDate>
-<description>Food festivals 2026: sustainable and narrative tourism In 2026 Italian food festivals are increasingly designed as sustainable tourism experiences ...</description>
 </item>
 </channel>
 </rss>

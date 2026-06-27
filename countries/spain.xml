@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 26 Jun 2026 22:08:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 10:08:18 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Barcelona, Spain Targets €30 Cruise Tax Shock as New Overtourism Strategy Sparks ...</title>
+<link>https://www.travelandtourworld.com/news/article/tuzz07756q9s/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/tuzz07756q9s/</guid>
+<pubDate>Sat, 27 Jun 2026 03:47:01 +0000</pubDate>
+<description>Barcelona proposes €30 cruise tourist tax for short stays, sparking overtourism debate, economic fears and a shift in Mediterranean port pricing ...</description>
+</item>
 <item>
 <title>The popular European cities fighting back against overtourism - MSN</title>
 <link>https://www.msn.com/en-us/travel/tripideas/the-popular-european-cities-fighting-back-against-overtourism/ss-AA26mwKR?uxmode=ruby</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/btmxg3ktkxoq/</guid>
 <pubDate>Sun, 21 Jun 2026 20:04:31 +0000</pubDate>
 <description>Costa Rica sustainable tourism rises with 15.3% Spanish arrivals growth, boosted by European media coverage and eco-focused travel demand.</description>
-</item>
-<item>
-<title>Brazil Joins United States, Canada, United Kingdom, France, Germany, Italy, Spain ...</title>
-<link>https://www.travelandtourworld.com/news/article/s5xbe1ld140r/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/s5xbe1ld140r/</guid>
-<pubDate>Sun, 21 Jun 2026 15:25:07 +0000</pubDate>
-<description>Community Tourism Creates New Opportunities. Community-based tourism has become one of Rio's fastest-growing travel segments. Local guides, artists, ...</description>
 </item>
 </channel>
 </rss>
