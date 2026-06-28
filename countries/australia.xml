@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/australia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Australia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 27 Jun 2026 22:08:01 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Jun 2026 10:08:04 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Unwind with a wow factor at unbelievable Kimberley houseboat retreat | PS News</title>
+<link>https://psnews.com.au/unwind-with-a-wow-factor-at-unbelievable-kimberley-houseboat-retreat/178846/</link>
+<guid isPermaLink="false">https://psnews.com.au/unwind-with-a-wow-factor-at-unbelievable-kimberley-houseboat-retreat/178846/</guid>
+<pubDate>Sat, 27 Jun 2026 21:33:39 +0000</pubDate>
+<description>The Western Australian Indigenous Tourism Operators Council (WAITOC) showcases more than 100 Aboriginal cultural encounters throughout Western ...</description>
+</item>
 <item>
 <title>Ecotourism Australia inducts six into Hall of Fame</title>
 <link>https://www.traveldailymedia.com/ecotourism-australia-inducts-six-into-hall-of-fame/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://streamlinefeed.co.ke/news/growing-interest-in-first-nations-tourism-as-indigenous-operators-take-back-control</guid>
 <pubDate>Fri, 19 Jun 2026 04:52:03 +0000</pubDate>
 <description>Indigenous-led tourism is experiencing unprecedented growth in Australia, dismantling historical stereotypes and empowering First Nations ...</description>
-</item>
-<item>
-<title>Growing interest in First Nations tourism as Indigenous operators take back control - SBS</title>
-<link>https://www.sbs.com.au/nitv/article/indigenous-tourism/q5pveiwjg</link>
-<guid isPermaLink="false">https://www.sbs.com.au/nitv/article/indigenous-tourism/q5pveiwjg</guid>
-<pubDate>Fri, 19 Jun 2026 02:58:25 +0000</pubDate>
-<description>Indigenous culture stretches back more than 65 thousand years, but the First Nations run tourism sector in Australia has mostly been established ...</description>
 </item>
 </channel>
 </rss>
