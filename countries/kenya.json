@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://news.mongabay.com/short-article/kenyas-overcrowded-safaris-wildlife-for-who/",
+      "url": "https://news.mongabay.com/short-article/kenyas-overcrowded-safaris-wildlife-for-who/",
+      "title": "Kenya's overcrowded safaris: Wildlife for who? - Mongabay",
+      "content_text": "The popularity of African safaris has led to a boom in safari companies, and scenes of overcrowded wildlife sightings and new tourism developments ...",
+      "date_published": "2026-06-28T18:48:46+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/8oq1h24qw0bg/",
       "url": "https://www.travelandtourworld.com/news/article/8oq1h24qw0bg/",
       "title": "Tanzania Aligns United States, Kenya, Zanzibar, Uganda, Africa's Southern Safari Corridor ...",
@@ -68,13 +75,6 @@
       "title": "Kenya Expands Digital Tourism Access Through Parks Information Platform",
       "content_text": "Kenya's protected areas system has been globally recognised for its diversity, combining national parks, marine reserves, and community-managed ...",
       "date_published": "2026-06-20T22:25:24+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/zpskmn7z68da/",
-      "url": "https://www.travelandtourworld.com/news/article/zpskmn7z68da/",
-      "title": "Our Ocean Conference in Kenya Highlights Marine Flyways, Boosting Sustainable Tourism ...",
-      "content_text": "... eco-friendly travel development and regenerative tourism models. Future Impact on Sustainable Tourism and Blue Economy Growth. The focus on marine ...",
-      "date_published": "2026-06-19T14:58:17+00:00"
     }
   ]
 }

@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://news.mongabay.com/short-article/kenyas-overcrowded-safaris-wildlife-for-who/",
+      "url": "https://news.mongabay.com/short-article/kenyas-overcrowded-safaris-wildlife-for-who/",
+      "title": "Kenya's overcrowded safaris: Wildlife for who? - Mongabay",
+      "content_text": "The popularity of African safaris has led to a boom in safari companies, and scenes of overcrowded wildlife sightings and new tourism developments ...",
+      "date_published": "2026-06-28T18:48:46+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/4gt47qbp8f1m/",
       "url": "https://www.travelandtourworld.com/news/article/4gt47qbp8f1m/",
       "title": "Ecotourism in Tanzania: How Shinyanga's Forests Are Driving Sustainable Growth",
@@ -68,13 +75,6 @@
       "title": "Tarangire officials tasked to uphold professionalism in advancing the park's conservation ...",
       "content_text": "... tourism service delivery. Speaking during his working visit to. ... He noted that effective stewardship of Tanzania's natural heritage ...",
       "date_published": "2026-06-26T12:07:53+00:00"
-    },
-    {
-      "id": "https://powersofafrica.com/article/3982/12-million-trees-to-revive-cote-divoires-forests",
-      "url": "https://powersofafrica.com/article/3982/12-million-trees-to-revive-cote-divoires-forests",
-      "title": "12 Million Trees to Revive Côte d'Ivoire's Forests - Powers of Africa",
-      "content_text": "Côte d'Ivoire is stepping up its efforts to restore its forest heritage. The government has officially launched a large-scale conservation and ...",
-      "date_published": "2026-06-25T16:47:06+00:00"
     }
   ]
 }

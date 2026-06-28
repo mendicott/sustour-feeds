@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/kenya.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Kenya. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 28 Jun 2026 10:08:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Jun 2026 22:07:59 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Kenya's overcrowded safaris: Wildlife for who? - Mongabay</title>
+<link>https://news.mongabay.com/short-article/kenyas-overcrowded-safaris-wildlife-for-who/</link>
+<guid isPermaLink="false">https://news.mongabay.com/short-article/kenyas-overcrowded-safaris-wildlife-for-who/</guid>
+<pubDate>Sun, 28 Jun 2026 18:48:46 +0000</pubDate>
+<description>The popularity of African safaris has led to a boom in safari companies, and scenes of overcrowded wildlife sightings and new tourism developments ...</description>
+</item>
 <item>
 <title>Tanzania Aligns United States, Kenya, Zanzibar, Uganda, Africa's Southern Safari Corridor ...</title>
 <link>https://www.travelandtourworld.com/news/article/8oq1h24qw0bg/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/qoy2ljhxk6f5/</guid>
 <pubDate>Sat, 20 Jun 2026 22:25:24 +0000</pubDate>
 <description>Kenya's protected areas system has been globally recognised for its diversity, combining national parks, marine reserves, and community-managed ...</description>
-</item>
-<item>
-<title>Our Ocean Conference in Kenya Highlights Marine Flyways, Boosting Sustainable Tourism ...</title>
-<link>https://www.travelandtourworld.com/news/article/zpskmn7z68da/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/zpskmn7z68da/</guid>
-<pubDate>Fri, 19 Jun 2026 14:58:17 +0000</pubDate>
-<description>... eco-friendly travel development and regenerative tourism models. Future Impact on Sustainable Tourism and Blue Economy Growth. The focus on marine ...</description>
 </item>
 </channel>
 </rss>

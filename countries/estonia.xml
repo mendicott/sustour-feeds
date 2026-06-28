@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/estonia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Estonia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 28 Jun 2026 10:08:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Jun 2026 22:08:00 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Vietnam Joins San Marino, Andorra, Singapore, Austria, Czech Republic, Estonia, Brunei ...</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/fiavc84k2t32/</guid>
 <pubDate>Mon, 22 Jun 2026 05:16:57 +0000</pubDate>
 <description>EU advisory relief boosts Assam tourism, eco-travel, homestays, business growth and local industries across Northeast India.</description>
+</item>
+<item>
+<title>Editorial: Estonia's cool opportunity - Estonian World</title>
+<link>https://estonianworld.com/opinion/editorial-estonias-cool-opportunity/</link>
+<guid isPermaLink="false">https://estonianworld.com/opinion/editorial-estonias-cool-opportunity/</guid>
+<pubDate>Sun, 28 Jun 2026 16:49:04 +0000</pubDate>
+<description>As Western Europe swelters, Estonia should sell its cool summers, white nights and quiet nature as the sane luxury of European travel.</description>
 </item>
 <item>
 <title>Estonia to Regulate Short-Term Rentals, Reshaping Tourism Market | shortl.ee</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/cd3mfb4g8g1v/</guid>
 <pubDate>Wed, 24 Jun 2026 23:52:31 +0000</pubDate>
 <description>These destinations are supported by strong law enforcement structures, digital safety systems, and tourism-friendly policies guided by official ...</description>
-</item>
-<item>
-<title>Tourists fill Tallinn's Old Town as locals head out of city - ERR News</title>
-<link>https://news.err.ee/1610062087/tourists-fill-tallinn-s-old-town-as-locals-head-out-of-city</link>
-<guid isPermaLink="false">https://news.err.ee/1610062087/tourists-fill-tallinn-s-old-town-as-locals-head-out-of-city</guid>
-<pubDate>Wed, 24 Jun 2026 14:15:34 +0000</pubDate>
-<description>Follow ERR News on Facebook and X and never miss an update! Editor: Sergei Mihhailov, Argo Ideon. Source: rus.err.ee. tourismtallinn old townmidsummer ...</description>
 </item>
 </channel>
 </rss>

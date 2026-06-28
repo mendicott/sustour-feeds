@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ireland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ireland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 28 Jun 2026 10:08:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Jun 2026 22:08:00 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Italy Joins France, Greece, Ireland, Austria, Switzerland, and Portugal in Turning Heritage ...</title>
@@ -44,6 +44,13 @@
 <description>Spain, Germany, Italy, Ireland, Finland, Cyprus, Portugal EU island coastal strategy boosts sustainable tourism, climate resilience, connectivity, ...</description>
 </item>
 <item>
+<title>USA alongside Mexico, Dominica, Iceland, New Zealand, Slovenia &amp; Ireland Hit by Travel ...</title>
+<link>https://www.travelandtourworld.com/news/article/tqnao3agry6f/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/tqnao3agry6f/</guid>
+<pubDate>Sun, 28 Jun 2026 13:45:44 +0000</pubDate>
+<description>Mexico: Tourism Policy Tightening Under Global Travel Shock 2026. Tighter regulations will be placed in Mexico's sensitive coastal and heritage ...</description>
+</item>
+<item>
 <title>Shared Island Research: Culture</title>
 <link>https://www.gov.ie/en/department-of-the-taoiseach/publications/shared-island-research-culture/</link>
 <guid isPermaLink="false">https://www.gov.ie/en/department-of-the-taoiseach/publications/shared-island-research-culture/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.irishecho.com/2026/6/consulate-gathering-closes-the-circle</guid>
 <pubDate>Tue, 23 Jun 2026 16:53:07 +0000</pubDate>
 <description>... Cultural Resource Manager, Cherokee Nation Cultural Tourism. The ... Heritage Trust in collaboration with Ireland's Great Hunger Institute at ...</description>
-</item>
-<item>
-<title>Iceland Joins New Zealand, Switzerland, Slovenia, Ireland, Austria, Portugal, Singapore ...</title>
-<link>https://www.travelandtourworld.com/news/article/vhg0iydvlxgx/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/vhg0iydvlxgx/</guid>
-<pubDate>Sun, 21 Jun 2026 16:05:50 +0000</pubDate>
-<description>For the global travel industry, these destinations represent benchmark examples of sustainable tourism supported by safety, social cohesion, and ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/africa.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Africa. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 28 Jun 2026 10:08:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Jun 2026 22:08:00 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Kenya's overcrowded safaris: Wildlife for who? - Mongabay</title>
+<link>https://news.mongabay.com/short-article/kenyas-overcrowded-safaris-wildlife-for-who/</link>
+<guid isPermaLink="false">https://news.mongabay.com/short-article/kenyas-overcrowded-safaris-wildlife-for-who/</guid>
+<pubDate>Sun, 28 Jun 2026 18:48:46 +0000</pubDate>
+<description>The popularity of African safaris has led to a boom in safari companies, and scenes of overcrowded wildlife sightings and new tourism developments ...</description>
+</item>
 <item>
 <title>Ecotourism in Tanzania: How Shinyanga's Forests Are Driving Sustainable Growth</title>
 <link>https://www.travelandtourworld.com/news/article/4gt47qbp8f1m/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://dailynews.co.tz/tarangire-officials-tasked-to-uphold-professionalism-in-advancing-the-parks-conservation-and-boost-tourism/</guid>
 <pubDate>Fri, 26 Jun 2026 12:07:53 +0000</pubDate>
 <description>... tourism service delivery. Speaking during his working visit to. ... He noted that effective stewardship of Tanzania's natural heritage ...</description>
-</item>
-<item>
-<title>12 Million Trees to Revive Côte d'Ivoire's Forests - Powers of Africa</title>
-<link>https://powersofafrica.com/article/3982/12-million-trees-to-revive-cote-divoires-forests</link>
-<guid isPermaLink="false">https://powersofafrica.com/article/3982/12-million-trees-to-revive-cote-divoires-forests</guid>
-<pubDate>Thu, 25 Jun 2026 16:47:06 +0000</pubDate>
-<description>Côte d'Ivoire is stepping up its efforts to restore its forest heritage. The government has officially launched a large-scale conservation and ...</description>
 </item>
 </channel>
 </rss>
