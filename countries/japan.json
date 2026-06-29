@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.nationthailand.com/news/world/40068044",
+      "url": "https://www.nationthailand.com/news/world/40068044",
+      "title": "Japan to raise tourist departure tax to 3,000 yen amid overtourism - Nation Thailand",
+      "content_text": "Revenue from the increased levy will be used to fund measures against overtourism and to encourage tourists to visit destinations beyond major cities.",
+      "date_published": "2026-06-29T15:08:42+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/9iu7mb08oyft/",
       "url": "https://www.travelandtourworld.com/news/article/9iu7mb08oyft/",
       "title": "Balancing Nature and Tourism in Japan: Why Jigokudani Monkey Park Is Moving to Online Ticketing",
@@ -68,13 +75,6 @@
       "title": "Japan Joins Italy, Spain, France, Netherlands, Greece, and Peru in a ... - Travel And Tour World",
       "content_text": "Controversial overtourism crackdown sees Japan, Italy, Spain, France, Netherlands, Greece & Peru raise tourist taxes, reshaping global travel ...",
       "date_published": "2026-06-17T07:43:52+00:00"
-    },
-    {
-      "id": "https://english.kyodonews.net/articles/-/77829",
-      "url": "https://english.kyodonews.net/articles/-/77829",
-      "title": "Visitor fee for Japan highland resort Kamikochi eyed for conservation - Kyodo News",
-      "content_text": "... conservation and measures against natural disasters ... Travel/Tourism · World · Sports · Feature · Arts · Podcast · World Cup · About us.",
-      "date_published": "2026-06-13T02:06:37+00:00"
     }
   ]
 }

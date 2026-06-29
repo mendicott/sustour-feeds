@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/slovakia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Slovakia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 29 Jun 2026 10:08:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 22:08:59 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Tanzania-Slovakia dialogue on strengthening biosphere reserves cooperation - UNESCO</title>
@@ -44,6 +44,13 @@
 <description>The itinerary reflects the growing popularity of slow travel, heritage tourism, experiential cruising, and multi-country European vacations. Rather ...</description>
 </item>
 <item>
+<title>Leave It to the beavers: Nature's engineers return and rebuild Slovakia's wetlands</title>
+<link>https://spectator.sme.sk/politics-and-society/c/leave-it-to-the-beavers-nature-s-engineers-return-and-rebuild-slovakia-s-wetlands</link>
+<guid isPermaLink="false">https://spectator.sme.sk/politics-and-society/c/leave-it-to-the-beavers-nature-s-engineers-return-and-rebuild-slovakia-s-wetlands</guid>
+<pubDate>Mon, 29 Jun 2026 12:23:28 +0000</pubDate>
+<description>As drought tightens its grip on Slovakia, one unlikely ally is quietly transforming the landscape.</description>
+</item>
+<item>
 <title>The hidden wetland with colourful lakes that look straight out of Yellowstone - The Slovak Spectator</title>
 <link>https://spectator.sme.sk/travel/c/northern-slovakia-colourful-travertine-lakes-yellowstone-like-wetland</link>
 <guid isPermaLink="false">https://spectator.sme.sk/travel/c/northern-slovakia-colourful-travertine-lakes-yellowstone-like-wetland</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.irishexaminer.com/world/arid-41870511.html</guid>
 <pubDate>Sun, 28 Jun 2026 15:02:31 +0000</pubDate>
 <description>German rail operator Deutsche Bahn advised against all non-essential travel over the weekend. ... climate change too. More in this section. Gatwick ...</description>
-</item>
-<item>
-<title>Weekend: Cultural summer season beckons - The Slovak Spectator</title>
-<link>https://spectator.sme.sk/culture-and-lifestyle/c/weekend-cultural-summer-season-beckons</link>
-<guid isPermaLink="false">https://spectator.sme.sk/culture-and-lifestyle/c/weekend-cultural-summer-season-beckons</guid>
-<pubDate>Thu, 25 Jun 2026 12:56:21 +0000</pubDate>
-<description>Summer is here, and with soaring temperatures comes a packed cultural calendar prepared by towns and municipalities across Slovakia. Throughout July ...</description>
 </item>
 </channel>
 </rss>
