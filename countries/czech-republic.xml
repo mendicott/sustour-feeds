@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/czech-republic.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Czech Republic. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 28 Jun 2026 22:08:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 10:08:13 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Prague bans rental e-scooters to tackle overtourism and improve pedestrian safety</title>
+<link>https://www.traveldailynews.com/destinations/prague-bans-rental-e-scooters-to-tackle-overtourism-and-improve-pedestrian-safety/</link>
+<guid isPermaLink="false">https://www.traveldailynews.com/destinations/prague-bans-rental-e-scooters-to-tackle-overtourism-and-improve-pedestrian-safety/</guid>
+<pubDate>Mon, 29 Jun 2026 06:49:49 +0000</pubDate>
+<description>Prague rental e-scooters: Prague bans shared e-scooters to improve safety, reduce overtourism and protect historic public spaces.</description>
+</item>
 <item>
 <title>The popular European cities fighting back against overtourism - MSN</title>
 <link>https://www.msn.com/en-us/travel/tripideas/the-popular-european-cities-fighting-back-against-overtourism/ss-AA26mwKR?uxmode=ruby</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.indiatoday.in/amp/world/story/europe-heat-wave-record-temperatures-denmark-switzerland-czech-republic-ptag-2935818-2026-06-28</guid>
 <pubDate>Sat, 27 Jun 2026 19:31:22 +0000</pubDate>
 <description>The strain on hospitals and transport has sharpened warnings about climate change and public safety ... travel and kept red alerts in place in ...</description>
-</item>
-<item>
-<title>Central Europe sizzles as heat records are smashed in Switzerland, Denmark and Czech Republic</title>
-<link>https://www.bostonglobe.com/2026/06/27/world/central-europe-sizzles-heat-records-are-smashed-switzerland-denmark-czech-republic/</link>
-<guid isPermaLink="false">https://www.bostonglobe.com/2026/06/27/world/central-europe-sizzles-heat-records-are-smashed-switzerland-denmark-czech-republic/</guid>
-<pubDate>Sat, 27 Jun 2026 19:30:34 +0000</pubDate>
-<description>Train operator Deutsche Bahn and other rail companies advised against all nonessential train travel this weekend. ... climate change. The rapid ...</description>
 </item>
 </channel>
 </rss>
