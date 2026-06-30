@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://edition.cnn.com/2026/06/29/travel/video/quests-world-of-wonder-kihnu-island-estonia-women-culture-keepers-spc",
+      "url": "https://edition.cnn.com/2026/06/29/travel/video/quests-world-of-wonder-kihnu-island-estonia-women-culture-keepers-spc",
+      "title": "The island where women have kept their culture alive for centuries - CNN",
+      "content_text": "Kihnu women consider themselves the guardians of Estonia's island heritage.",
+      "date_published": "2026-06-29T19:34:28+00:00"
+    },
+    {
       "id": "https://news.err.ee/1610065687/adventure-hotel-developer-estonian-entrepreneurs-do-not-take-risks-and-choose-lemonade-over-champagne",
       "url": "https://news.err.ee/1610065687/adventure-hotel-developer-estonian-entrepreneurs-do-not-take-risks-and-choose-lemonade-over-champagne",
       "title": "Adventure hotel developer: Estonian entrepreneurs do not take risks and choose lemonade ...",
@@ -26,6 +33,13 @@
       "title": "Austria Joins Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland ...",
       "content_text": "EU advisory relief boosts Assam tourism, eco-travel, homestays, business growth and local industries across Northeast India.",
       "date_published": "2026-06-22T05:16:57+00:00"
+    },
+    {
+      "id": "https://www.cnn.com/2026/06/29/travel/video/quests-world-of-wonder-bog-wild-baltic-estonia-spc",
+      "url": "https://www.cnn.com/2026/06/29/travel/video/quests-world-of-wonder-bog-wild-baltic-estonia-spc",
+      "title": "Into the bog: Stepping into the wild heart of the Baltics - CNN",
+      "content_text": "A walk in the foggy, soggy wetlands of Estonia is an experience that CNN's Richard Quest won't soon forget.",
+      "date_published": "2026-06-30T07:07:08+00:00"
     },
     {
       "id": "https://estonianworld.com/opinion/editorial-estonias-cool-opportunity/",
@@ -61,20 +75,6 @@
       "title": "airBaltic Boosts Travel Accessibility Between Estonia and Austria with Extended Tallinn ...",
       "content_text": "The route has been positioned as an important connector between Northern and Central Europe, supporting not only tourism flows but also corporate ...",
       "date_published": "2026-06-29T17:03:17+00:00"
-    },
-    {
-      "id": "https://www.cnn.com/2026/06/29/travel/video/quests-world-of-wonder-tallinn-old-pharmacy-medieval-town-square-spc",
-      "url": "https://www.cnn.com/2026/06/29/travel/video/quests-world-of-wonder-tallinn-old-pharmacy-medieval-town-square-spc",
-      "title": "Fairytale charm with a twist in Tallinn - CNN",
-      "content_text": "Tucked in the corner of this Estonian town square, is a medieval establishment that's still serving customers 600 years later.",
-      "date_published": "2026-06-29T20:09:22+00:00"
-    },
-    {
-      "id": "https://www.cnn.com/2026/06/29/travel/video/quests-world-of-wonder-tallinn-estonia-medieval-modern-vibe-spc",
-      "url": "https://www.cnn.com/2026/06/29/travel/video/quests-world-of-wonder-tallinn-estonia-medieval-modern-vibe-spc",
-      "title": "Historic meets hip in Estonia's capital city | CNN",
-      "content_text": "Tallinn's maze of cobblestone streets weaves a medieval past with a modern, energetic vibe.",
-      "date_published": "2026-06-29T18:09:43+00:00"
     }
   ]
 }

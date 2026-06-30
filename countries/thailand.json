@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.un.org/en/desa/seeking-integrated-solutions-at-the-7th-global-conference-on-climate-and-sdg-synergies",
+      "url": "https://www.un.org/en/desa/seeking-integrated-solutions-at-the-7th-global-conference-on-climate-and-sdg-synergies",
+      "title": "Seeking integrated solutions at the 7th Global Conference on Climate and SDG Synergies",
+      "content_text": "... Bangkok, Thailand, will focus on practical ways to address multiple ... climate, environment and sustainable development challenges. It will ...",
+      "date_published": "2026-06-29T18:30:36+00:00"
+    },
+    {
       "id": "https://www.nationthailand.com/news/world/40068044",
       "url": "https://www.nationthailand.com/news/world/40068044",
       "title": "Japan to raise tourist departure tax to 3,000 yen amid overtourism - Nation Thailand",
@@ -68,13 +75,6 @@
       "title": "Thailand and Fukui Prefecture expand cooperation on fossils and geoheritage - Pattaya Mail",
       "content_text": "... geological and fossil-based tourism between Thailand and Japan. During the discussion, both sides agreed to promote cooperation in conserving and ...",
       "date_published": "2026-06-22T18:11:57+00:00"
-    },
-    {
-      "id": "https://www.desmoinesregister.com/press-release/story/87242/global-tensions-ripple-through-thailands-tourism-economy-and-communities/",
-      "url": "https://www.desmoinesregister.com/press-release/story/87242/global-tensions-ripple-through-thailands-tourism-economy-and-communities/",
-      "title": "Global Tensions Ripple Through Thailand's Tourism Economy and Communities",
-      "content_text": "Continued support for responsible travel helps sustain local livelihoods, conservation initiatives, animal welfare programs, and the communities that ...",
-      "date_published": "2026-06-22T09:48:00+00:00"
     }
   ]
 }

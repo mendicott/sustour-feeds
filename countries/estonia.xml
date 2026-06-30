@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/estonia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Estonia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 29 Jun 2026 22:08:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Jun 2026 10:09:05 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>The island where women have kept their culture alive for centuries - CNN</title>
+<link>https://edition.cnn.com/2026/06/29/travel/video/quests-world-of-wonder-kihnu-island-estonia-women-culture-keepers-spc</link>
+<guid isPermaLink="false">https://edition.cnn.com/2026/06/29/travel/video/quests-world-of-wonder-kihnu-island-estonia-women-culture-keepers-spc</guid>
+<pubDate>Mon, 29 Jun 2026 19:34:28 +0000</pubDate>
+<description>Kihnu women consider themselves the guardians of Estonia's island heritage.</description>
+</item>
 <item>
 <title>Adventure hotel developer: Estonian entrepreneurs do not take risks and choose lemonade ...</title>
 <link>https://news.err.ee/1610065687/adventure-hotel-developer-estonian-entrepreneurs-do-not-take-risks-and-choose-lemonade-over-champagne</link>
@@ -28,6 +35,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/fiavc84k2t32/</guid>
 <pubDate>Mon, 22 Jun 2026 05:16:57 +0000</pubDate>
 <description>EU advisory relief boosts Assam tourism, eco-travel, homestays, business growth and local industries across Northeast India.</description>
+</item>
+<item>
+<title>Into the bog: Stepping into the wild heart of the Baltics - CNN</title>
+<link>https://www.cnn.com/2026/06/29/travel/video/quests-world-of-wonder-bog-wild-baltic-estonia-spc</link>
+<guid isPermaLink="false">https://www.cnn.com/2026/06/29/travel/video/quests-world-of-wonder-bog-wild-baltic-estonia-spc</guid>
+<pubDate>Tue, 30 Jun 2026 07:07:08 +0000</pubDate>
+<description>A walk in the foggy, soggy wetlands of Estonia is an experience that CNN's Richard Quest won't soon forget.</description>
 </item>
 <item>
 <title>Editorial: Estonia's cool opportunity - Estonian World</title>
@@ -63,20 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/xmvno3t4nsdx/</guid>
 <pubDate>Mon, 29 Jun 2026 17:03:17 +0000</pubDate>
 <description>The route has been positioned as an important connector between Northern and Central Europe, supporting not only tourism flows but also corporate ...</description>
-</item>
-<item>
-<title>Fairytale charm with a twist in Tallinn - CNN</title>
-<link>https://www.cnn.com/2026/06/29/travel/video/quests-world-of-wonder-tallinn-old-pharmacy-medieval-town-square-spc</link>
-<guid isPermaLink="false">https://www.cnn.com/2026/06/29/travel/video/quests-world-of-wonder-tallinn-old-pharmacy-medieval-town-square-spc</guid>
-<pubDate>Mon, 29 Jun 2026 20:09:22 +0000</pubDate>
-<description>Tucked in the corner of this Estonian town square, is a medieval establishment that's still serving customers 600 years later.</description>
-</item>
-<item>
-<title>Historic meets hip in Estonia's capital city | CNN</title>
-<link>https://www.cnn.com/2026/06/29/travel/video/quests-world-of-wonder-tallinn-estonia-medieval-modern-vibe-spc</link>
-<guid isPermaLink="false">https://www.cnn.com/2026/06/29/travel/video/quests-world-of-wonder-tallinn-estonia-medieval-modern-vibe-spc</guid>
-<pubDate>Mon, 29 Jun 2026 18:09:43 +0000</pubDate>
-<description>Tallinn's maze of cobblestone streets weaves a medieval past with a modern, energetic vibe.</description>
 </item>
 </channel>
 </rss>

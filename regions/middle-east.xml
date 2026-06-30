@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/middle-east.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Middle East. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 29 Jun 2026 22:08:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Jun 2026 10:09:05 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>ICOMOS, Al-Balqa University partner to protect cultural heritage through AI</title>
+<link>https://petra.gov.jo/en/news/icomos-al-balqa-university-partner-to-protect-cultural-heritage-through-ai</link>
+<guid isPermaLink="false">https://petra.gov.jo/en/news/icomos-al-balqa-university-partner-to-protect-cultural-heritage-through-ai</guid>
+<pubDate>Tue, 30 Jun 2026 00:36:53 +0000</pubDate>
+<description>As-Salt, June 29 (Petra) - The International Council on Monuments and Sites (ICOMOS) and Al-Balqa Applied University (BAU) signed a memorandum of ...</description>
+</item>
 <item>
 <title>Egypt to phase out camel and horse rides at the Pyramids of Giza in major ethical tourism shift - IOL</title>
 <link>https://iol.co.za/travel/world/2026-06-29-egypt-to-phase-out-camel-and-horse-rides-at-the-pyramids-of-giza-in-major-ethical-tourism-shift/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.basnews.com/en/babat/914932</guid>
 <pubDate>Sat, 27 Jun 2026 16:31:05 +0000</pubDate>
 <description>ERBIL — Iraq has completed the nomination of five villages for the United Nations Tourism initiative "Best Tourism Villages 2026," with three of ...</description>
-</item>
-<item>
-<title>Iraq Nominates Five Villages for UN's Best Tourist Villages 2026 Initiative</title>
-<link>https://www.pukmedia.com/EN/Details/81921</link>
-<guid isPermaLink="false">https://www.pukmedia.com/EN/Details/81921</guid>
-<pubDate>Sat, 27 Jun 2026 12:37:06 +0000</pubDate>
-<description>The Iraqi General Authority for Tourism has announced the completion of nomination dossiers for five villages to represent the country in the ...</description>
 </item>
 </channel>
 </rss>

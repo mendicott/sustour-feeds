@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/jordan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Jordan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 29 Jun 2026 22:08:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Jun 2026 10:09:05 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>ICOMOS, Al-Balqa University partner to protect cultural heritage through AI</title>
+<link>https://petra.gov.jo/en/news/icomos-al-balqa-university-partner-to-protect-cultural-heritage-through-ai</link>
+<guid isPermaLink="false">https://petra.gov.jo/en/news/icomos-al-balqa-university-partner-to-protect-cultural-heritage-through-ai</guid>
+<pubDate>Tue, 30 Jun 2026 00:36:53 +0000</pubDate>
+<description>As-Salt, June 29 (Petra) - The International Council on Monuments and Sites (ICOMOS) and Al-Balqa Applied University (BAU) signed a memorandum of ...</description>
+</item>
 <item>
 <title>Jordan's Ajloun Revives Historic Springs to Boost Eco-Tourism, Heritage Travel, Local ...</title>
 <link>https://www.travelandtourworld.com/news/article/zpwp8nkvtsb9/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://petra.gov.jo/en/news/climate-conference-concludes-with-green-economy-and-electric-transit-pacts</guid>
 <pubDate>Sat, 27 Jun 2026 17:34:18 +0000</pubDate>
 <description>Amman, June 27 (Petra) -- Jordan's second National Conference on Climate Change and Green Economy concluded in Amman on Saturday, ...</description>
-</item>
-<item>
-<title>Jordan is cataloguing and promoting its 34 Christian sites - AsiaNews</title>
-<link>https://www.asianews.it/news-en/Jordan-is-cataloguing-and-promoting-its-34-Christian-sites-65737.html</link>
-<guid isPermaLink="false">https://www.asianews.it/news-en/Jordan-is-cataloguing-and-promoting-its-34-Christian-sites-65737.html</guid>
-<pubDate>Sat, 27 Jun 2026 11:35:46 +0000</pubDate>
-<description>The initiative promoted by the Hashemite Kingdom consolidates investment in Christian religious tourism in the country and looks ahead to 2030, ...</description>
 </item>
 </channel>
 </rss>

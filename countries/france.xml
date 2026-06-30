@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/france.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for France. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 29 Jun 2026 22:08:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Jun 2026 10:09:05 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>French Polynesia to protect more pacific ocean - Daily Tribune</title>
+<link>https://tribune.net.ph/2026/06/30/french-polynesia-to-protect-more-pacific-ocean</link>
+<guid isPermaLink="false">https://tribune.net.ph/2026/06/30/french-polynesia-to-protect-more-pacific-ocean</guid>
+<pubDate>Tue, 30 Jun 2026 06:34:21 +0000</pubDate>
+<description>The existing 1.1 million square kilometers of fully protected waters are called "no-take zones, where only sustainable tourism activities and certain ...</description>
+</item>
 <item>
 <title>Portugal Stands With Spain, Italy, France and Others to Implement Aggressive Overtourism ...</title>
 <link>https://www.travelandtourworld.com/news/article/hdh0kf1cfimv/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/s5xbe1ld140r/</guid>
 <pubDate>Sun, 21 Jun 2026 15:25:07 +0000</pubDate>
 <description>Community Tourism Creates New Opportunities. Community-based tourism has become one of Rio's fastest-growing travel segments. Local guides, artists, ...</description>
-</item>
-<item>
-<title>Greece and France Sign New Landmark Tourism Cooperation Deal to Boost Sustainability ...</title>
-<link>https://www.travelandtourworld.com/news/article/nb17aasbc2v5/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/nb17aasbc2v5/</guid>
-<pubDate>Fri, 19 Jun 2026 14:49:21 +0000</pubDate>
-<description>At the core of the agreement is a shared commitment to developing a sustainable tourism model that balances economic growth with environmental ...</description>
 </item>
 </channel>
 </rss>
