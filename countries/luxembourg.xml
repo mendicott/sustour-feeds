@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/luxembourg.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Luxembourg. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 30 Jun 2026 10:09:05 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Jun 2026 22:09:41 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Climate change: High water temperatures threaten Luxembourg's aquatic life - RTL Today</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://today.rtl.lu/news/luxembourg/high-water-temperatures-threaten-luxembourgs-aquatic-life-790526356</guid>
 <pubDate>Tue, 30 Jun 2026 06:31:38 +0000</pubDate>
 <description>Luxembourg and EU officials have warned that rising water temperatures are putting fish and aquatic ecosystems under growing pressure, ...</description>
+</item>
+<item>
+<title>Count Guillaume de Dampierre and his "Paris to North Cape" adventure | Luxembourg Times</title>
+<link>https://www.luxtimes.lu/luxembourg/humanitarian-effort-makes-adventuring-less-self-centred-says-motorcycle-aristocrat/157994083.html</link>
+<guid isPermaLink="false">https://www.luxtimes.lu/luxembourg/humanitarian-effort-makes-adventuring-less-self-centred-says-motorcycle-aristocrat/157994083.html</guid>
+<pubDate>Tue, 30 Jun 2026 19:15:28 +0000</pubDate>
+<description>A motorbike is such a wonderful means of transport: not much in the way of comfort, just the bare essentials – but you can travel incredibly far. You ...</description>
 </item>
 <item>
 <title>I gave up flying 10 years ago - seven lessons I've learned travelling Europe by rail</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/r7t5ha5exubq/</guid>
 <pubDate>Tue, 23 Jun 2026 20:30:49 +0000</pubDate>
 <description>CLIMATE CHANGE AMPLIFIES EXTREME HEAT FREQUENCY. Scientific ... TRANSPORT CHAOS IMPACTS TOURISM AND SUMMER TRAVEL DEMAND. The heatwave ...</description>
-</item>
-<item>
-<title>France Joins Spain, Italy, Switzerland, Luxembourg, and the UK in Issuing Red Heat Alerts ...</title>
-<link>https://www.travelandtourworld.com/news/article/jrgd1lg6dvfj/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/jrgd1lg6dvfj/</guid>
-<pubDate>Tue, 23 Jun 2026 12:39:22 +0000</pubDate>
-<description>Europe heatwave triggers red alerts across France, Spain, Italy, Switzerland, Luxembourg, and the UK, affecting tourism and travel plans.</description>
 </item>
 </channel>
 </rss>

@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.eco-business.com/news/the-philippines-needs-15000-forest-rangers-to-meet-its-conservation-goals-it-only-has-2200/",
+      "url": "https://www.eco-business.com/news/the-philippines-needs-15000-forest-rangers-to-meet-its-conservation-goals-it-only-has-2200/",
+      "title": "The Philippines needs 15000 forest rangers to meet its conservation goals; It only has 2200",
+      "content_text": "Government data released to Eco-Business by the Philippines' Department of Environment and Natural Resources (DENR) shows it currently employs just ...",
+      "date_published": "2026-06-30T14:20:02+00:00"
+    },
+    {
       "id": "https://www.pna.gov.ph/articles/1278229",
       "url": "https://www.pna.gov.ph/articles/1278229",
       "title": "Kalanggaman, Canigao islands to 'shut down' in July for rehab | Philippine News Agency",
@@ -63,18 +70,11 @@
       "date_published": "2026-06-21T05:09:15+00:00"
     },
     {
-      "id": "https://www.manilatimes.net/2026/06/29/business/top-business/da-to-restore-banaue-rice-terraces/2374363",
-      "url": "https://www.manilatimes.net/2026/06/29/business/top-business/da-to-restore-banaue-rice-terraces/2374363",
-      "title": "DA to restore Banaue Rice Terraces - The Manila Times",
-      "content_text": "Agriculture Secretary Francisco Tiu Laurel Jr. visited Banaue over the weekend to assess the terraces' condition and consult local farmers and ...",
-      "date_published": "2026-06-28T16:26:33+00:00"
-    },
-    {
-      "id": "https://www.pna.gov.ph/articles/1278202",
-      "url": "https://www.pna.gov.ph/articles/1278202",
-      "title": "Misamis Occidental seeks place among top tourist destinations | Philippine News Agency",
-      "content_text": "... adventure circuits, and other niche tourism segments that could ... eco-tourism, sports, and leisure destination overlooking Iligan Bay.",
-      "date_published": "2026-06-28T15:19:12+00:00"
+      "id": "https://www.manilatimes.net/2026/07/01/tmt-newswire/marketour-ignites-responsible-storytelling-in-philippine-tourism/2375548/amp",
+      "url": "https://www.manilatimes.net/2026/07/01/tmt-newswire/marketour-ignites-responsible-storytelling-in-philippine-tourism/2375548/amp",
+      "title": "MarkeTour ignites responsible storytelling in Philippine tourism - The Manila Times",
+      "content_text": "by The Manila Times. Jul 01, 2026 12:03 am. THE future of travel is rooted in meaningful connections, authentic experiences, and responsible ...",
+      "date_published": "2026-06-30T16:36:47+00:00"
     }
   ]
 }
