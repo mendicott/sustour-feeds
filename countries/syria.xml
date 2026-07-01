@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/syria.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Syria. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 01 Jul 2026 10:09:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 22:09:28 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>WATER-RES: Major climate adaptation initiative for 1.5 million people in Syria - ReliefWeb</title>
+<link>https://reliefweb.int/report/syrian-arab-republic/water-res-major-climate-adaptation-initiative-15-million-people-syria</link>
+<guid isPermaLink="false">https://reliefweb.int/report/syrian-arab-republic/water-res-major-climate-adaptation-initiative-15-million-people-syria</guid>
+<pubDate>Wed, 01 Jul 2026 14:15:05 +0000</pubDate>
+<description>The board of the Green Climate Fund (GCF) has made a historic decision today, approving WATER-RES, its first project in Syria.</description>
+</item>
 <item>
 <title>Syria showcases tourism sector at travel and Umrah forum in Türkiye</title>
 <link>https://sana.sy/en/syria/2325974/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://hawarnews.com/en/restoration-of-jewish-cemetery-in-damascus</guid>
 <pubDate>Sat, 27 Jun 2026 17:22:53 +0000</pubDate>
 <description>The agency noted that during the 54-year Ba'athist rule, Jews in Syria were able to practice their religious rituals, but they faced travel ...</description>
-</item>
-<item>
-<title>Another Jewish Group Visits Syria, Seeks Preservation of Ancestral Sites as Some Struggle ...</title>
-<link>https://themedialine.org/top-stories/another-jewish-group-visits-syria-seeks-preservation-of-ancestral-sites-as-some-struggle-to-recover-property/</link>
-<guid isPermaLink="false">https://themedialine.org/top-stories/another-jewish-group-visits-syria-seeks-preservation-of-ancestral-sites-as-some-struggle-to-recover-property/</guid>
-<pubDate>Wed, 24 Jun 2026 21:13:50 +0000</pubDate>
-<description>"The meetings were positive, productive, and focused on Syria's rich religious and cultural diversity," Abo said. "The delegation received a warm ...</description>
 </item>
 </channel>
 </rss>

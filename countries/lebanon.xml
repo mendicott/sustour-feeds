@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/lebanon.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Lebanon. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 01 Jul 2026 10:09:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 22:09:28 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>'They Knew Exactly Who Mona Khalil Was': Israel Kills Lebanese Turtle Conservationist</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://www.aljazeera.com/news/2026/6/21/mourners-gather-to-remember-lebanese-conservationist-killed-by-israel</guid>
 <pubDate>Sun, 21 Jun 2026 20:26:01 +0000</pubDate>
 <description>The Orange House Project, which Khalil helped build into a small conservation hub and ecotourism site in al-Mansouri, became a refuge for ...</description>
+</item>
+<item>
+<title>Lebanon Beach Pollution Hurts Tourism: Minister Warns - Daily Beirut</title>
+<link>https://dailybeirut.com/en/lebanon-news/lebanese-tourism-minister-highlights-beach-pollutions-impact-on-visitor-confiden/</link>
+<guid isPermaLink="false">https://dailybeirut.com/en/lebanon-news/lebanese-tourism-minister-highlights-beach-pollutions-impact-on-visitor-confiden/</guid>
+<pubDate>Wed, 01 Jul 2026 17:13:20 +0000</pubDate>
+<description>Tourism Minister Laura Lahoud says sea pollution directly undermines visitor trust, calling for sustainable solutions at a conference with other ...</description>
 </item>
 <item>
 <title>'Guardian of the turtles' killed in Israeli air-strike - Divernet</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/sfa66zwyudfq/</guid>
 <pubDate>Tue, 16 Jun 2026 23:07:02 +0000</pubDate>
 <description>This strategy transforms food into a powerful tourism asset while encouraging meaningful cultural engagement. Ultimately, EAT250 is positioning ...</description>
-</item>
-<item>
-<title>Israel Joins Palestine and Lebanon to Dominate Middle East Travel Risk Alerts as Border ...</title>
-<link>https://www.travelandtourworld.com/news/article/4ap2r9xhdl1v/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/4ap2r9xhdl1v/</guid>
-<pubDate>Tue, 16 Jun 2026 18:12:04 +0000</pubDate>
-<description>Gaza has no normal tourism access, no commercial flights, fragile crossing arrangements and deep humanitarian constraints. The West Bank also faces ...</description>
 </item>
 </channel>
 </rss>

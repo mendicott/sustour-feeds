@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/palau.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Palau. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 01 Jul 2026 10:09:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 22:09:28 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Palau president defends Taiwan ties | Taiwan News | Jun. 3, 2026 12:02</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://www.taiwannews.com.tw/en/news/6375497</guid>
 <pubDate>Wed, 03 Jun 2026 10:09:40 +0000</pubDate>
 <description>According to Taiwan's Presidential Office, Hsiao's visit has three goals: to deepen bilateral relations, assist Palau in promoting sustainable tourism ...</description>
+</item>
+<item>
+<title>Guardians of Life - Orion Magazine</title>
+<link>https://orionmagazine.org/article/guardians-of-life/</link>
+<guid isPermaLink="false">https://orionmagazine.org/article/guardians-of-life/</guid>
+<pubDate>Wed, 01 Jul 2026 14:21:05 +0000</pubDate>
+<description>... climate change. From Palau's coral reefs to Mongolia's sacred peaks, and Greenland's ice fields to Montana's Blackfeet Reservation, witness ...</description>
 </item>
 <item>
 <title>Green Landmarks and Infrastructure - Travel And Tour World</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.hawaiipublicradio.org/text/pacific-news-minute/2026-06-03/pacific-news-minute-palau-president-to-co-chair-ocean-planning-conference-in-tokyo</guid>
 <pubDate>Wed, 03 Jun 2026 21:36:54 +0000</pubDate>
 <description>Organizers said those countries remain among the most vulnerable to sea level rise, ocean pollution and environmental decay caused by climate change.</description>
-</item>
-<item>
-<title>From Broken Bottles to Works of Art - Diveinside News - Taucher.net</title>
-<link>https://taucher.net/magazine/9865/show/</link>
-<guid isPermaLink="false">https://taucher.net/magazine/9865/show/</guid>
-<pubDate>Sun, 28 Jun 2026 03:05:28 +0000</pubDate>
-<description>The pieces came from Belau Eco Glass, a studio in Koror, Palau, and Tova had brought them to one of the world's biggest dive and water sports trade ...</description>
 </item>
 </channel>
 </rss>

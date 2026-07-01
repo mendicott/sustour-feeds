@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/argentina.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Argentina. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 01 Jul 2026 10:09:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 22:09:28 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>El Impenetrable National Park Enhances Sustainable Adventure Tourism in Northern Argentina</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://esgnews.com/verra-certifies-first-government-led-jurisdictional-forest-carbon-program-in-argentina/</guid>
 <pubDate>Thu, 04 Jun 2026 00:54:10 +0000</pubDate>
 <description>Verra has approved its first government-led provincial forest carbon program under the VCS Jurisdictional and Nested REDD+ Framework.</description>
+</item>
+<item>
+<title>Costa Rica Supercharges United States, Canada, Mexico and Colombia to Lead the ...</title>
+<link>https://www.travelandtourworld.com/news/article/9x5tmqte5b67/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/9x5tmqte5b67/</guid>
+<pubDate>Wed, 01 Jul 2026 11:30:16 +0000</pubDate>
+<description>Costa Rica supercharges the United States, Canada, Mexico, Argentina, Brazil and Colombia to lead the Americas' explosive agritourism revolution.</description>
 </item>
 <item>
 <title>Argentina to Return Two Rare Maned Wolves to the Wild - U.S. News &amp; World Report</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/4ob1gjh8560j/</guid>
 <pubDate>Fri, 05 Jun 2026 23:57:32 +0000</pubDate>
 <description>Global ecotourism is expanding rapidly, with Peru and major regions driving growth as travellers choose sustainable, nature‑based travel ...</description>
-</item>
-<item>
-<title>Canada Aligns with Greenland, Iceland, Finland, Argentina, Chile, Falkland Islands, South ...</title>
-<link>https://www.travelandtourworld.com/news/article/jxn68ssryvs4/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/jxn68ssryvs4/</guid>
-<pubDate>Mon, 29 Jun 2026 15:29:17 +0000</pubDate>
-<description>By combining adventure travel with education, sustainability, and cultural engagement, Quark Expeditions aims to redefine premium polar tourism while ...</description>
 </item>
 </channel>
 </rss>

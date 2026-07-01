@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/cook-islands.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Cook Islands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 01 Jul 2026 10:09:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 22:09:28 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Pacific leaders gather to strengthen Indigenous-led conservation - Cook Islands News</title>
+<link>https://www.cookislandsnews.com/internal/national/regional/pacific-leaders-gather-to-strengthen-indigenous-led-conservation/</link>
+<guid isPermaLink="false">https://www.cookislandsnews.com/internal/national/regional/pacific-leaders-gather-to-strengthen-indigenous-led-conservation/</guid>
+<pubDate>Tue, 30 Jun 2026 18:30:06 +0000</pubDate>
+<description>Manarangi Tutai Ariki of Aitutaki (left), general secretary for Te Ui Ariki Ngateitei o te Kuki Airani (UANKA) - Puna Rakanui, and Te Maeu O Te ...</description>
+</item>
 <item>
 <title>Ancestral connections drive Avana Nui Maruarua restoration effort - Cook Islands News</title>
 <link>https://www.cookislandsnews.com/internal/national/local/tourism/ancestral-connections-drive-avana-nui-maruarua-restoration-effort/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">http://www.cookislandsnews.com/internal/national/local/environment/outer-islands/makatea-studies-help-predict-impact-of-climate-change/</guid>
 <pubDate>Mon, 29 Jun 2026 17:22:25 +0000</pubDate>
 <description>An international team of scientists studying ancient sea levels returned home after a successful field season in the Cook Islands, ...</description>
-</item>
-<item>
-<title>Avana Nui honours voyaging heritage - Cook Islands News</title>
-<link>https://www.cookislandsnews.com/internal/national/features/culture/art/tourism/avana-nui-honours-voyaging-heritage/</link>
-<guid isPermaLink="false">https://www.cookislandsnews.com/internal/national/features/culture/art/tourism/avana-nui-honours-voyaging-heritage/</guid>
-<pubDate>Sat, 27 Jun 2026 18:32:25 +0000</pubDate>
-<description>Saturday 27 June 2026 | Written by Melina Etches | Published in Art, Culture, Features, National, Tourism. Share.</description>
 </item>
 </channel>
 </rss>
