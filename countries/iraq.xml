@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/iraq.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Iraq. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 30 Jun 2026 22:09:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 10:09:55 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Life in the Marshes Photography Competition Gallery | United Nations Development Programme</title>
+<link>https://www.undp.org/iraq/life-marshes-photography-competition-gallery</link>
+<guid isPermaLink="false">https://www.undp.org/iraq/life-marshes-photography-competition-gallery</guid>
+<pubDate>Tue, 30 Jun 2026 19:40:02 +0000</pubDate>
+<description>UNDP Iraq celebrated the Life in the Marshes photo exhibition and competition, part of the project to enhance human resilience and biodiversity in ...</description>
+</item>
 <item>
 <title>Shaping the Future of Eco-Tourism: How Sork Park is Transforming Iraq's Kurdistan Region ...</title>
 <link>https://www.travelandtourworld.com/news/article/e5bzkw1xctzi/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/8r4jl1mn255t/</guid>
 <pubDate>Fri, 26 Jun 2026 16:07:12 +0000</pubDate>
 <description>Tourism is also expected to expand as cultural and heritage cities like Samarkand and Bukhara become part of broader Eurasian travel circuits.</description>
-</item>
-<item>
-<title>Baghdad neighborhood revives Ashura ritual | Latest breaking news in Iraq and the world</title>
-<link>https://shafaq.com/en/society/Baghdad-neighborhood-revives-Ashura-ritual</link>
-<guid isPermaLink="false">https://shafaq.com/en/society/Baghdad-neighborhood-revives-Ashura-ritual</guid>
-<pubDate>Thu, 25 Jun 2026 22:59:23 +0000</pubDate>
-<description>Tourism and Antiquities Ministry spokesperson Hatem Al-Azzawi told Shafaq News that Ashura draws about five to six million visitors in Iraq ...</description>
 </item>
 </channel>
 </rss>

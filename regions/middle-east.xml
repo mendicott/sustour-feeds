@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/middle-east.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Middle East. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 30 Jun 2026 22:09:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 10:09:55 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Life in the Marshes Photography Competition Gallery | United Nations Development Programme</title>
+<link>https://www.undp.org/iraq/life-marshes-photography-competition-gallery</link>
+<guid isPermaLink="false">https://www.undp.org/iraq/life-marshes-photography-competition-gallery</guid>
+<pubDate>Tue, 30 Jun 2026 19:40:02 +0000</pubDate>
+<description>UNDP Iraq celebrated the Life in the Marshes photo exhibition and competition, part of the project to enhance human resilience and biodiversity in ...</description>
+</item>
 <item>
 <title>South Africa Stands With Morocco, Egypt, Kenya And Emerging African Tourism ...</title>
 <link>https://www.travelandtourworld.com/news/article/6mtl2jwwr8xo/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/cb83ethqeu7q/</guid>
 <pubDate>Sat, 27 Jun 2026 21:38:04 +0000</pubDate>
 <description>Both Egypt and Italy have opportunities to promote: Responsible tourism practices; Heritage conservation; Community-based tourism; Environmental ...</description>
-</item>
-<item>
-<title>Jordan's Ajloun Revives Historic Springs to Boost Eco-Tourism, Heritage Travel, Local ...</title>
-<link>https://www.travelandtourworld.com/news/article/zpwp8nkvtsb9/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/zpwp8nkvtsb9/</guid>
-<pubDate>Sat, 27 Jun 2026 19:05:29 +0000</pubDate>
-<description>Jordan is strengthening its position as a leading eco-tourism destination with an ambitious heritage restoration initiative in Ajloun that is ...</description>
 </item>
 </channel>
 </rss>

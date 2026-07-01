@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/france.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for France. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 30 Jun 2026 22:09:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 10:09:55 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Spain Beats France, Netherlands, Greece, Italy, Japan, and India in Undergoing Alarming ...</title>
+<link>https://www.travelandtourworld.com/news/article/vgb6rf9sra3x/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/vgb6rf9sra3x/</guid>
+<pubDate>Wed, 01 Jul 2026 09:23:13 +0000</pubDate>
+<description>Spain tops the 2026 overtourism crisis, beating other countries. Here is what travelers must pay attention to before booking their next vacation.</description>
+</item>
 <item>
 <title>French Polynesia to protect more pacific ocean - Daily Tribune</title>
 <link>https://tribune.net.ph/2026/06/30/french-polynesia-to-protect-more-pacific-ocean</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/k810j8tv0qqd/</guid>
 <pubDate>Mon, 22 Jun 2026 04:23:03 +0000</pubDate>
 <description>France is reshaping how tourism operates through climate-conscious planning, eco certified destinations and low carbon mobility systems. France has ...</description>
-</item>
-<item>
-<title>Brazil Joins United States, Canada, United Kingdom, France, Germany, Italy, Spain ...</title>
-<link>https://www.travelandtourworld.com/news/article/s5xbe1ld140r/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/s5xbe1ld140r/</guid>
-<pubDate>Sun, 21 Jun 2026 15:25:07 +0000</pubDate>
-<description>Community Tourism Creates New Opportunities. Community-based tourism has become one of Rio's fastest-growing travel segments. Local guides, artists, ...</description>
 </item>
 </channel>
 </rss>
