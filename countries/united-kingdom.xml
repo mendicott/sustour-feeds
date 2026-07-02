@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/united-kingdom.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for United Kingdom. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 01 Jul 2026 22:09:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Jul 2026 10:09:25 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Ten Remote Islands Redefining Global Tourism: Denmark, Australia, UK Lead Sustainable ...</title>
+<link>https://www.nomadlawyer.org/remote-islands-redefining-sustainable-tourism-denmark-australia-uk-2026</link>
+<guid isPermaLink="false">https://www.nomadlawyer.org/remote-islands-redefining-sustainable-tourism-denmark-australia-uk-2026</guid>
+<pubDate>Thu, 02 Jul 2026 01:00:50 +0000</pubDate>
+<description>They demonstrate that meaningful travel doesn't require overwhelming destinations with visitors. It requires intentionality. Purpose-driven ...</description>
+</item>
 <item>
 <title>Denmark, Australia, United Kingdom and More Countries Reveal How Ten Extraordinary ...</title>
 <link>https://www.travelandtourworld.com/news/article/uc4pezzc7xs7/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/2bqkqj9u3ox0/</guid>
 <pubDate>Sun, 14 Jun 2026 20:28:52 +0000</pubDate>
 <description>British Virgin Islands wins CTO 2026 showcase in New York, presenting a Blue and Green Economy model advancing sustainable Caribbean tourism ...</description>
-</item>
-<item>
-<title>United Kingdom Wildlife Crisis Warning as Instagram Tourism Floods Cornwall, Dorset ...</title>
-<link>https://www.travelandtourworld.com/news/article/tuey3xi9zry9/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/tuey3xi9zry9/</guid>
-<pubDate>Sat, 13 Jun 2026 19:26:50 +0000</pubDate>
-<description>United Kingdom Wildlife Crisis Warning as Instagram Tourism Floods Cornwall, Dorset, Devon, Lake District and Peak District in Overtourism Surge: All ...</description>
 </item>
 </channel>
 </rss>
