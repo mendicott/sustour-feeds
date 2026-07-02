@@ -7,6 +7,20 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.fbcnews.com.fj/news/fiji-approves-major-forest-restoration-project/",
+      "url": "https://www.fbcnews.com.fj/news/fiji-approves-major-forest-restoration-project/",
+      "title": "Fiji approves major forest restoration project - FBC News",
+      "content_text": "The Government has approved the execution of a Project Agreement with the Food and Agriculture Organisation for a major forest restoration ...",
+      "date_published": "2026-07-02T18:51:46+00:00"
+    },
+    {
+      "id": "https://www.manoramayearbook.in/current-affairs/world/2026/07/02/green-climate-fund.html",
+      "url": "https://www.manoramayearbook.in/current-affairs/world/2026/07/02/green-climate-fund.html",
+      "title": "Explainer - Green Climate Fund | GCF Explained - Manorama Yearbook",
+      "content_text": "GCF approves $52.5 million for restoring Fiji's forest landscape.Green Climate Fund. fiji. environment. fao.",
+      "date_published": "2026-07-02T11:57:48+00:00"
+    },
+    {
       "id": "https://www.fijitimes.com.fj/green-light-for-floating-island-eco-tourism-project-proposal/",
       "url": "https://www.fijitimes.com.fj/green-light-for-floating-island-eco-tourism-project-proposal/",
       "title": "Green light for floating island eco-tourism project proposal - The Fiji Times",
@@ -61,20 +75,6 @@
       "title": "Fiji hosts Pacific tourism exchange - FBC News",
       "content_text": "More than 500 regional tourism leaders, government representatives, development partners, and industry stakeholders will gather in Fiji next year ...",
       "date_published": "2026-06-30T18:27:18+00:00"
-    },
-    {
-      "id": "https://www.fijitimes.com.fj/fiji-to-host-pacifics-biggest-tourism-trade-week-in-2027/",
-      "url": "https://www.fijitimes.com.fj/fiji-to-host-pacifics-biggest-tourism-trade-week-in-2027/",
-      "title": "Fiji to host Pacific's biggest tourism trade week in 2027 - The Fiji Times",
-      "content_text": "Listen to this article: (Left to Right) SPTO CEO Christopher Crocker and Tourism Fiji CEO Dr Paresh Pant. Picture: FANE LEDUA.",
-      "date_published": "2026-06-30T09:51:49+00:00"
-    },
-    {
-      "id": "https://www.fijitimes.com.fj/keep-funding-simple-to-access/",
-      "url": "https://www.fijitimes.com.fj/keep-funding-simple-to-access/",
-      "title": "Keep funding simple to access - The Fiji Times",
-      "content_text": "Fiji's newly-approved Tourism Fund risks failing the very local and indigenous operators it is meant to rescue unless the Government strips away ...",
-      "date_published": "2026-06-30T03:16:49+00:00"
     }
   ]
 }

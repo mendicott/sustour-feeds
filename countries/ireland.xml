@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ireland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ireland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 02 Jul 2026 10:09:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Jul 2026 22:09:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>New €1.5 million Zipit Donadea Forest Adventure Park Opens in Co. Kildare | Hotelnews.ie</title>
+<link>https://www.hotelnews.ie/articles/2026/failteireland/zipit_failte_ireland_funding_02</link>
+<guid isPermaLink="false">https://www.hotelnews.ie/articles/2026/failteireland/zipit_failte_ireland_funding_02</guid>
+<pubDate>Thu, 02 Jul 2026 14:42:01 +0000</pubDate>
+<description>Regenerative tourism project funded through Fáilte Ireland's EU Just Transition Fund scheme, will enhance outdoor tourism offering in Kildare.</description>
+</item>
 <item>
 <title>"TURISTA VE A CASA / TOURIST GO HOME" – The University Times</title>
 <link>https://universitytimes.ie/2026/06/turista-ve-a-casa-tourist-go-home-2/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://ittn.ie/sustainability/south-africas-cape-vulture-nature-reserve-ranked-one-of-worlds-most-successful-sustainability-learning-resorts-in-world/</guid>
 <pubDate>Mon, 15 Jun 2026 15:34:48 +0000</pubDate>
 <description>Geoff has worked in business, news, consumer and travel journalism for more than 25 years; having worked for and contributed to the likes of The Irish ...</description>
-</item>
-<item>
-<title>Spain Joins Germany, Italy, Ireland, Finland, Cyprus, Portugal and More as EU Unveils ...</title>
-<link>https://www.travelandtourworld.com/news/article/3yo9l8bfx5bf/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/3yo9l8bfx5bf/</guid>
-<pubDate>Mon, 15 Jun 2026 09:29:14 +0000</pubDate>
-<description>Spain, Germany, Italy, Ireland, Finland, Cyprus, Portugal EU island coastal strategy boosts sustainable tourism, climate resilience, connectivity, ...</description>
 </item>
 </channel>
 </rss>

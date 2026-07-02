@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/thailand.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Thailand. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 02 Jul 2026 10:09:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Jul 2026 22:09:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Thailand's zero-waste islands shape the future of sustainable travel - Nation Thailand</title>
+<link>https://www.nationthailand.com/sustaination/40068141</link>
+<guid isPermaLink="false">https://www.nationthailand.com/sustaination/40068141</guid>
+<pubDate>Thu, 02 Jul 2026 13:48:15 +0000</pubDate>
+<description>From Koh Samet in Rayong to Koh Libong in Trang, a quiet zero-waste movement is reshaping what responsible Thai tourism can look like. It is not a ...</description>
+</item>
 <item>
 <title>Japan Teams Up With Thailand, New Zealand, Italy and More as Overtourism Sparks New ...</title>
 <link>https://www.travelandtourworld.com/news/article/m1rt0etkhm79/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.devdiscourse.com/article/business/3939301-a-journey-through-wellness-sustainability-and-authentic-thai-hospitality-in-krabi-koh-lanta?amp</guid>
 <pubDate>Tue, 23 Jun 2026 11:11:44 +0000</pubDate>
 <description>A recent journey through Krabi and Koh Lanta in Southern Thailand revealed a destination where sustainability, wellness, and community-based tourism ...</description>
-</item>
-<item>
-<title>Thailand's cabinet backs Ubon Ratchathani Geopark UNESCO status bid</title>
-<link>https://www.nationthailand.com/news/general/40067772</link>
-<guid isPermaLink="false">https://www.nationthailand.com/news/general/40067772</guid>
-<pubDate>Tue, 23 Jun 2026 09:19:16 +0000</pubDate>
-<description>The government expects the UNESCO status to boost international tourism ... Next step: UNESCO experts will travel to conduct an on-site evaluation.</description>
 </item>
 </channel>
 </rss>

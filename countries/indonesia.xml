@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/indonesia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Indonesia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 02 Jul 2026 10:09:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Jul 2026 22:09:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Deforestation still haunts Indonesia's national parks - Asia News Network</title>
+<link>https://asianews.network/deforestation-still-haunts-indonesias-national-parks/</link>
+<guid isPermaLink="false">https://asianews.network/deforestation-still-haunts-indonesias-national-parks/</guid>
+<pubDate>Thu, 02 Jul 2026 10:36:38 +0000</pubDate>
+<description>In our latest special report, The Jakarta Post visited Sebangau to see ... Climate Watch · Environment · Policy Matters · Society. Post navigation.</description>
+</item>
 <item>
 <title>"Umrah Plus Uzbekistan" Pilgrimage Tourism Route extensively presented in Jakarta</title>
 <link>https://dunyo.info/en/turizm/v-dzhakarte-shiroko-predstavlen-turisticheskiy-marshrut-umra-plyus</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.traveldailynews.asia/fairs-exhibitions/bali-advances-regenerative-tourism-agenda-at-the-meru-eco-tourism-week-2026/</guid>
 <pubDate>Thu, 18 Jun 2026 17:16:37 +0000</pubDate>
 <description>Suzy Hutomo, Co-Founder of Eco Tourism Bali, said sustainability is now a core requirement for maintaining Bali's long-term competitiveness. Ed Brea, ...</description>
-</item>
-<item>
-<title>The Meru Eco Tourism Week 4th Edition "Tourism as a Force for Good: Regenerating Bali Together"</title>
-<link>https://www.plataformamedia.com/en/2026/06/18/the-meru-eco-tourism-week-4th-edition-tourism-as-a-force-for-good-regenerating-bali-together/</link>
-<guid isPermaLink="false">https://www.plataformamedia.com/en/2026/06/18/the-meru-eco-tourism-week-4th-edition-tourism-as-a-force-for-good-regenerating-bali-together/</guid>
-<pubDate>Thu, 18 Jun 2026 05:01:28 +0000</pubDate>
-<description>Amid Bali's growing environmental challenges, including waste management issues, climate change, ecosystem pressures, and threats to local culture, ...</description>
 </item>
 </channel>
 </rss>

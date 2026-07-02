@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 02 Jul 2026 10:09:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Jul 2026 22:09:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Italy establishes single national UNESCO Committee for MAB and Geoparks - inItaly</title>
+<link>https://www.initaly.it/en/articolo/italia-nasce-il-comitato-unico-unesco-per-i-programmi-mab-e-geoparchi-24503</link>
+<guid isPermaLink="false">https://www.initaly.it/en/articolo/italia-nasce-il-comitato-unico-unesco-per-i-programmi-mab-e-geoparchi-24503</guid>
+<pubDate>Thu, 02 Jul 2026 11:52:10 +0000</pubDate>
+<description>... Geoparks (IGG) under a single coordinating body. The move is intended to streamline the protection and management of Italy's Biosphere Reserves ...</description>
+</item>
 <item>
 <title>Event on heritage tourism at the Italian Embassy in Belgium - ANSA</title>
 <link>https://www.ansa.it/english/news/news_from_embassies/2026/07/01/event-on-heritage-tourism-at-the-italian-embassy-in-belgium_44a4b210-3ac1-49b7-ba34-624771fc659d.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/rhzn9afe7b2s/</guid>
 <pubDate>Fri, 26 Jun 2026 09:55:52 +0000</pubDate>
 <description>Italy is actively joining a powerful European movement that transforms heritage farming, agritourism, and eco-tourism into a high-value travel economy ...</description>
-</item>
-<item>
-<title>Dua Lipa's Wedding Sparks Protests in Sicily Over Street Closures and Overtourism</title>
-<link>https://inkorr.com/en/vesilna-ceremonia-dua-lipi-viklikala-protesti-na-sicilii-335483</link>
-<guid isPermaLink="false">https://inkorr.com/en/vesilna-ceremonia-dua-lipi-viklikala-protesti-na-sicilii-335483</guid>
-<pubDate>Fri, 26 Jun 2026 09:44:49 +0000</pubDate>
-<description>The events surrounding Dua Lipa and Callum Turner's wedding highlight the urgency of Italy's overtourism problem, which has long troubled local ...</description>
 </item>
 </channel>
 </rss>

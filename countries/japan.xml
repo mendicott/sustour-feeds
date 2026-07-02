@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/japan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Japan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 02 Jul 2026 10:09:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Jul 2026 22:09:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Japan triples departure tax to combat overtourism; visa fees up 5-fold</title>
+<link>https://japantoday.com/category/national/japan-triples-departure-tax-to-combat-overtourism-visa-fees-up-5-fold</link>
+<guid isPermaLink="false">https://japantoday.com/category/national/japan-triples-departure-tax-to-combat-overtourism-visa-fees-up-5-fold</guid>
+<pubDate>Thu, 02 Jul 2026 16:36:26 +0000</pubDate>
+<description>Combat over tourism but at the same time has tourist target, make sense? https://www.japantimes.co.jp/news/2026/01/21/japan/tough-road- ...</description>
+</item>
 <item>
 <title>Spain and Japan Partner to Redefine Sustainable Tourism Through Smarter Visitor ...</title>
 <link>https://www.travelandtourworld.com/news/article/6l4fbypo5c68/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.nationthailand.com/news/world/40068044</guid>
 <pubDate>Mon, 29 Jun 2026 15:08:42 +0000</pubDate>
 <description>Revenue from the increased levy will be used to fund measures against overtourism and to encourage tourists to visit destinations beyond major cities.</description>
-</item>
-<item>
-<title>Balancing Nature and Tourism in Japan: Why Jigokudani Monkey Park Is Moving to Online Ticketing</title>
-<link>https://www.travelandtourworld.com/news/article/9iu7mb08oyft/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/9iu7mb08oyft/</guid>
-<pubDate>Sat, 27 Jun 2026 14:57:40 +0000</pubDate>
-<description>Jigokudani Monkey Park will launch online ticketing and a 2000-visitor daily cap this August 2026 to combat overcrowding and ensure better tourist ...</description>
 </item>
 </channel>
 </rss>

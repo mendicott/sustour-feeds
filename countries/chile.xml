@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/chile.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Chile. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 02 Jul 2026 10:09:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Jul 2026 22:09:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mexico Teams Up With Chile, Costa Rica, United States, Finland, Portugal, Kenya, Canada ...</title>
+<link>https://www.travelandtourworld.com/news/article/dg0orazylvsc/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/dg0orazylvsc/</guid>
+<pubDate>Thu, 02 Jul 2026 02:20:22 +0000</pubDate>
+<description>... tourism model with rainforest conservation and biodiversity protection. In Mexico, coastal and heritage tourism corridors are being modernised ...</description>
+</item>
 <item>
 <title>Costa Rica, Peru and Chile Dominate Global Nature Tourism as Ecotourism Reshapes ...</title>
 <link>https://www.travelandtourworld.com/news/article/hwigz1oagmnq/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.msn.com/en-us/health/medical/chile-s-atacama-tourism-boom-tests-conservation-balance/ss-AA25CZZv</guid>
 <pubDate>Tue, 16 Jun 2026 02:57:36 +0000</pubDate>
 <description>Tourism surge: Visitor numbers to Chile's Atacama Desert and national parks are climbing, with some areas facing over-tourism pressures.</description>
-</item>
-<item>
-<title>Namibia, Chile, and Spain Defeat Global Travel Chaos Through 2026 Astrotourism ...</title>
-<link>https://www.nomadlawyer.org/global-astrotourism-expansion-defeats-travel-chaos-2026</link>
-<guid isPermaLink="false">https://www.nomadlawyer.org/global-astrotourism-expansion-defeats-travel-chaos-2026</guid>
-<pubDate>Mon, 15 Jun 2026 09:31:22 +0000</pubDate>
-<description>... low-volume travelers: The Latin American and African Astronomy Boom According ... high-value astronomy tourism. Simultaneously, Latin America ...</description>
 </item>
 </channel>
 </rss>

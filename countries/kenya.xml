@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/kenya.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Kenya. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 02 Jul 2026 10:09:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Jul 2026 22:09:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mexico Teams Up With Chile, Costa Rica, United States, Finland, Portugal, Kenya, Canada ...</title>
+<link>https://www.travelandtourworld.com/news/article/dg0orazylvsc/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/dg0orazylvsc/</guid>
+<pubDate>Thu, 02 Jul 2026 02:20:22 +0000</pubDate>
+<description>... tourism model with rainforest conservation and biodiversity protection. In Mexico, coastal and heritage tourism corridors are being modernised ...</description>
+</item>
 <item>
 <title>JW Marriott Mount Kenya Rhino Reserve Safari Camp opens in Solio Game Reserve</title>
 <link>https://hospibuz.com/hotel/Hotel-listicles/jw-marriott-mount-kenya-rhino-reserve-safari-camp-opens-in-solio-game-reserve-12123650</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.carbonbrief.org/mombasa-key-outcomes-from-the-our-ocean-conference-in-kenya/</guid>
 <pubDate>Wed, 24 Jun 2026 15:47:08 +0000</pubDate>
 <description>The ocean-climate nexus; Marine pollution; Marine protected areas; Maritime security; Sustainable blue economy; Sustainable fisheries. Since then, the ...</description>
-</item>
-<item>
-<title>South Africa Joins Kenya, Tanzania, Angola, Algeria, Rwanda, Botswana, Namibia, Zambia ...</title>
-<link>https://www.travelandtourworld.com/news/article/od9jowcu0a5t/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/od9jowcu0a5t/</guid>
-<pubDate>Wed, 24 Jun 2026 05:28:55 +0000</pubDate>
-<description>South Africa, Kenya, Tanzania, Angola and Algeria lead Africa's tourism shift as slow travel, conservation experiences and new destinations gain ...</description>
 </item>
 </channel>
 </rss>
