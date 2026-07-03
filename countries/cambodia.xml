@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/cambodia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Cambodia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 03 Jul 2026 10:09:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 22:09:05 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Exploring the Floating Wonders: Why Kampong Khleang, Cambodia is Becoming a Global ...</title>
@@ -44,6 +44,13 @@
 <description>... sustainable development in Cambodia. Under the visionary leadership of ... The Ministry of Tourism and UNDP Partner to Promote Sustainable River Tourism ...</description>
 </item>
 <item>
+<title>Guided by ancestral knowledge: indigenous communities in Virachey shape their own ...</title>
+<link>https://iucn.org/story/202607/guided-ancestral-knowledge-indigenous-communities-virachey-shape-their-own-ecotourism</link>
+<guid isPermaLink="false">https://iucn.org/story/202607/guided-ancestral-knowledge-indigenous-communities-virachey-shape-their-own-ecotourism</guid>
+<pubDate>Fri, 03 Jul 2026 09:11:27 +0000</pubDate>
+<description>... IUCN and itonami, a Phnom Penh. Agrotourism, providing visitors with lessons in indigenous farming and cooking traditions was a top activity. Travel ...</description>
+</item>
+<item>
 <title>Study Warns Climate Shocks Push Indigenous Families Into Debt and Food Insecurity</title>
 <link>https://kiripost.com/stories/study-warns-climate-shocks-push-indigenous-families-into-debt-and-food-insecurity</link>
 <guid isPermaLink="false">https://kiripost.com/stories/study-warns-climate-shocks-push-indigenous-families-into-debt-and-food-insecurity</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/6euc5ep2287h/</guid>
 <pubDate>Mon, 29 Jun 2026 12:03:02 +0000</pubDate>
 <description>... Timor-Leste. The common thread is ... tourism workforce, accessible and seamless travel, digital transformation and sustainable tourism.</description>
-</item>
-<item>
-<title>Protected-Area Communities Generate $2.2 Million | Cambodianess</title>
-<link>https://cambodianess.com/article/protected-area-communities-generate-22-million</link>
-<guid isPermaLink="false">https://cambodianess.com/article/protected-area-communities-generate-22-million</guid>
-<pubDate>Thu, 25 Jun 2026 05:16:39 +0000</pubDate>
-<description>PHNOM PENH – Protected-area communities earned nearly $2.2 million and created about 4400 jobs through the sale of non-timber forest products, ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/new-zealand.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for New Zealand. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 03 Jul 2026 10:09:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 22:09:05 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>CFPs: Ara Whaihua – He Ara Whakahihiko Capability Fund (New Zealand) - fundsforNGOs</title>
+<link>https://www2.fundsforngos.org/innovation/cfps-ara-whaihua-he-ara-whakahihiko-capability-fund-new-zealand/</link>
+<guid isPermaLink="false">https://www2.fundsforngos.org/innovation/cfps-ara-whaihua-he-ara-whakahihiko-capability-fund-new-zealand/</guid>
+<pubDate>Fri, 03 Jul 2026 11:19:35 +0000</pubDate>
+<description>Environment; Indigenous Innovation; Mātauranga. At least 50% of the eligible ANZSRC Field of Research codes included in the proposal must support one ...</description>
+</item>
 <item>
 <title>Japan Teams Up With Thailand, New Zealand, Italy and More as Overtourism Sparks New ...</title>
 <link>https://www.travelandtourworld.com/news/article/m1rt0etkhm79/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.outlooktraveller.com/destinations/international/matakana-how-a-farmers-market-changed-the-tourism-game-for-an-old-lumber-village</guid>
 <pubDate>Tue, 30 Jun 2026 09:26:30 +0000</pubDate>
 <description>In Matakana, one simple idea transformed an old lumber village into one of New Zealand's most creative and sustainable tourism destinations.</description>
-</item>
-<item>
-<title>A current ecosystem map for Aotearoa New Zealand - Ministry for the Environment</title>
-<link>https://environment.govt.nz/publications/a-current-ecosystem-map-for-aotearoa-new-zealand/</link>
-<guid isPermaLink="false">https://environment.govt.nz/publications/a-current-ecosystem-map-for-aotearoa-new-zealand/</guid>
-<pubDate>Thu, 25 Jun 2026 21:58:11 +0000</pubDate>
-<description>This project focused on mapping Ecosystem Functional Groups (EFGs)—broad ecosystem types defined by shared ecological processes—across New Zealand ...</description>
 </item>
 </channel>
 </rss>

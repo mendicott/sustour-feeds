@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for China. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 03 Jul 2026 10:09:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 22:09:05 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Nepal Aligns with India, China, Bhutan, Bangladesh, and Sri Lanka Through Visit Nepal ...</title>
+<link>https://www.travelandtourworld.com/news/article/77c2rsz8bi6x/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/77c2rsz8bi6x/</guid>
+<pubDate>Fri, 03 Jul 2026 10:25:17 +0000</pubDate>
+<description>Nepal launches guaranteed tour departures under Visit Nepal 2028 strategy, promoting community tourism, culture, sustainable travel, and regional ...</description>
+</item>
 <item>
 <title>Outrage erupts after distressed tourist-carrying camel in China is forced to its feet</title>
 <link>https://www.scmp.com/news/people-culture/trending-china/article/3358159/outrage-erupts-after-distressed-tourist-carrying-camel-china-forced-its-feet</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://english.news.cn/20260606/74641ea271b64894923dbdf39dea22e6/c.html</guid>
 <pubDate>Sat, 06 Jun 2026 19:58:47 +0000</pubDate>
 <description>The Aral Sea, once the world's fourth-largest inland lake, spans Kazakhstan and Uzbekistan. Since the 1960s, excessive water use and climate change ...</description>
-</item>
-<item>
-<title>Stricter protected areas in China coincide with more firm openings and closures and higher ...</title>
-<link>https://www.nature.com/articles/s44458-026-00108-9</link>
-<guid isPermaLink="false">https://www.nature.com/articles/s44458-026-00108-9</guid>
-<pubDate>Tue, 30 Jun 2026 17:16:24 +0000</pubDate>
-<description>Regions dominated by tourism exhibit prominent transfer pathways toward cultural tourism and consumer industries. ... Nature-based tourism and poverty ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/taiwan-china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Taiwan (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 03 Jul 2026 10:09:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 22:09:05 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Slovakia UNESCO village strains under overtourism - Taipei Times</title>
+<link>https://www.taipeitimes.com/News/world/archives/2026/07/04/2003860228</link>
+<guid isPermaLink="false">https://www.taipeitimes.com/News/world/archives/2026/07/04/2003860228</guid>
+<pubDate>Fri, 03 Jul 2026 17:33:46 +0000</pubDate>
+<description>... tourism boom. Vlkolinec, which comprises some 45 wooden houses, attracts about 100,000 tourists a year, official estimates show. They wander among ...</description>
+</item>
 <item>
 <title>Ancestral connections - Taiwan Today</title>
 <link>https://taiwantoday.tw/AMP/36/284905</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://focustaiwan.tw/politics/202606090020</guid>
 <pubDate>Wed, 10 Jun 2026 00:12:31 +0000</pubDate>
 <description>Taipei, June 9 (CNA) Vice President Hsiao Bi-khim (蕭美琴) on Tuesday visited the Palau National Aquaculture Center and a center tasked with ...</description>
-</item>
-<item>
-<title>Vice President Hsiao attends welcome banquet hosted by President Surangel S. Whipps Jr ...</title>
-<link>https://english.president.gov.tw/News/7155</link>
-<guid isPermaLink="false">https://english.president.gov.tw/News/7155</guid>
-<pubDate>Mon, 08 Jun 2026 20:57:51 +0000</pubDate>
-<description>She noted that Taiwan and Palau have shared values in the commitment to preserving the natural environment and in the democracy and freedom that ...</description>
 </item>
 </channel>
 </rss>

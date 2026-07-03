@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/guam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Guam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 03 Jul 2026 10:09:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 22:09:05 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>More than 125 turn out in Guam to hunt the invasive snake blamed for bird losses and blackouts</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://www.yahoo.com/news/science/articles/more-125-turn-guam-hunt-232400542.html</guid>
 <pubDate>Mon, 22 Jun 2026 11:51:51 +0000</pubDate>
 <description>"Every species we protect is part of our island's identity, our stories, and our future."</description>
+</item>
+<item>
+<title>Nearly extinct species coming back in wild thanks to Pittsburgh aviary - USA Today</title>
+<link>https://www.usatoday.com/story/life/animalkind/2026/07/03/chicks-hatched-pittsburgh-restore-extinct-birds-wild/90576666007/</link>
+<guid isPermaLink="false">https://www.usatoday.com/story/life/animalkind/2026/07/03/chicks-hatched-pittsburgh-restore-extinct-birds-wild/90576666007/</guid>
+<pubDate>Fri, 03 Jul 2026 11:40:52 +0000</pubDate>
+<description>Two Guam kingfisher chicks that hatched at the National Aviary in Pittsburgh are part of a program to help restore the bird in the wild.</description>
 </item>
 <item>
 <title>Australia Stands Alongside Fiji, New Zealand, Guam, and Other Oceania Destinations ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://korea.stripes.com/travel/namsan-summer-festival-seoul.html</guid>
 <pubDate>Mon, 15 Jun 2026 23:44:20 +0000</pubDate>
 <description>Sign up for our weekly newsletter of articles from Japan, Korea, Guam, and Okinawa with travel tips, restaurant reviews, recipes, community and event ...</description>
-</item>
-<item>
-<title>South Korea joins Japan, Philippines, Taiwan in 4-hour USA's Guam wellness surge</title>
-<link>https://www.travelandtourworld.com/news/article/us2x37fvpjxa/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/us2x37fvpjxa/</guid>
-<pubDate>Sun, 14 Jun 2026 04:53:14 +0000</pubDate>
-<description>Guam wellness tourism surge grows as South Korea, Japan, Philippines, Taiwan boost 4-hour luxury escapes with airlines expanding Pacific routes.</description>
 </item>
 </channel>
 </rss>

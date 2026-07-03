@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/panama.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Panama. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 03 Jul 2026 10:09:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 22:09:05 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Islas Secas – whale conservation in Panama's Gulf of Chiriquí - TTG Media</title>
+<link>https://www.ttgmedia.com/noticeboard/islas-secas-whale-conservation-panamas-gulf-chiriqui</link>
+<guid isPermaLink="false">https://www.ttgmedia.com/noticeboard/islas-secas-whale-conservation-panamas-gulf-chiriqui</guid>
+<pubDate>Fri, 03 Jul 2026 15:35:25 +0000</pubDate>
+<description>As migratory humpback whales return to Panama's Gulf of Chiriquí, Islas Secas will launch Whale Weeks this August: a month-long programme centred ...</description>
+</item>
 <item>
 <title>Costa Rica Outshines United States, Canada, Mexico, Belize, Panama and other North ...</title>
 <link>https://www.travelandtourworld.com/news/article/nw5jxv5vlq4y/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://news.scienceafrica.co.ke/fiji-panama-lead-global-initiative-to-protect-twilight-zone/</guid>
 <pubDate>Sat, 20 Jun 2026 07:43:22 +0000</pubDate>
 <description>"Under threat from climate change, growing commercial interests for the production of fish meal and health supplements, and other activities, this ...</description>
-</item>
-<item>
-<title>Brazil Joins Mexico, Colombia, Chile, Peru, Argentina, Ecuador, Panama and Costa Rica in ...</title>
-<link>https://www.travelandtourworld.com/news/article/esv8dkv84583/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/esv8dkv84583/</guid>
-<pubDate>Sun, 14 Jun 2026 18:54:05 +0000</pubDate>
-<description>Ocean Economy Funding Distribution Overview ; Caribbean nations, Coral reef protection, tourism sustainability, Climate adaptation, eco-tourism ; Panama ...</description>
 </item>
 </channel>
 </rss>

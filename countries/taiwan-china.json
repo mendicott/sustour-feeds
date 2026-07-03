@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.taipeitimes.com/News/world/archives/2026/07/04/2003860228",
+      "url": "https://www.taipeitimes.com/News/world/archives/2026/07/04/2003860228",
+      "title": "Slovakia UNESCO village strains under overtourism - Taipei Times",
+      "content_text": "... tourism boom. Vlkolinec, which comprises some 45 wooden houses, attracts about 100,000 tourists a year, official estimates show. They wander among ...",
+      "date_published": "2026-07-03T17:33:46+00:00"
+    },
+    {
       "id": "https://taiwantoday.tw/AMP/36/284905",
       "url": "https://taiwantoday.tw/AMP/36/284905",
       "title": "Ancestral connections - Taiwan Today",
@@ -68,13 +75,6 @@
       "title": "Hsiao inspects Taiwan-aided fisheries, tourism projects in Palau",
       "content_text": "Taipei, June 9 (CNA) Vice President Hsiao Bi-khim (蕭美琴) on Tuesday visited the Palau National Aquaculture Center and a center tasked with ...",
       "date_published": "2026-06-10T00:12:31+00:00"
-    },
-    {
-      "id": "https://english.president.gov.tw/News/7155",
-      "url": "https://english.president.gov.tw/News/7155",
-      "title": "Vice President Hsiao attends welcome banquet hosted by President Surangel S. Whipps Jr ...",
-      "content_text": "She noted that Taiwan and Palau have shared values in the commitment to preserving the natural environment and in the democracy and freedom that ...",
-      "date_published": "2026-06-08T20:57:51+00:00"
     }
   ]
 }

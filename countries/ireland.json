@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.travelandtourworld.com/news/article/sy9rcrrqin1g/",
+      "url": "https://www.travelandtourworld.com/news/article/sy9rcrrqin1g/",
+      "title": "Zipit Donadea: A New Benchmark for Sustainable Adventure Tourism in Ireland",
+      "content_text": "Experience the new Zipit Donadea forest park in Kildare. Featuring sustainable aerial courses, it is a premier destination for Irish eco-adventure ...",
+      "date_published": "2026-07-03T14:49:10+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/n1bsg6nftdwh/",
       "url": "https://www.travelandtourworld.com/news/article/n1bsg6nftdwh/",
       "title": "Killarney, Ireland: New Eco-Friendly Bus Service Revolutionizes Sustainable Travel in the ...",
@@ -68,13 +75,6 @@
       "title": "Ireland Joins Finland, Scotland, Austria and France in Eco-Tourism Expansion as Laois ...",
       "content_text": "Laois expands eco-tourism with accessible woodland access and eco-stay accommodation under LEADER funding, boosting Ireland's rural travel ...",
       "date_published": "2026-06-29T11:13:26+00:00"
-    },
-    {
-      "id": "https://www.laoistoday.ie/2026/06/29/new-accessible-woodland-entrance-and-eco-tourism-accommodation-among-latest-leader-funded-projects-in-laois/",
-      "url": "https://www.laoistoday.ie/2026/06/29/new-accessible-woodland-entrance-and-eco-tourism-accommodation-among-latest-leader-funded-projects-in-laois/",
-      "title": "New accessible woodland entrance and eco-tourism accommodation among latest ... - Laois Today",
-      "content_text": "... Tourism Strategy and Fáilte Ireland's focus on sustainable tourism. Both projects received funding through the LEADER 2023-2027 Programme, which ...",
-      "date_published": "2026-06-29T05:02:41+00:00"
     }
   ]
 }

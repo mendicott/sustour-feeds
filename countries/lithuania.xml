@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/lithuania.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Lithuania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 03 Jul 2026 10:09:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 22:09:05 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Sanctum Retreat / arches | ArchDaily</title>
+<link>https://www.archdaily.com/1042957/sanctum-retreat-arches</link>
+<guid isPermaLink="false">https://www.archdaily.com/1042957/sanctum-retreat-arches</guid>
+<pubDate>Fri, 03 Jul 2026 18:19:05 +0000</pubDate>
+<description>Nestled within a forest clearing near Bezdonys, Lithuania, SANCTUM is a nature therapy retreat that explores how architecture can foster a deeper ...</description>
+</item>
 <item>
 <title>Lithuania Measures Nature's Hidden Economic Value - Infoerdve.lt</title>
 <link>https://infoerdve.lt/en/lithuania-puts-a-value-on-natures-daily-work/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://infoerdve.lt/en/jonines-holiday-shifted-lithuania-toward-coast-and-lakes/</guid>
 <pubDate>Thu, 02 Jul 2026 06:06:51 +0000</pubDate>
 <description>The data does not show the exact reasons for travel, but it points to a clear overnight population shift: major cities became quieter, while the ...</description>
-</item>
-<item>
-<title>Estonia Aligns With Latvia, Lithuania and Poland in Rail Baltica Mega Corridor ...</title>
-<link>https://www.travelandtourworld.com/news/article/cq9b7rrnzpvu/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/cq9b7rrnzpvu/</guid>
-<pubDate>Wed, 01 Jul 2026 09:37:14 +0000</pubDate>
-<description>The tourism sector has been directly impacted through the creation of multi-destination travel opportunities. Cities such as Tallinn, Riga, Kaunas, ...</description>
 </item>
 </channel>
 </rss>

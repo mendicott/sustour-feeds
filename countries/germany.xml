@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/germany.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Germany. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 03 Jul 2026 10:09:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 22:09:05 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Germany Aligns With Italy, Hungary, Switzerland and More Leading Source Of Visitors as ...</title>
+<link>https://www.travelandtourworld.com/news/article/qwyqsqcrcsyl/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/qwyqsqcrcsyl/</guid>
+<pubDate>Fri, 03 Jul 2026 15:14:44 +0000</pubDate>
+<description>The measure has been implemented to tackle rising overtourism pressure, reduce summer traffic congestion, and preserve the UNESCO-listed heritage ...</description>
+</item>
 <item>
 <title>Overtourism forces India's cleanest village to shut one day a week - Travel Tomorrow</title>
 <link>https://traveltomorrow.com/overtourism-forces-indias-cleanest-village-to-shut-one-day-a-week/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/0tzypnjm7sun/</guid>
 <pubDate>Thu, 25 Jun 2026 19:58:33 +0000</pubDate>
 <description>Italy, Spain and Germany lead Europe's app-based slow travel boom as Gen Z embraces rail journeys, flexibility and sustainable tourism across ...</description>
-</item>
-<item>
-<title>Ireland Joins Italy, France, Spain, Portugal, Netherlands, Germany, Greece ... - Travel And Tour World</title>
-<link>https://www.travelandtourworld.com/news/article/r6d5og4zxelo/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/r6d5og4zxelo/</guid>
-<pubDate>Tue, 23 Jun 2026 17:04:27 +0000</pubDate>
-<description>This article breaks down how Europe's leading destinations are using tourist taxes to manage overtourism and reshape urban tourism ecosystems.</description>
 </item>
 </channel>
 </rss>

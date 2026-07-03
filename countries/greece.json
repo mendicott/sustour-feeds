@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.euronews.com/my-europe/2026/07/03/overtourism-where-are-locals-being-priced-out-by-rising-rents",
+      "url": "https://www.euronews.com/my-europe/2026/07/03/overtourism-where-are-locals-being-priced-out-by-rising-rents",
+      "title": "Overtourism: Where are locals being priced out by rising rents? - Euronews",
+      "content_text": "Greek residents are the most impacted, according to the New Economics Foundation, with tourism flows sending annual rents up by €342 since 2019.",
+      "date_published": "2026-07-03T16:35:36+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/7yujiw62trrl/",
       "url": "https://www.travelandtourworld.com/news/article/7yujiw62trrl/",
       "title": "Spain Aligns With Italy, Netherlands, Greece, France and More Countries in Europe's ...",
@@ -68,13 +75,6 @@
       "title": "Rediscovering Arcadia, Greece: A New Frontier for Slow and Adventure Travel in the Peloponnese",
       "content_text": "The Arcadia Hospitality Network is preparing to launch its first presence at London's Adventure Travel Show with a new and transformative take on ...",
       "date_published": "2026-06-26T10:03:07+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/rhzn9afe7b2s/",
-      "url": "https://www.travelandtourworld.com/news/article/rhzn9afe7b2s/",
-      "title": "Italy Joins France, Greece, Ireland, Austria, Switzerland, and Portugal in Turning Heritage ...",
-      "content_text": "Italy is actively joining a powerful European movement that transforms heritage farming, agritourism, and eco-tourism into a high-value travel economy ...",
-      "date_published": "2026-06-26T09:55:52+00:00"
     }
   ]
 }

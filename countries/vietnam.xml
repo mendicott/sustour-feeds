@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 03 Jul 2026 10:09:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 22:09:05 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Dong Nai - an ecotourism destination - Vietnam.vn</title>
+<link>https://www.vietnam.vn/en/dong-nai-diem-den-du-lich-sinh-thai</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/dong-nai-diem-den-du-lich-sinh-thai</guid>
+<pubDate>Fri, 03 Jul 2026 10:18:26 +0000</pubDate>
+<description>... a leading eco-tourism destination, with its fruit orchard tourism model being the strongest attraction for visitors.</description>
+</item>
 <item>
 <title>Hanoi is developing green tourism and eco-tourism: - Vietnam.vn</title>
 <link>https://www.vietnam.vn/en/ha-noi-phat-trien-du-lich-xanh-du-lich-tai-tao</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://en.vietnamplus.vn/dak-nong-unesco-global-geopark-where-nature-and-culture-converge-post347492.vnp</guid>
 <pubDate>Wed, 01 Jul 2026 06:32:11 +0000</pubDate>
 <description>Travel · Destinations · Festival · Tours · Media ... Cham ethnic culture festival concludes, linking heritage preservation with tourism development ...</description>
-</item>
-<item>
-<title>OCOP standards seen as key to raising quality of Vietnam's community tourism</title>
-<link>https://en.vietnamplus.vn/ocop-standards-seen-as-key-to-raising-quality-of-vietnams-community-tourism-post347513.vnp</link>
-<guid isPermaLink="false">https://en.vietnamplus.vn/ocop-standards-seen-as-key-to-raising-quality-of-vietnams-community-tourism-post347513.vnp</guid>
-<pubDate>Wed, 01 Jul 2026 03:27:47 +0000</pubDate>
-<description>... sustainable development. Tourism products will be assessed under three ... travel experiences rather than isolated attractions. Destinations ...</description>
 </item>
 </channel>
 </rss>

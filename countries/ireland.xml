@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ireland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ireland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 03 Jul 2026 10:09:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 22:09:05 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Zipit Donadea: A New Benchmark for Sustainable Adventure Tourism in Ireland</title>
+<link>https://www.travelandtourworld.com/news/article/sy9rcrrqin1g/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/sy9rcrrqin1g/</guid>
+<pubDate>Fri, 03 Jul 2026 14:49:10 +0000</pubDate>
+<description>Experience the new Zipit Donadea forest park in Kildare. Featuring sustainable aerial courses, it is a premier destination for Irish eco-adventure ...</description>
+</item>
 <item>
 <title>Killarney, Ireland: New Eco-Friendly Bus Service Revolutionizes Sustainable Travel in the ...</title>
 <link>https://www.travelandtourworld.com/news/article/n1bsg6nftdwh/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/or5x4w1l4jul/</guid>
 <pubDate>Mon, 29 Jun 2026 11:13:26 +0000</pubDate>
 <description>Laois expands eco-tourism with accessible woodland access and eco-stay accommodation under LEADER funding, boosting Ireland's rural travel ...</description>
-</item>
-<item>
-<title>New accessible woodland entrance and eco-tourism accommodation among latest ... - Laois Today</title>
-<link>https://www.laoistoday.ie/2026/06/29/new-accessible-woodland-entrance-and-eco-tourism-accommodation-among-latest-leader-funded-projects-in-laois/</link>
-<guid isPermaLink="false">https://www.laoistoday.ie/2026/06/29/new-accessible-woodland-entrance-and-eco-tourism-accommodation-among-latest-leader-funded-projects-in-laois/</guid>
-<pubDate>Mon, 29 Jun 2026 05:02:41 +0000</pubDate>
-<description>... Tourism Strategy and Fáilte Ireland's focus on sustainable tourism. Both projects received funding through the LEADER 2023-2027 Programme, which ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 03 Jul 2026 10:09:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 22:09:05 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Overtourism: Where are locals being priced out by rising rents? - Euronews</title>
+<link>https://www.euronews.com/my-europe/2026/07/03/overtourism-where-are-locals-being-priced-out-by-rising-rents</link>
+<guid isPermaLink="false">https://www.euronews.com/my-europe/2026/07/03/overtourism-where-are-locals-being-priced-out-by-rising-rents</guid>
+<pubDate>Fri, 03 Jul 2026 16:35:36 +0000</pubDate>
+<description>Greek residents are the most impacted, according to the New Economics Foundation, with tourism flows sending annual rents up by €342 since 2019.</description>
+</item>
 <item>
 <title>Spain Aligns With Italy, Netherlands, Greece, France and More Countries in Europe's ...</title>
 <link>https://www.travelandtourworld.com/news/article/7yujiw62trrl/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/es8wt2wh9md8/</guid>
 <pubDate>Fri, 26 Jun 2026 10:03:07 +0000</pubDate>
 <description>The Arcadia Hospitality Network is preparing to launch its first presence at London's Adventure Travel Show with a new and transformative take on ...</description>
-</item>
-<item>
-<title>Italy Joins France, Greece, Ireland, Austria, Switzerland, and Portugal in Turning Heritage ...</title>
-<link>https://www.travelandtourworld.com/news/article/rhzn9afe7b2s/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/rhzn9afe7b2s/</guid>
-<pubDate>Fri, 26 Jun 2026 09:55:52 +0000</pubDate>
-<description>Italy is actively joining a powerful European movement that transforms heritage farming, agritourism, and eco-tourism into a high-value travel economy ...</description>
 </item>
 </channel>
 </rss>
