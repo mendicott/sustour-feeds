@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/france.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for France. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 02 Jul 2026 22:09:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 10:09:32 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Spain Aligns With Italy, Netherlands, Greece, France and More Countries in Europe's ...</title>
+<link>https://www.travelandtourworld.com/news/article/7yujiw62trrl/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/7yujiw62trrl/</guid>
+<pubDate>Fri, 03 Jul 2026 07:11:10 +0000</pubDate>
+<description>Spain, Italy, Netherlands, Greece, France and more face overtourism crisis driving strict controls, housing pressure and EU tourism reforms.</description>
+</item>
 <item>
 <title>Spain Beats France, Netherlands, Greece, Italy, Japan, and India in Undergoing Alarming ...</title>
 <link>https://www.travelandtourworld.com/news/article/vgb6rf9sra3x/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://logos-pres.md/en/news/dissatisfaction-with-mass-tourism-is-growing-in-europe/</guid>
 <pubDate>Mon, 22 Jun 2026 18:28:58 +0000</pubDate>
 <description>Spain, Italy and France face rising protests over overtourism, housing pressure and strain on urban infrastructure.</description>
-</item>
-<item>
-<title>France Sustainable Travel Revolution Redefines Tourism With High Speed Rail, Cycling ...</title>
-<link>https://www.travelandtourworld.com/news/article/k810j8tv0qqd/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/k810j8tv0qqd/</guid>
-<pubDate>Mon, 22 Jun 2026 04:23:03 +0000</pubDate>
-<description>France is reshaping how tourism operates through climate-conscious planning, eco certified destinations and low carbon mobility systems. France has ...</description>
 </item>
 </channel>
 </rss>

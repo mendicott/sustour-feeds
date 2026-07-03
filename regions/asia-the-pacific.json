@@ -7,11 +7,39 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=6PvxbkOTwhI",
+      "url": "https://www.youtube.com/watch?v=6PvxbkOTwhI",
+      "title": "One of Australia's largest celebrations of First Nations art and culture kicks off | ABC NEWS",
+      "content_text": "The Cutaway at Barangaroo is housing the annual art fair showcasing creations from First Nations artists, designers and makers.",
+      "date_published": "2026-07-03T06:00:56+00:00"
+    },
+    {
+      "id": "https://www.azcentral.com/press-release/story/92143/the-appeal-of-niigata-a-globally-recognized-wetland-city/",
+      "url": "https://www.azcentral.com/press-release/story/92143/the-appeal-of-niigata-a-globally-recognized-wetland-city/",
+      "title": "The Appeal of Niigata, a Globally Recognized Wetland City - AZCentral - Press Release",
+      "content_text": "Japan lies along the East Asian–Australasian Flyway, one of the world's major migratory bird routes, and many waterbirds travel annually from Siberia ...",
+      "date_published": "2026-07-03T05:55:59+00:00"
+    },
+    {
+      "id": "https://www.vietnam.vn/en/ha-noi-phat-trien-du-lich-xanh-du-lich-tai-tao",
+      "url": "https://www.vietnam.vn/en/ha-noi-phat-trien-du-lich-xanh-du-lich-tai-tao",
+      "title": "Hanoi is developing green tourism and eco-tourism: - Vietnam.vn",
+      "content_text": "Amidst this trend, the community-based tourism destination of Muong Coc (My Duc commune) is emerging with a development orientation towards green ...",
+      "date_published": "2026-07-02T23:31:41+00:00"
+    },
+    {
       "id": "https://www.fbcnews.com.fj/news/fiji-approves-major-forest-restoration-project/",
       "url": "https://www.fbcnews.com.fj/news/fiji-approves-major-forest-restoration-project/",
       "title": "Fiji approves major forest restoration project - FBC News",
       "content_text": "The Government has approved the execution of a Project Agreement with the Food and Agriculture Organisation for a major forest restoration ...",
       "date_published": "2026-07-02T18:51:46+00:00"
+    },
+    {
+      "id": "https://www.dailygoodmorningkashmir.com/bangladesh-of-kashmir-wular-village-sees-tourism-boom-with-shikara-rides/",
+      "url": "https://www.dailygoodmorningkashmir.com/bangladesh-of-kashmir-wular-village-sees-tourism-boom-with-shikara-rides/",
+      "title": "'Bangladesh of Kashmir': Wular Village sees tourism boom with shikara rides",
+      "content_text": "Zurimanz, a small village on the banks of Wular Lake, is steadily emerging as a tourism destination, with shikara rides creating new livelihood ...",
+      "date_published": "2026-07-02T18:23:12+00:00"
     },
     {
       "id": "https://japantoday.com/category/national/japan-triples-departure-tax-to-combat-overtourism-visa-fees-up-5-fold",
@@ -47,34 +75,6 @@
       "title": "Muong Coc - Touching the peace - Vietnam.vn",
       "content_text": "... community tourism product with the theme \"Muong Coc - Touching Peace\". ... community-based tourism products in Muong Coc is not only the ...",
       "date_published": "2026-07-02T11:37:04+00:00"
-    },
-    {
-      "id": "https://asianews.network/deforestation-still-haunts-indonesias-national-parks/",
-      "url": "https://asianews.network/deforestation-still-haunts-indonesias-national-parks/",
-      "title": "Deforestation still haunts Indonesia's national parks - Asia News Network",
-      "content_text": "In our latest special report, The Jakarta Post visited Sebangau to see ... Climate Watch · Environment · Policy Matters · Society. Post navigation.",
-      "date_published": "2026-07-02T10:36:38+00:00"
-    },
-    {
-      "id": "https://www.vietnam.vn/en/so-hoa-di-san-my-son-khi-cong-nghe-so-hoi-sinh-gia-tri-goc",
-      "url": "https://www.vietnam.vn/en/so-hoa-di-san-my-son-khi-cong-nghe-so-hoi-sinh-gia-tri-goc",
-      "title": "Digitizing the My Son heritage site: When digital technology revives its original value. - Vietnam.vn",
-      "content_text": "In the context of sustainable tourism development ... According to Nguyen Cong Khiet, Director of the My Son World Cultural Heritage Management ...",
-      "date_published": "2026-07-02T07:27:52+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/horn0zlp9epo/",
-      "url": "https://www.travelandtourworld.com/news/article/horn0zlp9epo/",
-      "title": "Why Saudi Arabia's Al-Baha Region Is Becoming a Must-Visit Summer Destination for Rural ...",
-      "content_text": "... meaningful travel experiences while supporting local communities, protecting natural landscapes, and preserving cultural traditions for future ...",
-      "date_published": "2026-07-02T05:58:29+00:00"
-    },
-    {
-      "id": "https://www.vietnam.vn/en/bao-ton-cac-khu-vuc-co-gia-tri-da-dang-sinh-hoc",
-      "url": "https://www.vietnam.vn/en/bao-ton-cac-khu-vuc-co-gia-tri-da-dang-sinh-hoc",
-      "title": "Preserving areas with high biodiversity value. - Vietnam.vn",
-      "content_text": "... tourism. WWF - Vietnam will support the local community in implementing other effective conservation measures (OECMs). WWW - Vietnam has also ...",
-      "date_published": "2026-07-02T02:41:57+00:00"
     }
   ]
 }

@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.azcentral.com/press-release/story/92143/the-appeal-of-niigata-a-globally-recognized-wetland-city/",
+      "url": "https://www.azcentral.com/press-release/story/92143/the-appeal-of-niigata-a-globally-recognized-wetland-city/",
+      "title": "The Appeal of Niigata, a Globally Recognized Wetland City - AZCentral - Press Release",
+      "content_text": "Japan lies along the East Asian–Australasian Flyway, one of the world's major migratory bird routes, and many waterbirds travel annually from Siberia ...",
+      "date_published": "2026-07-03T05:55:59+00:00"
+    },
+    {
       "id": "https://japantoday.com/category/national/japan-triples-departure-tax-to-combat-overtourism-visa-fees-up-5-fold",
       "url": "https://japantoday.com/category/national/japan-triples-departure-tax-to-combat-overtourism-visa-fees-up-5-fold",
       "title": "Japan triples departure tax to combat overtourism; visa fees up 5-fold",
@@ -68,13 +75,6 @@
       "title": "Japan Teams Up With Thailand, New Zealand, Italy and More as Overtourism Sparks New ...",
       "content_text": "Japan dual pricing for tourists expands as overseas visitor numbers surge, new travel fees rise and overtourism reshapes visitor policies across ...",
       "date_published": "2026-07-01T06:12:43+00:00"
-    },
-    {
-      "id": "https://www.nationthailand.com/news/world/40068044",
-      "url": "https://www.nationthailand.com/news/world/40068044",
-      "title": "Japan to raise tourist departure tax to 3,000 yen amid overtourism - Nation Thailand",
-      "content_text": "Revenue from the increased levy will be used to fund measures against overtourism and to encourage tourists to visit destinations beyond major cities.",
-      "date_published": "2026-06-29T15:08:42+00:00"
     }
   ]
 }

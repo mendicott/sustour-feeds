@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 02 Jul 2026 22:09:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 10:09:32 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Hanoi is developing green tourism and eco-tourism: - Vietnam.vn</title>
+<link>https://www.vietnam.vn/en/ha-noi-phat-trien-du-lich-xanh-du-lich-tai-tao</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/ha-noi-phat-trien-du-lich-xanh-du-lich-tai-tao</guid>
+<pubDate>Thu, 02 Jul 2026 23:31:41 +0000</pubDate>
+<description>Amidst this trend, the community-based tourism destination of Muong Coc (My Duc commune) is emerging with a development orientation towards green ...</description>
+</item>
 <item>
 <title>Muong Coc - Touching the peace - Vietnam.vn</title>
 <link>https://www.vietnam.vn/en/muong-coc-cham-vao-binh-yen</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://en.vietnamplus.vn/ocop-standards-seen-as-key-to-raising-quality-of-vietnams-community-tourism-post347513.vnp</guid>
 <pubDate>Wed, 01 Jul 2026 03:27:47 +0000</pubDate>
 <description>... sustainable development. Tourism products will be assessed under three ... travel experiences rather than isolated attractions. Destinations ...</description>
-</item>
-<item>
-<title>A symphony of geological and natural heritage - Vietnam.vn</title>
-<link>https://www.vietnam.vn/en/ban-giao-huong-cua-di-san-dia-chat-va-thien-nhien</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/ban-giao-huong-cua-di-san-dia-chat-va-thien-nhien</guid>
-<pubDate>Tue, 30 Jun 2026 03:29:08 +0000</pubDate>
-<description>From geological heritage within volcanic mountains, the UNESCO Dak Nong Global Geopark reveals layers of unique natural, archaeological, ...</description>
 </item>
 </channel>
 </rss>

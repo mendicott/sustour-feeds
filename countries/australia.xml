@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/australia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Australia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 02 Jul 2026 22:09:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 10:09:32 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>One of Australia's largest celebrations of First Nations art and culture kicks off | ABC NEWS</title>
+<link>https://www.youtube.com/watch?v=6PvxbkOTwhI</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=6PvxbkOTwhI</guid>
+<pubDate>Fri, 03 Jul 2026 06:00:56 +0000</pubDate>
+<description>The Cutaway at Barangaroo is housing the annual art fair showcasing creations from First Nations artists, designers and makers.</description>
+</item>
 <item>
 <title>Ten Remote Islands Redefining Global Tourism: Denmark, Australia, UK Lead Sustainable ...</title>
 <link>https://www.nomadlawyer.org/remote-islands-redefining-sustainable-tourism-denmark-australia-uk-2026</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://nit.com.au/25-06-2026/24999/rirratjingu-fuel-celebrates-milestone-shipment</guid>
 <pubDate>Thu, 25 Jun 2026 01:31:35 +0000</pubDate>
 <description>Registrations officially open for the 2026 Australian Indigenous Tourism Conference · Giovanni Torre 23 Jun 2026. Giovanni Torre. Rirratjingu Fuel ...</description>
-</item>
-<item>
-<title>From Maningrida to Darwin: Stedman's builds from community outwards - National Indigenous Times</title>
-<link>https://nit.com.au/24-06-2026/24978/from-maningrida-to-darwin-stedmans-builds-from-community-outwards</link>
-<guid isPermaLink="false">https://nit.com.au/24-06-2026/24978/from-maningrida-to-darwin-stedmans-builds-from-community-outwards</guid>
-<pubDate>Wed, 24 Jun 2026 08:02:15 +0000</pubDate>
-<description>Registrations officially open for the 2026 Australian Indigenous Tourism Conference · Giovanni Torre 23 Jun 2026. Voyages' Aṉangu Communities ...</description>
 </item>
 </channel>
 </rss>
