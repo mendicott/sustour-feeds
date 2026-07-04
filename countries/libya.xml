@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/libya.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Libya. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 04 Jul 2026 10:08:27 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 22:08:03 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Archaeologists fight to save Libya's ancient Greek ruins - Oman Observer</title>
+<link>https://www.omanobserver.om/article/1192268/features/culture/archaeologists-fight-to-save-libyas-ancient-greek-ruins</link>
+<guid isPermaLink="false">https://www.omanobserver.om/article/1192268/features/culture/archaeologists-fight-to-save-libyas-ancient-greek-ruins</guid>
+<pubDate>Sat, 04 Jul 2026 16:27:48 +0000</pubDate>
+<description>In eastern Libya, a small group of archaeologists is working to safeguard the ancient ruins of Cyrene and Apollonia, Greek-era sites that have ...</description>
+</item>
 <item>
 <title>Libya Signals Tourism Revival with Nationwide Cultural Caravan After Years of Conflict</title>
 <link>https://eturbonews.com/libya-tourism-revival-cultural-artistic-tourism-caravan-heritage-domestic-travel/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/z59zq52t91xu/</guid>
 <pubDate>Mon, 29 Jun 2026 00:25:41 +0000</pubDate>
 <description>A significant step toward cultural integration and tourism development has been initiated as Cultural and Artistic Tourism Caravan, Libya tourism ...</description>
-</item>
-<item>
-<title>Outlook for Sustainable Agriculture in North Africa: Report Card Assessment</title>
-<link>https://mei.edu/report/outlook-for-sustainable-agriculture-in-north-africa-report-card-assessment/</link>
-<guid isPermaLink="false">https://mei.edu/report/outlook-for-sustainable-agriculture-in-north-africa-report-card-assessment/</guid>
-<pubDate>Mon, 22 Jun 2026 18:02:54 +0000</pubDate>
-<description>... Libya, Tunisia, Algeria, Morocco, and Mauritania, and provides ... climate change and resource constraints. Sustained investments in water ...</description>
 </item>
 </channel>
 </rss>

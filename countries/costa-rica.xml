@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/costa-rica.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Costa Rica. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 04 Jul 2026 10:08:27 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 22:08:02 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Costa Rica Faces Protests After Removing Corcovado Park Director - The Tico Times</title>
+<link>https://ticotimes.net/2026/07/04/costa-rica-faces-protests-after-removing-corcovado-park-director</link>
+<guid isPermaLink="false">https://ticotimes.net/2026/07/04/costa-rica-faces-protests-after-removing-corcovado-park-director</guid>
+<pubDate>Sat, 04 Jul 2026 16:27:21 +0000</pubDate>
+<description>Costa Rica removed the Osa Conservation Area director days after he cut Corcovado's Sirena capacity over a sewage discharge.</description>
+</item>
 <item>
 <title>Mexico Teams Up With Chile, Costa Rica, United States, Finland, Portugal, Kenya, Canada ...</title>
 <link>https://www.travelandtourworld.com/news/article/dg0orazylvsc/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://ticotimes.net/2026/06/25/poachers-threaten-one-of-costa-ricas-best-known-wildlife-refuges</guid>
 <pubDate>Thu, 25 Jun 2026 19:48:56 +0000</pubDate>
 <description>Camera traps at Costa Rica's Curú Wildlife Refuge have revealed illegal hunting activity, raising concerns for conservation, tourism and wildlife ...</description>
-</item>
-<item>
-<title>Costa Rica Outshines United States, Canada, Mexico, Belize, Panama and other North ...</title>
-<link>https://www.travelandtourworld.com/news/article/nw5jxv5vlq4y/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/nw5jxv5vlq4y/</guid>
-<pubDate>Thu, 25 Jun 2026 18:46:15 +0000</pubDate>
-<description>Explore why Costa Rica outshines United States, Canada, Mexico and others in eco tourism through biodiversity protection and sustainability ...</description>
 </item>
 </channel>
 </rss>

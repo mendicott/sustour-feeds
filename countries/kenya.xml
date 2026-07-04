@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/kenya.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Kenya. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 04 Jul 2026 10:08:27 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 22:08:02 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Lawsuit Seeks to Halt Maasai Mara Luxury Tourism Construction - Mjengo Hub</title>
+<link>https://mjengohub.co.ke/articles/news/lawsuit-seeks-to-halt-maasai-mara-luxury-tourism-construction</link>
+<guid isPermaLink="false">https://mjengohub.co.ke/articles/news/lawsuit-seeks-to-halt-maasai-mara-luxury-tourism-construction</guid>
+<pubDate>Sat, 04 Jul 2026 18:48:48 +0000</pubDate>
+<description>The legal groups argue that the annual wildebeest migration is a globally significant ecological phenomenon, which Kenya is constitutionally bound to ...</description>
+</item>
 <item>
 <title>Rights Groups Sue to Stop New Luxury Camps in Maasai Mara Over Threat to Wildebeest Migration</title>
 <link>https://capitalfm.africa/rights-groups-sue-to-stop-luxury-camp-developments-in-maasai-mara/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/8oq1h24qw0bg/</guid>
 <pubDate>Sat, 27 Jun 2026 12:41:28 +0000</pubDate>
 <description>... tourism, biodiversity conservation and immersive nature-based travel beyond the traditional Northern Circuit. Tanzania is reshaping its global tourism ...</description>
-</item>
-<item>
-<title>Four African Marine Sanctuaries Earn Blue Park Status at Kenya Gathering - Travelbinger</title>
-<link>https://travelbinger.com/four-african-marine-sanctuaries-earn-blue-park-status-at-kenya-gathering</link>
-<guid isPermaLink="false">https://travelbinger.com/four-african-marine-sanctuaries-earn-blue-park-status-at-kenya-gathering</guid>
-<pubDate>Thu, 25 Jun 2026 07:17:45 +0000</pubDate>
-<description>The Blue Park Awards, presented by the Marine Conservation Institute, highlight protected areas that demonstrate measurable conservation results ...</description>
 </item>
 </channel>
 </rss>

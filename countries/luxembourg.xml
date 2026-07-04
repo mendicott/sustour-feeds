@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/luxembourg.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Luxembourg. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 04 Jul 2026 10:08:27 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 22:08:03 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Climate change: High water temperatures threaten Luxembourg's aquatic life - RTL Today</title>
@@ -58,6 +58,13 @@
 <description>... Luxembourg tourism, sandstone formations Luxembourg, aerial Luxembourg, drone footage Luxembourg, drone landscape Europe, cinematic nature video.</description>
 </item>
 <item>
+<title>More Than a Postcard: 120 years of tourism through the lens - RTL Today</title>
+<link>https://today.rtl.lu/culture/exhibitions-and-history/120-years-of-tourism-through-the-lens-168623428</link>
+<guid isPermaLink="false">https://today.rtl.lu/culture/exhibitions-and-history/120-years-of-tourism-through-the-lens-168623428</guid>
+<pubDate>Sat, 04 Jul 2026 16:08:02 +0000</pubDate>
+<description>Spanning 120 years, a new exhibition from the Luxembourg City Photothèque explores how tourism has shaped images of Luxembourg and destinations ...</description>
+</item>
+<item>
 <title>Why Young Entrepreneurs Are Betting on Southern Italy - Monocle</title>
 <link>https://monocle.com/affairs/urbanism/southern-italy-entrepreneurship-revival/</link>
 <guid isPermaLink="false">https://monocle.com/affairs/urbanism/southern-italy-entrepreneurship-revival/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/gxbvv3fr78m5/</guid>
 <pubDate>Fri, 26 Jun 2026 03:33:24 +0000</pubDate>
 <description>... Luxembourg as Royal State Visit Opens New Era of ... Luxury tourism, heritage tourism, cultural festivals, museum visits, educational travel ...</description>
-</item>
-<item>
-<title>FCDO updates France, Spain and Portugal advice amid heatwave - News - Travel Weekly</title>
-<link>https://travelweekly.co.uk/news/fcdo-updates-france-spain-and-portugal-advice-amid-heatwave</link>
-<guid isPermaLink="false">https://travelweekly.co.uk/news/fcdo-updates-france-spain-and-portugal-advice-amid-heatwave</guid>
-<pubDate>Wed, 24 Jun 2026 08:33:03 +0000</pubDate>
-<description>Meanwhile, Belgium, Luxembourg ... The BBC noted climate change is driving up temperatures around the world but particularly in Europe.</description>
 </item>
 </channel>
 </rss>
