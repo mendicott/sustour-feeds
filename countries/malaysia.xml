@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/malaysia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Malaysia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 03 Jul 2026 22:09:05 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 10:08:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Green Sabah is leading Malaysia's climate future</title>
+<link>https://www.dailyexpress.com.my/news/284170/green-sabah-is-leading-malaysia-s-climate-future/</link>
+<guid isPermaLink="false">https://www.dailyexpress.com.my/news/284170/green-sabah-is-leading-malaysia-s-climate-future/</guid>
+<pubDate>Sat, 04 Jul 2026 06:35:31 +0000</pubDate>
+<description>Sabah's forests are not only important for the state and are vital for Malaysia. By protecting its forests and expanding nature-based climate ...</description>
+</item>
 <item>
 <title>The pearl of the rainforest - The Malaysian Reserve</title>
 <link>https://themalaysianreserve.com/2026/07/01/the-pearl-of-the-rainforest/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/80vipuskt876/</guid>
 <pubDate>Mon, 08 Jun 2026 22:58:42 +0000</pubDate>
 <description>Explore how Thailand and Malaysia are elevating luxury and cultural tourism in 2026 with immersive, sustainable, and authentic travel experiences.</description>
-</item>
-<item>
-<title>Sustainable growth | The Star Malaysia - Star2 - PressReader</title>
-<link>https://www.pressreader.com/malaysia/the-star-malaysia-star2/20260609/281651081790703</link>
-<guid isPermaLink="false">https://www.pressreader.com/malaysia/the-star-malaysia-star2/20260609/281651081790703</guid>
-<pubDate>Mon, 08 Jun 2026 20:45:16 +0000</pubDate>
-<description>This is the first geopark entrepreneur development module in the country aimed at strengthening the capacity of tourism and service industry players ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/austria.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Austria. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 03 Jul 2026 22:09:05 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 10:08:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Salzburg Teams Up with Hallstatt, Vienna and Austrian Alpine Destinations Aggressively ...</title>
+<link>https://www.travelandtourworld.com/news/article/1etqypeao0sb/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/1etqypeao0sb/</guid>
+<pubDate>Sat, 04 Jul 2026 08:10:25 +0000</pubDate>
+<description>Austria tightens overtourism controls as Salzburg, Hallstatt, Vienna and Alpine destinations enforce 2026 driving bans.</description>
+</item>
 <item>
 <title>Italy Joins France, Greece, Ireland, Austria, Switzerland, and Portugal in Turning Heritage ...</title>
 <link>https://www.travelandtourworld.com/news/article/rhzn9afe7b2s/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.vienna.at/vacation-without-flying-lower-austria-launches-summer-offensive/10269188</guid>
 <pubDate>Mon, 22 Jun 2026 07:01:53 +0000</pubDate>
 <description>Jet lag, carry-on luggage, or long waiting times? The new summer campaign of Lower Austria promotes vacation experiences without air travel ...</description>
-</item>
-<item>
-<title>Spain Joins Italy, Greece, Portugal, Netherlands, France, Croatia, Iceland, Austria, And Norway</title>
-<link>https://www.travelandtourworld.com/news/article/p8hbgvm08idn/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/p8hbgvm08idn/</guid>
-<pubDate>Sat, 20 Jun 2026 15:48:59 +0000</pubDate>
-<description>Spain, Italy and Europe tackle overtourism in 2026 as new rules reshape travel, tourism and local communities. amid changes in 26.</description>
 </item>
 </channel>
 </rss>

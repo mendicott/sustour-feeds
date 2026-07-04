@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/thailand.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Thailand. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 03 Jul 2026 22:09:05 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 10:08:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>The contradiction of Thailand's 'ethical' elephant sanctuaries - Thaiger</title>
+<link>https://thethaiger.com/guides/the-contradiction-of-thailands-ethical-elephant-sanctuaries</link>
+<guid isPermaLink="false">https://thethaiger.com/guides/the-contradiction-of-thailands-ethical-elephant-sanctuaries</guid>
+<pubDate>Fri, 03 Jul 2026 19:26:57 +0000</pubDate>
+<description>Others realised their opportunity to profit from the growing tourism industry by training their elephants to perform for tourists' entertainment.</description>
+</item>
 <item>
 <title>Thailand's zero-waste islands shape the future of sustainable travel - Nation Thailand</title>
 <link>https://www.nationthailand.com/sustaination/40068141</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.lifestyleasia.com/bk/travel/asia/a-locals-guide-to-thailand-slow-travel-in-nan-where-to-stay-what-to-do-nan-thailand/</guid>
 <pubDate>Wed, 24 Jun 2026 11:43:17 +0000</pubDate>
 <description>Community-based tourism, local crafts, and agriculture, all bases of the slow travel movement, are deeply woven into daily life here. How to get from ...</description>
-</item>
-<item>
-<title>A Journey Through Wellness, Sustainability and Authentic Thai Hospitality in Krabi &amp; Koh Lanta</title>
-<link>https://www.devdiscourse.com/article/business/3939301-a-journey-through-wellness-sustainability-and-authentic-thai-hospitality-in-krabi-koh-lanta?amp</link>
-<guid isPermaLink="false">https://www.devdiscourse.com/article/business/3939301-a-journey-through-wellness-sustainability-and-authentic-thai-hospitality-in-krabi-koh-lanta?amp</guid>
-<pubDate>Tue, 23 Jun 2026 11:11:44 +0000</pubDate>
-<description>A recent journey through Krabi and Koh Lanta in Southern Thailand revealed a destination where sustainability, wellness, and community-based tourism ...</description>
 </item>
 </channel>
 </rss>
