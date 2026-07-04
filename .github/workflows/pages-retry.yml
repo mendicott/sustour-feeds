@@ -1,0 +1,41 @@
+# GitHub's automatic "pages build and deployment" workflow occasionally fails
+# with a transient "Deployment failed, try again later" on GitHub's side.
+# That workflow is auto-generated and cannot be edited, so this one checks the
+# latest deployment on a schedule and requests a rebuild if it failed.
+name: pages-deploy-retry
+
+on:
+  schedule:
+    - cron: "20,50 * * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Request a rebuild even if the last deployment succeeded (for testing)"
+        type: boolean
+        default: false
+
+permissions:
+  pages: write
+  actions: read
+
+concurrency:
+  group: pages-deploy-retry
+  cancel-in-progress: false
+
+jobs:
+  retry:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Rebuild Pages if the last deployment failed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          latest=$(gh api "repos/${{ github.repository }}/actions/runs?per_page=20" \
+            --jq '[.workflow_runs[] | select(.name == "pages build and deployment" and .status == "completed")][0].conclusion')
+          echo "Latest pages deployment conclusion: ${latest:-none}"
+          if [ "$latest" = "failure" ] || [ "${{ inputs.force }}" = "true" ]; then
+            echo "Requesting Pages rebuild"
+            gh api -X POST "repos/${{ github.repository }}/pages/builds"
+          else
+            echo "Nothing to do"
+          fi
