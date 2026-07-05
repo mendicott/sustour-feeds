@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/japan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Japan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 05 Jul 2026 10:08:13 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 22:07:49 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Japan introduces new measures to manage overtourism</title>
+<link>https://www.traveldailynews.asia/tourism-policy/japan-introduces-new-measures-to-manage-overtourism/</link>
+<guid isPermaLink="false">https://www.traveldailynews.asia/tourism-policy/japan-introduces-new-measures-to-manage-overtourism/</guid>
+<pubDate>Sun, 05 Jul 2026 17:14:05 +0000</pubDate>
+<description>Japan's overtourism measures include a higher departure tax and new visitor restrictions in Kyoto.</description>
+</item>
 <item>
 <title>Japan pledges USD 3 mln to support Caspian Sea sustainability - Qazinform</title>
 <link>https://qazinform.com/amp/japan-pledges-usd-3-mln-to-support-caspian-sea-sustainability-e604d6/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://english.kyodonews.net/articles/-/79017</guid>
 <pubDate>Wed, 01 Jul 2026 07:35:16 +0000</pubDate>
 <description>Japan triples departure tax to combat overtourism, visa fees up 5-fold ... TOKYO - The Japanese government on Wednesday tripled the departure ...</description>
-</item>
-<item>
-<title>Japan raises visa fees fivefold to tackle overtourism - Nikkei Asia</title>
-<link>https://asia.nikkei.com/business/travel-leisure/japan-raises-visa-fees-fivefold-to-tackle-overtourism2</link>
-<guid isPermaLink="false">https://asia.nikkei.com/business/travel-leisure/japan-raises-visa-fees-fivefold-to-tackle-overtourism2</guid>
-<pubDate>Wed, 01 Jul 2026 06:43:04 +0000</pubDate>
-<description>... overtourism. The authorities are also trying to spur more Japanese to get passports. Significantly fewer Japanese, as a share of the population ...</description>
 </item>
 </channel>
 </rss>

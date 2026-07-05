@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/luxembourg.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Luxembourg. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 05 Jul 2026 10:08:13 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 22:07:49 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Climate change: High water temperatures threaten Luxembourg's aquatic life - RTL Today</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://today.rtl.lu/news/luxembourg/high-water-temperatures-threaten-luxembourgs-aquatic-life-790526356</guid>
 <pubDate>Tue, 30 Jun 2026 06:31:38 +0000</pubDate>
 <description>Luxembourg and EU officials have warned that rising water temperatures are putting fish and aquatic ecosystems under growing pressure, ...</description>
+</item>
+<item>
+<title>Greece offers bounty to catch ravenous fish lured by warming sea | Luxembourg Times</title>
+<link>https://www.luxtimes.lu/europeanunion/greece-offers-bounty-to-catch-ravenous-fish-lured-by-warming-sea/158283452.html</link>
+<guid isPermaLink="false">https://www.luxtimes.lu/europeanunion/greece-offers-bounty-to-catch-ravenous-fish-lured-by-warming-sea/158283452.html</guid>
+<pubDate>Sun, 05 Jul 2026 15:26:35 +0000</pubDate>
+<description>Fishing and tourism are two of the most important industries on ... Climate Change Service. Global warming is spurring a host of marine invasions.</description>
 </item>
 <item>
 <title>Hidden all along?: Green toad confirmed in Luxembourg for the first time - RTL Today</title>
@@ -65,18 +72,11 @@
 <description>... Luxembourg tourism, sandstone formations Luxembourg, aerial Luxembourg, drone footage Luxembourg, drone landscape Europe, cinematic nature video.</description>
 </item>
 <item>
-<title>More Than a Postcard: 120 years of tourism through the lens - RTL Today</title>
-<link>https://today.rtl.lu/culture/exhibitions-and-history/120-years-of-tourism-through-the-lens-168623428</link>
-<guid isPermaLink="false">https://today.rtl.lu/culture/exhibitions-and-history/120-years-of-tourism-through-the-lens-168623428</guid>
-<pubDate>Sat, 04 Jul 2026 16:08:02 +0000</pubDate>
-<description>Spanning 120 years, a new exhibition from the Luxembourg City Photothèque explores how tourism has shaped images of Luxembourg and destinations ...</description>
-</item>
-<item>
-<title>Why Young Entrepreneurs Are Betting on Southern Italy - Monocle</title>
-<link>https://monocle.com/affairs/urbanism/southern-italy-entrepreneurship-revival/</link>
-<guid isPermaLink="false">https://monocle.com/affairs/urbanism/southern-italy-entrepreneurship-revival/</guid>
-<pubDate>Sat, 04 Jul 2026 02:27:56 +0000</pubDate>
-<description>Elena Militello was living in Luxembourg when coronavirus emerged. It took her three days of travelling by land and sea to return home to Sicily. It ...</description>
+<title>Out and about with the 'reservoir ranger' on hottest day of the year - Luxembourg Times</title>
+<link>https://www.luxtimes.lu/luxembourg/out-and-about-with-the-reservoir-ranger-on-hottest-day-of-the-year/158063556.html</link>
+<guid isPermaLink="false">https://www.luxtimes.lu/luxembourg/out-and-about-with-the-reservoir-ranger-on-hottest-day-of-the-year/158063556.html</guid>
+<pubDate>Sun, 05 Jul 2026 17:45:56 +0000</pubDate>
+<description>Heat, parking chaos and litter at the Obersauer Reservoir: Read on to find out how Ranger Tom Schmit protects nature and visitors, and what you ...</description>
 </item>
 </channel>
 </rss>

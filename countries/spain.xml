@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 05 Jul 2026 10:08:13 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 22:07:49 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Spain Teams Up With France, Finland, Germany, Netherlands, UK and Italy to Drive a New ...</title>
+<link>https://www.travelandtourworld.com/news/article/ayt45eoai4c1/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ayt45eoai4c1/</guid>
+<pubDate>Sun, 05 Jul 2026 16:29:59 +0000</pubDate>
+<description>Spain Teams Up With France, Finland, Germany, Netherlands, UK and Italy to Drive a New Wave of Eco Tourism and Bird Watching Travel Across Europe's ...</description>
+</item>
 <item>
 <title>Spain Aligns With Italy, Netherlands, Greece, France and More Countries in Europe's ...</title>
 <link>https://www.travelandtourworld.com/news/article/7yujiw62trrl/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/70xw0jc55hcu/</guid>
 <pubDate>Sun, 28 Jun 2026 19:44:49 +0000</pubDate>
 <description>Protecting residential neighbourhoods from overtourism; Preserving cultural and historical heritage sites; Improving public space management in ...</description>
-</item>
-<item>
-<title>Portugal Stands With Spain, Italy, France and Others to Implement Aggressive Overtourism ...</title>
-<link>https://www.travelandtourworld.com/news/article/hdh0kf1cfimv/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/hdh0kf1cfimv/</guid>
-<pubDate>Sat, 27 Jun 2026 11:13:19 +0000</pubDate>
-<description>Portugal, Spain, Italy, France and others enforce overtourism crackdown with higher taxes, entry fees and visitor caps across Southern Europe.</description>
 </item>
 </channel>
 </rss>
