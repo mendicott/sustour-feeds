@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/kenya.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Kenya. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 04 Jul 2026 22:08:02 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 10:08:13 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Govt announces free access to national parks and museums on Jamuhuri Day</title>
+<link>https://eastleighvoice.co.ke/index.php/city-affairs/6233/govt-announces-free-access-to-national-parks-and-museums-on-jamuhuri-day</link>
+<guid isPermaLink="false">https://eastleighvoice.co.ke/index.php/city-affairs/6233/govt-announces-free-access-to-national-parks-and-museums-on-jamuhuri-day</guid>
+<pubDate>Sat, 04 Jul 2026 22:52:31 +0000</pubDate>
+<description>... Marine Park, Mount Elgon National Park, Mount Kenya National Park ... Tourism stakeholders warn Ebola misinformation is hurting travel bookings ...</description>
+</item>
 <item>
 <title>Lawsuit Seeks to Halt Maasai Mara Luxury Tourism Construction - Mjengo Hub</title>
 <link>https://mjengohub.co.ke/articles/news/lawsuit-seeks-to-halt-maasai-mara-luxury-tourism-construction</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://news.mongabay.com/short-article/kenyas-overcrowded-safaris-wildlife-for-who/</guid>
 <pubDate>Sun, 28 Jun 2026 18:48:46 +0000</pubDate>
 <description>The popularity of African safaris has led to a boom in safari companies, and scenes of overcrowded wildlife sightings and new tourism developments ...</description>
-</item>
-<item>
-<title>Tanzania Aligns United States, Kenya, Zanzibar, Uganda, Africa's Southern Safari Corridor ...</title>
-<link>https://www.travelandtourworld.com/news/article/8oq1h24qw0bg/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/8oq1h24qw0bg/</guid>
-<pubDate>Sat, 27 Jun 2026 12:41:28 +0000</pubDate>
-<description>... tourism, biodiversity conservation and immersive nature-based travel beyond the traditional Northern Circuit. Tanzania is reshaping its global tourism ...</description>
 </item>
 </channel>
 </rss>

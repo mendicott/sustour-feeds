@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/syria.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Syria. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 04 Jul 2026 22:08:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 10:08:13 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Syria inspects Hiroshima's experiment in reconstruction and post-disaster planning</title>
+<link>https://www.arabnews.com/node/2649680/middle-east</link>
+<guid isPermaLink="false">https://www.arabnews.com/node/2649680/middle-east</guid>
+<pubDate>Sat, 04 Jul 2026 20:14:56 +0000</pubDate>
+<description>Related · Syrian authorities arrest leading trafficker in latest anti-drug operation · Syria secures first national Green Climate Fund project to tackle ...</description>
+</item>
 <item>
 <title>Syria secures first national Green Climate Fund project to tackle water scarcity</title>
 <link>https://www.arabnews.pk/node/2649611/middle-east</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.blueridgeoutdoors.com/sponsored-content/experience-trail-days-in-damascus-va/</guid>
 <pubDate>Thu, 18 Jun 2026 15:08:11 +0000</pubDate>
 <description>Experience Trail Days in Damascus, VA ... Blue Ridge Outdoors is your guide to fly fishing, the Appalachian Trail, biking, travel, and more in the Blue ...</description>
-</item>
-<item>
-<title>Syria expands vegetation restoration projects in Badia to combat desertification</title>
-<link>https://sana.sy/en/economic/2323874/</link>
-<guid isPermaLink="false">https://sana.sy/en/economic/2323874/</guid>
-<pubDate>Wed, 17 Jun 2026 08:26:15 +0000</pubDate>
-<description>... climate change, recurring droughts and unsustainable land-use practices. According to the authority, nearly 75% of the region has been affected to ...</description>
 </item>
 </channel>
 </rss>

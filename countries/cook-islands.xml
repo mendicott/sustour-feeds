@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/cook-islands.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Cook Islands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 04 Jul 2026 22:08:02 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 10:08:13 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Pacific leaders gather to strengthen Indigenous-led conservation - Cook Islands News</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">http://www.cookislandsnews.com/internal/national/environment/te-ipukarea-society-turns-30/</guid>
 <pubDate>Fri, 19 Jun 2026 18:21:32 +0000</pubDate>
 <description>According to TIS, during the 1980s, rising tourism repeatedly sidelined environmental priorities, highlighting the need for proactive preservation. By ...</description>
+</item>
+<item>
+<title>Cook Islands Government accelerates renewable energy push</title>
+<link>https://www.cookislandsnews.com/internal/national/local/environment/outer-islands/technology/economy/cook-islands-government-accelerates-renewable-energy-push/</link>
+<guid isPermaLink="false">https://www.cookislandsnews.com/internal/national/local/environment/outer-islands/technology/economy/cook-islands-government-accelerates-renewable-energy-push/</guid>
+<pubDate>Sat, 04 Jul 2026 12:31:21 +0000</pubDate>
+<description>After failing to achieve earlier targets, the government has accelerated its renewable energy pledge with a solar project aimed at cutting diesel ...</description>
 </item>
 <item>
 <title>Avana Nui historical site enhanced with new cultural signage, seating - Cook Islands News</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.cookislandsnews.com/internal/national/local/culture/tourism/avana-project-underway-as-sunday-tour-restrictions-introduced/</guid>
 <pubDate>Fri, 05 Jun 2026 19:16:19 +0000</pubDate>
 <description>Work has begun on a major project at the Avananui Maruarua site in Ngatangiia, aimed at improving the visitor experience while preserving and ...</description>
-</item>
-<item>
-<title>NES finalising key coastal protection study - Cook Islands News</title>
-<link>https://www.cookislandsnews.com/internal/national/local/environment/parliament/nes-finalising-key-coastal-protection-study/</link>
-<guid isPermaLink="false">https://www.cookislandsnews.com/internal/national/local/environment/parliament/nes-finalising-key-coastal-protection-study/</guid>
-<pubDate>Wed, 01 Jul 2026 18:45:27 +0000</pubDate>
-<description>The National Environment Service (NES) is finalising the Coastal Management Feasibility Study conducted by Beca International Consultants Ltd last ...</description>
 </item>
 </channel>
 </rss>

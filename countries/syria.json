@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.arabnews.com/node/2649680/middle-east",
+      "url": "https://www.arabnews.com/node/2649680/middle-east",
+      "title": "Syria inspects Hiroshima's experiment in reconstruction and post-disaster planning",
+      "content_text": "Related · Syrian authorities arrest leading trafficker in latest anti-drug operation · Syria secures first national Green Climate Fund project to tackle ...",
+      "date_published": "2026-07-04T20:14:56+00:00"
+    },
+    {
       "id": "https://www.arabnews.pk/node/2649611/middle-east",
       "url": "https://www.arabnews.pk/node/2649611/middle-east",
       "title": "Syria secures first national Green Climate Fund project to tackle water scarcity",
@@ -68,13 +75,6 @@
       "title": "Experience Trail Days in Damascus, VA - Blue Ridge Outdoors Magazine",
       "content_text": "Experience Trail Days in Damascus, VA ... Blue Ridge Outdoors is your guide to fly fishing, the Appalachian Trail, biking, travel, and more in the Blue ...",
       "date_published": "2026-06-18T15:08:11+00:00"
-    },
-    {
-      "id": "https://sana.sy/en/economic/2323874/",
-      "url": "https://sana.sy/en/economic/2323874/",
-      "title": "Syria expands vegetation restoration projects in Badia to combat desertification",
-      "content_text": "... climate change, recurring droughts and unsustainable land-use practices. According to the authority, nearly 75% of the region has been affected to ...",
-      "date_published": "2026-06-17T08:26:15+00:00"
     }
   ]
 }

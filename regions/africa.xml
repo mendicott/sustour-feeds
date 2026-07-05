@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/africa.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Africa. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 04 Jul 2026 22:08:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 10:08:13 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Govt announces free access to national parks and museums on Jamuhuri Day</title>
+<link>https://eastleighvoice.co.ke/index.php/city-affairs/6233/govt-announces-free-access-to-national-parks-and-museums-on-jamuhuri-day</link>
+<guid isPermaLink="false">https://eastleighvoice.co.ke/index.php/city-affairs/6233/govt-announces-free-access-to-national-parks-and-museums-on-jamuhuri-day</guid>
+<pubDate>Sat, 04 Jul 2026 22:52:31 +0000</pubDate>
+<description>... Marine Park, Mount Elgon National Park, Mount Kenya National Park ... Tourism stakeholders warn Ebola misinformation is hurting travel bookings ...</description>
+</item>
 <item>
 <title>Lawsuit Seeks to Halt Maasai Mara Luxury Tourism Construction - Mjengo Hub</title>
 <link>https://mjengohub.co.ke/articles/news/lawsuit-seeks-to-halt-maasai-mara-luxury-tourism-construction</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://streamlinefeed.co.ke/news/tanzania-presents-serengeti-wildlife-stress-research-global-biodiversity-forum</guid>
 <pubDate>Thu, 02 Jul 2026 15:19:33 +0000</pubDate>
 <description>Tanzania National Parks presents pioneering, non-invasive research at a global forum, revealing how heavy tourism infrastructure triggers chronic ...</description>
-</item>
-<item>
-<title>The 2030 Countdown: Rainforest Alliance, Partners Reshape Congo Basin Land Use</title>
-<link>http://www.cameroon-tribune.cm/article.html/78323/fr.html/the-2030-countdown-rainforest-alliance-partners-reshape-congo-basin</link>
-<guid isPermaLink="false">http://www.cameroon-tribune.cm/article.html/78323/fr.html/the-2030-countdown-rainforest-alliance-partners-reshape-congo-basin</guid>
-<pubDate>Thu, 02 Jul 2026 13:13:35 +0000</pubDate>
-<description>A stakeholders meeting held in Yaounde on June 30, 2026 to discuss a new blueprint for sustainable farming and forest survival.</description>
 </item>
 </channel>
 </rss>

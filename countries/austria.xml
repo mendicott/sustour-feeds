@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/austria.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Austria. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 04 Jul 2026 22:08:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 10:08:13 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Tourism's toll on the world's most scenic villages - MSN</title>
+<link>https://www.msn.com/en-us/travel/article/tourisms-toll-on-the-worlds-most-scenic-villages/ss-AA25BZPK</link>
+<guid isPermaLink="false">https://www.msn.com/en-us/travel/article/tourisms-toll-on-the-worlds-most-scenic-villages/ss-AA25BZPK</guid>
+<pubDate>Sat, 04 Jul 2026 19:37:41 +0000</pubDate>
+<description>Overtourism in Hallstatt, Austria — Bailey J. Ahlberg | baileyjahlberg.com. Overtourism in Hallstatt: Dream vs. Crowds - mountain-tours.at ...</description>
+</item>
 <item>
 <title>Salzburg Teams Up with Hallstatt, Vienna and Austrian Alpine Destinations Aggressively ...</title>
 <link>https://www.travelandtourworld.com/news/article/1etqypeao0sb/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ae9to67uqenv/</guid>
 <pubDate>Mon, 22 Jun 2026 07:47:22 +0000</pubDate>
 <description>Austria strengthens sustainable travel leadership as OeBB's expanding overnight rail network boosts cross-border tourism across Europe.</description>
-</item>
-<item>
-<title>Vacation Without Flying: Lower Austria Launches Summer Offensive - VIENNA.AT</title>
-<link>https://www.vienna.at/vacation-without-flying-lower-austria-launches-summer-offensive/10269188</link>
-<guid isPermaLink="false">https://www.vienna.at/vacation-without-flying-lower-austria-launches-summer-offensive/10269188</guid>
-<pubDate>Mon, 22 Jun 2026 07:01:53 +0000</pubDate>
-<description>Jet lag, carry-on luggage, or long waiting times? The new summer campaign of Lower Austria promotes vacation experiences without air travel ...</description>
 </item>
 </channel>
 </rss>
