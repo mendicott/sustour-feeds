@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/slovakia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Slovakia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 06 Jul 2026 10:08:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 22:09:31 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Tired of tourists, the residents of a village in Slovakia want to give up their UNESCO status.</title>
+<link>https://informat.ro/en/international/conflict-between-locals-and-tourists-in-the-vlkolinec-open-air-museum-village-129317</link>
+<guid isPermaLink="false">https://informat.ro/en/international/conflict-between-locals-and-tourists-in-the-vlkolinec-open-air-museum-village-129317</guid>
+<pubDate>Mon, 06 Jul 2026 17:19:01 +0000</pubDate>
+<description>This museum-village, included in the UNESCO World Heritage since 1993, is distinguished by its wooden architecture, but attracts over 100,000 visitors ...</description>
+</item>
 <item>
 <title>Slovakia UNESCO village strains under overtourism | Taipei Times - PressReader</title>
 <link>https://www.pressreader.com/taiwan/taipei-times/20260704/281651081843919</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www2.fundsforngos.org/individuals/wiki-loves-earth-photography-competition-2026-in-slovakia/amp/</guid>
 <pubDate>Fri, 03 Jul 2026 08:51:30 +0000</pubDate>
 <description>... heritage through freely licensed photographs. Eligible images must be ... Geological formations; Other officially protected environmental ...</description>
-</item>
-<item>
-<title>'Not a museum': Slovak UNESCO village strains under tourism - France 24</title>
-<link>https://www.france24.com/en/live-news/20260703-not-a-museum-slovak-unesco-village-strains-under-tourism</link>
-<guid isPermaLink="false">https://www.france24.com/en/live-news/20260703-not-a-museum-slovak-unesco-village-strains-under-tourism</guid>
-<pubDate>Fri, 03 Jul 2026 08:32:07 +0000</pubDate>
-<description>Vlkolínec (Slovakia) (AFP) – "Private property. No entry", "No photography" read the signs on a gate set up in front of a traditional log house in ...</description>
 </item>
 </channel>
 </rss>

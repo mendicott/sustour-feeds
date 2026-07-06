@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/croatia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Croatia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 06 Jul 2026 10:08:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 22:09:31 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>France Aligns With Italy, Portugal and Croatia to Escalate Europe Travel Shift as Calanques ...</title>
+<link>https://www.travelandtourworld.com/news/article/lah8spefggvv/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lah8spefggvv/</guid>
+<pubDate>Mon, 06 Jul 2026 07:57:09 +0000</pubDate>
+<description>Calanques visitor caps return in France for 2026, limiting access to Mediterranean beaches to curb overtourism and protect fragile ecosystems.</description>
+</item>
 <item>
 <title>Activists and residents protest overtourism and call for stronger protection of the island's ...</title>
 <link>https://www.reutersconnect.com/item/activists-and-residents-protest-overtourism-and-call-for-stronger-protection-of-the-islands-natural-coastal-areas-in-la-rapita-mallorca/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMks3TUE0NjJERg</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/rfu0qf78z8g4/</guid>
 <pubDate>Fri, 26 Jun 2026 09:54:57 +0000</pubDate>
 <description>Dubrovnik faces overtourism pressures as 1.3M visitors overwhelm 41000 residents, driving housing crisis and pushing Croatia's tourism reform ...</description>
-</item>
-<item>
-<title>Croatia Joins Spain, Italy, France, Greece, Netherlands, Portugal and Belgium as Europe's ...</title>
-<link>https://www.travelandtourworld.com/news/article/8g193s7zic7q/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/8g193s7zic7q/</guid>
-<pubDate>Thu, 25 Jun 2026 12:26:06 +0000</pubDate>
-<description>Croatia joins Spain, Italy, France and Greece as Dubrovnik's tourism boom fuels overtourism, housing pressure and calls for sustainable travel ...</description>
 </item>
 </channel>
 </rss>

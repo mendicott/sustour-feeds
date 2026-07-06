@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ireland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ireland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 06 Jul 2026 10:08:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 22:09:31 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Zipit Donadea: A New Benchmark for Sustainable Adventure Tourism in Ireland</title>
@@ -58,6 +58,13 @@
 <description>... sustainable tourism, education, cultural identity and community development. Supported by the UK National Commission to UNESCO and National ...</description>
 </item>
 <item>
+<title>Planning underway for first stage of West Clare Greenway</title>
+<link>https://www.clareecho.ie/planning-underway-for-first-stage-of-west-clare-greenway/</link>
+<guid isPermaLink="false">https://www.clareecho.ie/planning-underway-for-first-stage-of-west-clare-greenway/</guid>
+<pubDate>Mon, 06 Jul 2026 10:29:20 +0000</pubDate>
+<description>... tourism, active travel, built heritage and the natural environment. Experience elsewhere in Ireland has shown that greenways can also act as ...</description>
+</item>
+<item>
 <title>Europe's oversaturated tourism industry reaches tipping point - The Irish Times</title>
 <link>https://www.irishtimes.com/business/economy/2026/07/03/europes-oversaturated-tourism-industry-reaches-tipping-point/</link>
 <guid isPermaLink="false">https://www.irishtimes.com/business/economy/2026/07/03/europes-oversaturated-tourism-industry-reaches-tipping-point/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=5sl9Nyjp1Sc</guid>
 <pubDate>Tue, 30 Jun 2026 11:30:45 +0000</pubDate>
 <description>... tourism-related services. Irish authorities believe the measure will help ensure sustainable tourism while maintaining the country's appeal as one ...</description>
-</item>
-<item>
-<title>Ireland Joins Finland, Scotland, Austria and France in Eco-Tourism Expansion as Laois ...</title>
-<link>https://www.travelandtourworld.com/news/article/or5x4w1l4jul/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/or5x4w1l4jul/</guid>
-<pubDate>Mon, 29 Jun 2026 11:13:26 +0000</pubDate>
-<description>Laois expands eco-tourism with accessible woodland access and eco-stay accommodation under LEADER funding, boosting Ireland's rural travel ...</description>
 </item>
 </channel>
 </rss>

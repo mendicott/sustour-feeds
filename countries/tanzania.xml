@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/tanzania.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Tanzania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 06 Jul 2026 10:08:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 22:09:31 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>UNDP hails Great Ruaha Marathon for promoting conservation, sustainable tourism - IPP</title>
+<link>https://ippmedia.co.tz/the-guardian/news/local-news/read/undp-hails-great-ruaha-marathon-for-promoting-conservation-sustainable-tourism-2026-07-06-120951</link>
+<guid isPermaLink="false">https://ippmedia.co.tz/the-guardian/news/local-news/read/undp-hails-great-ruaha-marathon-for-promoting-conservation-sustainable-tourism-2026-07-06-120951</guid>
+<pubDate>Mon, 06 Jul 2026 15:10:59 +0000</pubDate>
+<description>Organisers have called on the Tanzania National Parks Authority and other stakeholders to accelerate investment in tourism infrastructure in and ...</description>
+</item>
 <item>
 <title>Rare geological site boosts geotourism prospects - Daily News Tanzania</title>
 <link>https://dailynews.co.tz/rare-geological-site-boosts-geotourism-prospects/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://tanzaniainsight.com/tfs-shinyanga-launches-ecotourism-initiative-to-boost-regional-revenue/</guid>
 <pubDate>Sun, 28 Jun 2026 06:21:08 +0000</pubDate>
 <description>... sustainable tourism that can provide economic benefits to both the government and local communities. The move comes as Tanzania continues to ...</description>
-</item>
-<item>
-<title>Uhuru Torch Relay launches a 2.6bn/- Magamba tourism project in Tanga | Tanzania Insight</title>
-<link>https://tanzaniainsight.com/uhuru-torch-relay-launches-a-2-6bn-magamba-tourism-project-in-tanga/</link>
-<guid isPermaLink="false">https://tanzaniainsight.com/uhuru-torch-relay-launches-a-2-6bn-magamba-tourism-project-in-tanga/</guid>
-<pubDate>Sat, 27 Jun 2026 12:59:21 +0000</pubDate>
-<description>A major eco-tourism project worth 2.5 billion Tanzanian shillings has broken ground in the Magamba Nature Reserve, marking a significant step ...</description>
 </item>
 </channel>
 </rss>
