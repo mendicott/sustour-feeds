@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/australia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Australia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 05 Jul 2026 22:07:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 10:08:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>APT's Kimberley Wilderness Adventures inducted into Ecotourism Australia Hall of Fame</title>
+<link>https://travelweekly.com.au/apts-kimberley-wilderness-adventures-inducted-into-ecotourism-australia-hall-of-fame/</link>
+<guid isPermaLink="false">https://travelweekly.com.au/apts-kimberley-wilderness-adventures-inducted-into-ecotourism-australia-hall-of-fame/</guid>
+<pubDate>Mon, 06 Jul 2026 04:15:57 +0000</pubDate>
+<description>APT's Kimberley Wilderness Adventures has been recognised for 20 consecutive years of long-term sustainable, conservation-focused tourism. "Reaching ...</description>
+</item>
 <item>
 <title>Staying afloat | The West Australian</title>
 <link>https://thewest.com.au/travel/staying-afloat-c-22351491</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://psnews.com.au/unwind-with-a-wow-factor-at-unbelievable-kimberley-houseboat-retreat/178846/</guid>
 <pubDate>Sat, 27 Jun 2026 21:33:39 +0000</pubDate>
 <description>The Western Australian Indigenous Tourism Operators Council (WAITOC) showcases more than 100 Aboriginal cultural encounters throughout Western ...</description>
-</item>
-<item>
-<title>Ecotourism Australia inducts six into Hall of Fame</title>
-<link>https://www.traveldailymedia.com/ecotourism-australia-inducts-six-into-hall-of-fame/</link>
-<guid isPermaLink="false">https://www.traveldailymedia.com/ecotourism-australia-inducts-six-into-hall-of-fame/</guid>
-<pubDate>Sat, 27 Jun 2026 08:18:28 +0000</pubDate>
-<description>Ecotourism Australia has inducted six operators into its Hall of Fame for their 20-year commitment to ECO Certification, coinciding with its 35th ...</description>
 </item>
 </channel>
 </rss>

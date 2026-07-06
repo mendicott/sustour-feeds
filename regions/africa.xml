@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/africa.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Africa. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 05 Jul 2026 22:07:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 10:08:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mountain Gorilla Conservation and Poverty Reduction - The Borgen Project</title>
+<link>https://borgenproject.org/mountain-gorilla-conservation/</link>
+<guid isPermaLink="false">https://borgenproject.org/mountain-gorilla-conservation/</guid>
+<pubDate>Sun, 05 Jul 2026 21:51:39 +0000</pubDate>
+<description>In Rwanda, Uganda and the Democratic Republic of the Congo, conservation policies centered on mountain gorillas are linking wildlife protection ...</description>
+</item>
 <item>
 <title>Govt announces free access to national parks and museums on Jamuhuri Day</title>
 <link>https://eastleighvoice.co.ke/index.php/city-affairs/6233/govt-announces-free-access-to-national-parks-and-museums-on-jamuhuri-day</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://streamlinefeed.co.ke/news/mount-mautias-rare-yoderite-discovery-elevates-tanzanias-global-geotourism-appeal</guid>
 <pubDate>Thu, 02 Jul 2026 15:22:22 +0000</pubDate>
 <description>Mount Mautia in Dodoma emerges as a global geotourism hub following the confirmation of rare Yoderite mineral formations, promising to diversify ...</description>
-</item>
-<item>
-<title>Tanzania Presents Groundbreaking Serengeti Wildlife Stress Research at Global Biodiversity Forum</title>
-<link>https://streamlinefeed.co.ke/news/tanzania-presents-serengeti-wildlife-stress-research-global-biodiversity-forum</link>
-<guid isPermaLink="false">https://streamlinefeed.co.ke/news/tanzania-presents-serengeti-wildlife-stress-research-global-biodiversity-forum</guid>
-<pubDate>Thu, 02 Jul 2026 15:19:33 +0000</pubDate>
-<description>Tanzania National Parks presents pioneering, non-invasive research at a global forum, revealing how heavy tourism infrastructure triggers chronic ...</description>
 </item>
 </channel>
 </rss>

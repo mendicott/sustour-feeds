@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.express.co.uk/news/uk/2225485/making-hay-sun-national-trust",
+      "url": "https://www.express.co.uk/news/uk/2225485/making-hay-sun-national-trust",
+      "title": "Making hay while the sun shines – National Trust spearheads meadow-regeneration plan",
+      "content_text": "Now a series of major meadow regeneration schemes spearheaded by the National Trust across England and Wales are reviving species-rich grasslands, ...",
+      "date_published": "2026-07-06T06:04:16+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/ayt45eoai4c1/",
       "url": "https://www.travelandtourworld.com/news/article/ayt45eoai4c1/",
       "title": "Spain Teams Up With France, Finland, Germany, Netherlands, UK and Italy to Drive a New ...",
@@ -68,13 +75,6 @@
       "title": "Kinabatangan River and Danum Valley Strengthen Malaysia Wildlife Tourism Appeal ...",
       "content_text": "Malaysia highlights wildlife tourism at UK BirdFair, showcasing Borneo and rainforest destinations for eco and birding travel.",
       "date_published": "2026-06-23T16:13:29+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/s5xbe1ld140r/",
-      "url": "https://www.travelandtourworld.com/news/article/s5xbe1ld140r/",
-      "title": "Brazil Joins United States, Canada, United Kingdom, France, Germany, Italy, Spain ...",
-      "content_text": "Community Tourism Creates New Opportunities. Community-based tourism has become one of Rio's fastest-growing travel segments. Local guides, artists, ...",
-      "date_published": "2026-06-21T15:25:07+00:00"
     }
   ]
 }

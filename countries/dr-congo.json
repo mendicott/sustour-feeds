@@ -7,11 +7,25 @@
   "language": "en",
   "items": [
     {
+      "id": "https://borgenproject.org/mountain-gorilla-conservation/",
+      "url": "https://borgenproject.org/mountain-gorilla-conservation/",
+      "title": "Mountain Gorilla Conservation and Poverty Reduction - The Borgen Project",
+      "content_text": "In Rwanda, Uganda and the Democratic Republic of the Congo, conservation policies centered on mountain gorillas are linking wildlife protection ...",
+      "date_published": "2026-07-05T21:51:39+00:00"
+    },
+    {
       "id": "https://nilepost.co.ug/animal-conservation/353765/cancer-deaths-of-four-mountain-gorillas-raise-regional-conservation-concerns",
       "url": "https://nilepost.co.ug/animal-conservation/353765/cancer-deaths-of-four-mountain-gorillas-raise-regional-conservation-concerns",
       "title": "Cancer Deaths of Four Mountain Gorillas Raise Regional Conservation Concerns | Nilepost",
       "content_text": "Conservationists have raised concern after four mountain gorillas in Rwanda and the Democratic Republic of Congo died of melanoma within a year, ...",
       "date_published": "2026-07-05T07:42:56+00:00"
+    },
+    {
+      "id": "https://observer.ug/business/civil-society-demands-transparency-in-uganda-drc-oil-talks/",
+      "url": "https://observer.ug/business/civil-society-demands-transparency-in-uganda-drc-oil-talks/",
+      "title": "Civil society demands transparency in Uganda–DRC oil talks - The Observer Media Ltd",
+      "content_text": "... tourism. Observers warn that uncoordinated or poorly regulated oil development could place additional strain on already vulnerable ecosystems ...",
+      "date_published": "2026-07-05T20:33:30+00:00"
     },
     {
       "id": "https://www.monitor.co.ug/uganda/news/national/denmark-s-klaus-thymann-detained-in-uganda-over-rwenzori-glacier-reports-5513570",
@@ -61,20 +75,6 @@
       "title": "Saudi Arabia suspends visas from 3 African countries and bans citizen travel over Ebola precautions",
       "content_text": "Saudi Arabia has suspended visas from the Democratic Republic of the Congo, Uganda and South Sudan and banned citizen travel as Ebola precautions ...",
       "date_published": "2026-06-26T18:40:38+00:00"
-    },
-    {
-      "id": "https://record.umich.edu/articles/u-m-public-health-teams-monitoring-ebola-supporting-safe-travel/",
-      "url": "https://record.umich.edu/articles/u-m-public-health-teams-monitoring-ebola-supporting-safe-travel/",
-      "title": "U-M public health teams monitoring Ebola, supporting safe travel | The University Record",
-      "content_text": "Amid the Ebola outbreak in the Democratic Republic of Congo, Uganda, and South Sudan, U-M travelers are reminded to register any international ...",
-      "date_published": "2026-06-23T13:54:34+00:00"
-    },
-    {
-      "id": "https://www.pressreader.com/eswatini/sunday-observer-eswatini-9zb5/20260705/282041923869944",
-      "url": "https://www.pressreader.com/eswatini/sunday-observer-eswatini-9zb5/20260705/282041923869944",
-      "title": "DRC, RWANDA BORDER RE-OPENS | Sunday Observer (Eswatini) - PressReader",
-      "content_text": "\"Since our airport in Goma is closed, people transited through Kigali to travel around the world,\" said Ponchelin Monyo, an education inspector.",
-      "date_published": "2026-07-05T03:18:27+00:00"
     }
   ]
 }

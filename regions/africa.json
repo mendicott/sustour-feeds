@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://borgenproject.org/mountain-gorilla-conservation/",
+      "url": "https://borgenproject.org/mountain-gorilla-conservation/",
+      "title": "Mountain Gorilla Conservation and Poverty Reduction - The Borgen Project",
+      "content_text": "In Rwanda, Uganda and the Democratic Republic of the Congo, conservation policies centered on mountain gorillas are linking wildlife protection ...",
+      "date_published": "2026-07-05T21:51:39+00:00"
+    },
+    {
       "id": "https://eastleighvoice.co.ke/index.php/city-affairs/6233/govt-announces-free-access-to-national-parks-and-museums-on-jamuhuri-day",
       "url": "https://eastleighvoice.co.ke/index.php/city-affairs/6233/govt-announces-free-access-to-national-parks-and-museums-on-jamuhuri-day",
       "title": "Govt announces free access to national parks and museums on Jamuhuri Day",
@@ -68,13 +75,6 @@
       "title": "Mount Mautia's Rare Yoderite Discovery Elevates Tanzania's Global Geotourism Appeal",
       "content_text": "Mount Mautia in Dodoma emerges as a global geotourism hub following the confirmation of rare Yoderite mineral formations, promising to diversify ...",
       "date_published": "2026-07-02T15:22:22+00:00"
-    },
-    {
-      "id": "https://streamlinefeed.co.ke/news/tanzania-presents-serengeti-wildlife-stress-research-global-biodiversity-forum",
-      "url": "https://streamlinefeed.co.ke/news/tanzania-presents-serengeti-wildlife-stress-research-global-biodiversity-forum",
-      "title": "Tanzania Presents Groundbreaking Serengeti Wildlife Stress Research at Global Biodiversity Forum",
-      "content_text": "Tanzania National Parks presents pioneering, non-invasive research at a global forum, revealing how heavy tourism infrastructure triggers chronic ...",
-      "date_published": "2026-07-02T15:19:33+00:00"
     }
   ]
 }

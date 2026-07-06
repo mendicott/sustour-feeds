@@ -6,14 +6,28 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/dr-congo.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for DR Congo. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 05 Jul 2026 22:07:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 10:08:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mountain Gorilla Conservation and Poverty Reduction - The Borgen Project</title>
+<link>https://borgenproject.org/mountain-gorilla-conservation/</link>
+<guid isPermaLink="false">https://borgenproject.org/mountain-gorilla-conservation/</guid>
+<pubDate>Sun, 05 Jul 2026 21:51:39 +0000</pubDate>
+<description>In Rwanda, Uganda and the Democratic Republic of the Congo, conservation policies centered on mountain gorillas are linking wildlife protection ...</description>
+</item>
 <item>
 <title>Cancer Deaths of Four Mountain Gorillas Raise Regional Conservation Concerns | Nilepost</title>
 <link>https://nilepost.co.ug/animal-conservation/353765/cancer-deaths-of-four-mountain-gorillas-raise-regional-conservation-concerns</link>
 <guid isPermaLink="false">https://nilepost.co.ug/animal-conservation/353765/cancer-deaths-of-four-mountain-gorillas-raise-regional-conservation-concerns</guid>
 <pubDate>Sun, 05 Jul 2026 07:42:56 +0000</pubDate>
 <description>Conservationists have raised concern after four mountain gorillas in Rwanda and the Democratic Republic of Congo died of melanoma within a year, ...</description>
+</item>
+<item>
+<title>Civil society demands transparency in Uganda–DRC oil talks - The Observer Media Ltd</title>
+<link>https://observer.ug/business/civil-society-demands-transparency-in-uganda-drc-oil-talks/</link>
+<guid isPermaLink="false">https://observer.ug/business/civil-society-demands-transparency-in-uganda-drc-oil-talks/</guid>
+<pubDate>Sun, 05 Jul 2026 20:33:30 +0000</pubDate>
+<description>... tourism. Observers warn that uncoordinated or poorly regulated oil development could place additional strain on already vulnerable ecosystems ...</description>
 </item>
 <item>
 <title>Denmark's Klaus Thymann detained in Uganda over Rwenzori glacier reports | Monitor</title>
@@ -63,20 +77,6 @@
 <guid isPermaLink="false">https://www.arabianbusiness.com/business/healthcare/saudi-arabia-ebola-travel-ban-visa-suspension</guid>
 <pubDate>Fri, 26 Jun 2026 18:40:38 +0000</pubDate>
 <description>Saudi Arabia has suspended visas from the Democratic Republic of the Congo, Uganda and South Sudan and banned citizen travel as Ebola precautions ...</description>
-</item>
-<item>
-<title>U-M public health teams monitoring Ebola, supporting safe travel | The University Record</title>
-<link>https://record.umich.edu/articles/u-m-public-health-teams-monitoring-ebola-supporting-safe-travel/</link>
-<guid isPermaLink="false">https://record.umich.edu/articles/u-m-public-health-teams-monitoring-ebola-supporting-safe-travel/</guid>
-<pubDate>Tue, 23 Jun 2026 13:54:34 +0000</pubDate>
-<description>Amid the Ebola outbreak in the Democratic Republic of Congo, Uganda, and South Sudan, U-M travelers are reminded to register any international ...</description>
-</item>
-<item>
-<title>DRC, RWANDA BORDER RE-OPENS | Sunday Observer (Eswatini) - PressReader</title>
-<link>https://www.pressreader.com/eswatini/sunday-observer-eswatini-9zb5/20260705/282041923869944</link>
-<guid isPermaLink="false">https://www.pressreader.com/eswatini/sunday-observer-eswatini-9zb5/20260705/282041923869944</guid>
-<pubDate>Sun, 05 Jul 2026 03:18:27 +0000</pubDate>
-<description>"Since our airport in Goma is closed, people transited through Kigali to travel around the world," said Ponchelin Monyo, an education inspector.</description>
 </item>
 </channel>
 </rss>
