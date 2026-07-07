@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/canada.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Canada. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 07 Jul 2026 10:09:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 22:09:42 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Venice could soon charge Canadian tourists $80 a day to visit | Daily Hive | National</title>
+<link>https://dailyhive.com/canada/venice-italy-canada-fee-increase</link>
+<guid isPermaLink="false">https://dailyhive.com/canada/venice-italy-canada-fee-increase</guid>
+<pubDate>Tue, 07 Jul 2026 15:27:37 +0000</pubDate>
+<description>According to Mayor Simone Venturini, the fee hike is meant to tackle overtourism during peak travel season. ADVERTISEMENT. "The admission fee is ...</description>
+</item>
 <item>
 <title>Mexico Teams Up With Chile, Costa Rica, United States, Finland, Portugal, Kenya, Canada ...</title>
 <link>https://www.travelandtourworld.com/news/article/dg0orazylvsc/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.facebook.com/JasperNP/photos/join-us-on-sunday-june-21-2026-for-national-indigenous-peoples-day-in-jasper-nat/1420086310163377/</guid>
 <pubDate>Thu, 18 Jun 2026 01:05:36 +0000</pubDate>
 <description>... Indigenous partners, Parks Canada, the Municipality of Jasper and Tourism Jasper will present a community gathering featuring cultural teachings ...</description>
-</item>
-<item>
-<title>Canada Sees Overtourism Reshape Travel Behaviour as Government Tourism Data ...</title>
-<link>https://www.travelandtourworld.com/news/article/9sumryzr3xu1/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/9sumryzr3xu1/</guid>
-<pubDate>Wed, 17 Jun 2026 19:22:17 +0000</pubDate>
-<description>Overtourism is changing Canadian travel habits, pushing demand for sustainable tourism, off-peak travel and less crowded destinations.</description>
 </item>
 </channel>
 </rss>

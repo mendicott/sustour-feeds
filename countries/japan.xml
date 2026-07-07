@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/japan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Japan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 07 Jul 2026 10:09:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 22:09:42 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Nations rewrite tourism playbooks as inflation and anti-tourism impede summer travel</title>
+<link>https://www.traveldailymedia.com/nations-rewrite-tourism-playbooks-as-inflation-and-anti-tourism-impede-summer-travel/</link>
+<guid isPermaLink="false">https://www.traveldailymedia.com/nations-rewrite-tourism-playbooks-as-inflation-and-anti-tourism-impede-summer-travel/</guid>
+<pubDate>Mon, 06 Jul 2026 23:06:57 +0000</pubDate>
+<description>Backlash from overtourism in major destinations like Japan, France, and the Maldives. These issues have actually given way to a new trend called ...</description>
+</item>
 <item>
 <title>From Wartime Relics to Living Heritage, Reimagining the Japanese Bunkers of the Andaman Islands</title>
 <link>https://andamansheekha.com/158935/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://japantoday.com/category/national/japan-triples-departure-tax-to-combat-overtourism-visa-fees-up-5-fold</guid>
 <pubDate>Thu, 02 Jul 2026 16:36:26 +0000</pubDate>
 <description>Combat over tourism but at the same time has tourist target, make sense? https://www.japantimes.co.jp/news/2026/01/21/japan/tough-road- ...</description>
-</item>
-<item>
-<title>Spain and Japan Partner to Redefine Sustainable Tourism Through Smarter Visitor ...</title>
-<link>https://www.travelandtourworld.com/news/article/6l4fbypo5c68/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/6l4fbypo5c68/</guid>
-<pubDate>Wed, 01 Jul 2026 17:13:23 +0000</pubDate>
-<description>Spain and Japan showcase sustainable tourism strategies in Tokyo, highlighting Barcelona's and Kyoto's efforts to tackle over-tourism and protect ...</description>
 </item>
 </channel>
 </rss>

@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.heraldscotland.com/news/national/uk-today/26256146.uk-travel-company-enters-liquidation-trips-cancelled/",
+      "url": "https://www.heraldscotland.com/news/national/uk-today/26256146.uk-travel-company-enters-liquidation-trips-cancelled/",
+      "title": "UK travel company enters liquidation as all trips cancelled - The Herald",
+      "content_text": "Global Vision International (GVI) offered programmes including nature and conservation trips, including locations such as Costa Rica, Fiji and more.",
+      "date_published": "2026-07-07T06:45:38+00:00"
+    },
+    {
       "id": "https://www.unesco.org/en/articles/unesco-and-fiji-strengthen-collaboration-protection-and-sustainable-management-levuka-historical",
       "url": "https://www.unesco.org/en/articles/unesco-and-fiji-strengthen-collaboration-protection-and-sustainable-management-levuka-historical",
       "title": "UNESCO and Fiji Strengthen Collaboration for the Protection and",
@@ -63,18 +70,11 @@
       "date_published": "2026-06-15T09:02:29+00:00"
     },
     {
-      "id": "https://www.kln.gov.my/c/blogs/find_entry?noSuchEntryRedirect=https%3A%2F%2Fwww.kln.gov.my%2Fweb%2Fguest%2Fhome%3Fp_p_id%3D115%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3D_118_INSTANCE_SvVsPxiTkC7R__column-1%26p_p_col_count%3D2%26_115_struts_action%3D%252Fblogs_aggregator%252Fview_entry%26_115_entryId%3D10415314&entryId=10415314",
-      "url": "https://www.kln.gov.my/c/blogs/find_entry?noSuchEntryRedirect=https%3A%2F%2Fwww.kln.gov.my%2Fweb%2Fguest%2Fhome%3Fp_p_id%3D115%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3D_118_INSTANCE_SvVsPxiTkC7R__column-1%26p_p_col_count%3D2%26_115_struts_action%3D%252Fblogs_aggregator%252Fview_entry%26_115_entryId%3D10415314&entryId=10415314",
-      "title": "NATUREFIJI-MAREQETIVITI (NF)'S 19TH ANNIVERSARY QUIZ NIGHT. - News From Mission",
-      "content_text": "We are pleased to share coverage from The Fiji Times highlighting NatureFiji ... climate change and ecosystems. The Malaysian community in Fiji ...",
-      "date_published": "2026-07-06T23:22:20+00:00"
-    },
-    {
-      "id": "https://www.heartsstandard.co.uk/news/26256146.uk-travel-company-enters-liquidation-trips-cancelled/",
-      "url": "https://www.heartsstandard.co.uk/news/26256146.uk-travel-company-enters-liquidation-trips-cancelled/",
-      "title": "UK travel company enters liquidation as all trips cancelled | Hearts Standard",
-      "content_text": "Global Vision International (GVI) offered programmes including nature and conservation trips, including locations such as Costa Rica, Fiji and more.",
-      "date_published": "2026-07-06T14:04:43+00:00"
+      "id": "https://fijisun.com.fj/news/tourism/agritourism-could-create-new-opportunities-for-fiji-says-tourism-fiji",
+      "url": "https://fijisun.com.fj/news/tourism/agritourism-could-create-new-opportunities-for-fiji-says-tourism-fiji",
+      "title": "Agritourism could create new opportunities for Fiji, says Tourism Fiji",
+      "content_text": "Chief executive officer Dr Paresh Pant said tourism, Fiji's largest income earner, had the potential to support sectors such as agriculture, ...",
+      "date_published": "2026-07-07T08:34:59+00:00"
     }
   ]
 }

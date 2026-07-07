@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/costa-rica.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Costa Rica. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 07 Jul 2026 10:09:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 22:09:42 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>UK travel company enters liquidation as all trips cancelled - The Herald</title>
+<link>https://www.heraldscotland.com/news/national/uk-today/26256146.uk-travel-company-enters-liquidation-trips-cancelled/</link>
+<guid isPermaLink="false">https://www.heraldscotland.com/news/national/uk-today/26256146.uk-travel-company-enters-liquidation-trips-cancelled/</guid>
+<pubDate>Tue, 07 Jul 2026 06:45:38 +0000</pubDate>
+<description>Global Vision International (GVI) offered programmes including nature and conservation trips, including locations such as Costa Rica, Fiji and more.</description>
+</item>
 <item>
 <title>Costa Rica Faces Protests After Removing Corcovado Park Director - The Tico Times</title>
 <link>https://ticotimes.net/2026/07/04/costa-rica-faces-protests-after-removing-corcovado-park-director</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/hwigz1oagmnq/</guid>
 <pubDate>Sat, 27 Jun 2026 11:08:33 +0000</pubDate>
 <description>Costa Rica, Belize, Peru, Chile and Ecuador drive global ecotourism growth with biodiversity travel, conservation tourism and sustainable travel ...</description>
-</item>
-<item>
-<title>Poachers Threaten One of Costa Rica's Best-Known Wildlife Refuges - The Tico Times</title>
-<link>https://ticotimes.net/2026/06/25/poachers-threaten-one-of-costa-ricas-best-known-wildlife-refuges</link>
-<guid isPermaLink="false">https://ticotimes.net/2026/06/25/poachers-threaten-one-of-costa-ricas-best-known-wildlife-refuges</guid>
-<pubDate>Thu, 25 Jun 2026 19:48:56 +0000</pubDate>
-<description>Camera traps at Costa Rica's Curú Wildlife Refuge have revealed illegal hunting activity, raising concerns for conservation, tourism and wildlife ...</description>
 </item>
 </channel>
 </rss>

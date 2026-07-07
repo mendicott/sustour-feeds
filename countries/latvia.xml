@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/latvia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Latvia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 07 Jul 2026 10:09:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 22:09:42 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Alpaca farming proves popular in Latvia's rural tourism - Reliable news from Latvia - LSM</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://eng.lsm.lv/article/society/environment/25.06.2026-alpaca-farming-proves-popular-in-latvias-rural-tourism.a652577/</guid>
 <pubDate>Thu, 25 Jun 2026 10:54:38 +0000</pubDate>
 <description>Alpaca farming has carved out a niche in Latvia's rural tourism sector. Although these animals are native to the Andes Mountains in South America, ...</description>
+</item>
+<item>
+<title>July and August account for nearly 30% of tourist visits to Latvia</title>
+<link>https://eng.lsm.lv/article/economy/economy/07.07.2026-july-and-august-account-for-nearly-30-of-tourist-visits-to-latvia.a654187/</link>
+<guid isPermaLink="false">https://eng.lsm.lv/article/economy/economy/07.07.2026-july-and-august-account-for-nearly-30-of-tourist-visits-to-latvia.a654187/</guid>
+<pubDate>Tue, 07 Jul 2026 17:53:19 +0000</pubDate>
+<description>The seasonality of tourism is driven by environmental factors, such as climate conditions and geographical location, together with social and cultural ...</description>
 </item>
 <item>
 <title>New tourist route created in Kuldīga - Reliable news from Latvia</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://eng.lsm.lv/article/economy/transport/03.07.2026-talks-resume-on-restoring-riga-stockholm-ferry-route.a653693/</guid>
 <pubDate>Fri, 03 Jul 2026 06:07:37 +0000</pubDate>
 <description>"The resumption of the Riga–Stockholm ferry route is important both for Latvia's residents and businesses and for the development of the tourism ...</description>
-</item>
-<item>
-<title>Riga Contemporary concludes record-breaking second edition with 17,000 visitors</title>
-<link>https://www.baltictimes.com/riga_contemporary_concludes_record-breaking_second_edition_with_17_000_visitors/</link>
-<guid isPermaLink="false">https://www.baltictimes.com/riga_contemporary_concludes_record-breaking_second_edition_with_17_000_visitors/</guid>
-<pubDate>Mon, 06 Jul 2026 19:19:16 +0000</pubDate>
-<description>... Riga Investment and Tourism Agency. This year's edition also introduced the Citadele Audience Choice Awards, presented together with the fair's ...</description>
 </item>
 </channel>
 </rss>

@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://petra.gov.jo/en/news/aqabas-eco-tour-boats-first-in-middle-east-to-earn-blue-flag-certification",
+      "url": "https://petra.gov.jo/en/news/aqabas-eco-tour-boats-first-in-middle-east-to-earn-blue-flag-certification",
+      "title": "Aqaba's Eco-Tour Boats First in Middle East to Earn Blue Flag Certification",
+      "content_text": "... Jordan's position as a destination for sustainable marine tourism. The Royal Marine Conservation Society of Jordan (JREDS) announced Tuesday that ...",
+      "date_published": "2026-07-07T09:13:21+00:00"
+    },
+    {
       "id": "https://petra.gov.jo/en/news/wadi-rum-reserve-chief-focus-is-on-biodiversity-arabian-oryx-protection",
       "url": "https://petra.gov.jo/en/news/wadi-rum-reserve-chief-focus-is-on-biodiversity-arabian-oryx-protection",
       "title": "Wadi Rum Reserve Chief: Focus is on Biodiversity, Arabian Oryx Protection",
@@ -68,13 +75,6 @@
       "title": "Palm Valley: Jordan's Rising Star for Sustainable Eco-Adventure Tourism",
       "content_text": "Explore Jordan's Palm Valley (Wadi Al-Ghweir), a premier eco-tourism destination offering hiking, adventure, and rich biodiversity near Dana ...",
       "date_published": "2026-07-04T13:19:19+00:00"
-    },
-    {
-      "id": "https://petra.gov.jo/en/news/eu-backed-project-launched-to-restore-machaerus-site",
-      "url": "https://petra.gov.jo/en/news/eu-backed-project-launched-to-restore-machaerus-site",
-      "title": "EU-Backed Project Launched to Restore Machaerus Site - The Jordan News Agency",
-      "content_text": "The launch ceremony was attended by Minister of Tourism and Antiquities Imad Hijazin, European Union Ambassador to Jordan Pierre-Christophe ...",
-      "date_published": "2026-07-03T01:08:03+00:00"
     }
   ]
 }

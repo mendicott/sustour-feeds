@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.heraldscotland.com/news/national/uk-today/26256146.uk-travel-company-enters-liquidation-trips-cancelled/",
+      "url": "https://www.heraldscotland.com/news/national/uk-today/26256146.uk-travel-company-enters-liquidation-trips-cancelled/",
+      "title": "UK travel company enters liquidation as all trips cancelled - The Herald",
+      "content_text": "Global Vision International (GVI) offered programmes including nature and conservation trips, including locations such as Costa Rica, Fiji and more.",
+      "date_published": "2026-07-07T06:45:38+00:00"
+    },
+    {
       "id": "https://ticotimes.net/2026/07/04/costa-rica-faces-protests-after-removing-corcovado-park-director",
       "url": "https://ticotimes.net/2026/07/04/costa-rica-faces-protests-after-removing-corcovado-park-director",
       "title": "Costa Rica Faces Protests After Removing Corcovado Park Director - The Tico Times",
@@ -68,13 +75,6 @@
       "title": "Costa Rica, Peru and Chile Dominate Global Nature Tourism as Ecotourism Reshapes ...",
       "content_text": "Costa Rica, Belize, Peru, Chile and Ecuador drive global ecotourism growth with biodiversity travel, conservation tourism and sustainable travel ...",
       "date_published": "2026-06-27T11:08:33+00:00"
-    },
-    {
-      "id": "https://ticotimes.net/2026/06/25/poachers-threaten-one-of-costa-ricas-best-known-wildlife-refuges",
-      "url": "https://ticotimes.net/2026/06/25/poachers-threaten-one-of-costa-ricas-best-known-wildlife-refuges",
-      "title": "Poachers Threaten One of Costa Rica's Best-Known Wildlife Refuges - The Tico Times",
-      "content_text": "Camera traps at Costa Rica's Curú Wildlife Refuge have revealed illegal hunting activity, raising concerns for conservation, tourism and wildlife ...",
-      "date_published": "2026-06-25T19:48:56+00:00"
     }
   ]
 }

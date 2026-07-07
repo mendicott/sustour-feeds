@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 07 Jul 2026 10:09:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 22:09:42 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Spain Conjoins Italy, Greece, France and More European Countries Tighten Visitor Limits ...</title>
+<link>https://www.travelandtourworld.com/news/article/f5zwkzuj4jhz/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/f5zwkzuj4jhz/</guid>
+<pubDate>Tue, 07 Jul 2026 12:06:12 +0000</pubDate>
+<description>These policies are designed to reduce overtourism, protect historic landmarks and improve the quality of life for local residents while maintaining ...</description>
+</item>
 <item>
 <title>Spain Teams Up With France, Finland, Germany, Netherlands, UK and Italy to Drive a New ...</title>
 <link>https://www.travelandtourworld.com/news/article/ayt45eoai4c1/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.thetraveler.org/spain-tightens-tourist-rules-in-barcelona-and-ibiza/</guid>
 <pubDate>Sun, 28 Jun 2026 20:47:35 +0000</pubDate>
 <description>Spain is rolling out tougher rules on tourist behaviour, alcohol use and taxes across Barcelona, Ibiza and other hotspots as pressure over overtourism</description>
-</item>
-<item>
-<title>Spain Issues Strict Tourist Warning as New Government Rules Target Visitor Behaviour ...</title>
-<link>https://www.travelandtourworld.com/news/article/70xw0jc55hcu/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/70xw0jc55hcu/</guid>
-<pubDate>Sun, 28 Jun 2026 19:44:49 +0000</pubDate>
-<description>Protecting residential neighbourhoods from overtourism; Preserving cultural and historical heritage sites; Improving public space management in ...</description>
 </item>
 </channel>
 </rss>

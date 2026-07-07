@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 07 Jul 2026 10:09:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 22:09:42 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Spain Conjoins Italy, Greece, France and More European Countries Tighten Visitor Limits ...</title>
+<link>https://www.travelandtourworld.com/news/article/f5zwkzuj4jhz/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/f5zwkzuj4jhz/</guid>
+<pubDate>Tue, 07 Jul 2026 12:06:12 +0000</pubDate>
+<description>These policies are designed to reduce overtourism, protect historic landmarks and improve the quality of life for local residents while maintaining ...</description>
+</item>
 <item>
 <title>Andros Greece Takes the Lead in Sustainable Tourism as Ancient Paths Unlock a Forgotten ...</title>
 <link>https://www.travelandtourworld.com/news/article/nxahtmppi93f/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://iustitia.bg/en/tourism-boom-faces-climate-and-overtourism-risks-bank-g/</guid>
 <pubDate>Fri, 26 Jun 2026 13:59:10 +0000</pubDate>
 <description>Greece's tourism boom faces growing pressure from climate change, overtourism, and rising strain on local... iustitia.bg Tourism Boom Faces ...</description>
-</item>
-<item>
-<title>Greece is at Risk as Climate Change and Overtourism Trigger Structural Warning for Urgent ...</title>
-<link>https://www.travelandtourworld.com/news/article/c3do5rj78snz/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/c3do5rj78snz/</guid>
-<pubDate>Fri, 26 Jun 2026 10:38:48 +0000</pubDate>
-<description>Greece faces climate and overtourism pressures as Bank of Greece urges shift to sustainable tourism, regional balance and green infrastructure.</description>
 </item>
 </channel>
 </rss>
