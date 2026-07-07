@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/poland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Poland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 06 Jul 2026 22:09:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 10:09:46 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Polish Students Visit Dubrovnik to Study Sustainable and Film Tourism</title>
@@ -44,6 +44,13 @@
 <description>The itinerary reflects the growing popularity of slow travel, heritage tourism, experiential cruising, and multi-country European vacations. Rather ...</description>
 </item>
 <item>
+<title>Europe Is Heating Up Again, Posing a Big Fire Risk</title>
+<link>https://www.nytimes.com/2026/07/06/weather/europe-heat-wave-latest-wildfire.html</link>
+<guid isPermaLink="false">https://www.nytimes.com/2026/07/06/weather/europe-heat-wave-latest-wildfire.html</guid>
+<pubDate>Mon, 06 Jul 2026 17:52:48 +0000</pubDate>
+<description>While tying a single heat wave to climate ... London Rome FINLAND FRANCE GERMANY GREECE HUNGARY ITALY POLAND SPAIN SWEDEN UKRAINE U.K. IRELAND ...</description>
+</item>
+<item>
 <title>Asia's 'most beautiful island' sees surge in travel searches from Poland and India</title>
 <link>https://e.vnexpress.net/news/travel/places/asia-s-most-beautiful-island-sees-surge-in-travel-searches-from-poland-and-india-5092512.html</link>
 <guid isPermaLink="false">https://e.vnexpress.net/news/travel/places/asia-s-most-beautiful-island-sees-surge-in-travel-searches-from-poland-and-india-5092512.html</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://thetourismtimes.com/news/climbing/andrzej-bargiel-makes-historic-nooxygen-ski-descent-from-nanga-parbat</guid>
 <pubDate>Tue, 30 Jun 2026 16:01:15 +0000</pubDate>
 <description>KATHMANDU: Polish extreme skier Andrzej Bargiel made history again by successfully skiing down from the summit of Nanga Parbat in Pakistan.</description>
-</item>
-<item>
-<title>Legacy and accessibility projects: Meet the winners of the GDS Awards in Poland (pure inspiration!)</title>
-<link>https://www.eventoplus.com/en/news/legacy-accessibility-projects-meet-the-winners-of-the-gds-awards-in-poland/</link>
-<guid isPermaLink="false">https://www.eventoplus.com/en/news/legacy-accessibility-projects-meet-the-winners-of-the-gds-awards-in-poland/</guid>
-<pubDate>Tue, 30 Jun 2026 11:58:50 +0000</pubDate>
-<description>The Gdańsk Tourism Organization won the Innovation Award for its project "Nothing about us without us," an initiative that promotes tourism ...</description>
 </item>
 </channel>
 </rss>

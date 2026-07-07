@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/france.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for France. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 06 Jul 2026 22:09:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 10:09:46 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Thailand Elevates France, Japan and Australia as Eco-Tourism Surge Builds as Pattaya ...</title>
+<link>https://www.travelandtourworld.com/news/article/cndvn7r8vin3/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/cndvn7r8vin3/</guid>
+<pubDate>Mon, 06 Jul 2026 08:07:10 +0000</pubDate>
+<description>... tourism direction focusing on sustainable tourism Thailand models and high-value travel experiences. ... Tourism Response to Thailand Coral Reef Project.</description>
+</item>
 <item>
 <title>France Aligns With Italy, Portugal and Croatia to Escalate Europe Travel Shift as Calanques ...</title>
 <link>https://www.travelandtourworld.com/news/article/lah8spefggvv/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/8g193s7zic7q/</guid>
 <pubDate>Thu, 25 Jun 2026 12:26:06 +0000</pubDate>
 <description>Croatia joins Spain, Italy, France and Greece as Dubrovnik's tourism boom fuels overtourism, housing pressure and calls for sustainable travel ...</description>
-</item>
-<item>
-<title>Spain Joins Italy, Greece, France, Portugal, Croatia, Malta, Turkey and Cyprus as Mallorca ...</title>
-<link>https://www.travelandtourworld.com/news/article/qe67ymwpgq5m/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/qe67ymwpgq5m/</guid>
-<pubDate>Thu, 25 Jun 2026 12:26:03 +0000</pubDate>
-<description>Spain will reduce summer cruise passenger arrivals in Mallorca from 2027 as Palma introduces new visitor limits to support sustainable tourism ...</description>
 </item>
 </channel>
 </rss>

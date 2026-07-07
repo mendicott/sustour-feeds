@@ -7,6 +7,20 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.taipeitimes.com/News/world/archives/2026/07/07/2003860368",
+      "url": "https://www.taipeitimes.com/News/world/archives/2026/07/07/2003860368",
+      "title": "East Africa pivots as overfishing exacts toll - Taipei Times",
+      "content_text": "Across East Africa, fisherfolk are increasingly turning to tourism, ecosystem restoration and other conservation-based businesses, reinventing ...",
+      "date_published": "2026-07-07T03:47:46+00:00"
+    },
+    {
+      "id": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/GTA-tackles-plastic-pollution-on-beaches-with-Blue-Ghana-Initiative-2042001",
+      "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/GTA-tackles-plastic-pollution-on-beaches-with-Blue-Ghana-Initiative-2042001",
+      "title": "GTA tackles plastic pollution on beaches with 'Blue Ghana Initiative'",
+      "content_text": "The Ghana Tourism Authority (GTA) is seeking to turn the recent floods in Accra into a catalyst for long-term environmental action with the launch ...",
+      "date_published": "2026-07-06T22:21:31+00:00"
+    },
+    {
       "id": "https://www.modernghana.com/news/1508194/gta-to-launch-nationwide-beach-clean-up-campaign.html",
       "url": "https://www.modernghana.com/news/1508194/gta-to-launch-nationwide-beach-clean-up-campaign.html",
       "title": "GTA to launch nationwide beach clean up campaign under Blue Ghana Initiative",
@@ -61,20 +75,6 @@
       "title": "Rights Groups Sue to Stop New Luxury Camps in Maasai Mara Over Threat to Wildebeest Migration",
       "content_text": "NAIROBI, Kenya Jul 2 – A coalition of regional legal and human rights organisations has filed a petition at the Environment and Land Court seeking ...",
       "date_published": "2026-07-02T19:55:15+00:00"
-    },
-    {
-      "id": "https://dailynews.co.tz/rare-geological-site-boosts-geotourism-prospects/",
-      "url": "https://dailynews.co.tz/rare-geological-site-boosts-geotourism-prospects/",
-      "title": "Rare geological site boosts geotourism prospects - Daily News Tanzania",
-      "content_text": "DODOMA: MOUNT Mautia in Kongwa District, Dodoma Region, is emerging as a potential global geotourism destination after scientists confirmed its ...",
-      "date_published": "2026-07-02T19:22:57+00:00"
-    },
-    {
-      "id": "https://www.kenyans.co.ke/news/124878-lawyers-move-court-stop-new-luxury-tourism-projects-maasai-mara",
-      "url": "https://www.kenyans.co.ke/news/124878-lawyers-move-court-stop-new-luxury-tourism-projects-maasai-mara",
-      "title": "Lawyers Move to Court to Stop New Luxury Tourism Projects in Maasai Mara",
-      "content_text": "The Kenya National Examinations Council (KNEC) offices in Nairobi. KNEC Sends New Directive to Schools Ahead of KPSEA, KJSEA Assessments. Thu, 2 Jul ...",
-      "date_published": "2026-07-02T17:46:46+00:00"
     }
   ]
 }

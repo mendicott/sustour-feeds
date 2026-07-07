@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/taiwan-china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Taiwan (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 06 Jul 2026 22:09:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 10:09:46 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>East Africa pivots as overfishing exacts toll - Taipei Times</title>
+<link>https://www.taipeitimes.com/News/world/archives/2026/07/07/2003860368</link>
+<guid isPermaLink="false">https://www.taipeitimes.com/News/world/archives/2026/07/07/2003860368</guid>
+<pubDate>Tue, 07 Jul 2026 03:47:46 +0000</pubDate>
+<description>Across East Africa, fisherfolk are increasingly turning to tourism, ecosystem restoration and other conservation-based businesses, reinventing ...</description>
+</item>
 <item>
 <title>Slovakia UNESCO village strains under overtourism | Taipei Times - PressReader</title>
 <link>https://www.pressreader.com/taiwan/taipei-times/20260704/281651081843919</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.magzter.com/stories/womens-interest/Womans-World/A-RESTSTOP-RESCUE</guid>
 <pubDate>Mon, 29 Jun 2026 09:06:26 +0000</pubDate>
 <description>On a sunny, hot day in April, my mother and I had just finished visiting YeLiu Geopark on the northern coast of Taiwan. - Kathleen Li, Austin, TX.</description>
-</item>
-<item>
-<title>What it's like being an indie band in Taiwan: Tiger Island - Rti</title>
-<link>https://www.rti.org.tw/en/programnews?uid=4&amp;pid=107806</link>
-<guid isPermaLink="false">https://www.rti.org.tw/en/programnews?uid=4&amp;pid=107806</guid>
-<pubDate>Sun, 28 Jun 2026 16:03:58 +0000</pubDate>
-<description>Red quinoa abai is displayed at the Taiwan Indigenous Tourism Festival 2026 at Taipei Main Station ... Tiger Island members at the Rti English office. ( ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 06 Jul 2026 22:09:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 10:09:46 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Andros Greece Takes the Lead in Sustainable Tourism as Ancient Paths Unlock a Forgotten ...</title>
+<link>https://www.travelandtourworld.com/news/article/nxahtmppi93f/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/nxahtmppi93f/</guid>
+<pubDate>Tue, 07 Jul 2026 05:27:23 +0000</pubDate>
+<description>Andros Greece promotes sustainable tourism through restored hiking paths, cultural heritage routes and nature experiences across the Cycladic ...</description>
+</item>
 <item>
 <title>Overtourism: Where are locals being priced out by rising rents? - Euronews</title>
 <link>https://www.euronews.com/my-europe/2026/07/03/overtourism-where-are-locals-being-priced-out-by-rising-rents</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/c3do5rj78snz/</guid>
 <pubDate>Fri, 26 Jun 2026 10:38:48 +0000</pubDate>
 <description>Greece faces climate and overtourism pressures as Bank of Greece urges shift to sustainable tourism, regional balance and green infrastructure.</description>
-</item>
-<item>
-<title>Rediscovering Arcadia, Greece: A New Frontier for Slow and Adventure Travel in the Peloponnese</title>
-<link>https://www.travelandtourworld.com/news/article/es8wt2wh9md8/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/es8wt2wh9md8/</guid>
-<pubDate>Fri, 26 Jun 2026 10:03:07 +0000</pubDate>
-<description>The Arcadia Hospitality Network is preparing to launch its first presence at London's Adventure Travel Show with a new and transformative take on ...</description>
 </item>
 </channel>
 </rss>

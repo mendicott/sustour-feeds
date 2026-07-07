@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ukraine.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ukraine. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 06 Jul 2026 22:09:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 10:09:46 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>In Ukraine, wild donkeys are reviving the steppe, and the first foal in 200 years was born</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://whc.unesco.org/en/news/2908</guid>
 <pubDate>Tue, 30 Jun 2026 18:55:31 +0000</pubDate>
 <description>On 25 June 2026, UNESCO formally handed over a comprehensive suite of strategic tools to support the protection and management of World Heritage ...</description>
+</item>
+<item>
+<title>Europe Is Heating Up Again, Posing a Big Fire Risk</title>
+<link>https://www.nytimes.com/2026/07/06/weather/europe-heat-wave-latest-wildfire.html</link>
+<guid isPermaLink="false">https://www.nytimes.com/2026/07/06/weather/europe-heat-wave-latest-wildfire.html</guid>
+<pubDate>Mon, 06 Jul 2026 17:52:48 +0000</pubDate>
+<description>While tying a single heat wave to climate ... London Rome FINLAND FRANCE GERMANY GREECE HUNGARY ITALY POLAND SPAIN SWEDEN UKRAINE U.K. IRELAND ...</description>
 </item>
 <item>
 <title>Egypt uncovers lost Byzantine-era city in the western desert | CNN</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://tvpworld.com/94105977/rare-giant-pigeons-find-new-home-in-warsaw</guid>
 <pubDate>Tue, 30 Jun 2026 18:00:48 +0000</pubDate>
 <description>... Endangered Species Programme (EEP). Only around 30 birds are kept ... More In Nature &amp; Travel. MORE... item.image.alt. On Ukraine's front line ...</description>
-</item>
-<item>
-<title>Armenia Aligns Georgia, Azerbaijan, Croatia, Ukraine and European Travel Partnerships as ...</title>
-<link>https://www.travelandtourworld.com/news/article/3jaa6tj2a1ww/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/3jaa6tj2a1ww/</guid>
-<pubDate>Mon, 29 Jun 2026 08:23:10 +0000</pubDate>
-<description>Armenia, Georgia and Azerbaijan strengthen regional connectivity, tourism, infrastructure and cultural initiatives, reshaping South Caucasus ...</description>
 </item>
 </channel>
 </rss>
