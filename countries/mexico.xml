@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 08 Jul 2026 10:09:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 22:10:09 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>MND Local: Ecological and tourism challenges for Baja California Sur's 3 oldest protected areas</title>
+<link>https://mexiconewsdaily.com/news/mnd-local-ecological-and-tourism-challenges-for-baja-california-surs-3-oldest-protected-areas/</link>
+<guid isPermaLink="false">https://mexiconewsdaily.com/news/mnd-local-ecological-and-tourism-challenges-for-baja-california-surs-3-oldest-protected-areas/</guid>
+<pubDate>Wed, 08 Jul 2026 21:17:49 +0000</pubDate>
+<description>Chris Sands is a writer and editor for Mexico News Daily, and the former Cabo San Lucas local expert for the USA Today travel website 10 Best and ...</description>
+</item>
 <item>
 <title>Mexico Teams Up With Chile, Costa Rica, United States, Finland, Portugal, Kenya, Canada ...</title>
 <link>https://www.travelandtourworld.com/news/article/dg0orazylvsc/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelpulse.com/news/destinations/mahahual-mexico-receives-protected-status-to-allow-only-ecotourism-development</guid>
 <pubDate>Wed, 10 Jun 2026 13:03:36 +0000</pubDate>
 <description>The destination will become a "benchmark" for Mexico ecotourism after rejecting Royal Caribbean's private destination development plans.</description>
-</item>
-<item>
-<title>Mexico Starts Holbox Circular Economy Pilot Program</title>
-<link>https://mexicobusiness.news/sustainability/news/mexico-starts-holbox-circular-economy-pilot-program</link>
-<guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/mexico-starts-holbox-circular-economy-pilot-program</guid>
-<pubDate>Wed, 10 Jun 2026 05:12:48 +0000</pubDate>
-<description>Federal officials said the island was selected because of its ecological vulnerability, international tourism profile, potential for replication ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/colombia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Colombia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 08 Jul 2026 10:09:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 22:10:09 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>#economy: From the Andes to Aotearoa: Dale Stephens Says Māori Tourism Can Help ...</title>
+<link>https://waateanews.com/2026/07/08/from-the-andes-to-aotearoa-dale-stephens-says-maori-tourism-can-help-shape-the-future/</link>
+<guid isPermaLink="false">https://waateanews.com/2026/07/08/from-the-andes-to-aotearoa-dale-stephens-says-maori-tourism-can-help-shape-the-future/</guid>
+<pubDate>Wed, 08 Jul 2026 11:01:27 +0000</pubDate>
+<description>After time travelling through Colombia and Ecuador, Māori tourism leader Dale Stephens is back with fresh insights into how indigenous-led tourism ...</description>
+</item>
 <item>
 <title>Ambalema: The Colombian Town Building Its Future Around Birds | Audubon</title>
 <link>https://www.audubon.org/news/ambalema-colombian-town-building-its-future-around-birds</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ddkc4ranctt2/</guid>
 <pubDate>Mon, 06 Jul 2026 16:40:22 +0000</pubDate>
 <description>Explore Colombia Tourism 4.0: where AI, data, and community-led innovation are transforming travel into a sustainable and connected global model.</description>
-</item>
-<item>
-<title>Tourism 4.0 in Colombia: How TravelTech and Local Knowledge Are Powering Sustainable Tourism</title>
-<link>https://colombiaone.com/2026/07/05/tourism-4-0-in-colombia-sustainable-traveltech/</link>
-<guid isPermaLink="false">https://colombiaone.com/2026/07/05/tourism-4-0-in-colombia-sustainable-traveltech/</guid>
-<pubDate>Mon, 06 Jul 2026 03:32:37 +0000</pubDate>
-<description>Discover how Tourism 4.0 in Colombia uses AI, data, and TravelTech startups to support sustainable tourism, empower local communities, and create ...</description>
 </item>
 </channel>
 </rss>

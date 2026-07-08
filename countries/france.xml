@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/france.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for France. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 08 Jul 2026 10:09:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 22:10:09 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Switzerland Aligns with Italy, France, Austria, and Germany as Overtourism Challenges ...</title>
+<link>https://www.travelandtourworld.com/news/article/t1oh8k30s0ai/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/t1oh8k30s0ai/</guid>
+<pubDate>Wed, 08 Jul 2026 11:43:32 +0000</pubDate>
+<description>Switzerland aligns with Italy, France, Austria, and Germany to address overtourism through sustainable tourism, visitor management, and regional ...</description>
+</item>
 <item>
 <title>Cambodia wants to bring tigers back, but should it? - France 24</title>
 <link>https://www.france24.com/en/live-news/20260708-cambodia-wants-to-bring-tigers-back-but-should-it</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://tribune.net.ph/2026/06/30/french-polynesia-to-protect-more-pacific-ocean</guid>
 <pubDate>Tue, 30 Jun 2026 06:34:21 +0000</pubDate>
 <description>The existing 1.1 million square kilometers of fully protected waters are called "no-take zones, where only sustainable tourism activities and certain ...</description>
-</item>
-<item>
-<title>Portugal Stands With Spain, Italy, France and Others to Implement Aggressive Overtourism ...</title>
-<link>https://www.travelandtourworld.com/news/article/hdh0kf1cfimv/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/hdh0kf1cfimv/</guid>
-<pubDate>Sat, 27 Jun 2026 11:13:19 +0000</pubDate>
-<description>Portugal, Spain, Italy, France and others enforce overtourism crackdown with higher taxes, entry fees and visitor caps across Southern Europe.</description>
 </item>
 </channel>
 </rss>

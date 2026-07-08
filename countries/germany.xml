@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/germany.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Germany. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 08 Jul 2026 10:09:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 22:10:09 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Switzerland Aligns with Italy, France, Austria, and Germany as Overtourism Challenges ...</title>
+<link>https://www.travelandtourworld.com/news/article/t1oh8k30s0ai/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/t1oh8k30s0ai/</guid>
+<pubDate>Wed, 08 Jul 2026 11:43:32 +0000</pubDate>
+<description>Switzerland aligns with Italy, France, Austria, and Germany to address overtourism through sustainable tourism, visitor management, and regional ...</description>
+</item>
 <item>
 <title>Spain Teams Up With France, Finland, Germany, Netherlands, UK and Italy to Drive a New ...</title>
 <link>https://www.travelandtourworld.com/news/article/ayt45eoai4c1/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/chkgzzt6zzi4/</guid>
 <pubDate>Thu, 11 Jun 2026 13:29:03 +0000</pubDate>
 <description>Why is Sikkim considered a leading sustainable tourism destination in India? Sikkim is known for its strong focus on environmental protection ...</description>
-</item>
-<item>
-<title>This Is Germany's Most Underrated State—and It Has Stunning Hikes, Great ... - Travel + Leisure</title>
-<link>https://www.travelandleisure.com/saarland-germany-green-12010902</link>
-<guid isPermaLink="false">https://www.travelandleisure.com/saarland-germany-green-12010902</guid>
-<pubDate>Mon, 06 Jul 2026 12:48:01 +0000</pubDate>
-<description>After the last mine closed in 2012, Saarland began reimagining itself in green. It invested heavily in environmental restoration and sustainable ...</description>
 </item>
 </channel>
 </rss>

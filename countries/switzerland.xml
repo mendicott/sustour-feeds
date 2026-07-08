@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/switzerland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Switzerland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 08 Jul 2026 10:09:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 22:10:09 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Switzerland Aligns with Italy, France, Austria, and Germany as Overtourism Challenges ...</title>
+<link>https://www.travelandtourworld.com/news/article/t1oh8k30s0ai/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/t1oh8k30s0ai/</guid>
+<pubDate>Wed, 08 Jul 2026 11:43:32 +0000</pubDate>
+<description>Switzerland aligns with Italy, France, Austria, and Germany to address overtourism through sustainable tourism, visitor management, and regional ...</description>
+</item>
 <item>
 <title>Germany Aligns With Italy, Hungary, Switzerland and More Leading Source Of Visitors as ...</title>
 <link>https://www.travelandtourworld.com/news/article/qwyqsqcrcsyl/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/wdf6zepbwmxl/</guid>
 <pubDate>Tue, 16 Jun 2026 14:10:07 +0000</pubDate>
 <description>Supported by its world-famous beaches, biodiversity, national parks, volcanoes, adventure tourism, and eco-friendly travel experiences, Costa Rica ...</description>
-</item>
-<item>
-<title>'Switzerland in Spain' for half the price — the cooler, less crowded Catalan Pyrenees - Metro</title>
-<link>https://metro.co.uk/2026/07/05/switzerland-spain-half-price-cooler-less-crowded-catalan-pyrenees-28994983/</link>
-<guid isPermaLink="false">https://metro.co.uk/2026/07/05/switzerland-spain-half-price-cooler-less-crowded-catalan-pyrenees-28994983/</guid>
-<pubDate>Sun, 05 Jul 2026 22:49:57 +0000</pubDate>
-<description>Travel writer Rachel Shue visits Arties, in the Catalan Pyrenees. It is an affordable alternative to Switzerland's stunning scenery.</description>
 </item>
 </channel>
 </rss>

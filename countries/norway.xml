@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/norway.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Norway. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 08 Jul 2026 10:09:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 22:10:09 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>This really surprised me - YouTube</title>
+<link>https://www.youtube.com/watch?v=KHXGdhbuZFA</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=KHXGdhbuZFA</guid>
+<pubDate>Wed, 08 Jul 2026 12:10:24 +0000</pubDate>
+<description>Norway is gradually transitioning many of its fjord ferries to electric and hybrid vessels to help protect some of the world's most spectacular ...</description>
+</item>
 <item>
 <title>Geirangerfjord Unites with Nærøyfjord from Norway in Leading Europe's Green Tourism ...</title>
 <link>https://www.travelandtourworld.com/news/article/3b0yor6iaol1/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=P9Ev65jcUpM</guid>
 <pubDate>Wed, 24 Jun 2026 01:22:55 +0000</pubDate>
 <description>Experience Norway's majestic fjords and the powerful Kjosfossen waterfall! Witness a magical traditional performance and breathtaking landscapes, ...</description>
-</item>
-<item>
-<title>Experience the Pearl of Africa: How Uganda is Targeting Denmark, Sweden, Norway ...</title>
-<link>https://www.travelandtourworld.com/news/article/zcaimjwa0bxb/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/zcaimjwa0bxb/</guid>
-<pubDate>Tue, 23 Jun 2026 05:27:09 +0000</pubDate>
-<description>The Nordic market is viewed by tourism authorities as a goldmine for sustainable travel, characterized by a profound appreciation for ...</description>
 </item>
 </channel>
 </rss>

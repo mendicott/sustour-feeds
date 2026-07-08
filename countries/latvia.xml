@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/latvia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Latvia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 08 Jul 2026 10:09:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 22:10:09 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>International Exhibition on Cultural Heritage and Climate Change: Notes from a Volatile Time - LETA</title>
+<link>https://leta.lv/eng/press_releases/7C97E6EE-A0BF-402D-9508-FC0775DFB167/</link>
+<guid isPermaLink="false">https://leta.lv/eng/press_releases/7C97E6EE-A0BF-402D-9508-FC0775DFB167/</guid>
+<pubDate>Wed, 08 Jul 2026 00:11:15 +0000</pubDate>
+<description>... Latvia, the Latvian Fund for Nature, the University of Latvia Livonian Institute, the collective Fabula, participating artists, and other partners.</description>
+</item>
 <item>
 <title>Alpaca farming proves popular in Latvia's rural tourism - Reliable news from Latvia - LSM</title>
 <link>https://eng.lsm.lv/article/society/environment/25.06.2026-alpaca-farming-proves-popular-in-latvias-rural-tourism.a652577/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/t8s44g97zajv/</guid>
 <pubDate>Tue, 23 Jun 2026 11:24:41 +0000</pubDate>
 <description>It grew as Iceland's tourism recovery, strong air links, renewable-energy credentials, green urban spaces, cultural festivals and low-risk travel ...</description>
-</item>
-<item>
-<title>Talks resume on restoring Rīga-Stockholm ferry route - Reliable news from Latvia</title>
-<link>https://eng.lsm.lv/article/economy/transport/03.07.2026-talks-resume-on-restoring-riga-stockholm-ferry-route.a653693/</link>
-<guid isPermaLink="false">https://eng.lsm.lv/article/economy/transport/03.07.2026-talks-resume-on-restoring-riga-stockholm-ferry-route.a653693/</guid>
-<pubDate>Fri, 03 Jul 2026 06:07:37 +0000</pubDate>
-<description>"The resumption of the Riga–Stockholm ferry route is important both for Latvia's residents and businesses and for the development of the tourism ...</description>
 </item>
 </channel>
 </rss>

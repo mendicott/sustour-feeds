@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=KHXGdhbuZFA",
+      "url": "https://www.youtube.com/watch?v=KHXGdhbuZFA",
+      "title": "This really surprised me - YouTube",
+      "content_text": "Norway is gradually transitioning many of its fjord ferries to electric and hybrid vessels to help protect some of the world's most spectacular ...",
+      "date_published": "2026-07-08T12:10:24+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/3b0yor6iaol1/",
       "url": "https://www.travelandtourworld.com/news/article/3b0yor6iaol1/",
       "title": "Geirangerfjord Unites with Nærøyfjord from Norway in Leading Europe's Green Tourism ...",
@@ -68,13 +75,6 @@
       "title": "Fjord Adventure, Norway, V.O.S – Vision of Scandinavia from Jonathan R. - YouTube",
       "content_text": "Experience Norway's majestic fjords and the powerful Kjosfossen waterfall! Witness a magical traditional performance and breathtaking landscapes, ...",
       "date_published": "2026-06-24T01:22:55+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/zcaimjwa0bxb/",
-      "url": "https://www.travelandtourworld.com/news/article/zcaimjwa0bxb/",
-      "title": "Experience the Pearl of Africa: How Uganda is Targeting Denmark, Sweden, Norway ...",
-      "content_text": "The Nordic market is viewed by tourism authorities as a goldmine for sustainable travel, characterized by a profound appreciation for ...",
-      "date_published": "2026-06-23T05:27:09+00:00"
     }
   ]
 }

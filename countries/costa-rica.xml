@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/costa-rica.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Costa Rica. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 08 Jul 2026 10:09:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 22:10:09 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Costa Rica Launches Responsible Tourism Campaign to Promote Safe, Sustainable Mid ...</title>
+<link>https://www.travelandtourworld.com/news/article/7e5qa03fhztu/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/7e5qa03fhztu/</guid>
+<pubDate>Wed, 08 Jul 2026 17:53:04 +0000</pubDate>
+<description>Costa Rica urges domestic travelers to embrace responsible tourism with eco-friendly travel tips, scam prevention and sustainable holiday ...</description>
+</item>
 <item>
 <title>UK travel company enters liquidation as all trips cancelled - The Herald</title>
 <link>https://www.heraldscotland.com/news/national/uk-today/26256146.uk-travel-company-enters-liquidation-trips-cancelled/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/bqd6mbb72g9q/</guid>
 <pubDate>Sun, 28 Jun 2026 10:39:21 +0000</pubDate>
 <description>They now actively seek carbon-negative, deeply authentic, and community-led wilderness experiences. Recent data from the World Travel &amp; Tourism ...</description>
-</item>
-<item>
-<title>Costa Rica, Peru and Chile Dominate Global Nature Tourism as Ecotourism Reshapes ...</title>
-<link>https://www.travelandtourworld.com/news/article/hwigz1oagmnq/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/hwigz1oagmnq/</guid>
-<pubDate>Sat, 27 Jun 2026 11:08:33 +0000</pubDate>
-<description>Costa Rica, Belize, Peru, Chile and Ecuador drive global ecotourism growth with biodiversity travel, conservation tourism and sustainable travel ...</description>
 </item>
 </channel>
 </rss>

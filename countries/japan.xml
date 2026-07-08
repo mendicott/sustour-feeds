@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/japan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Japan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 08 Jul 2026 10:09:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 22:10:09 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Environmental Pollution in Antarctica: Japan Should Take Lead in Debate on Nature Conservation</title>
+<link>https://japannews.yomiuri.co.jp/editorial/yomiuri-editorial/20260708-337216/</link>
+<guid isPermaLink="false">https://japannews.yomiuri.co.jp/editorial/yomiuri-editorial/20260708-337216/</guid>
+<pubDate>Wed, 08 Jul 2026 06:57:33 +0000</pubDate>
+<description>In 2007, a Canadian tourist ship sank, resulting in a fuel spill. Global warming is also having a negative impact. In April, the International Union ...</description>
+</item>
 <item>
 <title>Nations rewrite tourism playbooks as inflation and anti-tourism impede summer travel</title>
 <link>https://www.traveldailymedia.com/nations-rewrite-tourism-playbooks-as-inflation-and-anti-tourism-impede-summer-travel/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.azcentral.com/press-release/story/92143/the-appeal-of-niigata-a-globally-recognized-wetland-city/</guid>
 <pubDate>Fri, 03 Jul 2026 05:55:59 +0000</pubDate>
 <description>Japan lies along the East Asian–Australasian Flyway, one of the world's major migratory bird routes, and many waterbirds travel annually from Siberia ...</description>
-</item>
-<item>
-<title>Japan triples departure tax to combat overtourism; visa fees up 5-fold</title>
-<link>https://japantoday.com/category/national/japan-triples-departure-tax-to-combat-overtourism-visa-fees-up-5-fold</link>
-<guid isPermaLink="false">https://japantoday.com/category/national/japan-triples-departure-tax-to-combat-overtourism-visa-fees-up-5-fold</guid>
-<pubDate>Thu, 02 Jul 2026 16:36:26 +0000</pubDate>
-<description>Combat over tourism but at the same time has tourist target, make sense? https://www.japantimes.co.jp/news/2026/01/21/japan/tough-road- ...</description>
 </item>
 </channel>
 </rss>
