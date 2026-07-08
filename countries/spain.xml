@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 07 Jul 2026 22:09:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 10:09:41 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Italy Joins Spain, Greece, Malta and Austria in Europe's Historic Tourism War Against ...</title>
+<link>https://www.travelandtourworld.com/news/article/2iqgesgbnhvc/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/2iqgesgbnhvc/</guid>
+<pubDate>Wed, 08 Jul 2026 08:10:34 +0000</pubDate>
+<description>Italy joins Spain, Greece, Malta and Austria in tackling overtourism with visitor limits, travel controls and sustainable tourism rules reshaping ...</description>
+</item>
 <item>
 <title>Spain Conjoins Italy, Greece, France and More European Countries Tighten Visitor Limits ...</title>
 <link>https://www.travelandtourworld.com/news/article/f5zwkzuj4jhz/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/4fjdvxxc4dxf/</guid>
 <pubDate>Tue, 30 Jun 2026 05:58:40 +0000</pubDate>
 <description>Spain, Italy, Netherlands and Croatia tighten overtourism rules with tougher tourist taxes, rental bans, cruise limits and visitor entry controls ...</description>
-</item>
-<item>
-<title>Spain Tightens Tourist Rules in Barcelona and Ibiza - A Global Hub of Travel Knowledge</title>
-<link>https://www.thetraveler.org/spain-tightens-tourist-rules-in-barcelona-and-ibiza/</link>
-<guid isPermaLink="false">https://www.thetraveler.org/spain-tightens-tourist-rules-in-barcelona-and-ibiza/</guid>
-<pubDate>Sun, 28 Jun 2026 20:47:35 +0000</pubDate>
-<description>Spain is rolling out tougher rules on tourist behaviour, alcohol use and taxes across Barcelona, Ibiza and other hotspots as pressure over overtourism</description>
 </item>
 </channel>
 </rss>

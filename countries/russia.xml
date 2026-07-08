@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/russia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Russia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 07 Jul 2026 22:09:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 10:09:41 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Russia launches agritourism and ecotourism funding programme for Urals and Siberia</title>
+<link>https://www.traveldailynews.com/destinations/russia-launches-agritourism-and-ecotourism-funding-programme-for-urals-and-siberia/</link>
+<guid isPermaLink="false">https://www.traveldailynews.com/destinations/russia-launches-agritourism-and-ecotourism-funding-programme-for-urals-and-siberia/</guid>
+<pubDate>Tue, 07 Jul 2026 17:12:54 +0000</pubDate>
+<description>Russia agritourism: New government funding programme supports agritourism and ecotourism development across the Urals, Siberia and Lake Baikal.</description>
+</item>
 <item>
 <title>Expanding Agritourism in Russia: New Federal Support for Urals and Siberian Regions</title>
 <link>https://www.travelandtourworld.com/news/article/5vdkvwhffzes/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/vpfs2jenvrhn/</guid>
 <pubDate>Sat, 04 Jul 2026 08:47:03 +0000</pubDate>
 <description>Direct Moscow Tanzania flights launch with Air Tanzania, boosting Zanzibar and Serengeti travel for Russian tourists seeking luxury sun and safari ...</description>
-</item>
-<item>
-<title>Tourism: Ngamba's dominant male chimp dies at 28 - New Vision</title>
-<link>https://www.newvision.co.ug/category/travel/ngambas-dominant-male-chimp-dies-at-28-NV_236183_062026</link>
-<guid isPermaLink="false">https://www.newvision.co.ug/category/travel/ngambas-dominant-male-chimp-dies-at-28-NV_236183_062026</guid>
-<pubDate>Fri, 26 Jun 2026 18:45:53 +0000</pubDate>
-<description>Tourism. Uganda showcases cultural heritage at Moscow tourism forum · Tourism. Uganda intensifies tourism marketing in Russia — Amb. Kizige.</description>
 </item>
 </channel>
 </rss>

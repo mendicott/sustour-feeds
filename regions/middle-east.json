@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.dawn.com/news/2013497",
+      "url": "https://www.dawn.com/news/2013497",
+      "title": "Conservation sees urial rebounding in Salt Range - Pakistan - DAWN.COM",
+      "content_text": "A fully digital initiative connecting visa application directly to travel bookings, making it easier to visit Saudi than ever before.",
+      "date_published": "2026-07-07T18:19:58+00:00"
+    },
+    {
       "id": "https://petra.gov.jo/en/news/aqabas-eco-tour-boats-first-in-middle-east-to-earn-blue-flag-certification",
       "url": "https://petra.gov.jo/en/news/aqabas-eco-tour-boats-first-in-middle-east-to-earn-blue-flag-certification",
       "title": "Aqaba's Eco-Tour Boats First in Middle East to Earn Blue Flag Certification",
@@ -68,13 +75,6 @@
       "title": "ICOMOS, Al-Balqa University partner to protect cultural heritage through AI",
       "content_text": "As-Salt, June 29 (Petra) - The International Council on Monuments and Sites (ICOMOS) and Al-Balqa Applied University (BAU) signed a memorandum of ...",
       "date_published": "2026-06-30T00:36:53+00:00"
-    },
-    {
-      "id": "https://iol.co.za/travel/world/2026-06-29-egypt-to-phase-out-camel-and-horse-rides-at-the-pyramids-of-giza-in-major-ethical-tourism-shift/",
-      "url": "https://iol.co.za/travel/world/2026-06-29-egypt-to-phase-out-camel-and-horse-rides-at-the-pyramids-of-giza-in-major-ethical-tourism-shift/",
-      "title": "Egypt to phase out camel and horse rides at the Pyramids of Giza in major ethical tourism shift - IOL",
-      "content_text": "The mistreatment of wildlife within the travel industry remains a global point of contention. As holidaymakers increasingly embrace ethical travel ...",
-      "date_published": "2026-06-29T20:33:41+00:00"
     }
   ]
 }

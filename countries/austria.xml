@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/austria.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Austria. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 07 Jul 2026 22:09:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 10:09:41 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Italy Joins Spain, Greece, Malta and Austria in Europe's Historic Tourism War Against ...</title>
+<link>https://www.travelandtourworld.com/news/article/2iqgesgbnhvc/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/2iqgesgbnhvc/</guid>
+<pubDate>Wed, 08 Jul 2026 08:10:34 +0000</pubDate>
+<description>Italy joins Spain, Greece, Malta and Austria in tackling overtourism with visitor limits, travel controls and sustainable tourism rules reshaping ...</description>
+</item>
 <item>
 <title>Tourism's toll on the world's most scenic villages - MSN</title>
 <link>https://www.msn.com/en-us/travel/article/tourisms-toll-on-the-worlds-most-scenic-villages/ss-AA25BZPK</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.snowindustrynews.com/newsrepository/2026/july/austrias-best-summer-mountain-railways-look-forward-to-the-anniversary-year-2026-with-confidence/</guid>
 <pubDate>Fri, 03 Jul 2026 01:52:56 +0000</pubDate>
 <description>... tourism," says Hörl. "From March until autumn, windows open up in which people consciously travel to the mountains to enjoy nature, peace and ...</description>
-</item>
-<item>
-<title>Ireland Joins Finland, Scotland, Austria and France in Eco-Tourism Expansion as Laois ...</title>
-<link>https://www.travelandtourworld.com/news/article/or5x4w1l4jul/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/or5x4w1l4jul/</guid>
-<pubDate>Mon, 29 Jun 2026 11:13:26 +0000</pubDate>
-<description>Laois expands eco-tourism with accessible woodland access and eco-stay accommodation under LEADER funding, boosting Ireland's rural travel ...</description>
 </item>
 </channel>
 </rss>

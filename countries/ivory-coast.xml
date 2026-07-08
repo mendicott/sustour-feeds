@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ivory-coast.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ivory Coast. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 07 Jul 2026 22:09:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 10:09:41 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>12 Million Trees to Revive Côte d'Ivoire's Forests - Powers of Africa</title>
@@ -44,6 +44,13 @@
 <description>In the village of Nigré in southwestern Côte d'Ivoire, rice fields and oil palm plantations now dominate a landscape once covered by dense ...</description>
 </item>
 <item>
+<title>Five Things to Know About the West Africa Forest Investment Program</title>
+<link>https://www.afdb.org/en/news-and-events/five-things-know-about-west-africa-forest-investment-program-95260</link>
+<guid isPermaLink="false">https://www.afdb.org/en/news-and-events/five-things-know-about-west-africa-forest-investment-program-95260</guid>
+<pubDate>Tue, 07 Jul 2026 15:51:38 +0000</pubDate>
+<description>The Forest Investment Program (FIP) in Burkina Faso, Côte d'Ivoire, and Ghana represents more than a decade of efforts to restore degraded ...</description>
+</item>
+<item>
 <title>Climate-Smart Cocoa Farming in Côte d'Ivoire | African Development Bank Group</title>
 <link>https://www.afdb.org/en/news-and-events/multimedia/video/climate-smart-cocoa-farming-cote-divoire-95169</link>
 <guid isPermaLink="false">https://www.afdb.org/en/news-and-events/multimedia/video/climate-smart-cocoa-farming-cote-divoire-95169</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.environewsnigeria.com/ghanas-cocoa-future-at-risk-without-producer-centred-climate-policies-study/</guid>
 <pubDate>Thu, 25 Jun 2026 07:54:14 +0000</pubDate>
 <description>... Côte d'Ivoire, argues that current climate adaptation strategies remain ... "Climate change is not only affecting cocoa trees. It is ...</description>
-</item>
-<item>
-<title>CorpsAfrica Volunteer Program for Rural Community Development (Côte d'Ivoire)</title>
-<link>https://www2.fundsforngos.org/volunteerism/corpsafrica-volunteer-program-for-rural-community-development-cote-divoire/amp/</link>
-<guid isPermaLink="false">https://www2.fundsforngos.org/volunteerism/corpsafrica-volunteer-program-for-rural-community-development-cote-divoire/amp/</guid>
-<pubDate>Mon, 22 Jun 2026 05:24:02 +0000</pubDate>
-<description>Volunteers receive a monthly subsistence allowance, health insurance, travel support, and a completion bonus. Who can apply? Only Ivorian citizens ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/france.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for France. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 07 Jul 2026 22:09:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 10:09:41 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Cambodia wants to bring tigers back, but should it? - France 24</title>
+<link>https://www.france24.com/en/live-news/20260708-cambodia-wants-to-bring-tigers-back-but-should-it</link>
+<guid isPermaLink="false">https://www.france24.com/en/live-news/20260708-cambodia-wants-to-bring-tigers-back-but-should-it</guid>
+<pubDate>Wed, 08 Jul 2026 03:22:19 +0000</pubDate>
+<description>Cambodia's last confirmed tiger sighting was in 2007 camera trap footage but conservationists say they may soon be able to reintroduce the big cats.</description>
+</item>
 <item>
 <title>Spain Conjoins Italy, Greece, France and More European Countries Tighten Visitor Limits ...</title>
 <link>https://www.travelandtourworld.com/news/article/f5zwkzuj4jhz/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/hdh0kf1cfimv/</guid>
 <pubDate>Sat, 27 Jun 2026 11:13:19 +0000</pubDate>
 <description>Portugal, Spain, Italy, France and others enforce overtourism crackdown with higher taxes, entry fees and visitor caps across Southern Europe.</description>
-</item>
-<item>
-<title>Italy Joins France, Greece, Ireland, Austria, Switzerland, and Portugal in Turning Heritage ...</title>
-<link>https://www.travelandtourworld.com/news/article/rhzn9afe7b2s/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/rhzn9afe7b2s/</guid>
-<pubDate>Fri, 26 Jun 2026 09:55:52 +0000</pubDate>
-<description>Italy is actively joining a powerful European movement that transforms heritage farming, agritourism, and eco-tourism into a high-value travel economy ...</description>
 </item>
 </channel>
 </rss>

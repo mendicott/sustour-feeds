@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 07 Jul 2026 22:09:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 10:09:41 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Italy Joins Spain, Greece, Malta and Austria in Europe's Historic Tourism War Against ...</title>
+<link>https://www.travelandtourworld.com/news/article/2iqgesgbnhvc/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/2iqgesgbnhvc/</guid>
+<pubDate>Wed, 08 Jul 2026 08:10:34 +0000</pubDate>
+<description>Italy joins Spain, Greece, Malta and Austria in tackling overtourism with visitor limits, travel controls and sustainable tourism rules reshaping ...</description>
+</item>
 <item>
 <title>Spain Conjoins Italy, Greece, France and More European Countries Tighten Visitor Limits ...</title>
 <link>https://www.travelandtourworld.com/news/article/f5zwkzuj4jhz/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.tovima.com/society/loggerhead-sea-turtle-nesting-beaches-under-growing-pressure/amp/</guid>
 <pubDate>Fri, 26 Jun 2026 14:33:25 +0000</pubDate>
 <description>... WWF Greece and ARCHELON, raising concerns over the impact of tourism ... tourism and weak beach management on one of the Mediterranean's most emblematic ...</description>
-</item>
-<item>
-<title>Tourism Boom Faces Climate and Overtourism Risks, Bank of Greece Warns 2026</title>
-<link>https://iustitia.bg/en/tourism-boom-faces-climate-and-overtourism-risks-bank-g/</link>
-<guid isPermaLink="false">https://iustitia.bg/en/tourism-boom-faces-climate-and-overtourism-risks-bank-g/</guid>
-<pubDate>Fri, 26 Jun 2026 13:59:10 +0000</pubDate>
-<description>Greece's tourism boom faces growing pressure from climate change, overtourism, and rising strain on local... iustitia.bg Tourism Boom Faces ...</description>
 </item>
 </channel>
 </rss>
