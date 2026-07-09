@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/argentina.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Argentina. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 08 Jul 2026 22:10:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 10:09:46 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>El Impenetrable National Park Enhances Sustainable Adventure Tourism in Northern Argentina</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://esgnews.com/verra-certifies-first-government-led-jurisdictional-forest-carbon-program-in-argentina/</guid>
 <pubDate>Thu, 04 Jun 2026 00:54:10 +0000</pubDate>
 <description>Verra has approved its first government-led provincial forest carbon program under the VCS Jurisdictional and Nested REDD+ Framework.</description>
+</item>
+<item>
+<title>Mapped: Colombia and Argentina's energy transition copper boom - Dialogue Earth</title>
+<link>https://dialogue.earth/en/energy/mapped-colombia-and-argentinas-energy-transition-copper-boom/</link>
+<guid isPermaLink="false">https://dialogue.earth/en/energy/mapped-colombia-and-argentinas-energy-transition-copper-boom/</guid>
+<pubDate>Wed, 08 Jul 2026 16:49:31 +0000</pubDate>
+<description>Demand for copper has soared but further extraction threatens a range of environments and Indigenous reserves.</description>
 </item>
 <item>
 <title>Costa Rica Supercharges United States, Canada, Mexico and Colombia to Lead the ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://noticiasambientales.com/medio-ambiente-2-en/cuts-in-national-parks-growing-concern-for-the-protection-of-argentine-ecosystems/</guid>
 <pubDate>Sat, 13 Jun 2026 21:27:48 +0000</pubDate>
 <description>... protected areas, as well as the Marine Protected Areas System. Natural ... tourism. As discussions about the financing of the system continue ...</description>
-</item>
-<item>
-<title>Peru Joins Brazil, Argentina, Venezuela, Ecuador and Other American Countries Offering ...</title>
-<link>https://www.travelandtourworld.com/news/article/4ob1gjh8560j/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/4ob1gjh8560j/</guid>
-<pubDate>Fri, 05 Jun 2026 23:57:32 +0000</pubDate>
-<description>Global ecotourism is expanding rapidly, with Peru and major regions driving growth as travellers choose sustainable, nature‑based travel ...</description>
 </item>
 </channel>
 </rss>

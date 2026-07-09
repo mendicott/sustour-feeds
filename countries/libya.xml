@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/libya.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Libya. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 08 Jul 2026 22:10:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 10:09:46 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Archaeologists fight to save Libya's ancient Greek ruins - Oman Observer</title>
@@ -44,6 +44,13 @@
 <description>... climate change across the Middle East and North Africa. Researchers in archaeology, environmental science and geology took part in the meeting.</description>
 </item>
 <item>
+<title>Libya, Mali deepen cooperation in tourism, handicrafts | APAnews - African Press Agency</title>
+<link>https://apanews.net/libya-mali-deepen-cooperation-in-tourism-handicrafts/</link>
+<guid isPermaLink="false">https://apanews.net/libya-mali-deepen-cooperation-in-tourism-handicrafts/</guid>
+<pubDate>Wed, 08 Jul 2026 16:15:32 +0000</pubDate>
+<description>Libya and Mali intend to deepen their cooperation in the tourism and traditional industries sectors. The Libyan Minister of Tourism and ...</description>
+</item>
+<item>
 <title>Libya's Greco-Roman sites: spectacular ruins in a high-risk environment | Tourism - Capmad</title>
 <link>https://capmad.com/tourism-article/libyas-greco-roman-sites-spectacular-ruins-in-a-high-risk-environment</link>
 <guid isPermaLink="false">https://capmad.com/tourism-article/libyas-greco-roman-sites-spectacular-ruins-in-a-high-risk-environment</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.dailysabah.com/life/history/archaeologists-race-to-protect-ancient-greek-ruins-in-eastern-libya</guid>
 <pubDate>Thu, 25 Jun 2026 13:14:00 +0000</pubDate>
 <description>He argued that the hydrocarbon-rich country should invest in tourism and the promotion of its archaeological heritage. Fresh from a trip to Paris, ...</description>
-</item>
-<item>
-<title>In east Libya, archaeologists fight to save 'breathtaking' ancient Greek ruins - eNCA</title>
-<link>https://www.enca.com/opinion/east-libya-archaeologists-fight-save-breathtaking-ancient-greek-ruins</link>
-<guid isPermaLink="false">https://www.enca.com/opinion/east-libya-archaeologists-fight-save-breathtaking-ancient-greek-ruins</guid>
-<pubDate>Thu, 25 Jun 2026 10:20:04 +0000</pubDate>
-<description>He argued that the hydrocarbon-rich country should invest in tourism and the promotion of its archaeological heritage. Fresh from a trip to Paris ...</description>
 </item>
 </channel>
 </rss>
