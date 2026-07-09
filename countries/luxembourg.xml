@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/luxembourg.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Luxembourg. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 09 Jul 2026 10:09:46 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 22:09:14 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Luxembourg and IUCN launch third phase of pioneering Blue Natural Capital Financing ...</title>
+<link>https://iucn.org/press-release/202607/luxembourg-and-iucn-launch-third-phase-pioneering-blue-natural-capital</link>
+<guid isPermaLink="false">https://iucn.org/press-release/202607/luxembourg-and-iucn-launch-third-phase-pioneering-blue-natural-capital</guid>
+<pubDate>Thu, 09 Jul 2026 15:11:55 +0000</pubDate>
+<description>... tourism in Indonesia's Nusa Penida. BNCFF was also one of the earliest initiatives to be closely aligned with the IUCN Global Standard for Nature ...</description>
+</item>
 <item>
 <title>Luxembourg Teams Up With Germany, France, Belgium, and the Netherlands to Transform ...</title>
 <link>https://www.travelandtourworld.com/news/article/cm1ij376xp7r/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.luxtimes.lu/luxembourg/humanitarian-effort-makes-adventuring-less-self-centred-says-motorcycle-aristocrat/157994083.html</guid>
 <pubDate>Tue, 30 Jun 2026 19:15:28 +0000</pubDate>
 <description>A motorbike is such a wonderful means of transport: not much in the way of comfort, just the bare essentials – but you can travel incredibly far. You ...</description>
-</item>
-<item>
-<title>I gave up flying 10 years ago - seven lessons I've learned travelling Europe by rail</title>
-<link>https://inews.co.uk/inews-lifestyle/travel/gave-up-flying-lessons-learned-travelling-europe-rail-4503396</link>
-<guid isPermaLink="false">https://inews.co.uk/inews-lifestyle/travel/gave-up-flying-lessons-learned-travelling-europe-rail-4503396</guid>
-<pubDate>Sat, 27 Jun 2026 05:23:01 +0000</pubDate>
-<description>As a travel and transport writer, it has been challenging at ... There is a city called Luxembourg in a country called Luxembourg. There ...</description>
 </item>
 </channel>
 </rss>

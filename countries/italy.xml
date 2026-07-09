@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 09 Jul 2026 10:09:46 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 22:09:14 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Court revokes approval for Rome cruise port - Travel News</title>
+<link>https://www.travelnews.co.za/article/court-revokes-approval-for-rome-cruise-port</link>
+<guid isPermaLink="false">https://www.travelnews.co.za/article/court-revokes-approval-for-rome-cruise-port</guid>
+<pubDate>Thu, 09 Jul 2026 16:30:46 +0000</pubDate>
+<description>The regional administrative court of Lazio in Italy has revoked the environmental approval for the proposed Fiumicino-Isola Sacra tourist and ...</description>
+</item>
 <item>
 <title>What I witnessed in Capri, the front line of Italy's war on overtourism - The Telegraph</title>
 <link>https://www.telegraph.co.uk/travel/destinations/europe/italy/capri-italian-overtourism-front-line/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lah8spefggvv/</guid>
 <pubDate>Mon, 06 Jul 2026 07:57:09 +0000</pubDate>
 <description>Calanques visitor caps return in France for 2026, limiting access to Mediterranean beaches to curb overtourism and protect fragile ecosystems.</description>
-</item>
-<item>
-<title>Protecting Italy's UNESCO Sites: the New National Sustainability Charter | inItaly</title>
-<link>https://www.initaly.it/en/articolo/proteggere-i-siti-unesco-italiani-la-nuova-carta-nazionale-della-25313</link>
-<guid isPermaLink="false">https://www.initaly.it/en/articolo/proteggere-i-siti-unesco-italiani-la-nuova-carta-nazionale-della-25313</guid>
-<pubDate>Sun, 05 Jul 2026 18:43:30 +0000</pubDate>
-<description>Its purpose is to balance visitor flows, heritage protection and residents' well-being, turning tourism growth into a sustainable opportunity. How it ...</description>
 </item>
 </channel>
 </rss>

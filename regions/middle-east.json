@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.dw.com/en/how-citizen-scientists-are-saving-egypts-sea-turtles/video-77893238",
+      "url": "https://www.dw.com/en/how-citizen-scientists-are-saving-egypts-sea-turtles/video-77893238",
+      "title": "Tourists saving sea turtles in Egypt - DW.com",
+      "content_text": "Our weekly program highlights inspiring ideas from Africa and Europe, focusing on sustainable living and technology-driven solutions to the climate ...",
+      "date_published": "2026-07-09T15:57:41+00:00"
+    },
+    {
       "id": "https://www.dawn.com/news/2013497",
       "url": "https://www.dawn.com/news/2013497",
       "title": "Conservation sees urial rebounding in Salt Range - Pakistan - DAWN.COM",
@@ -68,13 +75,6 @@
       "title": "South Africa Stands With Morocco, Egypt, Kenya And Emerging African Tourism ...",
       "content_text": "Seychelles is pursuing a low-volume, high-value tourism strategy, emphasising environmental protection and ultra-luxury hospitality offerings.",
       "date_published": "2026-06-30T14:53:59+00:00"
-    },
-    {
-      "id": "https://petra.gov.jo/en/news/icomos-al-balqa-university-partner-to-protect-cultural-heritage-through-ai",
-      "url": "https://petra.gov.jo/en/news/icomos-al-balqa-university-partner-to-protect-cultural-heritage-through-ai",
-      "title": "ICOMOS, Al-Balqa University partner to protect cultural heritage through AI",
-      "content_text": "As-Salt, June 29 (Petra) - The International Council on Monuments and Sites (ICOMOS) and Al-Balqa Applied University (BAU) signed a memorandum of ...",
-      "date_published": "2026-06-30T00:36:53+00:00"
     }
   ]
 }

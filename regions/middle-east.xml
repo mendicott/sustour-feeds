@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/middle-east.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Middle East. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 09 Jul 2026 10:09:46 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 22:09:14 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Tourists saving sea turtles in Egypt - DW.com</title>
+<link>https://www.dw.com/en/how-citizen-scientists-are-saving-egypts-sea-turtles/video-77893238</link>
+<guid isPermaLink="false">https://www.dw.com/en/how-citizen-scientists-are-saving-egypts-sea-turtles/video-77893238</guid>
+<pubDate>Thu, 09 Jul 2026 15:57:41 +0000</pubDate>
+<description>Our weekly program highlights inspiring ideas from Africa and Europe, focusing on sustainable living and technology-driven solutions to the climate ...</description>
+</item>
 <item>
 <title>Conservation sees urial rebounding in Salt Range - Pakistan - DAWN.COM</title>
 <link>https://www.dawn.com/news/2013497</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/6mtl2jwwr8xo/</guid>
 <pubDate>Tue, 30 Jun 2026 14:53:59 +0000</pubDate>
 <description>Seychelles is pursuing a low-volume, high-value tourism strategy, emphasising environmental protection and ultra-luxury hospitality offerings.</description>
-</item>
-<item>
-<title>ICOMOS, Al-Balqa University partner to protect cultural heritage through AI</title>
-<link>https://petra.gov.jo/en/news/icomos-al-balqa-university-partner-to-protect-cultural-heritage-through-ai</link>
-<guid isPermaLink="false">https://petra.gov.jo/en/news/icomos-al-balqa-university-partner-to-protect-cultural-heritage-through-ai</guid>
-<pubDate>Tue, 30 Jun 2026 00:36:53 +0000</pubDate>
-<description>As-Salt, June 29 (Petra) - The International Council on Monuments and Sites (ICOMOS) and Al-Balqa Applied University (BAU) signed a memorandum of ...</description>
 </item>
 </channel>
 </rss>

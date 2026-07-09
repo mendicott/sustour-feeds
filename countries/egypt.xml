@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/egypt.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Egypt. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 09 Jul 2026 10:09:46 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 22:09:14 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Tourists saving sea turtles in Egypt - DW.com</title>
+<link>https://www.dw.com/en/how-citizen-scientists-are-saving-egypts-sea-turtles/video-77893238</link>
+<guid isPermaLink="false">https://www.dw.com/en/how-citizen-scientists-are-saving-egypts-sea-turtles/video-77893238</guid>
+<pubDate>Thu, 09 Jul 2026 15:57:41 +0000</pubDate>
+<description>Our weekly program highlights inspiring ideas from Africa and Europe, focusing on sustainable living and technology-driven solutions to the climate ...</description>
+</item>
 <item>
 <title>South Africa Stands With Morocco, Egypt, Kenya And Emerging African Tourism ...</title>
 <link>https://www.travelandtourworld.com/news/article/6mtl2jwwr8xo/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/tdoe9h6wpkrs/</guid>
 <pubDate>Fri, 12 Jun 2026 12:21:59 +0000</pubDate>
 <description>Tags: Egypt birdwatching, Lake Al-Malahat, Migratory birds, Port Fouad tourism ... I want to receive travel news and trade event updates from Travel And ...</description>
-</item>
-<item>
-<title>Red Sea Initiative for Coral Reef Conservation Launched in Egypt - Cairo Scene</title>
-<link>https://cairoscene.com/News/Red-Sea-Initiative-for-Coral-Reef-Conservation-Launched-in-Egypt</link>
-<guid isPermaLink="false">https://cairoscene.com/News/Red-Sea-Initiative-for-Coral-Reef-Conservation-Launched-in-Egypt</guid>
-<pubDate>Tue, 09 Jun 2026 15:03:56 +0000</pubDate>
-<description>... coral reef monitoring programmes and expand the network of mooring ... tourism sector. Community participation is also a key component of the ...</description>
 </item>
 </channel>
 </rss>

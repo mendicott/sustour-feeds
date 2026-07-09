@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/jordan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Jordan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 09 Jul 2026 10:09:46 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 22:09:14 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Aqaba's Eco-Tour Boats First in Middle East to Earn Blue Flag Certification</title>
@@ -51,6 +51,13 @@
 <description>Global astrotourism network expands in 2026 across Africa, Asia, Europe, Middle East and Latin America driving sustainable tourism and education ...</description>
 </item>
 <item>
+<title>Jordan marks the implementation phase of the Jordan Integrated Landscape Management ... - IUCN</title>
+<link>https://iucn.org/news/202607/jordan-marks-implementation-phase-jordan-integrated-landscape-management-initiative</link>
+<guid isPermaLink="false">https://iucn.org/news/202607/jordan-marks-implementation-phase-jordan-integrated-landscape-management-initiative</guid>
+<pubDate>Thu, 09 Jul 2026 10:40:43 +0000</pubDate>
+<description>Jordan is among the world's most water-scarce countries, with climate change placing increasing pressure on water resources, agricultural production, ...</description>
+</item>
+<item>
 <title>'Not a museum': Slovak UNESCO village strains under tourism | Jordan Times</title>
 <link>https://jordantimes.com/news/features/not-a-museum-slovak-unesco-village-strains-under-tourism</link>
 <guid isPermaLink="false">https://jordantimes.com/news/features/not-a-museum-slovak-unesco-village-strains-under-tourism</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.eeas.europa.eu/delegations/jordan/italy-and-eu-strengthen-jordan%E2%80%99s-cultural-heritage-through-innovative-site-development_en</guid>
 <pubDate>Sun, 05 Jul 2026 10:09:51 +0000</pubDate>
 <description>The Italian Embassy to Jordan, supported by the Italian Agency for Development Cooperation (AICS) Office in Amman, recently convened key ...</description>
-</item>
-<item>
-<title>Palm Valley: Jordan's Rising Star for Sustainable Eco-Adventure Tourism</title>
-<link>https://www.travelandtourworld.com/news/article/ey9mr43udiol/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ey9mr43udiol/</guid>
-<pubDate>Sat, 04 Jul 2026 13:19:19 +0000</pubDate>
-<description>Explore Jordan's Palm Valley (Wadi Al-Ghweir), a premier eco-tourism destination offering hiking, adventure, and rich biodiversity near Dana ...</description>
 </item>
 </channel>
 </rss>
