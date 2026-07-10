@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/luxembourg.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Luxembourg. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 10 Jul 2026 10:10:04 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 22:09:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>France Moves in Step With Germany, Belgium, Luxembourg and More Destinations as Eco ...</title>
+<link>https://www.travelandtourworld.com/news/article/rta5u46yhikn/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/rta5u46yhikn/</guid>
+<pubDate>Fri, 10 Jul 2026 10:14:49 +0000</pubDate>
+<description>France accelerates sustainable travel as sleeper rail networks connect Europe, offering eco-conscious travellers greener alternatives to ...</description>
+</item>
 <item>
 <title>Luxembourg and IUCN launch third phase of pioneering Blue Natural Capital Financing ...</title>
 <link>https://iucn.org/press-release/202607/luxembourg-and-iucn-launch-third-phase-pioneering-blue-natural-capital</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.forbes.com/sites/emesemaczko/2026/07/01/7-ev-friendly-european-road-trips-where-charging-fits-naturally-into-the-journey/</guid>
 <pubDate>Wed, 01 Jul 2026 14:12:39 +0000</pubDate>
 <description>Vianden Castle in the north of Luxembourg, near the border of Germany. getty. Felix Thill, strategic PR and media relations at Luxembourg for Tourism ...</description>
-</item>
-<item>
-<title>Count Guillaume de Dampierre and his "Paris to North Cape" adventure | Luxembourg Times</title>
-<link>https://www.luxtimes.lu/luxembourg/humanitarian-effort-makes-adventuring-less-self-centred-says-motorcycle-aristocrat/157994083.html</link>
-<guid isPermaLink="false">https://www.luxtimes.lu/luxembourg/humanitarian-effort-makes-adventuring-less-self-centred-says-motorcycle-aristocrat/157994083.html</guid>
-<pubDate>Tue, 30 Jun 2026 19:15:28 +0000</pubDate>
-<description>A motorbike is such a wonderful means of transport: not much in the way of comfort, just the bare essentials – but you can travel incredibly far. You ...</description>
 </item>
 </channel>
 </rss>

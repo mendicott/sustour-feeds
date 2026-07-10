@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ethiopia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ethiopia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 10 Jul 2026 10:10:04 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 22:09:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Ethiopia Launches Digital Wildlife Monitoring Platform Across 106 Protected Areas - ATTA</title>
+<link>https://atta.travel/resource/ethiopia-launches-digital-wildlife-monitoring-platform-across-106-protected-areas.html</link>
+<guid isPermaLink="false">https://atta.travel/resource/ethiopia-launches-digital-wildlife-monitoring-platform-across-106-protected-areas.html</guid>
+<pubDate>Fri, 10 Jul 2026 16:57:13 +0000</pubDate>
+<description>... travel and tourism. ... The system marks a significant shift from the previously manual and fragmented approach to natural resource management, which ...</description>
+</item>
 <item>
 <title>Ethiopia Completes Preparations for UNESCO Bid of Central Rift Valley Geopark</title>
 <link>https://birrmetrics.com/ethiopia-completes-preparations-for-unesco-bid-of-central-rift-valley-geopark/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.ena.et/web/eng/w/eng_9102228</guid>
 <pubDate>Thu, 25 Jun 2026 12:52:02 +0000</pubDate>
 <description>... travel destinations. ... Under the leadership of Prime Minister Abiy Ahmed, heritage conservation has become a central pillar of the country's tourism ...</description>
-</item>
-<item>
-<title>Ethiopia's rare Walia ibex slips back to critically endangered status - Getaway Magazine</title>
-<link>https://www.getaway.co.za/wildlife/ethiopias-rare-walia-ibex-slips-back-to-critically-endangered-status/</link>
-<guid isPermaLink="false">https://www.getaway.co.za/wildlife/ethiopias-rare-walia-ibex-slips-back-to-critically-endangered-status/</guid>
-<pubDate>Fri, 10 Jul 2026 05:37:46 +0000</pubDate>
-<description>Africa's rare Walia ibex has been reclassified as critically endangered after new surveys revealed a sharp population decline in Ethiopia.</description>
 </item>
 </channel>
 </rss>

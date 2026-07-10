@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/middle-east.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Middle East. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 10 Jul 2026 10:10:04 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 22:09:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Egypt transforms Giza: ends camel rides and opts for a sustainable tourism model</title>
+<link>https://noticiasambientales.com/tourism/egypt-transforms-giza-ends-camel-rides-and-opts-for-a-sustainable-tourism-model/</link>
+<guid isPermaLink="false">https://noticiasambientales.com/tourism/egypt-transforms-giza-ends-camel-rides-and-opts-for-a-sustainable-tourism-model/</guid>
+<pubDate>Fri, 10 Jul 2026 17:47:26 +0000</pubDate>
+<description>Renovation of the Giza Plateau · Animal welfare at the center of the debate · Mixed reactions · Beyond camels: responsible tourism.</description>
+</item>
 <item>
 <title>Tourists saving sea turtles in Egypt - DW.com</title>
 <link>https://www.dw.com/en/how-citizen-scientists-are-saving-egypts-sea-turtles/video-77893238</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.undp.org/iraq/life-marshes-photography-competition-gallery</guid>
 <pubDate>Tue, 30 Jun 2026 19:40:02 +0000</pubDate>
 <description>UNDP Iraq celebrated the Life in the Marshes photo exhibition and competition, part of the project to enhance human resilience and biodiversity in ...</description>
-</item>
-<item>
-<title>South Africa Stands With Morocco, Egypt, Kenya And Emerging African Tourism ...</title>
-<link>https://www.travelandtourworld.com/news/article/6mtl2jwwr8xo/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/6mtl2jwwr8xo/</guid>
-<pubDate>Tue, 30 Jun 2026 14:53:59 +0000</pubDate>
-<description>Seychelles is pursuing a low-volume, high-value tourism strategy, emphasising environmental protection and ultra-luxury hospitality offerings.</description>
 </item>
 </channel>
 </rss>

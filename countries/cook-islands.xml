@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/cook-islands.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Cook Islands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 10 Jul 2026 10:10:04 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 22:09:15 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Pacific leaders gather to strengthen Indigenous-led conservation - Cook Islands News</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">http://www.cookislandsnews.com/internal/national/environment/te-ipukarea-society-turns-30/</guid>
 <pubDate>Fri, 19 Jun 2026 18:21:32 +0000</pubDate>
 <description>According to TIS, during the 1980s, rising tourism repeatedly sidelined environmental priorities, highlighting the need for proactive preservation. By ...</description>
+</item>
+<item>
+<title>PACNEWS TWO, Friday 10 July 2026 - Islands Business</title>
+<link>https://islandsbusiness.com/pacnews/pacnews-two-friday-10-july-2026/</link>
+<guid isPermaLink="false">https://islandsbusiness.com/pacnews/pacnews-two-friday-10-july-2026/</guid>
+<pubDate>Fri, 10 Jul 2026 05:35:27 +0000</pubDate>
+<description>... climate change, biodiversity loss, pollution and disaster risks. ... RAROTONGA, 10 JULY 2026 (PMN) — The Cook Islands' tourism industry may ...</description>
 </item>
 <item>
 <title>Cook Islands Government accelerates renewable energy push</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.cookislandsnews.com/internal/national/local/environment/tourism/tourism-and-local-habits-blamed-for-beach-plastic-in-cook-islands/</guid>
 <pubDate>Sat, 06 Jun 2026 19:29:48 +0000</pubDate>
 <description>A baseline study revealing that Cook Islands beach plastic pollution is locally driven by tourism and community habits has prompted calls from ...</description>
-</item>
-<item>
-<title>Avana project underway as Sunday tour restrictions introduced - Cook Islands News</title>
-<link>https://www.cookislandsnews.com/internal/national/local/culture/tourism/avana-project-underway-as-sunday-tour-restrictions-introduced/</link>
-<guid isPermaLink="false">https://www.cookislandsnews.com/internal/national/local/culture/tourism/avana-project-underway-as-sunday-tour-restrictions-introduced/</guid>
-<pubDate>Fri, 05 Jun 2026 19:16:19 +0000</pubDate>
-<description>Work has begun on a major project at the Avananui Maruarua site in Ngatangiia, aimed at improving the visitor experience while preserving and ...</description>
 </item>
 </channel>
 </rss>
