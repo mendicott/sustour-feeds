@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/netherlands.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Netherlands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 09 Jul 2026 22:09:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 10:10:04 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Jamaica Unveils $500 Million Plan to Transform Holland Bamboo Corridor into a Premier ...</title>
+<link>https://www.travelandtourworld.com/news/article/4crd0uaawaae/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/4crd0uaawaae/</guid>
+<pubDate>Thu, 09 Jul 2026 20:33:19 +0000</pubDate>
+<description>Jamaica plans a $500 million upgrade of Holland Bamboo in St. Elizabeth, creating a pedestrian-friendly ecotourism destination with environmental ...</description>
+</item>
 <item>
 <title>Holland Bamboo in St Elizabeth to be pedestrianised for eco-tourism — Green</title>
 <link>https://www.jamaicaobserver.com/2026/07/08/holland-bamboo-st-elizabeth-pedestrianised-eco-tourism-green/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/co7101o8dadx/</guid>
 <pubDate>Tue, 23 Jun 2026 16:15:47 +0000</pubDate>
 <description>Italy overtakes Spain, Netherlands, Croatia, Greece, Germany, Iceland, and more countries in Europe in implementing a sweeping overtourism ...</description>
-</item>
-<item>
-<title>Netherlands Transforms Its Tourism Strategy as Amsterdam Restrictions Drive Growth in Eco ...</title>
-<link>https://www.travelandtourworld.com/news/article/wxlq90qwzae6/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/wxlq90qwzae6/</guid>
-<pubDate>Mon, 22 Jun 2026 07:47:21 +0000</pubDate>
-<description>Amsterdam's efforts to encourage responsible travel are helping redirect interest toward eco-friendly experiences, cycling holidays, and countryside ...</description>
 </item>
 </channel>
 </rss>

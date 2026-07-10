@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/new-zealand.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for New Zealand. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 09 Jul 2026 22:09:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 10:10:04 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Japan Beats Australia, New Zealand, Italy, Greece and Many Others in Implementing the ...</title>
+<link>https://www.travelandtourworld.com/news/article/jwh58j86grwe/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/jwh58j86grwe/</guid>
+<pubDate>Thu, 09 Jul 2026 22:45:07 +0000</pubDate>
+<description>... over-tourism control measure. Advertisement. Advertisement. Although Australia does not currently market the PMC as an overtourism tax, the charge ...</description>
+</item>
 <item>
 <title>New Zealand Tourism Goes Green: Impact on Businesses? - Mirage News</title>
 <link>https://www.miragenews.com/new-zealand-tourism-goes-green-impact-on-1705457/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.greenpeace.org/aotearoa/story/the-biggest-attack-on-conservation-land-in-new-zealands-history/</guid>
 <pubDate>Thu, 04 Jun 2026 09:55:44 +0000</pubDate>
 <description>And it's one of our greatest defences against climate breakdown because huge tracts of native forests in the conservation estate store vast amounts of ...</description>
-</item>
-<item>
-<title>NZ tourism businesses face complex path to sustainability - University of Auckland</title>
-<link>https://www.auckland.ac.nz/en/news/2026/07/09/nz-tourism-businesses-face-complex-path-to-sustainability.html</link>
-<guid isPermaLink="false">https://www.auckland.ac.nz/en/news/2026/07/09/nz-tourism-businesses-face-complex-path-to-sustainability.html</guid>
-<pubDate>Thu, 09 Jul 2026 00:10:25 +0000</pubDate>
-<description>8 July 2026. Business and economy, Sustainable impact, Business School. Analysis: Aotearoa New Zealand's tourism sector is striving to be greener.</description>
 </item>
 </channel>
 </rss>

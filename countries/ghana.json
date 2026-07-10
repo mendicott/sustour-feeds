@@ -49,6 +49,13 @@
       "date_published": "2026-07-06T12:55:35+00:00"
     },
     {
+      "id": "https://3news.com/news/driving-tourists-away-gta-raises-alarm",
+      "url": "https://3news.com/news/driving-tourists-away-gta-raises-alarm",
+      "title": "Garbage from floods driving tourists away from beaches - Ghana Tourism Authority CEO laments",
+      "content_text": "To address the situation, the GTA has taken it upon itself to clean beaches across the country.",
+      "date_published": "2026-07-09T17:36:18+00:00"
+    },
+    {
       "id": "https://earthjournalism.net/resources/tipsheet/reporting-on-marine-protection-in-ghana-a-resource-for-journalists",
       "url": "https://earthjournalism.net/resources/tipsheet/reporting-on-marine-protection-in-ghana-a-resource-for-journalists",
       "title": "Reporting on Marine Protection in Ghana: A Resource for Journalists",
@@ -68,13 +75,6 @@
       "title": "Ghana to host landmark 2027 UN Tourism Africa Summ | Daily Graphic - PressReader",
       "content_text": "... World Tourism Organization · Kalsoume Sinare. IN a major diplomatic success that projects the nation's leadership in heritage tourism onto the ...",
       "date_published": "2026-07-07T06:04:00+00:00"
-    },
-    {
-      "id": "https://www.undp.org/ghana/press-releases/undp-supports-18-community-led-environmental-actions-along-black-volta-basin-under-gef-small-grants-programme-operational-phase",
-      "url": "https://www.undp.org/ghana/press-releases/undp-supports-18-community-led-environmental-actions-along-black-volta-basin-under-gef-small-grants-programme-operational-phase",
-      "title": "UNDP Supports 18 Community-Led Environmental Actions Along the Black Volta Basin ...",
-      "content_text": "From the right is Dr Abdul-Razak Saeed, Head of Environment and Climate, UNDP Ghana exchanging handshake with a representative from one of the ...",
-      "date_published": "2026-07-06T13:12:39+00:00"
     }
   ]
 }

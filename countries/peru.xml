@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/peru.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Peru. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 09 Jul 2026 22:09:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 10:10:04 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Peru: Contract awarded to update Machu Picchu's carrying capacity study | News | ANDINA</title>
+<link>https://andina.pe/Ingles/noticia-peru-contract-awarded-to-update-machu-picchus-carrying-capacity-study-1082919.aspx</link>
+<guid isPermaLink="false">https://andina.pe/Ingles/noticia-peru-contract-awarded-to-update-machu-picchus-carrying-capacity-study-1082919.aspx</guid>
+<pubDate>Thu, 09 Jul 2026 22:30:30 +0000</pubDate>
+<description>This announcement was made by Foreign Trade and Tourism Minister Berthin Gomez on Thursday, during the presentation ceremony of Marca Peru (Peru Brand) ...</description>
+</item>
 <item>
 <title>Peru: Machu Picchu Pueblo expects higher visitor capacity at Inca Citadel | Agencia Andina</title>
 <link>https://andina.pe/agencia/noticia-peru-machu-picchu-pueblo-expects-higher-visitor-capacity-at-inca-citadel-1082747.aspx</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/dvui0xikjgl4/</guid>
 <pubDate>Mon, 15 Jun 2026 16:07:31 +0000</pubDate>
 <description>UNESCO expands sustainable tourism and heritage safeguarding across Latin America &amp; Caribbean to build climate resilience and community growth.</description>
-</item>
-<item>
-<title>The Terraces of Cuyocuyo: an ancestral model that protects biodiversity and strengthens ...</title>
-<link>https://noticiasambientales.com/environment-en/the-terraces-of-cuyocuyo-an-ancestral-model-that-protects-biodiversity-and-strengthens-climate-resilience/</link>
-<guid isPermaLink="false">https://noticiasambientales.com/environment-en/the-terraces-of-cuyocuyo-an-ancestral-model-that-protects-biodiversity-and-strengthens-climate-resilience/</guid>
-<pubDate>Sun, 14 Jun 2026 00:16:49 +0000</pubDate>
-<description>In the mountains of southern Peru, the communities of Puna Ayllu, Ura Ayllu, Cojene-Rotojoni, Puna Laqueque, Huancasayani Cumani, and Ñacoreque ...</description>
 </item>
 </channel>
 </rss>

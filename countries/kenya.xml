@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/kenya.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Kenya. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 09 Jul 2026 22:09:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 10:10:04 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Kenya Launches Natural Assets Mapping for Northern Counties - Dawan Africa</title>
+<link>https://www.dawan.africa/news/kenya-launches-natural-assets-mapping-for-northern-counties</link>
+<guid isPermaLink="false">https://www.dawan.africa/news/kenya-launches-natural-assets-mapping-for-northern-counties</guid>
+<pubDate>Thu, 09 Jul 2026 22:05:31 +0000</pubDate>
+<description>Reports for Samburu, Isiolo, and Laikipia aim to guide conservation, curb human-wildlife conflict, and strengthen climate resilience through ...</description>
+</item>
 <item>
 <title>Conservationists fault Gov't over contradictory push to plant 15 billion trees while 'clearing' forests</title>
 <link>https://citizen.digital/article/conservationists-fault-govt-over-contradictory-push-to-plant-15-billion-trees-while-clearing-forests-n386148</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://hospibuz.com/hotel/Hotel-listicles/jw-marriott-mount-kenya-rhino-reserve-safari-camp-opens-in-solio-game-reserve-12123650</guid>
 <pubDate>Wed, 01 Jul 2026 22:30:13 +0000</pubDate>
 <description>Operating within Solio Game Reserve, the camp embraces established guidelines that prioritise conservation and responsible tourism. This low ...</description>
-</item>
-<item>
-<title>South Africa Stands With Morocco, Egypt, Kenya And Emerging African Tourism ...</title>
-<link>https://www.travelandtourworld.com/news/article/6mtl2jwwr8xo/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/6mtl2jwwr8xo/</guid>
-<pubDate>Tue, 30 Jun 2026 14:53:59 +0000</pubDate>
-<description>Seychelles is pursuing a low-volume, high-value tourism strategy, emphasising environmental protection and ultra-luxury hospitality offerings.</description>
 </item>
 </channel>
 </rss>
