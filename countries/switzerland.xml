@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/switzerland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Switzerland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 10 Jul 2026 22:09:15 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 10:09:09 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Youth Hostel Director Calls for Discussion on Overtourism - Bluewin</title>
+<link>https://www.bluewin.ch/en/news/youth-hostel-director-calls-for-discussion-on-overtourism-li.3524594</link>
+<guid isPermaLink="false">https://www.bluewin.ch/en/news/youth-hostel-director-calls-for-discussion-on-overtourism-li.3524594</guid>
+<pubDate>Sat, 11 Jul 2026 03:24:41 +0000</pubDate>
+<description>Janine Bunte, the head of Swiss Youth Hostels, has criticized municipalities for their handling of overtourism. "They make their living from ...</description>
+</item>
 <item>
 <title>Switzerland Aligns with Italy, France, Austria, and Germany as Overtourism Challenges ...</title>
 <link>https://www.travelandtourworld.com/news/article/t1oh8k30s0ai/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.winnipegsun.com/national-news/indigenous-group-seeks-help-repatriating-cultural-items-from-switzerland/article_89ca0c53-7710-5495-a7cc-99e572130279.html</guid>
 <pubDate>Wed, 24 Jun 2026 01:10:21 +0000</pubDate>
 <description>Travel · Eat Play Stay Winnipeg · Travel Manitoba · Travel Essentials · Obituaries · Classifieds · Place an Ad · Celebrations · Pet Posts &amp; Adoptions ...</description>
-</item>
-<item>
-<title>Switzerland Joins Mexico, France, Germany, Spain, Canada, US, Japan, South Africa and ...</title>
-<link>https://www.travelandtourworld.com/news/article/wdf6zepbwmxl/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/wdf6zepbwmxl/</guid>
-<pubDate>Tue, 16 Jun 2026 14:10:07 +0000</pubDate>
-<description>Supported by its world-famous beaches, biodiversity, national parks, volcanoes, adventure tourism, and eco-friendly travel experiences, Costa Rica ...</description>
 </item>
 </channel>
 </rss>

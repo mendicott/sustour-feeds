@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 10 Jul 2026 22:09:15 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 10:09:09 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mexico Expands Forest Restoration Under National Strategy</title>
+<link>https://mexicobusiness.news/sustainability/news/mexico-expands-forest-restoration-under-national-strategy</link>
+<guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/mexico-expands-forest-restoration-under-national-strategy</guid>
+<pubDate>Fri, 10 Jul 2026 23:30:46 +0000</pubDate>
+<description>... climate resilience, watershed protection and rural development. During a National Reforestation Day event in Oaxaca, Alicia Bárcena, Minister of ...</description>
+</item>
 <item>
 <title>Just an hour and a half from Mexico City: The 2026 International Firefly Festival is coming ...</title>
 <link>https://cdmxsecreta.com/en/2026-amecameca-international-firefly-festival/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/te1vvdcwc9eu/</guid>
 <pubDate>Wed, 17 Jun 2026 11:12:47 +0000</pubDate>
 <description>Río Lagartos in Yucatán prepares for summer tourism with strict eco-fees, regulations, and conservation measures protecting the biosphere reserve.</description>
-</item>
-<item>
-<title>Mexico Joins Brazil, Peru, Colombia, Jamaica, Argentina, Dominican Republic and More in ...</title>
-<link>https://www.travelandtourworld.com/news/article/dvui0xikjgl4/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/dvui0xikjgl4/</guid>
-<pubDate>Mon, 15 Jun 2026 16:07:31 +0000</pubDate>
-<description>UNESCO expands sustainable tourism and heritage safeguarding across Latin America &amp; Caribbean to build climate resilience and community growth.</description>
 </item>
 </channel>
 </rss>
