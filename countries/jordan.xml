@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/jordan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Jordan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 11 Jul 2026 10:09:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 22:08:03 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Crown Prince highlights eco-tourism's role in empowering local communities</title>
+<link>https://petra.gov.jo/index.php/en/news/crown-prince-highlights-eco-tourisms-role-in-empowering-local-communities</link>
+<guid isPermaLink="false">https://petra.gov.jo/index.php/en/news/crown-prince-highlights-eco-tourisms-role-in-empowering-local-communities</guid>
+<pubDate>Sat, 11 Jul 2026 04:18:15 +0000</pubDate>
+<description>Irbid, April 22 (Petra) His Royal Highness Crown Prince Al Hussein bin Abdullah II on Wednesday joined activists specialising in eco-tourism and ...</description>
+</item>
 <item>
 <title>Aqaba's Eco-Tour Boats First in Middle East to Earn Blue Flag Certification</title>
 <link>https://petra.gov.jo/en/news/aqabas-eco-tour-boats-first-in-middle-east-to-earn-blue-flag-certification</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/7jhgo3pmxb2r/</guid>
 <pubDate>Mon, 06 Jul 2026 04:30:20 +0000</pubDate>
 <description>... ecological tourism assets. Their ... Ecotourism, cultural tourism and religious tourism are being integrated into wider regional travel networks.</description>
-</item>
-<item>
-<title>Italy and EU Strengthen Jordan's Cultural Heritage Through Innovative Site Development</title>
-<link>https://www.eeas.europa.eu/delegations/jordan/italy-and-eu-strengthen-jordan%E2%80%99s-cultural-heritage-through-innovative-site-development_en</link>
-<guid isPermaLink="false">https://www.eeas.europa.eu/delegations/jordan/italy-and-eu-strengthen-jordan%E2%80%99s-cultural-heritage-through-innovative-site-development_en</guid>
-<pubDate>Sun, 05 Jul 2026 10:09:51 +0000</pubDate>
-<description>The Italian Embassy to Jordan, supported by the Italian Agency for Development Cooperation (AICS) Office in Amman, recently convened key ...</description>
 </item>
 </channel>
 </rss>

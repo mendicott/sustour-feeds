@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 11 Jul 2026 10:09:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 22:08:03 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>International travelers leave green legacy in northern Vietnam - Tuoi tre news</title>
+<link>https://news.tuoitre.vn/international-travelers-leave-green-legacy-in-northern-vietnam-103260711161832244.htm</link>
+<guid isPermaLink="false">https://news.tuoitre.vn/international-travelers-leave-green-legacy-in-northern-vietnam-103260711161832244.htm</guid>
+<pubDate>Sat, 11 Jul 2026 19:33:12 +0000</pubDate>
+<description>"Adding the tree-planting activity to the tour is a wonderful idea, contributing to environmental protection while promoting sustainable tourism in Ha ...</description>
+</item>
 <item>
 <title>Connecting the heritage network in western Lam Dong. - Vietnam.vn</title>
 <link>https://www.vietnam.vn/en/noi-mach-di-san-phia-tay-lam-dong</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://en.vietnamplus.vn/vietnam-pushes-circular-tourism-to-drive-green-growth-post347924.vnp</guid>
 <pubDate>Wed, 08 Jul 2026 03:15:21 +0000</pubDate>
 <description>Unlike conventional sustainable tourism, circular tourism goes beyond reducing environmental impacts. It embraces a regenerative approach in which ...</description>
-</item>
-<item>
-<title>Proactively transitioning operations towards a greener direction. - Vietnam.vn</title>
-<link>https://www.vietnam.vn/en/chu-dong-chuyen-doi-hoat-dong-theo-huong-xanh</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/chu-dong-chuyen-doi-hoat-dong-theo-huong-xanh</guid>
-<pubDate>Wed, 08 Jul 2026 02:32:30 +0000</pubDate>
-<description>Green tourism and responsible tourism are becoming a developing trend in the tourism industry in many countries, including Vietnam.</description>
 </item>
 </channel>
 </rss>
