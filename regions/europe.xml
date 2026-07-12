@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/europe.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Europe. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 12 Jul 2026 10:08:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 22:08:10 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mexico Deepens Engagement with United States, Canada, Spain, and Colombia to ...</title>
+<link>https://www.travelandtourworld.com/news/article/bl86tsm8yw0o/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/bl86tsm8yw0o/</guid>
+<pubDate>Sun, 12 Jul 2026 15:47:48 +0000</pubDate>
+<description>... cultural heritage, eco-tourism, and outdoor adventures thrive. ... The destination emphasizes responsible travel, biodiversity conservation, and ...</description>
+</item>
 <item>
 <title>Italian village bans tourists with bare chests and swimwear - The New Daily</title>
 <link>https://www.thenewdaily.com.au/travel/travel-news/2026/07/11/italy-village-ban-bare-chests-swimwear</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.bluewin.ch/en/news/youth-hostel-director-calls-for-discussion-on-overtourism-li.3524594</guid>
 <pubDate>Sat, 11 Jul 2026 03:24:41 +0000</pubDate>
 <description>Janine Bunte, the head of Swiss Youth Hostels, has criticized municipalities for their handling of overtourism. "They make their living from ...</description>
-</item>
-<item>
-<title>Spain Alongside Greece and Türkiye Face a Tourism Turning Point as Record Visitor ...</title>
-<link>https://www.travelandtourworld.com/news/article/ursc6aeon7y3/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ursc6aeon7y3/</guid>
-<pubDate>Fri, 10 Jul 2026 21:12:17 +0000</pubDate>
-<description>Spain Alongside Greece and Türkiye Face a Tourism Turning Point as Record Visitor Growth Sparks Overtourism Concerns and a New Push for Sustainable ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 12 Jul 2026 10:08:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 22:08:10 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mexico Deepens Engagement with United States, Canada, Spain, and Colombia to ...</title>
+<link>https://www.travelandtourworld.com/news/article/bl86tsm8yw0o/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/bl86tsm8yw0o/</guid>
+<pubDate>Sun, 12 Jul 2026 15:47:48 +0000</pubDate>
+<description>... cultural heritage, eco-tourism, and outdoor adventures thrive. ... The destination emphasizes responsible travel, biodiversity conservation, and ...</description>
+</item>
 <item>
 <title>Mexico Expands Forest Restoration Under National Strategy</title>
 <link>https://mexicobusiness.news/sustainability/news/mexico-expands-forest-restoration-under-national-strategy</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://mexiconewsdaily.com/travel/nuevo-laredo-hunting-ranches-ecotourism/</guid>
 <pubDate>Thu, 18 Jun 2026 19:29:34 +0000</pubDate>
 <description>Nuevo Laredo, Tamaulipas, is looking to diversify its hunting ranch tourism and encourage ecotourism in the off-season.</description>
-</item>
-<item>
-<title>Mexico Redefines Sustainable Travel as Río Lagartos Launches Strict Tourism Governance ...</title>
-<link>https://www.travelandtourworld.com/news/article/te1vvdcwc9eu/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/te1vvdcwc9eu/</guid>
-<pubDate>Wed, 17 Jun 2026 11:12:47 +0000</pubDate>
-<description>Río Lagartos in Yucatán prepares for summer tourism with strict eco-fees, regulations, and conservation measures protecting the biosphere reserve.</description>
 </item>
 </channel>
 </rss>

@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.travelandtourworld.com/news/article/bl86tsm8yw0o/",
+      "url": "https://www.travelandtourworld.com/news/article/bl86tsm8yw0o/",
+      "title": "Mexico Deepens Engagement with United States, Canada, Spain, and Colombia to ...",
+      "content_text": "... cultural heritage, eco-tourism, and outdoor adventures thrive. ... The destination emphasizes responsible travel, biodiversity conservation, and ...",
+      "date_published": "2026-07-12T15:47:48+00:00"
+    },
+    {
       "id": "https://mexicobusiness.news/sustainability/news/mexico-expands-forest-restoration-under-national-strategy",
       "url": "https://mexicobusiness.news/sustainability/news/mexico-expands-forest-restoration-under-national-strategy",
       "title": "Mexico Expands Forest Restoration Under National Strategy",
@@ -68,13 +75,6 @@
       "title": "Nuevo Laredo looks to turn hunting ranches into ecotourism sites - Mexico News Daily",
       "content_text": "Nuevo Laredo, Tamaulipas, is looking to diversify its hunting ranch tourism and encourage ecotourism in the off-season.",
       "date_published": "2026-06-18T19:29:34+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/te1vvdcwc9eu/",
-      "url": "https://www.travelandtourworld.com/news/article/te1vvdcwc9eu/",
-      "title": "Mexico Redefines Sustainable Travel as Río Lagartos Launches Strict Tourism Governance ...",
-      "content_text": "Río Lagartos in Yucatán prepares for summer tourism with strict eco-fees, regulations, and conservation measures protecting the biosphere reserve.",
-      "date_published": "2026-06-17T11:12:47+00:00"
     }
   ]
 }

@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/israel.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Israel. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 12 Jul 2026 10:08:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 22:08:10 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>KKL-JNF is preserving endangered species with Jerusalem Botanical Garden and Eshtaol Nursery</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://www.washingtonpost.com/world/2026/06/21/lebanon-israel-hezbollah-sea-turtles-environmentalist-khalil/1929d2ac-6da1-11f1-8730-e7fd0e2a6404_story.html</guid>
 <pubDate>Sun, 21 Jun 2026 19:08:55 +0000</pubDate>
 <description>The Orange House, which Khalil helped build into a small conservation hub and ecotourism site in Mansouri, became a refuge for endangered ...</description>
+</item>
+<item>
+<title>Hula Valley - How a malaria swamp became one of Israel's greatest wildlife treasures</title>
+<link>https://www.youtube.com/watch?v=5akjnhUkBTo</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=5akjnhUkBTo</guid>
+<pubDate>Sun, 12 Jul 2026 12:15:47 +0000</pubDate>
+<description>migration corridors, with hundreds of millions of birds stopping here each year as they travel between Africa, Europe, and Asia. Covering news and ...</description>
 </item>
 <item>
 <title>Israeli trekking groups plaster signboards and disturb campsites in Peru - YouTube</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.ynetnews.com/travel/article/xv1o404zx</guid>
 <pubDate>Sat, 11 Jul 2026 07:46:43 +0000</pubDate>
 <description>Award-winning Israeli nature photographer Amit Eshel keeps returning to Ethiopia's dramatic highlands, revealing one of the world's least ...</description>
-</item>
-<item>
-<title>Archaeologists unearth ancient Byzantine-era city in Egypt's Dakhla Oasis | The Jerusalem Post</title>
-<link>https://www.jpost.com/archaeology/article-901635</link>
-<guid isPermaLink="false">https://www.jpost.com/archaeology/article-901635</guid>
-<pubDate>Sat, 11 Jul 2026 04:40:19 +0000</pubDate>
-<description>The discovery helps "highlight the cultural diversity witnessed by the Egyptian oases throughout different historical periods," said Egyptian Tourism ...</description>
 </item>
 </channel>
 </rss>
