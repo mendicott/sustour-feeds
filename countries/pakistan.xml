@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/pakistan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Pakistan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 11 Jul 2026 22:08:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 10:08:04 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Protecting the Markhor - The Nation</title>
+<link>https://www.nation.com.pk/12-Jul-2026/protecting-markhor</link>
+<guid isPermaLink="false">https://www.nation.com.pk/12-Jul-2026/protecting-markhor</guid>
+<pubDate>Sun, 12 Jul 2026 04:16:59 +0000</pubDate>
+<description>The loss of the Markhor would harm fragile mountain ecosystems, reduce biodiversity and diminish Pakistan's natural heritage. Wildlife tourism centred ...</description>
+</item>
 <item>
 <title>Conservation sees urial rebounding in Salt Range - Pakistan - DAWN.COM</title>
 <link>https://www.dawn.com/news/2013497</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.dawn.com/news/2014053</guid>
 <pubDate>Thu, 09 Jul 2026 06:39:29 +0000</pubDate>
 <description>ISLAMABAD: Recognising the growing role of nature-based solutions (NbS) in addressing climate change, biodiversity loss and disaster risks, WWF ...</description>
-</item>
-<item>
-<title>HERITAGE: A COASTAL ATLAS FOR KARACHI - Newspaper - DAWN.COM</title>
-<link>https://www.dawn.com/news/2012978</link>
-<guid isPermaLink="false">https://www.dawn.com/news/2012978</guid>
-<pubDate>Sun, 05 Jul 2026 21:42:40 +0000</pubDate>
-<description>Once complete, the map will help explain Pakistan's coastal environment. The self-funded project, which is both complicated and time-consuming, has ...</description>
 </item>
 </channel>
 </rss>
