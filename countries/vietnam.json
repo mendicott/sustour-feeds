@@ -7,6 +7,34 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.vietnam.vn/en/unesco-ghi-danh-di-san-thien-nhien-the-gioi-lien-bien-gioi-dau-tien-cua-viet-nam",
+      "url": "https://www.vietnam.vn/en/unesco-ghi-danh-di-san-thien-nhien-the-gioi-lien-bien-gioi-dau-tien-cua-viet-nam",
+      "title": "UNESCO inscribes Vietnam's first transboundary natural heritage site. - Vietnam.vn",
+      "content_text": "On July 13, 2021, at its 47th session, the United Nations Human Rights Council adopted a resolution calling on states to strengthen action to address ...",
+      "date_published": "2026-07-13T02:18:08+00:00"
+    },
+    {
+      "id": "https://www.vietnam.vn/en/viet-nam-de-xuat-sang-kien-trien-khai-thap-ky-van-hoa-vi-su-phat-trien-ben-vung",
+      "url": "https://www.vietnam.vn/en/viet-nam-de-xuat-sang-kien-trien-khai-thap-ky-van-hoa-vi-su-phat-trien-ben-vung",
+      "title": "Vietnam proposes an initiative to implement a Decade of Culture for Sustainable Development.",
+      "content_text": "VHO - On October 1st, within the framework of the World Conference on Cultural Policy and Sustainable Development ... Tourism Van Hung attended ...",
+      "date_published": "2026-07-12T20:02:23+00:00"
+    },
+    {
+      "id": "https://www.vietnam.vn/en/khang-dinh-vai-tro-tru-cot-cua-van-hoa-doi-voi-su-phat-trien-ben-vung-toan-cau",
+      "url": "https://www.vietnam.vn/en/khang-dinh-vai-tro-tru-cot-cua-van-hoa-doi-voi-su-phat-trien-ben-vung-toan-cau",
+      "title": "Affirming the pivotal role of culture in global sustainable development. - Vietnam.vn",
+      "content_text": "VHO - On September 29, the Opening Ceremony of the World Conference on Cultural Policy and Sustainable Development ... Tourism Nguyen Van Hung led the ...",
+      "date_published": "2026-07-12T19:21:35+00:00"
+    },
+    {
+      "id": "https://www.vietnam.vn/en/gan-bao-ton-voi-phat-trien-kinh-te-bien-ben-vung",
+      "url": "https://www.vietnam.vn/en/gan-bao-ton-voi-phat-trien-kinh-te-bien-ben-vung",
+      "title": "Linking conservation with sustainable marine economic development. - Vietnam.vn",
+      "content_text": "In the context of increasing resource exploitation pressures, environmental degradation, and climate risks, marine protected areas are ...",
+      "date_published": "2026-07-12T19:04:45+00:00"
+    },
+    {
       "id": "https://www.vietnam.vn/en/ta-xua-va-bai-toan-phat-trien-diem-den-ben-vung",
       "url": "https://www.vietnam.vn/en/ta-xua-va-bai-toan-phat-trien-diem-den-ben-vung",
       "title": "Ta Xua and the challenge of sustainable destination development. - Vietnam.vn",
@@ -47,34 +75,6 @@
       "title": "Connecting the heritage network in western Lam Dong. - Vietnam.vn",
       "content_text": "Western Lam Dong province is connecting heritage values, linking conservation and promotion of the UNESCO Dak Nong Global Geopark with the ...",
       "date_published": "2026-07-10T10:57:41+00:00"
-    },
-    {
-      "id": "https://www.vietnam.vn/en/ban-du-lich-cong-dong-lao-chai-1-duoc-vinh-danh-tai-giai-thuong-vita-awards-2026",
-      "url": "https://www.vietnam.vn/en/ban-du-lich-cong-dong-lao-chai-1-duoc-vinh-danh-tai-giai-thuong-vita-awards-2026",
-      "title": "Lao Chai 1 community tourism village was honored at the VITA AWARDS 2026. - Vietnam.vn",
-      "content_text": "... community tourism associated with preserving the traditional cultural values ​​of the Mong ethnic group. Over the years, the village has gradually ...",
-      "date_published": "2026-07-10T10:43:38+00:00"
-    },
-    {
-      "id": "https://www.vietnam.vn/en/gia-lai-phat-trien-du-lich-sinh-thai-nghi-duong-tren-cao-nguyen-kon-ha-nung",
-      "url": "https://www.vietnam.vn/en/gia-lai-phat-trien-du-lich-sinh-thai-nghi-duong-tren-cao-nguyen-kon-ha-nung",
-      "title": "Gia Lai develops ecotourism and resort tourism on the Kon Ha Nung plateau. - Vietnam.vn",
-      "content_text": "Gia Lai has a project to develop ecotourism, resorts, and entertainment in Kon Ka Kinh National Park and Kon Chu Rang Nature Reserve (Kon Ha Nung ...",
-      "date_published": "2026-07-10T04:00:13+00:00"
-    },
-    {
-      "id": "https://en.vietnamplus.vn/indonesia-india-launch-prambanan-cultural-heritage-conservation-project-post348036.vnp",
-      "url": "https://en.vietnamplus.vn/indonesia-india-launch-prambanan-cultural-heritage-conservation-project-post348036.vnp",
-      "title": "Indonesia, India launch Prambanan cultural heritage conservation project - Vietnam Plus",
-      "content_text": "Speaking at the July 8 event, Prabowo described Prambanan as not only a historic monument but also a symbol of the great civilisation of the ...",
-      "date_published": "2026-07-09T18:52:57+00:00"
-    },
-    {
-      "id": "https://news.laodong.vn/du-lich/tin-tuc/vita-awards-2026-106-giai-thuong-ton-vinh-cac-diem-sang-du-lich-viet-nam-1732749.html",
-      "url": "https://news.laodong.vn/du-lich/tin-tuc/vita-awards-2026-106-giai-thuong-ton-vinh-cac-diem-sang-du-lich-viet-nam-1732749.html",
-      "title": "VITA Awards 2026: 106 awards honoring Vietnam's tourism bright spots",
-      "content_text": "... green transformation and responsible tourism development. VITA Awards is not only an honoring event, but also an action message from the Vietnam ...",
-      "date_published": "2026-07-09T14:26:44+00:00"
     }
   ]
 }
