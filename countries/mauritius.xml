@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mauritius.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mauritius. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 13 Jul 2026 10:09:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Jul 2026 22:09:06 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Mauritius and the conservation concierge | The Hindu (Kochi) - PressReader</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://atta.travel/resource/east-africa-s-tourism-future-hinges-on-sustainability-and-regional-cooperation-says-german-diplomat.html</guid>
 <pubDate>Mon, 15 Jun 2026 15:44:58 +0000</pubDate>
 <description>... travel and tourism. Members are encouraged to check this resource ... The Mauritius Tourism Promotion Authority (MTPA) concluded a three-city ...</description>
+</item>
+<item>
+<title>I've surfed everywhere from Mauritius to Bristol – these are the world's best surfing destinations</title>
+<link>https://www.timeout.com/travel/worlds-best-surfing-destinations</link>
+<guid isPermaLink="false">https://www.timeout.com/travel/worlds-best-surfing-destinations</guid>
+<pubDate>Mon, 13 Jul 2026 18:03:39 +0000</pubDate>
+<description>Like much of Costa Rica, Nosara is big into eco-tourism – so pay a visit to the wildlife sanctuary or take a day off with some naturally-sourced spa ...</description>
 </item>
 <item>
 <title>Mauritius and the conservation concierge | The Hindu (Mangalore) - PressReader</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.khaleejtimes.com/travel/from-floating-breakfast-to-seagrass-nursery-heres-what-a-stay-at-four-seasons-mauritius-offers?amp=1</guid>
 <pubDate>Wed, 10 Jun 2026 13:49:55 +0000</pubDate>
 <description>... climate change. The project, overseen by the resort's Marine Environment Director Rick Ernest Bonnieux, aims to restore the seagrass meadows ...</description>
-</item>
-<item>
-<title>A new floating marine education centre launches in Mauritius - TTG Media</title>
-<link>https://www.ttgmedia.com/noticeboard/new-floating-marine-education-centre-launches-mauritius</link>
-<guid isPermaLink="false">https://www.ttgmedia.com/noticeboard/new-floating-marine-education-centre-launches-mauritius</guid>
-<pubDate>Wed, 10 Jun 2026 10:19:12 +0000</pubDate>
-<description>Ekol'o is a converted catamaran staffed by certified marine eco-guides who lead educational workshops on topics including sea turtles and humpback ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/pakistan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Pakistan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 13 Jul 2026 10:09:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Jul 2026 22:09:06 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Indus River dolphins benefit from new protected area in Pakistan - World Wildlife Fund</title>
+<link>https://www.worldwildlife.org/news/stories/indus-river-dolphins-benefit-from-new-protected-area-in-pakistan/</link>
+<guid isPermaLink="false">https://www.worldwildlife.org/news/stories/indus-river-dolphins-benefit-from-new-protected-area-in-pakistan/</guid>
+<pubDate>Mon, 13 Jul 2026 14:53:04 +0000</pubDate>
+<description>Pakistan establishes a new Indus River Dolphin Sanctuary, protecting critical habitat for 2000 remaining dolphins and river wildlife ... Travel. Support.</description>
+</item>
 <item>
 <title>Protecting the Markhor - The Nation</title>
 <link>https://www.nation.com.pk/12-Jul-2026/protecting-markhor</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.izmir.bel.tr/en/News/pakistan-pavilion-joins-the-european-route-of-industrial-heritage/58994/162</guid>
 <pubDate>Fri, 10 Jul 2026 14:39:15 +0000</pubDate>
 <description>With the inclusion of Pakistan Pavilion, one of Kültürpark's landmark buildings, in the European Route of Industrial Heritage (ERIH), ...</description>
-</item>
-<item>
-<title>Advancing nature-based solutions to address climate risks stressed - Pakistan - DAWN.COM</title>
-<link>https://www.dawn.com/news/2014053</link>
-<guid isPermaLink="false">https://www.dawn.com/news/2014053</guid>
-<pubDate>Thu, 09 Jul 2026 06:39:29 +0000</pubDate>
-<description>ISLAMABAD: Recognising the growing role of nature-based solutions (NbS) in addressing climate change, biodiversity loss and disaster risks, WWF ...</description>
 </item>
 </channel>
 </rss>

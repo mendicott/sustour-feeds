@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/norway.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Norway. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 13 Jul 2026 10:09:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Jul 2026 22:09:06 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Greece Leads With Netherlands, Spain, France, Norway and More as Europe's Cruise ...</title>
+<link>https://www.travelandtourworld.com/news/article/u79znl9igtcl/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/u79znl9igtcl/</guid>
+<pubDate>Mon, 13 Jul 2026 13:55:07 +0000</pubDate>
+<description>Greece, Netherlands, Spain, France and Norway reshape Europe cruise tourism with new taxes, mega ship limits, green rules and overtourism ...</description>
+</item>
 <item>
 <title>This really surprised me - YouTube</title>
 <link>https://www.youtube.com/watch?v=KHXGdhbuZFA</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/45jq5rpxece3/</guid>
 <pubDate>Thu, 02 Jul 2026 18:01:23 +0000</pubDate>
 <description>Europe's Summer Travel Pattern Is Breaking Under Climate Pressure. Europe's summer tourism system is undergoing a noticeable structural change as ...</description>
-</item>
-<item>
-<title>Norway Records Strong Tourism Growth as Eco-Travel, Fjord Adventures and Sustainable ...</title>
-<link>https://www.travelandtourworld.com/news/article/mcr482dp42zf/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/mcr482dp42zf/</guid>
-<pubDate>Mon, 29 Jun 2026 10:05:04 +0000</pubDate>
-<description>The country's combination of dramatic natural scenery, extensive hiking opportunities, world-famous fjords and modern sustainability initiatives ...</description>
 </item>
 </channel>
 </rss>

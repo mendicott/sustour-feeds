@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/syria.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Syria. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 13 Jul 2026 10:09:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Jul 2026 22:09:06 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Krak des Chevaliers preserves nine centuries of Syria's history</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://www.arabnews.pk/node/2649611/middle-east</guid>
 <pubDate>Sat, 04 Jul 2026 02:22:32 +0000</pubDate>
 <description>DAMASCUS: The Green Climate Fund's Board of Directors has approved $27.7 million in funding for Syria's first national project, ...</description>
+</item>
+<item>
+<title>Maktab Anbar gains international recognition with ICESCO heritage listing</title>
+<link>https://sana.sy/en/tour-syria/2329282/</link>
+<guid isPermaLink="false">https://sana.sy/en/tour-syria/2329282/</guid>
+<pubDate>Mon, 13 Jul 2026 12:06:30 +0000</pubDate>
+<description>... cultural heritage. Located in the heart of Damascus Old City, a ... She told SANA that the listing would also support cultural tourism by ...</description>
 </item>
 <item>
 <title>The Friendliest Town in Virginia Is the ideal Place to Visit When You Need A Pick Me Up</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://reliefweb.int/report/syrian-arab-republic/water-res-major-climate-adaptation-initiative-15-million-people-syria</guid>
 <pubDate>Wed, 01 Jul 2026 14:15:05 +0000</pubDate>
 <description>The board of the Green Climate Fund (GCF) has made a historic decision today, approving WATER-RES, its first project in Syria.</description>
-</item>
-<item>
-<title>Syria showcases tourism sector at travel and Umrah forum in Türkiye</title>
-<link>https://sana.sy/en/syria/2325974/</link>
-<guid isPermaLink="false">https://sana.sy/en/syria/2325974/</guid>
-<pubDate>Sun, 28 Jun 2026 09:37:24 +0000</pubDate>
-<description>Istanbul, June 28 (SANA) Syria's Ministry of Tourism participated in the Tourism Programs and Umrah Services Forum in Istanbul with an official ...</description>
 </item>
 </channel>
 </rss>

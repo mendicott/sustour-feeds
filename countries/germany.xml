@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/germany.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Germany. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 13 Jul 2026 10:09:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Jul 2026 22:09:06 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>DTV publishes new practical guide for sustainable tourism destinations. - busplaner</title>
+<link>https://www.busplaner.de/en/news/dtv-publishes-new-practical-guide-sustainable-tourism-destinations-314281.html</link>
+<guid isPermaLink="false">https://www.busplaner.de/en/news/dtv-publishes-new-practical-guide-sustainable-tourism-destinations-314281.html</guid>
+<pubDate>Mon, 13 Jul 2026 18:18:36 +0000</pubDate>
+<description>In September, the German Tourism Association, the Federal Ministry for the Environment, Climate Protection, Nature Conservation and Nuclear Safety, ...</description>
+</item>
 <item>
 <title>France Moves in Step With Germany, Belgium, Luxembourg and More Destinations as Eco ...</title>
 <link>https://www.travelandtourworld.com/news/article/rta5u46yhikn/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/co7101o8dadx/</guid>
 <pubDate>Tue, 23 Jun 2026 16:15:47 +0000</pubDate>
 <description>Italy overtakes Spain, Netherlands, Croatia, Greece, Germany, Iceland, and more countries in Europe in implementing a sweeping overtourism ...</description>
-</item>
-<item>
-<title>Brazil Joins United States, Canada, United Kingdom, France, Germany, Italy, Spain ...</title>
-<link>https://www.travelandtourworld.com/news/article/s5xbe1ld140r/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/s5xbe1ld140r/</guid>
-<pubDate>Sun, 21 Jun 2026 15:25:07 +0000</pubDate>
-<description>Community Tourism Creates New Opportunities. Community-based tourism has become one of Rio's fastest-growing travel segments. Local guides, artists, ...</description>
 </item>
 </channel>
 </rss>

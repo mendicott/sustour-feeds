@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/france.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for France. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 13 Jul 2026 10:09:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Jul 2026 22:09:06 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Greece Leads With Netherlands, Spain, France, Norway and More as Europe's Cruise ...</title>
+<link>https://www.travelandtourworld.com/news/article/u79znl9igtcl/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/u79znl9igtcl/</guid>
+<pubDate>Mon, 13 Jul 2026 13:55:07 +0000</pubDate>
+<description>Greece, Netherlands, Spain, France and Norway reshape Europe cruise tourism with new taxes, mega ship limits, green rules and overtourism ...</description>
+</item>
 <item>
 <title>Italy Stands Firm Alongside Greece, Spain, France and Other Countries in Implementing ...</title>
 <link>https://www.travelandtourworld.com/news/article/or5b0sf7179g/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ayt45eoai4c1/</guid>
 <pubDate>Sun, 05 Jul 2026 16:29:59 +0000</pubDate>
 <description>Spain Teams Up With France, Finland, Germany, Netherlands, UK and Italy to Drive a New Wave of Eco Tourism and Bird Watching Travel Across Europe's ...</description>
-</item>
-<item>
-<title>Spain Aligns With Italy, Netherlands, Greece, France and More Countries in Europe's ...</title>
-<link>https://www.travelandtourworld.com/news/article/7yujiw62trrl/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/7yujiw62trrl/</guid>
-<pubDate>Fri, 03 Jul 2026 07:11:10 +0000</pubDate>
-<description>Spain, Italy, Netherlands, Greece, France and more face overtourism crisis driving strict controls, housing pressure and EU tourism reforms.</description>
 </item>
 </channel>
 </rss>

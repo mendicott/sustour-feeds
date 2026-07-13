@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/netherlands.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Netherlands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 13 Jul 2026 10:09:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Jul 2026 22:09:06 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Greece Leads With Netherlands, Spain, France, Norway and More as Europe's Cruise ...</title>
+<link>https://www.travelandtourworld.com/news/article/u79znl9igtcl/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/u79znl9igtcl/</guid>
+<pubDate>Mon, 13 Jul 2026 13:55:07 +0000</pubDate>
+<description>Greece, Netherlands, Spain, France and Norway reshape Europe cruise tourism with new taxes, mega ship limits, green rules and overtourism ...</description>
+</item>
 <item>
 <title>Jamaica Unveils $500 Million Plan to Transform Holland Bamboo Corridor into a Premier ...</title>
 <link>https://www.travelandtourworld.com/news/article/4crd0uaawaae/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/8g193s7zic7q/</guid>
 <pubDate>Thu, 25 Jun 2026 12:26:06 +0000</pubDate>
 <description>Croatia joins Spain, Italy, France and Greece as Dubrovnik's tourism boom fuels overtourism, housing pressure and calls for sustainable travel ...</description>
-</item>
-<item>
-<title>Italy Overtakes Spain, Netherlands, Croatia, Greece, Germany, Iceland, And More Countries ...</title>
-<link>https://www.travelandtourworld.com/news/article/co7101o8dadx/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/co7101o8dadx/</guid>
-<pubDate>Tue, 23 Jun 2026 16:15:47 +0000</pubDate>
-<description>Italy overtakes Spain, Netherlands, Croatia, Greece, Germany, Iceland, and more countries in Europe in implementing a sweeping overtourism ...</description>
 </item>
 </channel>
 </rss>

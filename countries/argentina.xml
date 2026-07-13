@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/argentina.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Argentina. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 13 Jul 2026 10:09:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Jul 2026 22:09:06 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>El Impenetrable National Park Enhances Sustainable Adventure Tourism in Northern Argentina</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://esgnews.com/verra-certifies-first-government-led-jurisdictional-forest-carbon-program-in-argentina/</guid>
 <pubDate>Thu, 04 Jun 2026 00:54:10 +0000</pubDate>
 <description>Verra has approved its first government-led provincial forest carbon program under the VCS Jurisdictional and Nested REDD+ Framework.</description>
+</item>
+<item>
+<title>Ride Argentina's first solar train through 10,000 years of Indigenous history - BBC</title>
+<link>https://www.bbc.com/travel/article/20260710-ride-argentinas-first-solar-train-through-10000-years-of-indigenous-history</link>
+<guid isPermaLink="false">https://www.bbc.com/travel/article/20260710-ride-argentinas-first-solar-train-through-10000-years-of-indigenous-history</guid>
+<pubDate>Mon, 13 Jul 2026 12:52:52 +0000</pubDate>
+<description>The zero-emissions luxury train is taking travellers through rainbow mountains, Indigenous villages and a 10000-year-old cultural corridor.</description>
 </item>
 <item>
 <title>Mapped: Colombia and Argentina's energy transition copper boom - Dialogue Earth</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://timesofindia.indiatimes.com/science/hidden-beneath-patagonias-arid-lowlands-scientists-found-a-cave-system-in-argentina-with-26-cave-restricted-species-and-the-biggest-threats-may-be-mining-tourism-and-drying-groundwater-not-the-darkness-itself/articleshow/131794299.cms</guid>
 <pubDate>Wed, 17 Jun 2026 13:12:10 +0000</pubDate>
 <description>... , housing 26 cave-restricted species, presenting urgent challenges from mining and tourism.</description>
-</item>
-<item>
-<title>Cuts in National Parks: Growing Concern for the Protection of Argentine Ecosystems</title>
-<link>https://noticiasambientales.com/medio-ambiente-2-en/cuts-in-national-parks-growing-concern-for-the-protection-of-argentine-ecosystems/</link>
-<guid isPermaLink="false">https://noticiasambientales.com/medio-ambiente-2-en/cuts-in-national-parks-growing-concern-for-the-protection-of-argentine-ecosystems/</guid>
-<pubDate>Sat, 13 Jun 2026 21:27:48 +0000</pubDate>
-<description>... protected areas, as well as the Marine Protected Areas System. Natural ... tourism. As discussions about the financing of the system continue ...</description>
 </item>
 </channel>
 </rss>
