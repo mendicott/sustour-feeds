@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/belgium.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Belgium. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 14 Jul 2026 10:09:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 22:09:25 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Brussels sets out guidelines on tourism in nature protection areas | Euractiv</title>
+<link>https://www.euractiv.com/news/brussels-sets-out-guidelines-on-tourism-in-nature-protection-areas/</link>
+<guid isPermaLink="false">https://www.euractiv.com/news/brussels-sets-out-guidelines-on-tourism-in-nature-protection-areas/</guid>
+<pubDate>Tue, 14 Jul 2026 14:47:28 +0000</pubDate>
+<description>A concise daily dose of news and analysis from the European institutions and national capitals. The only read you need to stay on top of EU ...</description>
+</item>
 <item>
 <title>Cultural and natural heritage at the heart of community resilience - UNESCO</title>
 <link>https://www.unesco.org/en/articles/cultural-and-natural-heritage-heart-community-resilience?hub=66489</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/zve8o9tbkv7r/</guid>
 <pubDate>Sat, 11 Jul 2026 14:52:15 +0000</pubDate>
 <description>Brussels is reinforcing its position as a European rail hub with a new overnight sleeper train to Milan, supporting sustainable summer travel.</description>
-</item>
-<item>
-<title>Luxembourg Teams Up With Germany, France, Belgium, and the Netherlands to Transform ...</title>
-<link>https://www.travelandtourworld.com/news/article/cm1ij376xp7r/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/cm1ij376xp7r/</guid>
-<pubDate>Thu, 09 Jul 2026 09:06:05 +0000</pubDate>
-<description>... Green Spaces as Luxembourg City Unveils Ambitious Climate Resilience Plan for Sustainable Tourism and Future-Ready Living. Published on July 9 ...</description>
 </item>
 </channel>
 </rss>

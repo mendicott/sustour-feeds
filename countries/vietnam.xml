@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 14 Jul 2026 10:09:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 22:09:25 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Thien Cam Mangrove Forest - an attractive ecotourism destination. - Vietnam.vn</title>
+<link>https://www.vietnam.vn/en/rung-duoc-thien-cam-diem-du-lich-sinh-thai-hap-dan</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/rung-duoc-thien-cam-diem-du-lich-sinh-thai-hap-dan</guid>
+<pubDate>Tue, 14 Jul 2026 14:58:45 +0000</pubDate>
+<description>Nguyen Van Long, owner of the Mangrove Forest Ecotourism Area (Thien Cam commune), shared: "What we want to preserve most is the pristine beauty of ...</description>
+</item>
 <item>
 <title>National park honoured for nature conservation tourism model - Vietnam News</title>
 <link>https://vietnamnews.vn/life-style/1785379/national-park-honoured-for-nature-conservation-tourism-model.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://vietnamnews.vn/life-style/1785265/gia-lai-greenlights-eco-tourism-investment-unveils-new-attractions.html</guid>
 <pubDate>Sun, 12 Jul 2026 09:14:26 +0000</pubDate>
 <description>The People's Committee of Gia Lai Province has approved master plans for eco-tourism development at the Kon Chư Răng Nature Reserve and Kon Ka ...</description>
-</item>
-<item>
-<title>Cuc Phuong turns wildlife recovery into new tourism model - Vietnam+ (VietnamPlus)</title>
-<link>https://en.vietnamplus.vn/cuc-phuong-turns-wildlife-recovery-into-new-tourism-model-post348140.vnp</link>
-<guid isPermaLink="false">https://en.vietnamplus.vn/cuc-phuong-turns-wildlife-recovery-into-new-tourism-model-post348140.vnp</guid>
-<pubDate>Sun, 12 Jul 2026 08:30:58 +0000</pubDate>
-<description>Travel · Destinations · Festival · Tours · Media Center · Mega Story ... ecological restoration. Conservation gains fuel distinctive tourism ...</description>
 </item>
 </channel>
 </rss>

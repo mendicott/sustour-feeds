@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/lithuania.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Lithuania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 14 Jul 2026 10:09:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 22:09:25 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Trakai, Lithuania: Why This Historic Lakeside Gem Needs Urgent Protection and ...</title>
@@ -58,6 +58,13 @@
 <description>Lithuania's first ecosystem services assessment measures nature's role in carbon storage, air quality, tourism and the economy.</description>
 </item>
 <item>
+<title>Forest Retreat Complexes - Trend Hunter</title>
+<link>https://www.trendhunter.com/trends/the-sanctum</link>
+<guid isPermaLink="false">https://www.trendhunter.com/trends/the-sanctum</guid>
+<pubDate>Tue, 14 Jul 2026 17:34:43 +0000</pubDate>
+<description>The Sanctum was designed by Arches as a 1035-square-metre nature therapy retreat located near Bezdonys, Lithuania.</description>
+</item>
+<item>
 <title>Baltics all the boxes | Irish Sunday Mirror - PressReader</title>
 <link>https://www.pressreader.com/ireland/irish-sunday-mirror/20260712/282488600483908</link>
 <guid isPermaLink="false">https://www.pressreader.com/ireland/irish-sunday-mirror/20260712/282488600483908</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.breakingtravelnews.com/news/article/lithuanias-baltic-coast-offers-visitors-a-peaceful-alternative-to-europes-c/</guid>
 <pubDate>Sat, 11 Jul 2026 05:35:20 +0000</pubDate>
 <description>Nature remains one of Lithuania's strongest attractions. According to Lithuania Travel's international visitor research, 74% of foreign travellers ...</description>
-</item>
-<item>
-<title>Europe's deadly heatwave scorches eastern flank, takes aim at Ukraine - Lithuania - Ansa.it</title>
-<link>https://www.ansa.it/nuova_europa/en/news/countries/lithuania/2026/06/29/europes-deadly-heatwave-scorches-eastern-flank-takes-aim-at-ukraine_b64650f1-0b1e-4b04-a62b-f46f014f7e8b.html</link>
-<guid isPermaLink="false">https://www.ansa.it/nuova_europa/en/news/countries/lithuania/2026/06/29/europes-deadly-heatwave-scorches-eastern-flank-takes-aim-at-ukraine_b64650f1-0b1e-4b04-a62b-f46f014f7e8b.html</guid>
-<pubDate>Tue, 30 Jun 2026 02:13:51 +0000</pubDate>
-<description>This heatwave is the most severe ever recorded in Europe, and would have been "virtually impossible" this early in the summer without climate change, ...</description>
 </item>
 </channel>
 </rss>
