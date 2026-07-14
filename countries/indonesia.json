@@ -7,6 +7,20 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.theguardian.com/environment/2026/jul/14/bali-water-resource-tourism-rice-fields",
+      "url": "https://www.theguardian.com/environment/2026/jul/14/bali-water-resource-tourism-rice-fields",
+      "title": "Who is 'stealing' Bali's water? How tourism siphoned off a prized resource - The Guardian",
+      "content_text": "In southern Bali, where development is concentrated, groundwater extraction has pushed aquifers beyond sustainable levels in many areas, according to ...",
+      "date_published": "2026-07-14T04:10:57+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/mtzaqrqyqrl0/",
+      "url": "https://www.travelandtourworld.com/news/article/mtzaqrqyqrl0/",
+      "title": "Spain Alongside Italy, Greece, Indonesia and More Face the Overtourism Crisis as Popular ...",
+      "content_text": "Research into overtourism in destinations such as Barcelona shows that residents often connect tourism pressure with overcrowding, security concerns, ...",
+      "date_published": "2026-07-13T22:33:44+00:00"
+    },
+    {
       "id": "https://www.travelnews.co.za/article/indonesia-trials-national-park-visitor-cap",
       "url": "https://www.travelnews.co.za/article/indonesia-trials-national-park-visitor-cap",
       "title": "Indonesia trials national park visitor cap | Travelnews",
@@ -61,20 +75,6 @@
       "title": "Indonesia, India launch Prambanan cultural heritage conservation project - Vietnam Plus",
       "content_text": "Speaking at the July 8 event, Prabowo described Prambanan as not only a historic monument but also a symbol of the great civilisation of the ...",
       "date_published": "2026-07-09T18:52:57+00:00"
-    },
-    {
-      "id": "https://iucn.org/press-release/202607/luxembourg-and-iucn-launch-third-phase-pioneering-blue-natural-capital",
-      "url": "https://iucn.org/press-release/202607/luxembourg-and-iucn-launch-third-phase-pioneering-blue-natural-capital",
-      "title": "Luxembourg and IUCN launch third phase of pioneering Blue Natural Capital Financing ...",
-      "content_text": "... tourism in Indonesia's Nusa Penida. BNCFF was also one of the earliest initiatives to be closely aligned with the IUCN Global Standard for Nature ...",
-      "date_published": "2026-07-09T15:11:55+00:00"
-    },
-    {
-      "id": "https://en.vietnamplus.vn/lam-dong-seeks-to-boost-tourism-cooperation-with-indonesian-partners-post348058.vnp",
-      "url": "https://en.vietnamplus.vn/lam-dong-seeks-to-boost-tourism-cooperation-with-indonesian-partners-post348058.vnp",
-      "title": "Lam Dong seeks to boost tourism cooperation with Indonesian partners - Vietnam Plus",
-      "content_text": "She added that cooperation between Indonesia and Lam Dong could extend beyond traditional travel services to ecotourism, community-based tourism, ...",
-      "date_published": "2026-07-09T13:11:41+00:00"
     }
   ]
 }

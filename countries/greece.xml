@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 13 Jul 2026 22:09:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 10:09:53 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Spain Alongside Italy, Greece, Indonesia and More Face the Overtourism Crisis as Popular ...</title>
+<link>https://www.travelandtourworld.com/news/article/mtzaqrqyqrl0/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/mtzaqrqyqrl0/</guid>
+<pubDate>Mon, 13 Jul 2026 22:33:44 +0000</pubDate>
+<description>Research into overtourism in destinations such as Barcelona shows that residents often connect tourism pressure with overcrowding, security concerns, ...</description>
+</item>
 <item>
 <title>Greece Leads With Netherlands, Spain, France, Norway and More as Europe's Cruise ...</title>
 <link>https://www.travelandtourworld.com/news/article/u79znl9igtcl/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.euronews.com/my-europe/2026/07/03/overtourism-where-are-locals-being-priced-out-by-rising-rents</guid>
 <pubDate>Fri, 03 Jul 2026 16:35:36 +0000</pubDate>
 <description>Greek residents are the most impacted, according to the New Economics Foundation, with tourism flows sending annual rents up by €342 since 2019.</description>
-</item>
-<item>
-<title>Spain Aligns With Italy, Netherlands, Greece, France and More Countries in Europe's ...</title>
-<link>https://www.travelandtourworld.com/news/article/7yujiw62trrl/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/7yujiw62trrl/</guid>
-<pubDate>Fri, 03 Jul 2026 07:11:10 +0000</pubDate>
-<description>Spain, Italy, Netherlands, Greece, France and more face overtourism crisis driving strict controls, housing pressure and EU tourism reforms.</description>
 </item>
 </channel>
 </rss>

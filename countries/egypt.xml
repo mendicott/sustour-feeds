@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/egypt.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Egypt. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 13 Jul 2026 22:09:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 10:09:53 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Egypt Strengthens Red Sea Tourism Future With Powerful Conservation Plans, Protected ...</title>
+<link>https://www.travelandtourworld.com/news/article/5wwwjf8oh9tl/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/5wwwjf8oh9tl/</guid>
+<pubDate>Tue, 14 Jul 2026 07:16:07 +0000</pubDate>
+<description>The Egyptian Red Sea Initiative (ERSI), developed with international partners, focuses on conserving coral reef ecosystems while supporting local ...</description>
+</item>
 <item>
 <title>Egypt reviews Red Sea sustainable blue economy projects, marine conservation plans</title>
 <link>https://www.dailynewsegypt.com/2026/07/13/egypt-reviews-red-sea-sustainable-blue-economy-projects-marine-conservation-plans/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/tthxz2wfh96j/</guid>
 <pubDate>Mon, 22 Jun 2026 05:25:35 +0000</pubDate>
 <description>... tourism, heritage conservation, and local communities. As travel preferences continue to evolve, Africa's historical treasures are expected to ...</description>
-</item>
-<item>
-<title>Egypt pushing to turn South Sinai reserves into global ecotourism destinations - Tourism</title>
-<link>https://english.ahram.org.eg/NewsContent/1/1238/571182/Egypt/Tourism/Egypt-pushing-to-turn-South-Sinai-reserves-into-gl.aspx</link>
-<guid isPermaLink="false">https://english.ahram.org.eg/NewsContent/1/1238/571182/Egypt/Tourism/Egypt-pushing-to-turn-South-Sinai-reserves-into-gl.aspx</guid>
-<pubDate>Fri, 19 Jun 2026 14:23:09 +0000</pubDate>
-<description>Egypts environment ministry is moving forward with a series of environmental investment projects in Sharm El-Sheikh and South Sinai, ...</description>
 </item>
 </channel>
 </rss>
