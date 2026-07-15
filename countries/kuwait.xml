@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/kuwait.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Kuwait. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 14 Jul 2026 22:09:25 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 10:09:23 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>'Not a museum': Slovak UNESCO village strains under tourism | Kuwait Times Newspaper</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://kuwaittimes.com/article/45565/lifestyle/beloved-spiritual-utopia-under-threat-in-modis-india/amp</guid>
 <pubDate>Sat, 27 Jun 2026 15:33:52 +0000</pubDate>
 <description>"There are probably financial goals, but also a desire to develop mass spiritual tourism and turn it into a showcase for spreading certain nationalist ...</description>
+</item>
+<item>
+<title>Wildfire rages near Paris as heatwave scorches Europe - Kuwait Times</title>
+<link>https://kuwaittimes.com/article/46422/top-stories/wildfire-rages-near-paris-as-heatwave-scorches-europe/</link>
+<guid isPermaLink="false">https://kuwaittimes.com/article/46422/top-stories/wildfire-rages-near-paris-as-heatwave-scorches-europe/</guid>
+<pubDate>Tue, 14 Jul 2026 07:10:15 +0000</pubDate>
+<description>Wildfire rages near Paris as heatwave scorches Europe. Scientists link frequent wildfires across parched Europe to climate change. July 13, 2026 10:30 ...</description>
 </item>
 <item>
 <title>Sunken wrecks, hot seas threaten fishermen on Italian isle | Kuwait Times Newspaper</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://kuwaittimes.com/article/45625/world/europe/record-heatwave-disrupts-europe-as-france-warns-death-toll-set-to-rise/amp</guid>
 <pubDate>Sun, 28 Jun 2026 18:46:07 +0000</pubDate>
 <description>VATICAN: People cool off in a fountain as they wait for the Sunday ... "Driven by climate change and global warming, the phenomenon of the ...</description>
-</item>
-<item>
-<title>Heatwave bakes 100m Europeans at over 35C | Kuwait Times Newspaper</title>
-<link>https://kuwaittimes.com/article/45511/top-stories/heatwave-bakes-100m-europeans-at-over-35c/</link>
-<guid isPermaLink="false">https://kuwaittimes.com/article/45511/top-stories/heatwave-bakes-100m-europeans-at-over-35c/</guid>
-<pubDate>Thu, 25 Jun 2026 19:11:05 +0000</pubDate>
-<description>"While heat domes are a natural weather phenomenon, anthropogenic climate change is making heatwaves more severe and more likely to reach record- ...</description>
 </item>
 </channel>
 </rss>

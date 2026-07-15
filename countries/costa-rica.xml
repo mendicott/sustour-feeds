@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/costa-rica.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Costa Rica. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 14 Jul 2026 22:09:25 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 10:09:23 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Costa Rica repositions itself as high-value tourism destination - TravelMole</title>
+<link>https://travelmole.com/news/costa-rica-high-value-tourism/</link>
+<guid isPermaLink="false">https://travelmole.com/news/costa-rica-high-value-tourism/</guid>
+<pubDate>Wed, 15 Jul 2026 01:39:42 +0000</pubDate>
+<description>ICT's tourism plan emphasizes a sustainable, non-mass tourism model that encourages longer stays, higher visitor spending and travel across multiple ...</description>
+</item>
 <item>
 <title>Peru's Manú National Park Beats Kenya, Brazil, Ecuador, India, Costa Rica and More to ...</title>
 <link>https://www.travelandtourworld.com/news/article/llyroouqxiak/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/t4svvcai3to6/</guid>
 <pubDate>Wed, 01 Jul 2026 12:18:01 +0000</pubDate>
 <description>Growing awareness of climate change, overtourism and biodiversity loss has encouraged governments, tourism boards and businesses to redesign ...</description>
-</item>
-<item>
-<title>Costa Rica lost nearly half its forests in just a few decades, then planted millions of trees and ...</title>
-<link>https://timesofindia.indiatimes.com/science/costa-rica-lost-nearly-half-its-forests-in-just-a-few-decades-then-planted-millions-of-trees-and-became-one-of-the-worlds-greatest-reforestation-success-stories/articleshow/132108114.cms</link>
-<guid isPermaLink="false">https://timesofindia.indiatimes.com/science/costa-rica-lost-nearly-half-its-forests-in-just-a-few-decades-then-planted-millions-of-trees-and-became-one-of-the-worlds-greatest-reforestation-success-stories/articleshow/132108114.cms</guid>
-<pubDate>Wed, 01 Jul 2026 07:07:57 +0000</pubDate>
-<description>Conservation efforts continue to evolve as scientists monitor forest health and biodiversity in the face of climate change. Challenges still remain.</description>
 </item>
 </channel>
 </rss>
