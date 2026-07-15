@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 15 Jul 2026 10:09:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 22:09:30 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mexico Pairs Up with United States and Spain as Barceló México Reforma Secures Green ...</title>
+<link>https://www.travelandtourworld.com/news/article/b79uaodofbrg/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/b79uaodofbrg/</guid>
+<pubDate>Wed, 15 Jul 2026 09:45:39 +0000</pubDate>
+<description>Green Globe describes its programme as an international certification system for travel and tourism businesses. The recognition is notable because the ...</description>
+</item>
 <item>
 <title>Italy Aligns With Spain, France, Greece and Other EU Nations as Natura 2000 Network ...</title>
 <link>https://www.travelandtourworld.com/news/article/qd1s4ig6ldea/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/wxapmn7u26ds/</guid>
 <pubDate>Wed, 08 Jul 2026 16:32:41 +0000</pubDate>
 <description>Spain's Tourism Boom Reaches Breaking Point as Record Visitor Numbers Spark Housing, Climate and Overtourism Crisis.</description>
-</item>
-<item>
-<title>Too Dirty: Spain's Beaches Receive Black Flags - Falstaff</title>
-<link>https://www.falstaff.com/en/news/too-dirty-spains-beaches-receive-black-flags</link>
-<guid isPermaLink="false">https://www.falstaff.com/en/news/too-dirty-spains-beaches-receive-black-flags</guid>
-<pubDate>Wed, 08 Jul 2026 15:30:00 +0000</pubDate>
-<description>Marine pollution, inadequate wastewater treatment and other ecological ... Tourism Under Scrutiny. According to the organisation, mass tourism ...</description>
 </item>
 </channel>
 </rss>

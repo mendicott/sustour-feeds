@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/belgium.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Belgium. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 15 Jul 2026 10:09:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 22:09:30 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>EU presents new approach to tourism in protected Natura 2000 areas - The Brussels Times</title>
+<link>https://www.brusselstimes.com/eu-affairs/2231620/eu-presents-new-approach-to-tourism-in-protected-natura-2000-areas</link>
+<guid isPermaLink="false">https://www.brusselstimes.com/eu-affairs/2231620/eu-presents-new-approach-to-tourism-in-protected-natura-2000-areas</guid>
+<pubDate>Wed, 15 Jul 2026 18:50:58 +0000</pubDate>
+<description>New European Commission guidelines set out how tourism can be managed in Natura 2000 protected areas while safeguarding habitats and species.</description>
+</item>
 <item>
 <title>EU Commission guidelines position Natura 2000 as driver of sustainable tourism</title>
 <link>https://ieu-monitoring.com/editorial/eu-commission-guidelines-position-natura-2000-as-driver-of-sustainable-tourism/1245735?utm_source=ieu-portal</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/w1zwgzfrof02/</guid>
 <pubDate>Thu, 18 Jun 2026 09:36:04 +0000</pubDate>
 <description>Greece joins Spain, Italy, Belgium, Netherlands, France, Portugal, and several other European nations in imposing strict overtourism rules due to ...</description>
-</item>
-<item>
-<title>Finland Joins Belgium, Spain, Norway, United Kingdom and More in Europe's Regenerative ...</title>
-<link>https://www.travelandtourworld.com/news/article/o057vswn0fwi/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/o057vswn0fwi/</guid>
-<pubDate>Tue, 16 Jun 2026 18:42:09 +0000</pubDate>
-<description>Finland joins Belgium, Spain, Norway, UK in Europe's regenerative tourism shift, replacing mass tourism with cross-border living systems for ...</description>
 </item>
 </channel>
 </rss>

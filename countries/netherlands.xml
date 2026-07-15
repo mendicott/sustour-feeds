@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/netherlands.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Netherlands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 15 Jul 2026 10:09:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 22:09:30 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Netherlands Advances Alongside Italy, Austria and Greece as New Tourism Laws and ...</title>
+<link>https://www.travelandtourworld.com/news/article/uzgxug1fd171/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/uzgxug1fd171/</guid>
+<pubDate>Wed, 15 Jul 2026 06:27:41 +0000</pubDate>
+<description>Across the Netherlands, a major visitor-economy reset has been advanced as Amsterdam overtourism measures are used to protect housing, neighbourhoods, ...</description>
+</item>
 <item>
 <title>Greece Leads With Netherlands, Spain, France, Norway and More as Europe's Cruise ...</title>
 <link>https://www.travelandtourworld.com/news/article/u79znl9igtcl/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/4fjdvxxc4dxf/</guid>
 <pubDate>Tue, 30 Jun 2026 05:58:40 +0000</pubDate>
 <description>Spain, Italy, Netherlands and Croatia tighten overtourism rules with tougher tourist taxes, rental bans, cruise limits and visitor entry controls ...</description>
-</item>
-<item>
-<title>Croatia Joins Spain, Italy, France, Greece, Netherlands, Portugal and Belgium as Europe's ...</title>
-<link>https://www.travelandtourworld.com/news/article/8g193s7zic7q/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/8g193s7zic7q/</guid>
-<pubDate>Thu, 25 Jun 2026 12:26:06 +0000</pubDate>
-<description>Croatia joins Spain, Italy, France and Greece as Dubrovnik's tourism boom fuels overtourism, housing pressure and calls for sustainable travel ...</description>
 </item>
 </channel>
 </rss>

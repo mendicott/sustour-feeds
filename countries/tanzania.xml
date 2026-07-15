@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/tanzania.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Tanzania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 15 Jul 2026 10:09:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 22:09:30 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Inside the ReSea Project's Conservation Leadership Program in Tanzania - Blog | IUCN</title>
+<link>https://iucn.org/blog/202605/inside-resea-projects-conservation-leadership-program-tanzania</link>
+<guid isPermaLink="false">https://iucn.org/blog/202605/inside-resea-projects-conservation-leadership-program-tanzania</guid>
+<pubDate>Wed, 15 Jul 2026 16:47:43 +0000</pubDate>
+<description>The ReSea (Regenerative Seascapes for People, Climate, and Nature) project, implemented by International Union for Conservation of Nature (IUCN) ...</description>
+</item>
 <item>
 <title>Putting Africa's unique cultures at the heart of global tourism - The Citizen Tanzania</title>
 <link>https://www.thecitizen.co.tz/tanzania/oped/putting-africa-s-unique-cultures-at-the-heart-of-global-tourism-5525350</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://allafrica.com/stories/202606300036.html</guid>
 <pubDate>Tue, 30 Jun 2026 04:51:04 +0000</pubDate>
 <description>... tourism, while safeguarding the ecological integrity of the Serengeti for future generations. ... Travel. Submit. By submitting above, you agree to ...</description>
-</item>
-<item>
-<title>Protecting the Spice Islands: A New Chapter for Zanzibar's Forests and Coasts</title>
-<link>https://www.undp.org/tanzania/stories/protecting-spice-islands-new-chapter-zanzibars-forests-and-coasts</link>
-<guid isPermaLink="false">https://www.undp.org/tanzania/stories/protecting-spice-islands-new-chapter-zanzibars-forests-and-coasts</guid>
-<pubDate>Tue, 30 Jun 2026 03:35:49 +0000</pubDate>
-<description>"Zanzibar's coastal landscapes sustain livelihoods, support tourism and fisheries, strengthen climate resilience and conserve biodiversity.</description>
 </item>
 </channel>
 </rss>

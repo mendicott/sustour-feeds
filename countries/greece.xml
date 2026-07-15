@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 15 Jul 2026 10:09:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 22:09:30 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Netherlands Advances Alongside Italy, Austria and Greece as New Tourism Laws and ...</title>
+<link>https://www.travelandtourworld.com/news/article/uzgxug1fd171/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/uzgxug1fd171/</guid>
+<pubDate>Wed, 15 Jul 2026 06:27:41 +0000</pubDate>
+<description>Across the Netherlands, a major visitor-economy reset has been advanced as Amsterdam overtourism measures are used to protect housing, neighbourhoods, ...</description>
+</item>
 <item>
 <title>Italy Aligns With Spain, France, Greece and Other EU Nations as Natura 2000 Network ...</title>
 <link>https://www.travelandtourworld.com/news/article/qd1s4ig6ldea/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/2iqgesgbnhvc/</guid>
 <pubDate>Wed, 08 Jul 2026 08:10:34 +0000</pubDate>
 <description>Italy joins Spain, Greece, Malta and Austria in tackling overtourism with visitor limits, travel controls and sustainable tourism rules reshaping ...</description>
-</item>
-<item>
-<title>Spain Conjoins Italy, Greece, France and More European Countries Tighten Visitor Limits ...</title>
-<link>https://www.travelandtourworld.com/news/article/f5zwkzuj4jhz/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/f5zwkzuj4jhz/</guid>
-<pubDate>Tue, 07 Jul 2026 12:06:12 +0000</pubDate>
-<description>These policies are designed to reduce overtourism, protect historic landmarks and improve the quality of life for local residents while maintaining ...</description>
 </item>
 </channel>
 </rss>

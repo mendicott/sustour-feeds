@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 15 Jul 2026 10:09:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 22:09:30 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Summary of the coral reef conservation project linked with community tourism development ...</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://www.vietnam.vn/en/so-ket-du-an-bao-ton-ran-san-ho-gan-voi-phat-trien-du-lich-cong-dong-tai-xa-o-loan</guid>
 <pubDate>Wed, 15 Jul 2026 08:29:25 +0000</pubDate>
 <description>Travel · Happy Vietnam · Enterprise ... Summary of the coral reef conservation project linked with community tourism development in O Loan commune.</description>
+</item>
+<item>
+<title>Rural tourism linked to local culture - Vietnam.vn</title>
+<link>https://www.vietnam.vn/en/du-lich-nong-thon-gan-voi-van-hoa-ban-dia</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/du-lich-nong-thon-gan-voi-van-hoa-ban-dia</guid>
+<pubDate>Wed, 15 Jul 2026 07:26:30 +0000</pubDate>
+<description>Cultural heritage is becoming a driving force for sustainable tourism development. The brocade weaving craft of the Thai ethnic group in Chau Tien ...</description>
 </item>
 <item>
 <title>Green escapes in Vietnam's community tourism villages - VietNamNet</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.vietnam.vn/en/khang-dinh-vai-tro-tru-cot-cua-van-hoa-doi-voi-su-phat-trien-ben-vung-toan-cau</guid>
 <pubDate>Sun, 12 Jul 2026 19:21:35 +0000</pubDate>
 <description>VHO - On September 29, the Opening Ceremony of the World Conference on Cultural Policy and Sustainable Development ... Tourism Nguyen Van Hung led the ...</description>
-</item>
-<item>
-<title>Linking conservation with sustainable marine economic development. - Vietnam.vn</title>
-<link>https://www.vietnam.vn/en/gan-bao-ton-voi-phat-trien-kinh-te-bien-ben-vung</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/gan-bao-ton-voi-phat-trien-kinh-te-bien-ben-vung</guid>
-<pubDate>Sun, 12 Jul 2026 19:04:45 +0000</pubDate>
-<description>In the context of increasing resource exploitation pressures, environmental degradation, and climate risks, marine protected areas are ...</description>
 </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/jordan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Jordan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 15 Jul 2026 10:09:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 22:09:30 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Crown Prince highlights eco-tourism's role in empowering local communities</title>
@@ -58,6 +58,13 @@
 <description>Global astrotourism network expands in 2026 across Africa, Asia, Europe, Middle East and Latin America driving sustainable tourism and education ...</description>
 </item>
 <item>
+<title>Aqaba Blue Beach Receives Fourth Blue Flag Accreditation - The Jordan News Agency</title>
+<link>https://petra.gov.jo/en/news/aqaba-blue-beach-receives-fourth-blue-flag-accreditation</link>
+<guid isPermaLink="false">https://petra.gov.jo/en/news/aqaba-blue-beach-receives-fourth-blue-flag-accreditation</guid>
+<pubDate>Wed, 15 Jul 2026 12:55:45 +0000</pubDate>
+<description>... eco-tourism and sustainable coastal management. Aqaba Special Economic Zone Authority (ASEZA) Chief Commissioner Shadi Majali patronized the ...</description>
+</item>
+<item>
 <title>Jordan's unexpected diving paradise hosts its first international marine expo</title>
 <link>https://www.marinebusinessnews.com.au/2026/07/jordans-unexpected-diving-paradise-hosts-its-first-international-marine-expo/</link>
 <guid isPermaLink="false">https://www.marinebusinessnews.com.au/2026/07/jordans-unexpected-diving-paradise-hosts-its-first-international-marine-expo/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://iucn.org/news/202607/jordan-marks-implementation-phase-jordan-integrated-landscape-management-initiative</guid>
 <pubDate>Thu, 09 Jul 2026 10:40:43 +0000</pubDate>
 <description>Jordan is among the world's most water-scarce countries, with climate change placing increasing pressure on water resources, agricultural production, ...</description>
-</item>
-<item>
-<title>'Not a museum': Slovak UNESCO village strains under tourism | Jordan Times</title>
-<link>https://jordantimes.com/news/features/not-a-museum-slovak-unesco-village-strains-under-tourism</link>
-<guid isPermaLink="false">https://jordantimes.com/news/features/not-a-museum-slovak-unesco-village-strains-under-tourism</guid>
-<pubDate>Mon, 06 Jul 2026 18:42:21 +0000</pubDate>
-<description>'Not a museum': Slovak UNESCO village strains under tourism. Traditional log houses are seen at the UNESCO ...</description>
 </item>
 </channel>
 </rss>
