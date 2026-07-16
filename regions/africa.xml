@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/africa.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Africa. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 15 Jul 2026 22:09:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 10:09:57 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>andBeyond opens private Suyian Homestead in Kenya - Karryon</title>
+<link>https://karryon.com.au/luxury/andbeyond-suyian-homestead-kenya/</link>
+<guid isPermaLink="false">https://karryon.com.au/luxury/andbeyond-suyian-homestead-kenya/</guid>
+<pubDate>Thu, 16 Jul 2026 02:54:57 +0000</pubDate>
+<description>&amp;Beyond is the only tourism operator on the land, part of a wider privately managed conservation region within the Laikipia-Ewaso ecosystem. ▽ ...</description>
+</item>
 <item>
 <title>Inside the ReSea Project's Conservation Leadership Program in Tanzania - Blog | IUCN</title>
 <link>https://iucn.org/blog/202605/inside-resea-projects-conservation-leadership-program-tanzania</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.thezimbabwean.co/2026/07/stanbic-bank-pledges-usd30000-to-help-keep-victoria-falls-clean/</guid>
 <pubDate>Mon, 13 Jul 2026 23:56:58 +0000</pubDate>
 <description>The initiative is expected to deliver wide-ranging benefits across tourism, business and community life. A cleaner, well-maintained destination will ...</description>
-</item>
-<item>
-<title>Zimbabwe and Equatorial Guinea launch cross-border wildlife translocation to strengthen ...</title>
-<link>https://africasustainabilitymatters.com/zimbabwe-and-equatorial-guinea-launch-cross-border-wildlife-translocation-to-strengthen-africas-biodiversity-conservation/</link>
-<guid isPermaLink="false">https://africasustainabilitymatters.com/zimbabwe-and-equatorial-guinea-launch-cross-border-wildlife-translocation-to-strengthen-africas-biodiversity-conservation/</guid>
-<pubDate>Mon, 13 Jul 2026 19:55:36 +0000</pubDate>
-<description>As habitat loss, illegal wildlife trade and climate change ... Tourism linked to wildlife conservation contributes billions of dollars ...</description>
 </item>
 </channel>
 </rss>

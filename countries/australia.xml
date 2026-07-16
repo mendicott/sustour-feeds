@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/australia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Australia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 15 Jul 2026 22:09:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 10:09:57 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Conservation delivers billions for WA | Western Australian Government</title>
+<link>https://www.wa.gov.au/government/media-statements/Cook%20Labor%20Government/Conservation-delivers-billions-for-WA-20260716</link>
+<guid isPermaLink="false">https://www.wa.gov.au/government/media-statements/Cook%20Labor%20Government/Conservation-delivers-billions-for-WA-20260716</guid>
+<pubDate>Thu, 16 Jul 2026 01:06:10 +0000</pubDate>
+<description>Aboriginal tourism operators made an important contribution to this outcome, generating $55.1 million in economic activity and supporting 514 full- ...</description>
+</item>
 <item>
 <title>Australia's Darwin Convention Centre is Now Hosting DAAF 2026, Boosting Indigenous ...</title>
 <link>https://www.travelandtourworld.com/news/article/zm8evlrt14ri/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://travelweekly.com.au/apts-kimberley-wilderness-adventures-inducted-into-ecotourism-australia-hall-of-fame/</guid>
 <pubDate>Mon, 06 Jul 2026 04:15:57 +0000</pubDate>
 <description>APT's Kimberley Wilderness Adventures has been recognised for 20 consecutive years of long-term sustainable, conservation-focused tourism. "Reaching ...</description>
-</item>
-<item>
-<title>Staying afloat | The West Australian</title>
-<link>https://thewest.com.au/travel/staying-afloat-c-22351491</link>
-<guid isPermaLink="false">https://thewest.com.au/travel/staying-afloat-c-22351491</guid>
-<pubDate>Sun, 05 Jul 2026 06:54:19 +0000</pubDate>
-<description>How sustainable tourism is making waves in the Maldives. ... On a planet facing relative sea-level rise due to global warming, the Maldives is first in ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/canada.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Canada. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 15 Jul 2026 22:09:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 10:09:57 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>New research reveals Canadian travellers are looking beyond AI, social media and ...</title>
+<link>https://finance.yahoo.com/news/research-reveals-canadian-travellers-looking-120000419.html</link>
+<guid isPermaLink="false">https://finance.yahoo.com/news/research-reveals-canadian-travellers-looking-120000419.html</guid>
+<pubDate>Thu, 16 Jul 2026 01:48:35 +0000</pubDate>
+<description>Intrepid Travel signs landmark deal to support Indigenous Tourism in Canada.</description>
+</item>
 <item>
 <title>Government of Canada powering long-term sustainability and Indigenous knowledge ...</title>
 <link>https://ca.finance.yahoo.com/news/government-canada-powering-long-term-203000800.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/80acw7vzdarp/</guid>
 <pubDate>Wed, 24 Jun 2026 14:14:44 +0000</pubDate>
 <description>Canada strengthens its role in responsible travel and sustainable tourism as global travellers adopt low-impact practices to protect natural ...</description>
-</item>
-<item>
-<title>"I feel totally abandoned": ITAC faces collapse as federal funding vanishes, says CEO - PAX</title>
-<link>https://www.paxnews.com/news/associations/i-feel-totally-abandoned-itac-faces-collapse-after-federal-funding-vanishes-says-ceo</link>
-<guid isPermaLink="false">https://www.paxnews.com/news/associations/i-feel-totally-abandoned-itac-faces-collapse-after-federal-funding-vanishes-says-ceo</guid>
-<pubDate>Mon, 22 Jun 2026 15:42:31 +0000</pubDate>
-<description>Indigenous Tourism on the brink. The Indigenous Tourism Association of Canada (ITAC) is facing total collapse after federal funding and support ...</description>
 </item>
 </channel>
 </rss>

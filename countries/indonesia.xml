@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/indonesia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Indonesia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 15 Jul 2026 22:09:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 10:09:57 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Museums in Jakarta Strengthen Their Role in Advancing the Sustainable Development Goals</title>
+<link>https://indonesia.un.org/en/319353-museums-jakarta-strengthen-their-role-advancing-sustainable-development-goals</link>
+<guid isPermaLink="false">https://indonesia.un.org/en/319353-museums-jakarta-strengthen-their-role-advancing-sustainable-development-goals</guid>
+<pubDate>Wed, 15 Jul 2026 20:43:13 +0000</pubDate>
+<description>... ICOM CECA; Siska Widyawati ... The programme builds on the establishment of the first SDG Corner in an Indonesian museum, at Museum Bahari.</description>
+</item>
 <item>
 <title>Who is 'stealing' Bali's water? How tourism siphoned off a prized resource - The Guardian</title>
 <link>https://www.theguardian.com/environment/2026/jul/14/bali-water-resource-tourism-rice-fields</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://wodnesprawy.pl/en/bali-is-drowning-in-waste-what-drove-to-crisis/</guid>
 <pubDate>Sat, 11 Jul 2026 13:00:30 +0000</pubDate>
 <description>It looks stunning in travel brochures, but the reality is quite different. Households and tourist facilities generate such enormous amounts of ...</description>
-</item>
-<item>
-<title>Indonesia, India launch Prambanan cultural heritage conservation project - Vietnam Plus</title>
-<link>https://en.vietnamplus.vn/indonesia-india-launch-prambanan-cultural-heritage-conservation-project-post348036.vnp</link>
-<guid isPermaLink="false">https://en.vietnamplus.vn/indonesia-india-launch-prambanan-cultural-heritage-conservation-project-post348036.vnp</guid>
-<pubDate>Thu, 09 Jul 2026 18:52:57 +0000</pubDate>
-<description>Speaking at the July 8 event, Prabowo described Prambanan as not only a historic monument but also a symbol of the great civilisation of the ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/sweden.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Sweden. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 15 Jul 2026 22:09:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 10:09:57 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Denmark Sweden and Switzerland Lead Global Sustainable Travel Transformations with ...</title>
+<link>https://www.nomadlawyer.org/denmark-sweden-switzerland-lead-global-sustainable-travel-transformations-2026</link>
+<guid isPermaLink="false">https://www.nomadlawyer.org/denmark-sweden-switzerland-lead-global-sustainable-travel-transformations-2026</guid>
+<pubDate>Wed, 15 Jul 2026 23:59:50 +0000</pubDate>
+<description>Sustainable forestry &amp; nature-based tourism. Switzerland, Alpine Conservation, High-efficiency rail &amp; mountain protection. Costa Rica, Biodiversity ...</description>
+</item>
 <item>
 <title>Restoration of the Gradac River Strengthens the Local Ecosystem and Climate Resilience</title>
 <link>https://www.undp.org/serbia/news/restoration-gradac-river-strengthens-local-ecosystem-and-climate-resilience</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/tag/green-landmarks-and-infrastructure/</guid>
 <pubDate>Fri, 05 Jun 2026 21:04:32 +0000</pubDate>
 <description>Qatar Joins Denmark, Costa Rica, New Zealand, Norway, Sweden, Palau, Iceland, Slovenia, and More Countries Dominating the Future of Sustainable ...</description>
-</item>
-<item>
-<title>Aviator cuts half of business travel emissions through SAF initiative in Sweden</title>
-<link>https://biofuels-news.com/news/aviator-cuts-half-of-business-travel-emissions-through-saf-initiative-in-sweden/</link>
-<guid isPermaLink="false">https://biofuels-news.com/news/aviator-cuts-half-of-business-travel-emissions-through-saf-initiative-in-sweden/</guid>
-<pubDate>Wed, 15 Jul 2026 07:47:13 +0000</pubDate>
-<description>... sustainable aviation fuel (SAF) procurement initiative, resulting in a significant reduction in emissions from its business travel. Through this ...</description>
 </item>
 </channel>
 </rss>

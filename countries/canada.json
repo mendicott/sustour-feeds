@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://finance.yahoo.com/news/research-reveals-canadian-travellers-looking-120000419.html",
+      "url": "https://finance.yahoo.com/news/research-reveals-canadian-travellers-looking-120000419.html",
+      "title": "New research reveals Canadian travellers are looking beyond AI, social media and ...",
+      "content_text": "Intrepid Travel signs landmark deal to support Indigenous Tourism in Canada.",
+      "date_published": "2026-07-16T01:48:35+00:00"
+    },
+    {
       "id": "https://ca.finance.yahoo.com/news/government-canada-powering-long-term-203000800.html",
       "url": "https://ca.finance.yahoo.com/news/government-canada-powering-long-term-203000800.html",
       "title": "Government of Canada powering long-term sustainability and Indigenous knowledge ...",
@@ -68,13 +75,6 @@
       "title": "Canada Responsible Travel Is Changing Everything About Tourism, Here's Why The World ...",
       "content_text": "Canada strengthens its role in responsible travel and sustainable tourism as global travellers adopt low-impact practices to protect natural ...",
       "date_published": "2026-06-24T14:14:44+00:00"
-    },
-    {
-      "id": "https://www.paxnews.com/news/associations/i-feel-totally-abandoned-itac-faces-collapse-after-federal-funding-vanishes-says-ceo",
-      "url": "https://www.paxnews.com/news/associations/i-feel-totally-abandoned-itac-faces-collapse-after-federal-funding-vanishes-says-ceo",
-      "title": "\"I feel totally abandoned\": ITAC faces collapse as federal funding vanishes, says CEO - PAX",
-      "content_text": "Indigenous Tourism on the brink. The Indigenous Tourism Association of Canada (ITAC) is facing total collapse after federal funding and support ...",
-      "date_published": "2026-06-22T15:42:31+00:00"
     }
   ]
 }
