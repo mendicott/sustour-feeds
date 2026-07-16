@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/indonesia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Indonesia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 16 Jul 2026 10:09:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 22:09:59 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Has Bali's Melukat ritual turned into a commodified religious ceremony? - Al Jazeera</title>
+<link>https://www.aljazeera.com/amp/video/newsfeed/2026/7/16/has-balis-melukat-ritual-turned-into-a-commodified-religious-ceremony</link>
+<guid isPermaLink="false">https://www.aljazeera.com/amp/video/newsfeed/2026/7/16/has-balis-melukat-ritual-turned-into-a-commodified-religious-ceremony</guid>
+<pubDate>Thu, 16 Jul 2026 14:48:43 +0000</pubDate>
+<description>Every day hundreds are taking part in Melukat, an ancient Balinese ceremony. But is its cultural and spiritual significance at risk from overtourism?</description>
+</item>
 <item>
 <title>Museums in Jakarta Strengthen Their Role in Advancing the Sustainable Development Goals</title>
 <link>https://indonesia.un.org/en/319353-museums-jakarta-strengthen-their-role-advancing-sustainable-development-goals</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/fnz3lclfv7wn/</guid>
 <pubDate>Sat, 11 Jul 2026 17:17:06 +0000</pubDate>
 <description>Rainy season tourism is reshaping global travel as Thailand, Indonesia and Malaysia align with Vietnam to attract millions through value, nature, ...</description>
-</item>
-<item>
-<title>Bali is drowning in waste. What drove this paradise island into crisis? - Wodne Sprawy</title>
-<link>https://wodnesprawy.pl/en/bali-is-drowning-in-waste-what-drove-to-crisis/</link>
-<guid isPermaLink="false">https://wodnesprawy.pl/en/bali-is-drowning-in-waste-what-drove-to-crisis/</guid>
-<pubDate>Sat, 11 Jul 2026 13:00:30 +0000</pubDate>
-<description>It looks stunning in travel brochures, but the reality is quite different. Households and tourist facilities generate such enormous amounts of ...</description>
 </item>
 </channel>
 </rss>

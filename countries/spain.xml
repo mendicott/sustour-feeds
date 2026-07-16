@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 16 Jul 2026 10:09:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 22:09:59 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Europe Turns to Ecotourism as France, Spain, Greece, Italy, and Portugal Battle Intensifying ...</title>
+<link>https://www.travelandtourworld.com/news/article/qg7i1p3z4q0l/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/qg7i1p3z4q0l/</guid>
+<pubDate>Thu, 16 Jul 2026 16:22:13 +0000</pubDate>
+<description>Europe's worsening wildfires are driving travelers toward ecotourism, sustainable destinations, and climate-smart holidays as southern Europe ...</description>
+</item>
 <item>
 <title>Mexico Pairs Up with United States and Spain as Barceló México Reforma Secures Green ...</title>
 <link>https://www.travelandtourworld.com/news/article/b79uaodofbrg/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/or5b0sf7179g/</guid>
 <pubDate>Fri, 10 Jul 2026 12:55:14 +0000</pubDate>
 <description>Europe tackles overtourism in 2026 as Italy, Greece, Spain and France introduce tourist taxes, rental limits, visitor caps and cruise controls.</description>
-</item>
-<item>
-<title>Spain Faces an Overtourism Crisis as Record Visitor Numbers Boost the Economy But Fuel ...</title>
-<link>https://www.travelandtourworld.com/news/article/wxapmn7u26ds/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/wxapmn7u26ds/</guid>
-<pubDate>Wed, 08 Jul 2026 16:32:41 +0000</pubDate>
-<description>Spain's Tourism Boom Reaches Breaking Point as Record Visitor Numbers Spark Housing, Climate and Overtourism Crisis.</description>
 </item>
 </channel>
 </rss>

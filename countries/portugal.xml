@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/portugal.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Portugal. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 16 Jul 2026 10:09:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 22:09:59 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Europe Turns to Ecotourism as France, Spain, Greece, Italy, and Portugal Battle Intensifying ...</title>
+<link>https://www.travelandtourworld.com/news/article/qg7i1p3z4q0l/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/qg7i1p3z4q0l/</guid>
+<pubDate>Thu, 16 Jul 2026 16:22:13 +0000</pubDate>
+<description>Europe's worsening wildfires are driving travelers toward ecotourism, sustainable destinations, and climate-smart holidays as southern Europe ...</description>
+</item>
 <item>
 <title>France Follows Italy, Spain, Croatia, Portugal and More in Reshaping Cruise Tourism Rules ...</title>
 <link>https://www.travelandtourworld.com/news/article/ndey6v7xk41x/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/qe67ymwpgq5m/</guid>
 <pubDate>Thu, 25 Jun 2026 12:26:03 +0000</pubDate>
 <description>Spain will reduce summer cruise passenger arrivals in Mallorca from 2027 as Palma introduces new visitor limits to support sustainable tourism ...</description>
-</item>
-<item>
-<title>New Zealand Overtakes Bahamas, Belize, Croatia, Guatemala, Portugal, Fiji, Philippines ...</title>
-<link>https://www.travelandtourworld.com/news/article/o277k6fjg8kk/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/o277k6fjg8kk/</guid>
-<pubDate>Wed, 24 Jun 2026 16:50:03 +0000</pubDate>
-<description>Therefore, its eco tourism model is becoming one of the world's most influential examples of responsible travel leadership. New Zealand Eco Tourism is ...</description>
 </item>
 </channel>
 </rss>

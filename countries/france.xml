@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/france.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for France. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 16 Jul 2026 10:09:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 22:09:59 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Europe Turns to Ecotourism as France, Spain, Greece, Italy, and Portugal Battle Intensifying ...</title>
+<link>https://www.travelandtourworld.com/news/article/qg7i1p3z4q0l/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/qg7i1p3z4q0l/</guid>
+<pubDate>Thu, 16 Jul 2026 16:22:13 +0000</pubDate>
+<description>Europe's worsening wildfires are driving travelers toward ecotourism, sustainable destinations, and climate-smart holidays as southern Europe ...</description>
+</item>
 <item>
 <title>The best of Le Puy Camino, the quintessential French pilgrimage route | escape.com.au</title>
 <link>https://www.escape.com.au/destinations/europe/france/the-best-of-le-puy-camino-the-quintessential-french-pilgrimage-route/image-gallery/44aa7a5576e6653459c3c1858cb6ed48</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/f5zwkzuj4jhz/</guid>
 <pubDate>Tue, 07 Jul 2026 12:06:12 +0000</pubDate>
 <description>These policies are designed to reduce overtourism, protect historic landmarks and improve the quality of life for local residents while maintaining ...</description>
-</item>
-<item>
-<title>Nations rewrite tourism playbooks as inflation and anti-tourism impede summer travel</title>
-<link>https://www.traveldailymedia.com/nations-rewrite-tourism-playbooks-as-inflation-and-anti-tourism-impede-summer-travel/</link>
-<guid isPermaLink="false">https://www.traveldailymedia.com/nations-rewrite-tourism-playbooks-as-inflation-and-anti-tourism-impede-summer-travel/</guid>
-<pubDate>Mon, 06 Jul 2026 23:06:57 +0000</pubDate>
-<description>Backlash from overtourism in major destinations like Japan, France, and the Maldives. These issues have actually given way to a new trend called ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/new-zealand.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for New Zealand. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 16 Jul 2026 10:09:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 22:09:59 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Is there such a thing as a sustainable tourist? - University of Auckland</title>
+<link>https://www.auckland.ac.nz/en/news/2026/07/16/planetary-solutions-sustainable-tourism.html</link>
+<guid isPermaLink="false">https://www.auckland.ac.nz/en/news/2026/07/16/planetary-solutions-sustainable-tourism.html</guid>
+<pubDate>Wed, 15 Jul 2026 22:09:32 +0000</pubDate>
+<description>Beach's research found New Zealand tourism businesses are facing challenges in becoming more sustainable – one company, for instance, has set aside ...</description>
+</item>
 <item>
 <title>Call for Love Queenstown Charitable Funding Program (New Zealand) - fundsforNGOs</title>
 <link>https://www2.fundsforngos.org/community-development-2/call-for-love-queenstown-charitable-funding-program-new-zealand/amp/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/6ix2f02dj6wx/</guid>
 <pubDate>Mon, 15 Jun 2026 07:15:13 +0000</pubDate>
 <description>By consciously weaving indigenous tourism, wildlife conservation, and ... Privacy Policy. Continents News. Asia Travel News · Africa Travel News ...</description>
-</item>
-<item>
-<title>US Joins Canada, Australia, New Zealand, Colombia, Mexico, Brazil as Indigenous Tourism ...</title>
-<link>https://www.travelandtourworld.com/news/article/7jphvqp1vwss/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/7jphvqp1vwss/</guid>
-<pubDate>Mon, 08 Jun 2026 13:25:41 +0000</pubDate>
-<description>As demand for meaningful travel rises, Indigenous tourism is becoming an increasingly important pillar of the global tourism economy. Advertisement ...</description>
 </item>
 </channel>
 </rss>

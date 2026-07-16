@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.aljazeera.com/amp/video/newsfeed/2026/7/16/has-balis-melukat-ritual-turned-into-a-commodified-religious-ceremony",
+      "url": "https://www.aljazeera.com/amp/video/newsfeed/2026/7/16/has-balis-melukat-ritual-turned-into-a-commodified-religious-ceremony",
+      "title": "Has Bali's Melukat ritual turned into a commodified religious ceremony? - Al Jazeera",
+      "content_text": "Every day hundreds are taking part in Melukat, an ancient Balinese ceremony. But is its cultural and spiritual significance at risk from overtourism?",
+      "date_published": "2026-07-16T14:48:43+00:00"
+    },
+    {
       "id": "https://indonesia.un.org/en/319353-museums-jakarta-strengthen-their-role-advancing-sustainable-development-goals",
       "url": "https://indonesia.un.org/en/319353-museums-jakarta-strengthen-their-role-advancing-sustainable-development-goals",
       "title": "Museums in Jakarta Strengthen Their Role in Advancing the Sustainable Development Goals",
@@ -68,13 +75,6 @@
       "title": "Thailand Leads Indonesia, Malaysia and Vietnam in Recasting Rainy Season Tourism Into ...",
       "content_text": "Rainy season tourism is reshaping global travel as Thailand, Indonesia and Malaysia align with Vietnam to attract millions through value, nature, ...",
       "date_published": "2026-07-11T17:17:06+00:00"
-    },
-    {
-      "id": "https://wodnesprawy.pl/en/bali-is-drowning-in-waste-what-drove-to-crisis/",
-      "url": "https://wodnesprawy.pl/en/bali-is-drowning-in-waste-what-drove-to-crisis/",
-      "title": "Bali is drowning in waste. What drove this paradise island into crisis? - Wodne Sprawy",
-      "content_text": "It looks stunning in travel brochures, but the reality is quite different. Households and tourist facilities generate such enormous amounts of ...",
-      "date_published": "2026-07-11T13:00:30+00:00"
     }
   ]
 }

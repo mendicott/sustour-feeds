@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/middle-east.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Middle East. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 16 Jul 2026 10:09:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 22:09:59 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Tourism awareness programme launched in Dhofar Governorate - Times of Oman</title>
+<link>https://timesofoman.com/article/174475-tourism-awareness-programme-launched-in-dhofar-governorate</link>
+<guid isPermaLink="false">https://timesofoman.com/article/174475-tourism-awareness-programme-launched-in-dhofar-governorate</guid>
+<pubDate>Thu, 16 Jul 2026 13:21:16 +0000</pubDate>
+<description>The Ministry of Heritage and Tourism on Thursday launched a tourism awareness programme codenamed "Your Path is Green", ...</description>
+</item>
 <item>
 <title>New agreements boost environmental protection, ecotourism | Muscat Daily - PressReader</title>
 <link>https://www.pressreader.com/oman/muscat-daily/20260715/281556592585787</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.dawn.com/news/2013497</guid>
 <pubDate>Tue, 07 Jul 2026 18:19:58 +0000</pubDate>
 <description>A fully digital initiative connecting visa application directly to travel bookings, making it easier to visit Saudi than ever before.</description>
-</item>
-<item>
-<title>Aqaba's Eco-Tour Boats First in Middle East to Earn Blue Flag Certification</title>
-<link>https://petra.gov.jo/en/news/aqabas-eco-tour-boats-first-in-middle-east-to-earn-blue-flag-certification</link>
-<guid isPermaLink="false">https://petra.gov.jo/en/news/aqabas-eco-tour-boats-first-in-middle-east-to-earn-blue-flag-certification</guid>
-<pubDate>Tue, 07 Jul 2026 09:13:21 +0000</pubDate>
-<description>... Jordan's position as a destination for sustainable marine tourism. The Royal Marine Conservation Society of Jordan (JREDS) announced Tuesday that ...</description>
 </item>
 </channel>
 </rss>
