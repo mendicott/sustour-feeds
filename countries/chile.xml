@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/chile.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Chile. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 17 Jul 2026 10:09:47 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 22:09:17 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>How Las Torres Patagonia is redefining sustainable travel in Torres del Paine National Park</title>
+<link>https://canadiangeographic.ca/articles/staying-wild-how-las-torres-patagonia-is-redefining-sustainable-travel-in-torres-del-paine-national-park/</link>
+<guid isPermaLink="false">https://canadiangeographic.ca/articles/staying-wild-how-las-torres-patagonia-is-redefining-sustainable-travel-in-torres-del-paine-national-park/</guid>
+<pubDate>Fri, 17 Jul 2026 13:29:26 +0000</pubDate>
+<description>Or so I'm told. Known as the traditional cowboys of Patagonian Chile, baqueanos are expert horsemen whose knowledge of Torres del ...</description>
+</item>
 <item>
 <title>Chile Patagonia Travel Gets A New Landmark Destination As Cochamó Valley Welcomes ...</title>
 <link>https://www.travelandtourworld.com/news/article/z4qfevbbcwzh/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/vg5307cl2rrl/</guid>
 <pubDate>Tue, 07 Jul 2026 22:29:25 +0000</pubDate>
 <description>... heritage management programs. The country protects landmarks ... The future of archaeological tourism depends on responsible travel.</description>
-</item>
-<item>
-<title>Electro Route National Reserves: challenges and lessons from traveling through Chile in an ...</title>
-<link>https://noticiasambientales.com/sustainability/electro-route-national-reserves-challenges-and-lessons-from-traveling-through-chile-in-an-electric-vehicle/</link>
-<guid isPermaLink="false">https://noticiasambientales.com/sustainability/electro-route-national-reserves-challenges-and-lessons-from-traveling-through-chile-in-an-electric-vehicle/</guid>
-<pubDate>Fri, 03 Jul 2026 12:17:53 +0000</pubDate>
-<description>Valenzuela emphasizes that "when we travel through protected areas, we ... tourism. Valenzuela's experience invites reflection on the need to ...</description>
 </item>
 </channel>
 </rss>

@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=vz_iPQafNlE",
+      "url": "https://www.youtube.com/watch?v=vz_iPQafNlE",
+      "title": "'Europe bought gas, oil from Russia': Venice mayor sees 'contradiction' in Biennale funding freeze",
+      "content_text": "... Venice as a laboratory for managing overtourism, a diplomatic bridge between East and West, and an emerging centre for technology and innovation ...",
+      "date_published": "2026-07-17T14:13:36+00:00"
+    },
+    {
       "id": "https://asianews.network/china-russia-release-480000-endangered-fish-fry-into-border-river/",
       "url": "https://asianews.network/china-russia-release-480000-endangered-fish-fry-into-border-river/",
       "title": "China, Russia release 480000 endangered fish fry into border river - Asia News Network",
@@ -68,13 +75,6 @@
       "title": "Vietnam Teams Up with South Korea, Japan, Russia, Singapore and More Countries as ...",
       "content_text": "The trend reflects a wider shift towards nature-based tourism, cultural discovery and outdoor experiences during the summer travel season.",
       "date_published": "2026-07-15T15:54:20+00:00"
-    },
-    {
-      "id": "https://www.themoscowtimes.com/2026/07/13/russia-allocates-56m-to-support-crimea-tourism-hit-by-ukrainian-attacks-a93232",
-      "url": "https://www.themoscowtimes.com/2026/07/13/russia-allocates-56m-to-support-crimea-tourism-hit-by-ukrainian-attacks-a93232",
-      "title": "Russia Allocates $56M to Support Crimea Tourism Hit by Ukrainian Attacks",
-      "content_text": "Russia's government has allocated more than 4.3 billion rubles ($56.3 million) from its reserve fund to support the tourism sector in the annexed ...",
-      "date_published": "2026-07-13T18:27:51+00:00"
     }
   ]
 }

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/germany.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Germany. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 17 Jul 2026 10:09:47 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 22:09:17 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Spain Joins Forces with Italy, Greece, France, Germany and Over Twenty Other Countries in ...</title>
+<link>https://www.travelandtourworld.com/news/article/ra5yd02ysu8r/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ra5yd02ysu8r/</guid>
+<pubDate>Fri, 17 Jul 2026 11:28:34 +0000</pubDate>
+<description>Spain, Italy, Greece, France and Germany support new Natura 2000 guidelines as Europe targets overtourism control, biodiversity protection and ...</description>
+</item>
 <item>
 <title>DTV publishes new practical guide for sustainable tourism destinations. - busplaner</title>
 <link>https://www.busplaner.de/en/news/dtv-publishes-new-practical-guide-sustainable-tourism-destinations-314281.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/0nj6ty9blt14/</guid>
 <pubDate>Wed, 24 Jun 2026 07:07:24 +0000</pubDate>
 <description>In recognition of its breakthrough performance in sustainable travel systems, digital tourism innovation, and nature-integrated urban design, where ...</description>
-</item>
-<item>
-<title>Italy Overtakes Spain, Netherlands, Croatia, Greece, Germany, Iceland, And More Countries ...</title>
-<link>https://www.travelandtourworld.com/news/article/co7101o8dadx/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/co7101o8dadx/</guid>
-<pubDate>Tue, 23 Jun 2026 16:15:47 +0000</pubDate>
-<description>Italy overtakes Spain, Netherlands, Croatia, Greece, Germany, Iceland, and more countries in Europe in implementing a sweeping overtourism ...</description>
 </item>
 </channel>
 </rss>

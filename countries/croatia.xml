@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/croatia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Croatia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 17 Jul 2026 10:09:47 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 22:09:17 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Greece Stands with Italy, Spain, France, Portugal and Others in New Travel Restrictions with ...</title>
+<link>https://www.travelandtourworld.com/news/article/8fp92y45xe1p/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/8fp92y45xe1p/</guid>
+<pubDate>Fri, 17 Jul 2026 10:35:19 +0000</pubDate>
+<description>New travel restrictions in Greece, Italy, Spain, France, Portugal &amp; Croatia bring heavy fines and beach rules to combat overtourism.</description>
+</item>
 <item>
 <title>Croatia Tourism Law Reform Introduces Strict New Rental Rules to Crack Down on Illegal ...</title>
 <link>https://www.travelandtourworld.com/news/article/biwy455503nq/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.thedubrovniktimes.com/news/dubrovnik/item/20077-polish-students-visit-dubrovnik-to-study-sustainable-and-film-tourism</guid>
 <pubDate>Thu, 02 Jul 2026 16:11:15 +0000</pubDate>
 <description>A group of students from Jagiellonian University has visited Dubrovnik to learn how the city balances booming tourism with heritage conservation ...</description>
-</item>
-<item>
-<title>Albania Looks To Croatia's Tourism Success Story for Lessons in Sustainable Destination ...</title>
-<link>https://www.travelandtourworld.com/news/article/tijqzodxu5dl/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/tijqzodxu5dl/</guid>
-<pubDate>Thu, 02 Jul 2026 10:45:36 +0000</pubDate>
-<description>During an official visit to Dubrovnik, Albanian Ambassador to Croatia Donika Hoxha examined the Croatian city's innovative tourism management ...</description>
 </item>
 </channel>
 </rss>

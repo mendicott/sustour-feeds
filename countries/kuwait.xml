@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/kuwait.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Kuwait. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 17 Jul 2026 10:09:47 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 22:09:17 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>'Not a museum': Slovak UNESCO village strains under tourism | Kuwait Times Newspaper</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://kuwaittimes.com/article/45565/lifestyle/beloved-spiritual-utopia-under-threat-in-modis-india/amp</guid>
 <pubDate>Sat, 27 Jun 2026 15:33:52 +0000</pubDate>
 <description>"There are probably financial goals, but also a desire to develop mass spiritual tourism and turn it into a showcase for spreading certain nationalist ...</description>
+</item>
+<item>
+<title>Wildfire smoke engulfs millions in US ahead of World Cup final - Kuwait Times</title>
+<link>https://kuwaittimes.com/article/46625/sports/wildfire-smoke-engulfs-millions-in-us-ahead-of-world-cup-final/</link>
+<guid isPermaLink="false">https://kuwaittimes.com/article/46625/sports/wildfire-smoke-engulfs-millions-in-us-ahead-of-world-cup-final/</guid>
+<pubDate>Fri, 17 Jul 2026 15:31:07 +0000</pubDate>
+<description>Advocates have stressed the connection between repeated episodes of wildfire smoke and climate change. "Increasingly smoky skies underscore the ...</description>
 </item>
 <item>
 <title>Wildfire rages near Paris as heatwave scorches Europe - Kuwait Times</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://kuwaittimes.com/article/45909/kuwait/plastic-pollution-threatens-marine-ecosystems-biodiversity-and-food-security-keps/</guid>
 <pubDate>Fri, 03 Jul 2026 20:20:52 +0000</pubDate>
 <description>KUWAIT: The Kuwait Environment Protection Society (KEPS) has warned that plastic pollution has become one of the world's most serious ...</description>
-</item>
-<item>
-<title>Record heatwave disrupts Europe as France warns death toll set to rise - Kuwait Times</title>
-<link>https://kuwaittimes.com/article/45625/world/europe/record-heatwave-disrupts-europe-as-france-warns-death-toll-set-to-rise/amp</link>
-<guid isPermaLink="false">https://kuwaittimes.com/article/45625/world/europe/record-heatwave-disrupts-europe-as-france-warns-death-toll-set-to-rise/amp</guid>
-<pubDate>Sun, 28 Jun 2026 18:46:07 +0000</pubDate>
-<description>VATICAN: People cool off in a fountain as they wait for the Sunday ... "Driven by climate change and global warming, the phenomenon of the ...</description>
 </item>
 </channel>
 </rss>
