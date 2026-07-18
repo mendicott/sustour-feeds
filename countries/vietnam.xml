@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 18 Jul 2026 10:09:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 22:08:49 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Vietnamese Canadian scientist revives forgotten ecosystems</title>
+<link>https://en.vietnamplus.vn/vietnamese-canadian-scientist-revives-forgotten-ecosystems-post348492.vnp</link>
+<guid isPermaLink="false">https://en.vietnamplus.vn/vietnamese-canadian-scientist-revives-forgotten-ecosystems-post348492.vnp</guid>
+<pubDate>Sat, 18 Jul 2026 10:06:46 +0000</pubDate>
+<description>From restoring an ancient sand dune ecosystem in Canada to promoting the conservation of Vietnam's coastal dunes, native forests and ecological ...</description>
+</item>
 <item>
 <title>Community-based tourism in these two villages of Gia Lai is creating jobs and ... - Vietnam.vn</title>
 <link>https://www.vietnam.vn/en/du-lich-cong-dong-o-2-lang-nay-cua-gia-lai-dang-tao-viec-lam-thu-nhap-tot-la-cach-giam-ngheo-hay</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://en.vietnamplus.vn/rural-tourism-draws-strength-from-indigenous-culture-post348403.vnp</guid>
 <pubDate>Thu, 16 Jul 2026 18:52:17 +0000</pubDate>
 <description>Cultural heritage is emerging as a driving force for sustainable tourism development in Vietnam, with traditional brocade weaving among the Thai ...</description>
-</item>
-<item>
-<title>Assessing coral reef conservation activities in conjunction with community-based tourism ...</title>
-<link>https://www.vietnam.vn/en/danh-gia-hoat-dong-bao-ton-ran-san-ho-gan-voi-phat-trien-du-lich-cong-dong</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/danh-gia-hoat-dong-bao-ton-ran-san-ho-gan-voi-phat-trien-du-lich-cong-dong</guid>
-<pubDate>Thu, 16 Jul 2026 14:03:59 +0000</pubDate>
-<description>Travel · Happy Vietnam · Enterprise · Product · Heritage · Museum · Figure ... coral reef conservation model linked with community tourism development.</description>
 </item>
 </channel>
 </rss>

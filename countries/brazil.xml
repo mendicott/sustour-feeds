@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/brazil.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Brazil. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 18 Jul 2026 10:09:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 22:08:49 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Rota dos Corais, Pernambuco, Tourism Evolves into Global Model for Coral Reef ...</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/xayeuiebdu17/</guid>
 <pubDate>Wed, 24 Jun 2026 18:42:55 +0000</pubDate>
 <description>Brazil Rota dos Corais tourism lets visitors join coral reef restoration through regenerative travel led by Biofábrica de Corais in Pernambuco.</description>
+</item>
+<item>
+<title>Brazil's Seven Hidden Tourism Gems Enter Global Spotlight As UN Tourism Best Villages ...</title>
+<link>https://www.travelandtourworld.com/news/article/srhjyqt7i4nr/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/srhjyqt7i4nr/</guid>
+<pubDate>Sat, 18 Jul 2026 14:22:11 +0000</pubDate>
+<description>The selected Brazilian villages include Araçá in Santa Catarina, Conceição de Ibitipoca and Delfinópolis in Minas Gerais, Holambra and São José do ...</description>
 </item>
 <item>
 <title>Brazil names seven contenders for UN Tourism village award - TravelMole</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/yway965qfsjw/</guid>
 <pubDate>Wed, 24 Jun 2026 06:46:57 +0000</pubDate>
 <description>Unlike conventional ecotourism programmes that largely focus on education or observation, the Brazil Coral Route allows visitors to contribute ...</description>
-</item>
-<item>
-<title>The reef restorers: how a stretch of Brazilian coastline is reinventing what it means to go on holiday</title>
-<link>https://tourismag.com/articles/100920/the-reef-restorershow-a-stretch-of-brazilian-coastline-is-reinventing-what-it-means-to-go-on-holiday.html</link>
-<guid isPermaLink="false">https://tourismag.com/articles/100920/the-reef-restorershow-a-stretch-of-brazilian-coastline-is-reinventing-what-it-means-to-go-on-holiday.html</guid>
-<pubDate>Tue, 23 Jun 2026 18:56:13 +0000</pubDate>
-<description>Its brief is deceptively simple: restore the reefs, engage the public, and demonstrate that responsible tourism and ecological recovery are not just ...</description>
 </item>
 </channel>
 </rss>

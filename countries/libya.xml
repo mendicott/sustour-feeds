@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/libya.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Libya. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 18 Jul 2026 10:09:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 22:08:49 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Archaeologists fight to save Libya's ancient Greek ruins - Oman Observer</title>
@@ -44,6 +44,13 @@
 <description>... climate change across the Middle East and North Africa. Researchers in archaeology, environmental science and geology took part in the meeting.</description>
 </item>
 <item>
+<title>French Archaeological Mission Discovers Ancient Theatre in Apollonia - Libya Herald</title>
+<link>https://libyaherald.com/2026/07/french-archaeologists-discover-exceptional-find-in-libyas-apollonia</link>
+<guid isPermaLink="false">https://libyaherald.com/2026/07/french-archaeologists-discover-exceptional-find-in-libyas-apollonia</guid>
+<pubDate>Sat, 18 Jul 2026 17:26:47 +0000</pubDate>
+<description>French archaeologists have discovered an ancient sea-facing theatre and a unique Greek racecourse in the Libyan historic city of Apollonia.</description>
+</item>
+<item>
 <title>Rare Greek racecourse, theater discovered in Libya's ancient city of Apollonia - China.org.cn</title>
 <link>http://www.china.org.cn/world/Off_the_Wire/2026-07/17/content_118605146.shtml</link>
 <guid isPermaLink="false">http://www.china.org.cn/world/Off_the_Wire/2026-07/17/content_118605146.shtml</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://capmad.com/tourism-article/libyas-greco-roman-sites-spectacular-ruins-in-a-high-risk-environment</guid>
 <pubDate>Mon, 06 Jul 2026 15:05:51 +0000</pubDate>
 <description>" — UNESCO World Heritage Centre, UNESCO. A world-class Greco-Roman ... travel to eastern Libya, where the ruins of Cyrene are located. What ...</description>
-</item>
-<item>
-<title>Libya Launches Cultural and Tourism Caravan to Boost Heritage</title>
-<link>https://libyaherald.com/2026/06/cultural-and-tourism-caravan-to-be-launched-to-showcase-national-identity-promote-libyan-heritage-and-revitalize-domestic-tourism</link>
-<guid isPermaLink="false">https://libyaherald.com/2026/06/cultural-and-tourism-caravan-to-be-launched-to-showcase-national-identity-promote-libyan-heritage-and-revitalize-domestic-tourism</guid>
-<pubDate>Sun, 28 Jun 2026 23:51:02 +0000</pubDate>
-<description>Libya's Ministries of Tourism and Culture are launching a 'Cultural and Artistic Tourism Caravan' to promote national heritage and revitalize ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/romania.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Romania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 18 Jul 2026 10:09:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 22:08:49 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Romania Moves to Protect Bran Castle as EU-Funded 'Tourism in Balance' Initiative Seeks ...</title>
+<link>https://www.travelandtourworld.com/news/article/ye0c5ldiar9s/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ye0c5ldiar9s/</guid>
+<pubDate>Sat, 18 Jul 2026 17:38:13 +0000</pubDate>
+<description>Romania's EU-backed Tourism in Balance initiative aims to reduce overtourism at Bran Castle by promoting sustainable travel across Transylvania.</description>
+</item>
 <item>
 <title>Inside Romania's 1400-Kilometre Via Transilvanica Eco-Tourism Revolution | Streamline</title>
 <link>https://streamlinefeed.co.ke/news/inside-romanias-1400-kilometre-via-transilvanica-eco-tourism-revolution</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://ftnnews.com/travel-news/cruise-travel/danube-drought-strands-cruise-ships-in-romania-as-river-hits-20-year-low/</guid>
 <pubDate>Fri, 17 Jul 2026 10:41:12 +0000</pubDate>
 <description>Hydrologists say the river has fallen to one of its lowest levels in the past two decades. Trade and tourism have both been hit, while operators are ...</description>
-</item>
-<item>
-<title>Investigation finds Airbnb and Booking.com listings in Bucharest earthquake-risk buildings</title>
-<link>https://shorttermrentalz.com/news/airbnb-booking-com-bucharest-earthquake-buildings/</link>
-<guid isPermaLink="false">https://shorttermrentalz.com/news/airbnb-booking-com-bucharest-earthquake-buildings/</guid>
-<pubDate>Thu, 16 Jul 2026 11:00:03 +0000</pubDate>
-<description>More than 200 holiday rental listings have been identified in Bucharest buildings where short-term letting is prohibited because of severe ...</description>
 </item>
 </channel>
 </rss>

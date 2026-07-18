@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ukraine.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ukraine. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 18 Jul 2026 10:09:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 22:08:49 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>In Ukraine, wild donkeys are reviving the steppe, and the first foal in 200 years was born</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://whc.unesco.org/en/news/2908</guid>
 <pubDate>Tue, 30 Jun 2026 18:55:31 +0000</pubDate>
 <description>On 25 June 2026, UNESCO formally handed over a comprehensive suite of strategic tools to support the protection and management of World Heritage ...</description>
+</item>
+<item>
+<title>Tourists escape summer heat in Croatia's underwater museum - Reuters</title>
+<link>https://www.reuters.com/video/watch/idRW890817072026RP1/</link>
+<guid isPermaLink="false">https://www.reuters.com/video/watch/idRW890817072026RP1/</guid>
+<pubDate>Sat, 18 Jul 2026 07:18:00 +0000</pubDate>
+<description>Russian missile strikes in Kyiv raze buildings, kill residents. 00:33.</description>
 </item>
 <item>
 <title>New monkey species with orange pout discovered hiding in forest - The Telegraph</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://rubryka.com/en/2026/06/26/vid-antarktyky-do-arktyky/</guid>
 <pubDate>Fri, 26 Jun 2026 16:19:01 +0000</pubDate>
 <description>Collecting rock and sediment samples, along with comprehensive environmental monitoring of climate change. "Not only disorders can be bipolar — ...</description>
-</item>
-<item>
-<title>Beyond the war: A British traveler hikes Ukraine's highest peak</title>
-<link>https://english.nv.ua/life/hiking-hoverla-a-british-tourist-s-first-visit-to-ukraine-50618832.html</link>
-<guid isPermaLink="false">https://english.nv.ua/life/hiking-hoverla-a-british-tourist-s-first-visit-to-ukraine-50618832.html</guid>
-<pubDate>Thu, 25 Jun 2026 12:21:48 +0000</pubDate>
-<description>In late June I added to this number when I visited Ukraine for the first time. The idea for the trip was planted whilst looking up the highest peaks ...</description>
 </item>
 </channel>
 </rss>
