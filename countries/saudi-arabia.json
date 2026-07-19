@@ -7,6 +7,20 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.arabnews.pk/node/2651527/saudi-arabia",
+      "url": "https://www.arabnews.pk/node/2651527/saudi-arabia",
+      "title": "Saudi Arabia launches national parks investment opportunities | Arab News PK",
+      "content_text": "Focus is on developing sustainable ecotourism destinations in partnership with the private sector, says official. Updated 7 ...",
+      "date_published": "2026-07-19T19:25:22+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/qyy6bg0tqbmq/",
+      "url": "https://www.travelandtourworld.com/news/article/qyy6bg0tqbmq/",
+      "title": "Saudi Arabia Aligns With Türkiye, Indonesia and Malaysia as Religious Tourism Rebounds ...",
+      "content_text": "The scale of Hajj makes Saudi Arabia a central hub in the global faith tourism economy. Indonesia Becomes a Major Source Market for Religious Travel.",
+      "date_published": "2026-07-18T23:06:03+00:00"
+    },
+    {
       "id": "https://www.dawn.com/news/2013497",
       "url": "https://www.dawn.com/news/2013497",
       "title": "Conservation sees urial rebounding in Salt Range - Pakistan - DAWN.COM",
@@ -56,25 +70,11 @@
       "date_published": "2026-06-04T09:31:15+00:00"
     },
     {
-      "id": "https://www.arabnews.pk/node/2651256/saudi-arabia",
-      "url": "https://www.arabnews.pk/node/2651256/saudi-arabia",
-      "title": "How Saudi Arabia is reclaiming the night sky - Arab News PK",
-      "content_text": "Dark-sky protection supports astronomy, cultural heritage, responsible tourism and lower energy consumption. \"The reduction is managed through ...",
-      "date_published": "2026-07-17T08:20:00+00:00"
-    },
-    {
-      "id": "https://www.newagebd.net/post/foreign-affairs/305991/saudi-support-sought-to-reduce-hajj-travel-costs-for-bangladeshis",
-      "url": "https://www.newagebd.net/post/foreign-affairs/305991/saudi-support-sought-to-reduce-hajj-travel-costs-for-bangladeshis",
-      "title": "Saudi support sought to reduce Hajj travel costs for Bangladeshis - New Age",
-      "content_text": "... Tourism at the Bangladesh Secretariat in Dhaka on Monday. ... hajj for Bangladeshi pilgrims by lowering taxes and charges on Hajj air travel.",
-      "date_published": "2026-07-13T18:08:56+00:00"
-    },
-    {
-      "id": "https://www.luxurytraveladvisor.com/hotels/six-senses-amaala-opens-saudi-arabia",
-      "url": "https://www.luxurytraveladvisor.com/hotels/six-senses-amaala-opens-saudi-arabia",
-      "title": "Six Senses AMAALA Opens in Saudi Arabia | Luxury Travel Advisor",
-      "content_text": "Red Sea Global (RSG), the regenerative tourism developer, has announced the opening of beachfront resort. ... Nature and sustainability: A mangrove ...",
-      "date_published": "2026-07-11T05:02:39+00:00"
+      "id": "https://www.arabnews.com/node/2651527/amp",
+      "url": "https://www.arabnews.com/node/2651527/amp",
+      "title": "Saudi Arabia launches national parks investment opportunities | Arab News",
+      "content_text": "meters across the Kingdom and includes projects in camping, caravanning, events, ecotourism and agritourism, with investment periods ranging from five ...",
+      "date_published": "2026-07-19T19:24:41+00:00"
     }
   ]
 }

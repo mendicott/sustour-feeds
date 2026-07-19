@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ireland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ireland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 19 Jul 2026 10:08:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 22:07:39 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Irish Government to fund greenways between Derry and Donegal</title>
+<link>https://www.derrydaily.net/derry-city/irish-government-to-fund-greenways-between-derry-and-donegal-274226</link>
+<guid isPermaLink="false">https://www.derrydaily.net/derry-city/irish-government-to-fund-greenways-between-derry-and-donegal-274226</guid>
+<pubDate>Sun, 19 Jul 2026 14:59:49 +0000</pubDate>
+<description>"Cross-border greenways provide a significant opportunity to enhance sustainable transport, tourism and regional connectivity," Ms Kimmins said.</description>
+</item>
 <item>
 <title>Secrets of the Maharees: 368 people, a tiny tombolo, and 'a world you didn't know existed in Ireland'</title>
 <link>https://www.independent.ie/lifestyle/travel/secrets-of-the-maharees-368-people-a-tiny-tombolo-and-a-world-you-didnt-know-existed-in-ireland/a/157609379.html</link>
@@ -65,18 +72,11 @@
 <description>... sustainable tourism, education, cultural identity and community development. Supported by the UK National Commission to UNESCO and National ...</description>
 </item>
 <item>
-<title>Riverstown Heritage Trail an Entente Florale highlight | Irish Independent</title>
-<link>https://www.independent.ie/county/sligo/riverstown-heritage-trail-an-entente-florale-highlight/a/158682884.html</link>
-<guid isPermaLink="false">https://www.independent.ie/county/sligo/riverstown-heritage-trail-an-entente-florale-highlight/a/158682884.html</guid>
-<pubDate>Wed, 15 Jul 2026 05:32:59 +0000</pubDate>
-<description>With a community garden, heritage trail and biodiversity walks, the people of Riverstown have spent many years improving their lovely village.</description>
-</item>
-<item>
-<title>Singapore's MICE trailblazers set new benchmarks for sustainability and tech innovation</title>
-<link>https://www.ttgmice.com/2026/07/13/singapores-mice-trailblazers-set-new-benchmarks-for-sustainability-and-tech-innovation/</link>
-<guid isPermaLink="false">https://www.ttgmice.com/2026/07/13/singapores-mice-trailblazers-set-new-benchmarks-for-sustainability-and-tech-innovation/</guid>
-<pubDate>Mon, 13 Jul 2026 07:39:41 +0000</pubDate>
-<description>... Sustainable Tourism Council (GSTC) recognition. Ireland was also recognised for launching the Singapore MICE Development initiative to build long ...</description>
+<title>Latest stretch of South Kerry Greenway opens in Ireland - TravelMole</title>
+<link>https://travelmole.com/news/latest-stretch-of-south-kerry-greenway-opens-in-ireland/</link>
+<guid isPermaLink="false">https://travelmole.com/news/latest-stretch-of-south-kerry-greenway-opens-in-ireland/</guid>
+<pubDate>Sun, 19 Jul 2026 05:45:01 +0000</pubDate>
+<description>The latest addition extends the accessible off-road walking and cycling route, further enhancing one of the country's fastest-growing outdoor tourism ...</description>
 </item>
 </channel>
 </rss>

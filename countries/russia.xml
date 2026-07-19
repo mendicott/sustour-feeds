@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/russia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Russia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 19 Jul 2026 10:08:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 22:07:39 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>UN eyes 'in danger' status for sites hit by war, climate change - World - Dawn</title>
+<link>https://www.dawn.com/news/2016613</link>
+<guid isPermaLink="false">https://www.dawn.com/news/2016613</guid>
+<pubDate>Sun, 19 Jul 2026 12:30:12 +0000</pubDate>
+<description>Biblical sites in occupied West Bank, Lebanese castles, South Sudan's savannahs and grasslands among fast-tracked nominations; Russia's Lake ...</description>
+</item>
 <item>
 <title>'Europe bought gas, oil from Russia': Venice mayor sees 'contradiction' in Biennale funding freeze</title>
 <link>https://www.youtube.com/watch?v=vz_iPQafNlE</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.reuters.com/video/watch/idRW890817072026RP1/</guid>
 <pubDate>Sat, 18 Jul 2026 07:18:00 +0000</pubDate>
 <description>Russian missile strikes in Kyiv raze buildings, kill residents. 00:33.</description>
-</item>
-<item>
-<title>Forestry Minister: Belarusian foresters' experience of interest to foreign colleagues</title>
-<link>https://www.sb.by/en/forestry-minister-belarusian-foresters-experience-of-interest-to-foreign-colleagues.html</link>
-<guid isPermaLink="false">https://www.sb.by/en/forestry-minister-belarusian-foresters-experience-of-interest-to-foreign-colleagues.html</guid>
-<pubDate>Sat, 18 Jul 2026 01:54:35 +0000</pubDate>
-<description>Therefore, representatives of about ten Russian regions and Uzbek foresters have come, since the challenges, climate change, diseases, and pests are ...</description>
 </item>
 </channel>
 </rss>

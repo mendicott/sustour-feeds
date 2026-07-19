@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.croatiaweek.com/croatia-tourism-strategy-growth-pre-post-season/",
+      "url": "https://www.croatiaweek.com/croatia-tourism-strategy-growth-pre-post-season/",
+      "title": "Why Croatia is no longer chasing endless tourism growth",
+      "content_text": "Croatia is entering a new phase in its tourism development, with the focus shifting from constant growth in visitor numbers towards maintaining ...",
+      "date_published": "2026-07-19T12:48:09+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/8fp92y45xe1p/",
       "url": "https://www.travelandtourworld.com/news/article/8fp92y45xe1p/",
       "title": "Greece Stands with Italy, Spain, France, Portugal and Others in New Travel Restrictions with ...",
@@ -68,13 +75,6 @@
       "title": "Dubrovnik Unites with Split, Hvar, Zadar, and Croatian Adriatic Ports Enforcing Rigid Daily ...",
       "content_text": "Croatia strengthens cruise limits, traffic controls and overtourism measures while officially dismissing false rumours about Dubrovnik luggage ...",
       "date_published": "2026-07-03T06:25:09+00:00"
-    },
-    {
-      "id": "https://www.thedubrovniktimes.com/news/dubrovnik/item/20077-polish-students-visit-dubrovnik-to-study-sustainable-and-film-tourism",
-      "url": "https://www.thedubrovniktimes.com/news/dubrovnik/item/20077-polish-students-visit-dubrovnik-to-study-sustainable-and-film-tourism",
-      "title": "Polish Students Visit Dubrovnik to Study Sustainable and Film Tourism",
-      "content_text": "A group of students from Jagiellonian University has visited Dubrovnik to learn how the city balances booming tourism with heritage conservation ...",
-      "date_published": "2026-07-02T16:11:15+00:00"
     }
   ]
 }

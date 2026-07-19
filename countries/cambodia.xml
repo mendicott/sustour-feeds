@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/cambodia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Cambodia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 19 Jul 2026 10:08:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 22:07:39 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Cambodia's Samkos REDD+ project boosts forest conservation with local development</title>
+<link>https://www.khmertimeskh.com/501946196/cambodias-samkos-redd-project-boosts-forest-conservation-with-local-development/</link>
+<guid isPermaLink="false">https://www.khmertimeskh.com/501946196/cambodias-samkos-redd-project-boosts-forest-conservation-with-local-development/</guid>
+<pubDate>Sun, 19 Jul 2026 17:38:04 +0000</pubDate>
+<description>A carbon-financed forest conservation project in western Cambodia is helping indigenous communities protect their spirit forests, secure access to ...</description>
+</item>
 <item>
 <title>India's heritage conservation strengthens global partnerships - Organiser</title>
 <link>https://organiser.org/2026/07/18/370507/bharat/from-prambanan-to-angkor-wat-how-india-is-preserving-ancient-heritage-to-strengthen-global-cultural-ties/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.turkiyetoday.com/world/cambodia-readies-tiger-reintroduction-plan-amid-doubts-3223512</guid>
 <pubDate>Thu, 09 Jul 2026 05:33:48 +0000</pubDate>
 <description>Cambodia prepares to bring tigers from India decade after local extinction, as experts question prey, habitat and cost.</description>
-</item>
-<item>
-<title>Cambodia Expands Agri-Tourism Strategy With Ta Khna Plantation Development in ...</title>
-<link>https://www.travelandtourworld.com/news/article/pkktd6cwxnpi/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/pkktd6cwxnpi/</guid>
-<pubDate>Wed, 08 Jul 2026 06:59:58 +0000</pubDate>
-<description>Cambodia explores Ta Khna Plantation agri-tourism potential in Kampong Thom, linking agriculture, culture, communities and immersive rural travel.</description>
 </item>
 </channel>
 </rss>

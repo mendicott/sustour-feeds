@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/kuwait.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Kuwait. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 19 Jul 2026 10:08:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 22:07:39 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>'Not a museum': Slovak UNESCO village strains under tourism | Kuwait Times Newspaper</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://kuwaittimes.com/article/45565/lifestyle/beloved-spiritual-utopia-under-threat-in-modis-india/amp</guid>
 <pubDate>Sat, 27 Jun 2026 15:33:52 +0000</pubDate>
 <description>"There are probably financial goals, but also a desire to develop mass spiritual tourism and turn it into a showcase for spreading certain nationalist ...</description>
+</item>
+<item>
+<title>Iran strike on Kuwait desalination plant highlights Gulf water security risks - Saudi Gazette</title>
+<link>https://saudigazette.com.sa/article/663070/world/iran-strike-on-kuwait-desalination-plant-exposes-gulf-water-security-vulnerabilities</link>
+<guid isPermaLink="false">https://saudigazette.com.sa/article/663070/world/iran-strike-on-kuwait-desalination-plant-exposes-gulf-water-security-vulnerabilities</guid>
+<pubDate>Sat, 18 Jul 2026 21:53:45 +0000</pubDate>
+<description>In addition to conflict, experts say Gulf desalination plants also face growing risks from climate change, including storm surges, extreme rainfall ...</description>
 </item>
 <item>
 <title>Wildfire smoke engulfs millions in US ahead of World Cup final - Kuwait Times</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://kuwaittimes.com/article/46014/top-stories/wildfires-sweep-south-europe-as-heatwave-fuels-evacuations/</guid>
 <pubDate>Sun, 05 Jul 2026 19:41:42 +0000</pubDate>
 <description>... climate change, the World Weather Attribution group of scientists said. With the mercury set to rise again in the coming days, authorities ...</description>
-</item>
-<item>
-<title>Plastic pollution threatens marine ecosystems, biodiversity and food security: KEPS</title>
-<link>https://kuwaittimes.com/article/45909/kuwait/plastic-pollution-threatens-marine-ecosystems-biodiversity-and-food-security-keps/</link>
-<guid isPermaLink="false">https://kuwaittimes.com/article/45909/kuwait/plastic-pollution-threatens-marine-ecosystems-biodiversity-and-food-security-keps/</guid>
-<pubDate>Fri, 03 Jul 2026 20:20:52 +0000</pubDate>
-<description>KUWAIT: The Kuwait Environment Protection Society (KEPS) has warned that plastic pollution has become one of the world's most serious ...</description>
 </item>
 </channel>
 </rss>

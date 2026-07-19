@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/croatia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Croatia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 19 Jul 2026 10:08:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 22:07:39 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Why Croatia is no longer chasing endless tourism growth</title>
+<link>https://www.croatiaweek.com/croatia-tourism-strategy-growth-pre-post-season/</link>
+<guid isPermaLink="false">https://www.croatiaweek.com/croatia-tourism-strategy-growth-pre-post-season/</guid>
+<pubDate>Sun, 19 Jul 2026 12:48:09 +0000</pubDate>
+<description>Croatia is entering a new phase in its tourism development, with the focus shifting from constant growth in visitor numbers towards maintaining ...</description>
+</item>
 <item>
 <title>Greece Stands with Italy, Spain, France, Portugal and Others in New Travel Restrictions with ...</title>
 <link>https://www.travelandtourworld.com/news/article/8fp92y45xe1p/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/y7empcg9ai0v/</guid>
 <pubDate>Fri, 03 Jul 2026 06:25:09 +0000</pubDate>
 <description>Croatia strengthens cruise limits, traffic controls and overtourism measures while officially dismissing false rumours about Dubrovnik luggage ...</description>
-</item>
-<item>
-<title>Polish Students Visit Dubrovnik to Study Sustainable and Film Tourism</title>
-<link>https://www.thedubrovniktimes.com/news/dubrovnik/item/20077-polish-students-visit-dubrovnik-to-study-sustainable-and-film-tourism</link>
-<guid isPermaLink="false">https://www.thedubrovniktimes.com/news/dubrovnik/item/20077-polish-students-visit-dubrovnik-to-study-sustainable-and-film-tourism</guid>
-<pubDate>Thu, 02 Jul 2026 16:11:15 +0000</pubDate>
-<description>A group of students from Jagiellonian University has visited Dubrovnik to learn how the city balances booming tourism with heritage conservation ...</description>
 </item>
 </channel>
 </rss>

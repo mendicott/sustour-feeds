@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.derrydaily.net/derry-city/irish-government-to-fund-greenways-between-derry-and-donegal-274226",
+      "url": "https://www.derrydaily.net/derry-city/irish-government-to-fund-greenways-between-derry-and-donegal-274226",
+      "title": "Irish Government to fund greenways between Derry and Donegal",
+      "content_text": "\"Cross-border greenways provide a significant opportunity to enhance sustainable transport, tourism and regional connectivity,\" Ms Kimmins said.",
+      "date_published": "2026-07-19T14:59:49+00:00"
+    },
+    {
       "id": "https://www.independent.ie/lifestyle/travel/secrets-of-the-maharees-368-people-a-tiny-tombolo-and-a-world-you-didnt-know-existed-in-ireland/a/157609379.html",
       "url": "https://www.independent.ie/lifestyle/travel/secrets-of-the-maharees-368-people-a-tiny-tombolo-and-a-world-you-didnt-know-existed-in-ireland/a/157609379.html",
       "title": "Secrets of the Maharees: 368 people, a tiny tombolo, and 'a world you didn't know existed in Ireland'",
@@ -63,18 +70,11 @@
       "date_published": "2026-06-11T08:12:50+00:00"
     },
     {
-      "id": "https://www.independent.ie/county/sligo/riverstown-heritage-trail-an-entente-florale-highlight/a/158682884.html",
-      "url": "https://www.independent.ie/county/sligo/riverstown-heritage-trail-an-entente-florale-highlight/a/158682884.html",
-      "title": "Riverstown Heritage Trail an Entente Florale highlight | Irish Independent",
-      "content_text": "With a community garden, heritage trail and biodiversity walks, the people of Riverstown have spent many years improving their lovely village.",
-      "date_published": "2026-07-15T05:32:59+00:00"
-    },
-    {
-      "id": "https://www.ttgmice.com/2026/07/13/singapores-mice-trailblazers-set-new-benchmarks-for-sustainability-and-tech-innovation/",
-      "url": "https://www.ttgmice.com/2026/07/13/singapores-mice-trailblazers-set-new-benchmarks-for-sustainability-and-tech-innovation/",
-      "title": "Singapore's MICE trailblazers set new benchmarks for sustainability and tech innovation",
-      "content_text": "... Sustainable Tourism Council (GSTC) recognition. Ireland was also recognised for launching the Singapore MICE Development initiative to build long ...",
-      "date_published": "2026-07-13T07:39:41+00:00"
+      "id": "https://travelmole.com/news/latest-stretch-of-south-kerry-greenway-opens-in-ireland/",
+      "url": "https://travelmole.com/news/latest-stretch-of-south-kerry-greenway-opens-in-ireland/",
+      "title": "Latest stretch of South Kerry Greenway opens in Ireland - TravelMole",
+      "content_text": "The latest addition extends the accessible off-road walking and cycling route, further enhancing one of the country's fastest-growing outdoor tourism ...",
+      "date_published": "2026-07-19T05:45:01+00:00"
     }
   ]
 }

@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.dawn.com/news/2016613",
+      "url": "https://www.dawn.com/news/2016613",
+      "title": "UN eyes 'in danger' status for sites hit by war, climate change - World - Dawn",
+      "content_text": "Biblical sites in occupied West Bank, Lebanese castles, South Sudan's savannahs and grasslands among fast-tracked nominations; Russia's Lake ...",
+      "date_published": "2026-07-19T12:30:12+00:00"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=vz_iPQafNlE",
       "url": "https://www.youtube.com/watch?v=vz_iPQafNlE",
       "title": "'Europe bought gas, oil from Russia': Venice mayor sees 'contradiction' in Biennale funding freeze",
@@ -68,13 +75,6 @@
       "title": "Tourists escape summer heat in Croatia's underwater museum - Reuters",
       "content_text": "Russian missile strikes in Kyiv raze buildings, kill residents. 00:33.",
       "date_published": "2026-07-18T07:18:00+00:00"
-    },
-    {
-      "id": "https://www.sb.by/en/forestry-minister-belarusian-foresters-experience-of-interest-to-foreign-colleagues.html",
-      "url": "https://www.sb.by/en/forestry-minister-belarusian-foresters-experience-of-interest-to-foreign-colleagues.html",
-      "title": "Forestry Minister: Belarusian foresters' experience of interest to foreign colleagues",
-      "content_text": "Therefore, representatives of about ten Russian regions and Uzbek foresters have come, since the challenges, climate change, diseases, and pests are ...",
-      "date_published": "2026-07-18T01:54:35+00:00"
     }
   ]
 }

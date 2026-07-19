@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/palau.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Palau. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 19 Jul 2026 10:08:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 22:07:39 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Palau opens up -- carefully - Nikkei Asia</title>
+<link>https://asia.nikkei.com/life-arts/life/destinations/palau-opens-up-carefully</link>
+<guid isPermaLink="false">https://asia.nikkei.com/life-arts/life/destinations/palau-opens-up-carefully</guid>
+<pubDate>Sun, 19 Jul 2026 13:33:02 +0000</pubDate>
+<description>Palau opens up -- carefully. Air links bring more visitors, but leaders seek to avoid mass tourism. MAVIS TEO. July 19, 2026 10:30 JST. Listen.</description>
+</item>
 <item>
 <title>Palau expands sustainable giant clam farming through community hatchery, trainings</title>
 <link>https://www.mvariety.com/news/regional/palau-expands-sustainable-giant-clam-farming-through-community-hatchery-trainings/article_07f0a6fa-28c8-4fd7-91bd-f67d51c42a24.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://table.media/en/climate/news/palau-vulnerable-island-nations-insist-on-adherence-to-the-15c-limit</guid>
 <pubDate>Tue, 23 Jun 2026 03:15:25 +0000</pubDate>
 <description>Tourism would be affected, and the islands' food supply would also suffer. ... They are "very consistent in their stance on climate change, and that's ...</description>
-</item>
-<item>
-<title>Hsiao inspects Taiwan-aided fisheries, tourism projects in Palau</title>
-<link>https://focustaiwan.tw/politics/202606090020</link>
-<guid isPermaLink="false">https://focustaiwan.tw/politics/202606090020</guid>
-<pubDate>Wed, 10 Jun 2026 00:12:31 +0000</pubDate>
-<description>Taipei, June 9 (CNA) Vice President Hsiao Bi-khim (蕭美琴) on Tuesday visited the Palau National Aquaculture Center and a center tasked with ...</description>
 </item>
 </channel>
 </rss>

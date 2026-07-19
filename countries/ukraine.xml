@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ukraine.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ukraine. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 19 Jul 2026 10:08:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 22:07:39 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>In Ukraine, wild donkeys are reviving the steppe, and the first foal in 200 years was born</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://whc.unesco.org/en/news/2908</guid>
 <pubDate>Tue, 30 Jun 2026 18:55:31 +0000</pubDate>
 <description>On 25 June 2026, UNESCO formally handed over a comprehensive suite of strategic tools to support the protection and management of World Heritage ...</description>
+</item>
+<item>
+<title>The UK's top wildlife parks with overnight stays this summer - The Telegraph</title>
+<link>https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/top-uk-wildlife-parks-overnight-stays/</link>
+<guid isPermaLink="false">https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/top-uk-wildlife-parks-overnight-stays/</guid>
+<pubDate>Sun, 19 Jul 2026 15:03:52 +0000</pubDate>
+<description>Travel · Tools · Opinion · Ukraine · Health · Recommended · Lifestyle · Culture ... While safari sleepovers are harder to find in Scotland, make a note ...</description>
 </item>
 <item>
 <title>Tourists escape summer heat in Croatia's underwater museum - Reuters</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.ansa.it/nuova_europa/en/news/countries/lithuania/2026/06/29/europes-deadly-heatwave-scorches-eastern-flank-takes-aim-at-ukraine_b64650f1-0b1e-4b04-a62b-f46f014f7e8b.html</guid>
 <pubDate>Tue, 30 Jun 2026 02:13:51 +0000</pubDate>
 <description>This heatwave is the most severe ever recorded in Europe, and would have been "virtually impossible" this early in the summer without climate change, ...</description>
-</item>
-<item>
-<title>From Antarctica to the Arctic: Ukraine and Poland expand joint polar research – Rubryka</title>
-<link>https://rubryka.com/en/2026/06/26/vid-antarktyky-do-arktyky/</link>
-<guid isPermaLink="false">https://rubryka.com/en/2026/06/26/vid-antarktyky-do-arktyky/</guid>
-<pubDate>Fri, 26 Jun 2026 16:19:01 +0000</pubDate>
-<description>Collecting rock and sediment samples, along with comprehensive environmental monitoring of climate change. "Not only disorders can be bipolar — ...</description>
 </item>
 </channel>
 </rss>

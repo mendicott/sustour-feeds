@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/netherlands.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Netherlands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 19 Jul 2026 10:08:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 22:07:39 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>48COM Side event: Strategic Environmental Assessment to support decision-making for the ...</title>
+<link>https://whc.unesco.org/en/events/1825/</link>
+<guid isPermaLink="false">https://whc.unesco.org/en/events/1825/</guid>
+<pubDate>Sun, 19 Jul 2026 12:18:04 +0000</pubDate>
+<description>The event is co-organized by the World Heritage Centre, ICOMOS, IUCN, ICCROM, the Trilateral Wadden Sea Cooperation and the Netherlands Commission for ...</description>
+</item>
 <item>
 <title>Netherlands Advances Alongside Italy, Austria and Greece as New Tourism Laws and ...</title>
 <link>https://www.travelandtourworld.com/news/article/uzgxug1fd171/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/vgb6rf9sra3x/</guid>
 <pubDate>Wed, 01 Jul 2026 09:23:13 +0000</pubDate>
 <description>Spain tops the 2026 overtourism crisis, beating other countries. Here is what travelers must pay attention to before booking their next vacation.</description>
-</item>
-<item>
-<title>Barcelona Teams Up With Venice, Amsterdam, Dubrovnik, And Other Major European Hubs ...</title>
-<link>https://www.travelandtourworld.com/news/article/4fjdvxxc4dxf/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/4fjdvxxc4dxf/</guid>
-<pubDate>Tue, 30 Jun 2026 05:58:40 +0000</pubDate>
-<description>Spain, Italy, Netherlands and Croatia tighten overtourism rules with tougher tourist taxes, rental bans, cruise limits and visitor entry controls ...</description>
 </item>
 </channel>
 </rss>
