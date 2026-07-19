@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/africa.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Africa. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 18 Jul 2026 22:08:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 10:08:52 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Uganda opens all national parks to public for free</title>
+<link>https://www.pulse.ug/story/uganda-opens-all-national-parks-to-public-for-free-2026071904511063391</link>
+<guid isPermaLink="false">https://www.pulse.ug/story/uganda-opens-all-national-parks-to-public-for-free-2026071904511063391</guid>
+<pubDate>Sun, 19 Jul 2026 08:11:33 +0000</pubDate>
+<description>She also inspected conservation projects at Ajai Wildlife Reserve as part of efforts to promote domestic tourism and assess the sector's readiness for ...</description>
+</item>
 <item>
 <title>Tanzania safaris that feed your soul - MSN</title>
 <link>https://www.msn.com/en-us/travel/parks/tanzania-safaris-that-feed-your-soul/ss-AA27Qvz4</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://theconversation.com/ethiopias-national-parks-are-working-for-wildlife-but-not-always-for-the-people-living-near-them-284149</guid>
 <pubDate>Wed, 15 Jul 2026 13:46:10 +0000</pubDate>
 <description>Hundreds of crop varieties have evolved in Ethiopia over thousands of years. They provide valuable genetic traits that help scientists breed crops ...</description>
-</item>
-<item>
-<title>A Comparative Study of Three Sacred Groves in Southwest Nigeria - Landscape Alliance</title>
-<link>https://www.landscapealliance.org/es/conocimiento/publicacion/8200/</link>
-<guid isPermaLink="false">https://www.landscapealliance.org/es/conocimiento/publicacion/8200/</guid>
-<pubDate>Wed, 15 Jul 2026 11:04:38 +0000</pubDate>
-<description>... biodiversity conservation in sacred groves with different scales of governance. ... tourism, socio-economic rewards and the preservation of ...</description>
 </item>
 </channel>
 </rss>

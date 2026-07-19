@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/costa-rica.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Costa Rica. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 18 Jul 2026 22:08:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 10:08:52 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>The Costa Rican Hotel Transforming Tree Canopies into Luxury Sustainable Lodging</title>
+<link>https://thecostaricanews.com/the-costa-rican-hotel-transforming-tree-canopies-into-luxury-sustainable-lodging/</link>
+<guid isPermaLink="false">https://thecostaricanews.com/the-costa-rican-hotel-transforming-tree-canopies-into-luxury-sustainable-lodging/</guid>
+<pubDate>Sun, 19 Jul 2026 02:27:40 +0000</pubDate>
+<description>The latest trend in luxury travel isn't on the beach or at ground level; it's high up in the treetops. Several hotel resorts across the country are ...</description>
+</item>
 <item>
 <title>Costa Rica Mobilizes Communities to Protect Threatened Coral Reefs - The Tico Times</title>
 <link>https://ticotimes.net/2026/07/18/costa-rica-coral-reef-protection-campaign</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.heraldscotland.com/news/national/uk-today/26256146.uk-travel-company-enters-liquidation-trips-cancelled/</guid>
 <pubDate>Tue, 07 Jul 2026 06:45:38 +0000</pubDate>
 <description>Global Vision International (GVI) offered programmes including nature and conservation trips, including locations such as Costa Rica, Fiji and more.</description>
-</item>
-<item>
-<title>Costa Rica Faces Protests After Removing Corcovado Park Director - The Tico Times</title>
-<link>https://ticotimes.net/2026/07/04/costa-rica-faces-protests-after-removing-corcovado-park-director</link>
-<guid isPermaLink="false">https://ticotimes.net/2026/07/04/costa-rica-faces-protests-after-removing-corcovado-park-director</guid>
-<pubDate>Sat, 04 Jul 2026 16:27:21 +0000</pubDate>
-<description>Costa Rica removed the Osa Conservation Area director days after he cut Corcovado's Sirena capacity over a sewage discharge.</description>
 </item>
 </channel>
 </rss>
