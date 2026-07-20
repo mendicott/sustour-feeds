@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/israel.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Israel. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 19 Jul 2026 22:07:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 10:08:30 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>KKL-JNF is preserving endangered species with Jerusalem Botanical Garden and Eshtaol Nursery</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://www.washingtonpost.com/world/2026/06/21/lebanon-israel-hezbollah-sea-turtles-environmentalist-khalil/1929d2ac-6da1-11f1-8730-e7fd0e2a6404_story.html</guid>
 <pubDate>Sun, 21 Jun 2026 19:08:55 +0000</pubDate>
 <description>The Orange House, which Khalil helped build into a small conservation hub and ecotourism site in Mansouri, became a refuge for endangered ...</description>
+</item>
+<item>
+<title>Jerusalem Cancels Reches Lavan Housing for Nature | JFeed</title>
+<link>https://www.jfeed.com/news-israel/jerusalem-reches-lavan-nature-preservation</link>
+<guid isPermaLink="false">https://www.jfeed.com/news-israel/jerusalem-reches-lavan-nature-preservation</guid>
+<pubDate>Sun, 19 Jul 2026 17:07:32 +0000</pubDate>
+<description>... preservation and Eco-tourism. Speaking on the second day of the 54th Annual Conference for Science and the Environment, Lion emphasized the ...</description>
 </item>
 <item>
 <title>Hula Valley - How a malaria swamp became one of Israel's greatest wildlife treasures</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.aljazeera.com/news/2026/6/21/mourners-gather-to-remember-lebanese-conservationist-killed-by-israel</guid>
 <pubDate>Sun, 21 Jun 2026 20:26:01 +0000</pubDate>
 <description>The Orange House Project, which Khalil helped build into a small conservation hub and ecotourism site in al-Mansouri, became a refuge for ...</description>
-</item>
-<item>
-<title>Palestinians seek UNESCO World Heritage status for Sebastia amid Israeli expansion</title>
-<link>https://www.youtube.com/watch?v=JVEPNxzekZg</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=JVEPNxzekZg</guid>
-<pubDate>Sun, 19 Jul 2026 19:35:18 +0000</pubDate>
-<description>The Palestinian government wants UNESCO to list Sebastia as a World Heritage site. Located in the Nablus District, Sebastia dates back more than ...</description>
 </item>
 </channel>
 </rss>

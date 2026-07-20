@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/philippines.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Philippines. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 19 Jul 2026 22:07:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 10:08:30 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>HTA awards $1 million to support 10 statewide events - Great Travel Philippines</title>
@@ -51,6 +51,13 @@
 <description>Therefore, its eco tourism model is becoming one of the world's most influential examples of responsible travel leadership. New Zealand Eco Tourism is ...</description>
 </item>
 <item>
+<title>Foundations empower disadvantaged youths - Daily Tribune</title>
+<link>https://tribune.net.ph/2026/07/19/foundations-empower-disadvantaged-youths</link>
+<guid isPermaLink="false">https://tribune.net.ph/2026/07/19/foundations-empower-disadvantaged-youths</guid>
+<pubDate>Sun, 19 Jul 2026 20:12:20 +0000</pubDate>
+<description>In Palawan, one of the country's premier tourism destinations, luxury resorts often hire staff from Manila or abroad, leaving local marginalized ...</description>
+</item>
+<item>
 <title>eYAA backs tourism, climate resilience - Daily Tribune</title>
 <link>https://tribune.net.ph/2026/07/18/eyaa-backs-tourism-climate-resilience</link>
 <guid isPermaLink="false">https://tribune.net.ph/2026/07/18/eyaa-backs-tourism-climate-resilience</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://bworldonline.com/infographics/2026/07/17/764070/philippines-moves-up-in-nature-conservation-index/</guid>
 <pubDate>Thu, 16 Jul 2026 16:41:35 +0000</pubDate>
 <description>... Climate Change in collaboration with the nonprofit database BioDB.com. The index is based on four pillars — capacity and governance, threat to ...</description>
-</item>
-<item>
-<title>Philippines secures $6.78-million GCF grant to boost climate resilience - Manila Standard</title>
-<link>https://manilastandard.net/business/314766194/philippines-secures-6-78-million-gcf-grant-to-boost-climate-resilience.html</link>
-<guid isPermaLink="false">https://manilastandard.net/business/314766194/philippines-secures-6-78-million-gcf-grant-to-boost-climate-resilience.html</guid>
-<pubDate>Wed, 15 Jul 2026 19:16:14 +0000</pubDate>
-<description>The Philippines secures a $6.78-million grant from the Green Climate Fund to strengthen climate resilience, boost inter-agency coordination and ...</description>
 </item>
 </channel>
 </rss>

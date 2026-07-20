@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/libya.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Libya. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 19 Jul 2026 22:07:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 10:08:30 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Archaeologists fight to save Libya's ancient Greek ruins - Oman Observer</title>
@@ -44,6 +44,13 @@
 <description>... climate change across the Middle East and North Africa. Researchers in archaeology, environmental science and geology took part in the meeting.</description>
 </item>
 <item>
+<title>Discovery of Ancient Theater and Greek Hippodrome in Susa - The Libya Update</title>
+<link>https://libyaupdate.com/discovery-of-ancient-theater-and-greek-hippodrome-in-susa/</link>
+<guid isPermaLink="false">https://libyaupdate.com/discovery-of-ancient-theater-and-greek-hippodrome-in-susa/</guid>
+<pubDate>Sun, 19 Jul 2026 23:48:35 +0000</pubDate>
+<description>... Tourism and Antiquities, the Cyrene Antiquities Authority, the tourism police, the Apollonia Heritage and Culture Organization, and local scouts.</description>
+</item>
+<item>
 <title>Archaeologists Reveal Rare Greek Hippodrome and Seaside Theater in Libya | Arkeonews</title>
 <link>https://arkeonews.net/archaeologists-reveal-rare-greek-hippodrome-and-seaside-theater-in-libya/</link>
 <guid isPermaLink="false">https://arkeonews.net/archaeologists-reveal-rare-greek-hippodrome-and-seaside-theater-in-libya/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://greekcitytimes.com/2026/07/14/cyrene-apollonia-libya-greek-ruins-preservation/</guid>
 <pubDate>Tue, 14 Jul 2026 07:44:00 +0000</pubDate>
 <description>... climate change. The UNESCO-listed sites, founded by Greek settlers from the island of Thera (modern Santorini) in 631 BC, were once flourishing ...</description>
-</item>
-<item>
-<title>Libya, Mali deepen cooperation in tourism, handicrafts | APAnews - African Press Agency</title>
-<link>https://apanews.net/libya-mali-deepen-cooperation-in-tourism-handicrafts/</link>
-<guid isPermaLink="false">https://apanews.net/libya-mali-deepen-cooperation-in-tourism-handicrafts/</guid>
-<pubDate>Wed, 08 Jul 2026 16:15:32 +0000</pubDate>
-<description>Libya and Mali intend to deepen their cooperation in the tourism and traditional industries sectors. The Libyan Minister of Tourism and ...</description>
 </item>
 </channel>
 </rss>
