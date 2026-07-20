@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/cook-islands.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Cook Islands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 20 Jul 2026 10:08:30 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 22:08:56 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Pacific leaders gather to strengthen Indigenous-led conservation - Cook Islands News</title>
@@ -44,6 +44,13 @@
 <description>According to TIS, during the 1980s, rising tourism repeatedly sidelined environmental priorities, highlighting the need for proactive preservation. By ...</description>
 </item>
 <item>
+<title>Expanding Access to Clean Water in the Cook Islands - Asian Development Bank</title>
+<link>https://www.adb.org/node/1162096</link>
+<guid isPermaLink="false">https://www.adb.org/node/1162096</guid>
+<pubDate>Mon, 20 Jul 2026 07:46:08 +0000</pubDate>
+<description>Water security is central to sustainable development in the Cook Islands, supporting public health, tourism, and livelihoods. Yet, water supply ...</description>
+</item>
+<item>
 <title>The Hosts of the Cook Islands: Inside Homegrown Hospitality | Los Angeles Times</title>
 <link>https://www.pressreader.com/usa/los-angeles-times/20260717/282437060887694</link>
 <guid isPermaLink="false">https://www.pressreader.com/usa/los-angeles-times/20260717/282437060887694</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.cookislandsnews.com/internal/national/local/environment/outer-islands/technology/economy/cook-islands-government-accelerates-renewable-energy-push/</guid>
 <pubDate>Sat, 04 Jul 2026 12:31:21 +0000</pubDate>
 <description>After failing to achieve earlier targets, the government has accelerated its renewable energy pledge with a solar project aimed at cutting diesel ...</description>
-</item>
-<item>
-<title>Avana Nui historical site enhanced with new cultural signage, seating - Cook Islands News</title>
-<link>http://www.cookislandsnews.com/internal/national/local/avana-nui-historical-site-enhanced-with-new-cultural-signage-seating/</link>
-<guid isPermaLink="false">http://www.cookislandsnews.com/internal/national/local/avana-nui-historical-site-enhanced-with-new-cultural-signage-seating/</guid>
-<pubDate>Fri, 26 Jun 2026 17:08:23 +0000</pubDate>
-<description>Comfortable wooden benches and new signage honouring the seven vaka that departed from Avana Nui on their voyage to Aotearoa were officially ...</description>
 </item>
 </channel>
 </rss>

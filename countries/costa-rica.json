@@ -7,6 +7,27 @@
   "language": "en",
   "items": [
     {
+      "id": "https://thecostaricanews.com/puntarenas-costa-rica-nature-wellbeing/",
+      "url": "https://thecostaricanews.com/puntarenas-costa-rica-nature-wellbeing/",
+      "title": "Puntarenas, Costa Rica: Where Nature Shapes Wellbeing",
+      "content_text": "Limón, Costa Rica: Where the Caribbean Meets Nature Limón, Costa Rica is a province where the Caribbean Sea, tropical rainforests,... Travel & Tourism ...",
+      "date_published": "2026-07-20T14:51:33+00:00"
+    },
+    {
+      "id": "https://thecostaricanews.com/alajuela-costa-rica-volcanoes-forests-renewal/",
+      "url": "https://thecostaricanews.com/alajuela-costa-rica-volcanoes-forests-renewal/",
+      "title": "Alajuela, Costa Rica: Volcanoes, Forests, and the Landscape of Renewal",
+      "content_text": "Healthy forests help protect biodiversity, secure clean water supplies, strengthen local ecosystems, and create opportunities for sustainable tourism ...",
+      "date_published": "2026-07-20T13:34:41+00:00"
+    },
+    {
+      "id": "https://www.msn.com/en-us/travel/tripideas/wildlife-and-conservation-in-costa-rica-and-panama/ss-AA2817XP",
+      "url": "https://www.msn.com/en-us/travel/tripideas/wildlife-and-conservation-in-costa-rica-and-panama/ss-AA2817XP",
+      "title": "Wildlife and conservation in Costa Rica and Panama",
+      "content_text": "Costa Rica and Panama both protect large portions of their land, preserving diverse ecosystems from cloud forests to coral reefs.",
+      "date_published": "2026-07-20T04:33:38+00:00"
+    },
+    {
       "id": "https://thecostaricanews.com/the-costa-rican-hotel-transforming-tree-canopies-into-luxury-sustainable-lodging/",
       "url": "https://thecostaricanews.com/the-costa-rican-hotel-transforming-tree-canopies-into-luxury-sustainable-lodging/",
       "title": "The Costa Rican Hotel Transforming Tree Canopies into Luxury Sustainable Lodging",
@@ -54,27 +75,6 @@
       "title": "Costa Rica's Monteverde Cloud Forest Joins the IUCN Green List - The Tico Times",
       "content_text": "The Monteverde Cloud Forest Biological Reserve has been added to the IUCN Green List of Protected and Conserved Areas, becoming the first ...",
       "date_published": "2026-07-09T06:42:59+00:00"
-    },
-    {
-      "id": "https://ticotimes.net/2026/07/08/costa-rica-conservation-trips-canceled-as-gvi-enters-liquidation",
-      "url": "https://ticotimes.net/2026/07/08/costa-rica-conservation-trips-canceled-as-gvi-enters-liquidation",
-      "title": "Costa Rica Conservation Trips Canceled as GVI Enters Liquidation - The Tico Times",
-      "content_text": "For Costa Rica, the closure lands in a niche but important part of the tourism industry: volunteer conservation travel. GVI promoted programs tied ...",
-      "date_published": "2026-07-09T02:05:48+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/7e5qa03fhztu/",
-      "url": "https://www.travelandtourworld.com/news/article/7e5qa03fhztu/",
-      "title": "Costa Rica Launches Responsible Tourism Campaign to Promote Safe, Sustainable Mid ...",
-      "content_text": "Costa Rica urges domestic travelers to embrace responsible tourism with eco-friendly travel tips, scam prevention and sustainable holiday ...",
-      "date_published": "2026-07-08T17:53:04+00:00"
-    },
-    {
-      "id": "https://www.heraldscotland.com/news/national/uk-today/26256146.uk-travel-company-enters-liquidation-trips-cancelled/",
-      "url": "https://www.heraldscotland.com/news/national/uk-today/26256146.uk-travel-company-enters-liquidation-trips-cancelled/",
-      "title": "UK travel company enters liquidation as all trips cancelled - The Herald",
-      "content_text": "Global Vision International (GVI) offered programmes including nature and conservation trips, including locations such as Costa Rica, Fiji and more.",
-      "date_published": "2026-07-07T06:45:38+00:00"
     }
   ]
 }

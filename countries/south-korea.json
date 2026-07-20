@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203005",
+      "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203005",
+      "title": "UNESCO's 48th World Heritage Session Underway in South Korea",
+      "content_text": "Report: The UNESCO World Heritage Committee officially kicked off its 48th session in Busan on Sunday to review heritage conservation and select new ...",
+      "date_published": "2026-07-20T12:55:27+00:00"
+    },
+    {
       "id": "https://www.koreajoongangdaily.com/lifestyle/unescolisted-ulsan-petroglyphs-captivate-heritage-experts-but-preservation-challenge-remains/12779542",
       "url": "https://www.koreajoongangdaily.com/lifestyle/unescolisted-ulsan-petroglyphs-captivate-heritage-experts-but-preservation-challenge-remains/12779542",
       "title": "Unesco-listed Ulsan petroglyphs captivate heritage experts, but preservation challenge remains",
@@ -49,6 +56,13 @@
       "date_published": "2026-07-20T04:22:35+00:00"
     },
     {
+      "id": "https://www.dawn.com/news/amp/2016906",
+      "url": "https://www.dawn.com/news/amp/2016906",
+      "title": "Korean monks call Taxila 'spiritual root of Mahayana Buddhism' - Newspaper - DAWN.COM",
+      "content_text": "... religious tourism. Standing amid the serene ruins of the 2,000-year-old Dharmarajika Stupa, one of the holiest Buddhist shrines in the ancient ...",
+      "date_published": "2026-07-20T02:52:31+00:00"
+    },
+    {
       "id": "https://www.theaustralian.com.au/nation/delegation-to-plead-for-un-intervention-in-tasmanias-wilderness-world-heritage-area/news-story/7965a5a691aebb9c2f73a3f5c33b369a",
       "url": "https://www.theaustralian.com.au/nation/delegation-to-plead-for-un-intervention-in-tasmanias-wilderness-world-heritage-area/news-story/7965a5a691aebb9c2f73a3f5c33b369a",
       "title": "Wilderness Society, Tasmanian Aboriginal Corporation delegation to World Heritage Committee",
@@ -61,20 +75,6 @@
       "title": "South Korea Aligns With US, China and Global Markets as Japan Triples Departure Tax to ...",
       "content_text": "The move aims to manage rising travel demand, generate additional funds for overtourism solutions, strengthen infrastructure and prepare Japan for its ...",
       "date_published": "2026-07-16T20:42:51+00:00"
-    },
-    {
-      "id": "https://www.pressreader.com/canada/calgary-herald/20260713/281565182517194",
-      "url": "https://www.pressreader.com/canada/calgary-herald/20260713/281565182517194",
-      "title": "South Korean Buddhism woos Gen Z | Calgary Herald - PressReader",
-      "content_text": "Buddhism-themed tourism is thriving and tens of thousands of locals and foreigners sign up every year for \"temple stay\" retreats where they eat simple ...",
-      "date_published": "2026-07-13T08:45:38+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/jzn3laqw1blh/",
-      "url": "https://www.travelandtourworld.com/news/article/jzn3laqw1blh/",
-      "title": "Nami Island, South Korea Recognized for Global ESG Eco-Tourism Achievements and ...",
-      "content_text": "Nami Island, South Korea, wins the top ESG award for its sustainable eco-tourism, barrier-free pathways, and commitment to environmental ...",
-      "date_published": "2026-07-09T10:24:41+00:00"
     }
   ]
 }
