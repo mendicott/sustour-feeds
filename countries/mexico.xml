@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 21 Jul 2026 10:09:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 22:09:18 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>UNESCO Advances Sustainable Development in Oaxaca - Mexico Business News</title>
+<link>https://mexicobusiness.news/sustainability/news/unesco-advances-sustainable-development-oaxaca</link>
+<guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/unesco-advances-sustainable-development-oaxaca</guid>
+<pubDate>Tue, 21 Jul 2026 20:15:24 +0000</pubDate>
+<description>... sustainable tourism and biodiversity conservation. The initiative has also produced methodologies, educational guides and training programs that ...</description>
+</item>
 <item>
 <title>Mexico Pairs Up with United States and Spain as Barceló México Reforma Secures Green ...</title>
 <link>https://www.travelandtourworld.com/news/article/b79uaodofbrg/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/nw5jxv5vlq4y/</guid>
 <pubDate>Thu, 25 Jun 2026 18:46:15 +0000</pubDate>
 <description>Explore why Costa Rica outshines United States, Canada, Mexico and others in eco tourism through biodiversity protection and sustainability ...</description>
-</item>
-<item>
-<title>GEF Clears Mexico's iCOAST Program for Implementation</title>
-<link>https://mexicobusiness.news/sustainability/news/gef-clears-mexicos-icoast-program-implementation</link>
-<guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/gef-clears-mexicos-icoast-program-implementation</guid>
-<pubDate>Tue, 23 Jun 2026 18:41:27 +0000</pubDate>
-<description>The Global Environment Facility (GEF) has approved the Integrated Collaborative Approaches for Sustainable Tourism (iCOAST) project in Mexico, an ...</description>
 </item>
 </channel>
 </rss>

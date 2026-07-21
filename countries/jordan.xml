@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/jordan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Jordan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 21 Jul 2026 10:09:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 22:09:18 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Petra Authority, UNESCO Explore Expanding Sustainable Tourism, Community Empowerment</title>
+<link>https://petra.gov.jo/wp-contart/x/index.php/en/news/petra-authority-unesco-explore-expanding-sustainable-tourism-community-empowerment</link>
+<guid isPermaLink="false">https://petra.gov.jo/wp-contart/x/index.php/en/news/petra-authority-unesco-explore-expanding-sustainable-tourism-community-empowerment</guid>
+<pubDate>Tue, 21 Jul 2026 10:43:25 +0000</pubDate>
+<description>... sustainable tourism and empower local communities. The meeting was attended by Minister of Tourism and Antiquities Imad Hijazin, Chairperson of ...</description>
+</item>
 <item>
 <title>Crown Prince highlights eco-tourism's role in empowering local communities</title>
 <link>https://petra.gov.jo/index.php/en/news/crown-prince-highlights-eco-tourisms-role-in-empowering-local-communities</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.marinebusinessnews.com.au/2026/07/jordans-unexpected-diving-paradise-hosts-its-first-international-marine-expo/</guid>
 <pubDate>Mon, 13 Jul 2026 21:00:58 +0000</pubDate>
 <description>From coral reef restoration and sustainable marine tourism to advanced equipment, marine research and emerging ocean technologies, the platform ...</description>
-</item>
-<item>
-<title>Jordan marks the implementation phase of the Jordan Integrated Landscape Management ... - IUCN</title>
-<link>https://iucn.org/news/202607/jordan-marks-implementation-phase-jordan-integrated-landscape-management-initiative</link>
-<guid isPermaLink="false">https://iucn.org/news/202607/jordan-marks-implementation-phase-jordan-integrated-landscape-management-initiative</guid>
-<pubDate>Thu, 09 Jul 2026 10:40:43 +0000</pubDate>
-<description>Jordan is among the world's most water-scarce countries, with climate change placing increasing pressure on water resources, agricultural production, ...</description>
 </item>
 </channel>
 </rss>

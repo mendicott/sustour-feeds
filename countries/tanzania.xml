@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/tanzania.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Tanzania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 21 Jul 2026 10:09:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 22:09:18 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Tanzania Rallies Global Support for World Heritage Conservation at UNESCO Summit in ...</title>
+<link>https://streamlinefeed.co.ke/news/tanzania-rallies-global-support-unesco-world-heritage-summit</link>
+<guid isPermaLink="false">https://streamlinefeed.co.ke/news/tanzania-rallies-global-support-unesco-world-heritage-summit</guid>
+<pubDate>Tue, 21 Jul 2026 08:50:45 +0000</pubDate>
+<description>Tanzania's government commended UNESCO's critical financial and technical support for heritage conservation during the 48th World Heritage ...</description>
+</item>
 <item>
 <title>Canada, Botswana, Kenya, Tanzania, India and more Drive the Future of Global Wildlife ...</title>
 <link>https://www.travelandtourworld.com/news/article/w15zexewlojt/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://dailynews.co.tz/rare-geological-site-boosts-geotourism-prospects/</guid>
 <pubDate>Thu, 02 Jul 2026 19:22:57 +0000</pubDate>
 <description>DODOMA: MOUNT Mautia in Kongwa District, Dodoma Region, is emerging as a potential global geotourism destination after scientists confirmed its ...</description>
-</item>
-<item>
-<title>Mount Mautia's Rare Yoderite Discovery Elevates Tanzania's Global Geotourism Appeal</title>
-<link>https://streamlinefeed.co.ke/news/mount-mautias-rare-yoderite-discovery-elevates-tanzanias-global-geotourism-appeal</link>
-<guid isPermaLink="false">https://streamlinefeed.co.ke/news/mount-mautias-rare-yoderite-discovery-elevates-tanzanias-global-geotourism-appeal</guid>
-<pubDate>Thu, 02 Jul 2026 15:22:22 +0000</pubDate>
-<description>Mount Mautia in Dodoma emerges as a global geotourism hub following the confirmation of rare Yoderite mineral formations, promising to diversify ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/middle-east.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Middle East. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 21 Jul 2026 10:09:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 22:09:18 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Petra Authority, UNESCO Explore Expanding Sustainable Tourism, Community Empowerment</title>
+<link>https://petra.gov.jo/wp-contart/x/index.php/en/news/petra-authority-unesco-explore-expanding-sustainable-tourism-community-empowerment</link>
+<guid isPermaLink="false">https://petra.gov.jo/wp-contart/x/index.php/en/news/petra-authority-unesco-explore-expanding-sustainable-tourism-community-empowerment</guid>
+<pubDate>Tue, 21 Jul 2026 10:43:25 +0000</pubDate>
+<description>... sustainable tourism and empower local communities. The meeting was attended by Minister of Tourism and Antiquities Imad Hijazin, Chairperson of ...</description>
+</item>
 <item>
 <title>Saudi Arabia launches national parks investment opportunities | Arab News PK</title>
 <link>https://www.arabnews.pk/node/2651527/saudi-arabia</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.muscatdaily.com/2026/07/11/ea-advances-eco-tourism-projects-in-three-governorates/</guid>
 <pubDate>Sat, 11 Jul 2026 17:35:10 +0000</pubDate>
 <description>EA invites bids for visitor and conservation facilities at Al Sireen, Khor Kharfout and Jabal Akhdar reserves.</description>
-</item>
-<item>
-<title>Crown Prince highlights eco-tourism's role in empowering local communities</title>
-<link>https://petra.gov.jo/index.php/en/news/crown-prince-highlights-eco-tourisms-role-in-empowering-local-communities</link>
-<guid isPermaLink="false">https://petra.gov.jo/index.php/en/news/crown-prince-highlights-eco-tourisms-role-in-empowering-local-communities</guid>
-<pubDate>Sat, 11 Jul 2026 04:18:15 +0000</pubDate>
-<description>Irbid, April 22 (Petra) His Royal Highness Crown Prince Al Hussein bin Abdullah II on Wednesday joined activists specialising in eco-tourism and ...</description>
 </item>
 </channel>
 </rss>

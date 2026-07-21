@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/lebanon.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Lebanon. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 21 Jul 2026 10:09:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 22:09:18 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>'They Knew Exactly Who Mona Khalil Was': Israel Kills Lebanese Turtle Conservationist</title>
@@ -51,6 +51,13 @@
 <description>The Orange House Project, which Khalil helped build into a small conservation hub and ecotourism site in al-Mansouri, became a refuge for ...</description>
 </item>
 <item>
+<title>Measures Agreed to Mitigate Impact of Geopolitical Downturn on Petra Tourism</title>
+<link>https://petra.gov.jo/en/news/measures-agreed-to-mitigate-impact-of-geopolitical-downturn-on-petra-tourism</link>
+<guid isPermaLink="false">https://petra.gov.jo/en/news/measures-agreed-to-mitigate-impact-of-geopolitical-downturn-on-petra-tourism</guid>
+<pubDate>Tue, 21 Jul 2026 04:35:47 +0000</pubDate>
+<description>... Tourism Region Authority (PDTRA) ... travel packages targeting visitors from the Arab 1948 community, the Arabian Gulf, Egypt, Lebanon, and Russia.</description>
+</item>
+<item>
 <title>UNESCO Set to List Lebanon Castles, Lake Baikal as Heritage in Danger - Ground News</title>
 <link>https://ground.news/daily-briefing/unesco-set-to-list-lebanon-castles-lake-baikal-as-heritage-in-danger_a77c70</link>
 <guid isPermaLink="false">https://ground.news/daily-briefing/unesco-set-to-list-lebanon-castles-lake-baikal-as-heritage-in-danger_a77c70</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://divernet.com/scuba-news/marine-biology/guardian-of-the-turtles-killed-in-israeli-air-strike/</guid>
 <pubDate>Thu, 25 Jun 2026 13:48:50 +0000</pubDate>
 <description>Mona Khalil, one of Lebanon's most prominent marine conservationists and a long-time advocate for endangered sea turtles, has died following ...</description>
-</item>
-<item>
-<title>Saudi Arabia Leads UAE, Qatar, France and Italy as Lebanon Rebuilds Its Tourism Future ...</title>
-<link>https://www.travelandtourworld.com/news/article/0r4whjvi7k0e/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/0r4whjvi7k0e/</guid>
-<pubDate>Sun, 19 Jul 2026 11:39:40 +0000</pubDate>
-<description>Saudi Arabia, UAE, Qatar, France and Italy support Lebanon's tourism revival as Baalbek and heritage sites drive cultural travel and economic ...</description>
 </item>
 </channel>
 </rss>

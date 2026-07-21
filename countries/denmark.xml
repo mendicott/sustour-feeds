@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/denmark.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Denmark. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 21 Jul 2026 10:09:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 22:09:18 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Will mass tourism ruin Greenland? - ThinkLandscape - Global Landscapes Forum</title>
@@ -51,6 +51,13 @@
 <description>In recognition of its breakthrough performance in sustainable travel systems, digital tourism innovation, and nature-integrated urban design, where ...</description>
 </item>
 <item>
+<title>EP012 - Decriminalising homelessness, responsible tourism, Gratitude Graffiti, and more... - Rti</title>
+<link>https://www.rti.org.tw/en/programnews?uid=4&amp;pid=109488</link>
+<guid isPermaLink="false">https://www.rti.org.tw/en/programnews?uid=4&amp;pid=109488</guid>
+<pubDate>Tue, 21 Jul 2026 16:03:07 +0000</pubDate>
+<description>UK scraps 200-year law that criminalized rough sleeping. Copenhagen turns responsible tourism into rewards with CopenPay initiative. Japanese ...</description>
+</item>
+<item>
 <title>France Leads Poland, Denmark, Czech Republic, Cyprus, and Others in ... - Travel And Tour World</title>
 <link>https://www.travelandtourworld.com/news/article/9gzbrf6i2waq/</link>
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/9gzbrf6i2waq/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelnews.co.za/article/danish-court-fines-klm</guid>
 <pubDate>Tue, 14 Jul 2026 17:06:02 +0000</pubDate>
 <description>Copenhagen City Court in Denmark has fined KLM DKK3 million (R7,5 million) for greenwashing after finding that the airline presented itself as ...</description>
-</item>
-<item>
-<title>Denmark Aligns with UK, France, Finland and Others in Leading Sustainable Travel ...</title>
-<link>https://www.travelandtourworld.com/news/article/rv3qejf16pp9/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/rv3qejf16pp9/</guid>
-<pubDate>Tue, 14 Jul 2026 07:18:06 +0000</pubDate>
-<description>Pioneered by Wonderful Copenhagen and backed by the European Commission as a validated pathway for future tourism development, the deployment of state ...</description>
 </item>
 </channel>
 </rss>

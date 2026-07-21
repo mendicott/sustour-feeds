@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://mexicobusiness.news/sustainability/news/unesco-advances-sustainable-development-oaxaca",
+      "url": "https://mexicobusiness.news/sustainability/news/unesco-advances-sustainable-development-oaxaca",
+      "title": "UNESCO Advances Sustainable Development in Oaxaca - Mexico Business News",
+      "content_text": "... sustainable tourism and biodiversity conservation. The initiative has also produced methodologies, educational guides and training programs that ...",
+      "date_published": "2026-07-21T20:15:24+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/b79uaodofbrg/",
       "url": "https://www.travelandtourworld.com/news/article/b79uaodofbrg/",
       "title": "Mexico Pairs Up with United States and Spain as Barceló México Reforma Secures Green ...",
@@ -68,13 +75,6 @@
       "title": "Costa Rica Outshines United States, Canada, Mexico, Belize, Panama and other North ...",
       "content_text": "Explore why Costa Rica outshines United States, Canada, Mexico and others in eco tourism through biodiversity protection and sustainability ...",
       "date_published": "2026-06-25T18:46:15+00:00"
-    },
-    {
-      "id": "https://mexicobusiness.news/sustainability/news/gef-clears-mexicos-icoast-program-implementation",
-      "url": "https://mexicobusiness.news/sustainability/news/gef-clears-mexicos-icoast-program-implementation",
-      "title": "GEF Clears Mexico's iCOAST Program for Implementation",
-      "content_text": "The Global Environment Facility (GEF) has approved the Integrated Collaborative Approaches for Sustainable Tourism (iCOAST) project in Mexico, an ...",
-      "date_published": "2026-06-23T18:41:27+00:00"
     }
   ]
 }
