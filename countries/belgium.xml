@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/belgium.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Belgium. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 20 Jul 2026 22:08:56 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 10:09:24 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Belgium Aligns with Ireland, United Kingdom, Netherlands and France as Workaway ...</title>
+<link>https://www.travelandtourworld.com/news/article/xj9jrnop57g8/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/xj9jrnop57g8/</guid>
+<pubDate>Mon, 20 Jul 2026 14:25:24 +0000</pubDate>
+<description>Programs such as Workaway are encouraging visitors to exchange skills for accommodation, meals, and cultural immersion, creating meaningful travel ...</description>
+</item>
 <item>
 <title>A Workaway trip to build a festival in Belgium: 'I was beginning to think this trip was a mistake'</title>
 <link>https://www.irishtimes.com/life-style/travel/2026/07/20/a-workaway-trip-to-build-a-festival-in-belgium-i-was-beginning-to-think-this-trip-was-a-mistake/</link>
@@ -69,13 +76,6 @@
 <link>https://traveltomorrow.com/responsible-tourism-champions-honoured-at-brussels-awards-ceremony/</link>
 <guid isPermaLink="false">https://traveltomorrow.com/responsible-tourism-champions-honoured-at-brussels-awards-ceremony/</guid>
 <pubDate>Wed, 24 Jun 2026 11:48:19 +0000</pubDate>
-<description>Among the gold award winners, TUI Forest Mallorca won the Adapting to Climate Change category for its work restoring forests, dune systems and ...</description>
-</item>
-<item>
-<title>ICRT Europe Responsible Tourism Awards 2026 announce winners at Brussels ceremony</title>
-<link>https://traveltomorrow.com/icrt-europe-responsible-tourism-awards-2026-announce-winners-at-brussels-ceremony/</link>
-<guid isPermaLink="false">https://traveltomorrow.com/icrt-europe-responsible-tourism-awards-2026-announce-winners-at-brussels-ceremony/</guid>
-<pubDate>Wed, 24 Jun 2026 11:18:02 +0000</pubDate>
 <description>Among the gold award winners, TUI Forest Mallorca won the Adapting to Climate Change category for its work restoring forests, dune systems and ...</description>
 </item>
 </channel>

@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/hungary.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Hungary. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 20 Jul 2026 22:08:56 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 10:09:24 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Lake Balaton Aligns with Tokaj, Eger and More in Leading Hungary's Slow Travel Boom as ...</title>
@@ -44,6 +44,13 @@
 <description>WWF Hungary is urging sweeping reforms to forest management after the current logging moratorium expires, calling for expanded continuous-cover ...</description>
 </item>
 <item>
+<title>Danube crisis threatens Budapest tourism and drinking water - Daily News Hungary</title>
+<link>https://dailynewshungary.com/critical-danube-water-levels-budapest-tourism/</link>
+<guid isPermaLink="false">https://dailynewshungary.com/critical-danube-water-levels-budapest-tourism/</guid>
+<pubDate>Mon, 20 Jul 2026 12:24:24 +0000</pubDate>
+<description>Budapest's chief landscape architect, Sándor Bardóczi, warned that climate change is increasing the frequency of hydrological extremes. As reported by ...</description>
+</item>
+<item>
 <title>low danube water levels strand cruise ships and disrupt hungarian tourism</title>
 <link>https://www.tourism-review.com/hungarian-tourism-affected-by-continued-drought-news15572</link>
 <guid isPermaLink="false">https://www.tourism-review.com/hungarian-tourism-affected-by-continued-drought-news15572</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.cruisemummy.co.uk/danube-river-water-levels-force-cruise-cancellations-and-ship-swaps/</guid>
 <pubDate>Sat, 18 Jul 2026 13:16:48 +0000</pubDate>
 <description>The impact on local tourism has been substantial. ... Somodi's company has been forced to suspend all sightseeing tours north of Budapest, resulting in ...</description>
-</item>
-<item>
-<title>Low Water Levels Affect Ships on Danube and Rhine - Cruise Industry News</title>
-<link>https://cruiseindustrynews.com/cruise-news/2026/07/low-water-levels-affect-ships-on-danube-and-rhine/</link>
-<guid isPermaLink="false">https://cruiseindustrynews.com/cruise-news/2026/07/low-water-levels-affect-ships-on-danube-and-rhine/</guid>
-<pubDate>Sat, 18 Jul 2026 12:07:39 +0000</pubDate>
-<description>... tourism activities in Hungary. Reuters said that vessels have been stranded north of Budapest, as the Danube's water level in the city fell to ...</description>
 </item>
 </channel>
 </rss>

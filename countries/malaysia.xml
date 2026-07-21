@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/malaysia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Malaysia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 20 Jul 2026 22:08:56 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 10:09:24 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Beyond tourism: Building Sabah's sustainable future | Daily Express Malaysia</title>
+<link>https://www.dailyexpress.com.my/news/285168/beyond-tourism-building-sabah-s-sustainable-future/</link>
+<guid isPermaLink="false">https://www.dailyexpress.com.my/news/285168/beyond-tourism-building-sabah-s-sustainable-future/</guid>
+<pubDate>Tue, 21 Jul 2026 08:16:56 +0000</pubDate>
+<description>Kota Kinabalu: Sustainable tourism is increasingly being recognised not only as an engine of economic growth but also as a powerful driver of the ...</description>
+</item>
 <item>
 <title>Semporna plastic pollution: Tourism group clears 15 tonnes of floating marine waste - Nst</title>
 <link>https://www.nst.com.my/amp/news/regional/2026/07/1493070/semporna-plastic-pollution-tourism-group-clears-15-tonnes-floating</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.dailyexpress.com.my/news/284170/green-sabah-is-leading-malaysia-s-climate-future/</guid>
 <pubDate>Sat, 04 Jul 2026 06:35:31 +0000</pubDate>
 <description>Sabah's forests are not only important for the state and are vital for Malaysia. By protecting its forests and expanding nature-based climate ...</description>
-</item>
-<item>
-<title>The pearl of the rainforest - The Malaysian Reserve</title>
-<link>https://themalaysianreserve.com/2026/07/01/the-pearl-of-the-rainforest/</link>
-<guid isPermaLink="false">https://themalaysianreserve.com/2026/07/01/the-pearl-of-the-rainforest/</guid>
-<pubDate>Wed, 01 Jul 2026 03:30:21 +0000</pubDate>
-<description>Operating within a national park means Mutiara Taman Negara must constantly balance tourism with conservation. The challenge is simple: How do you ...</description>
 </item>
 </channel>
 </rss>
