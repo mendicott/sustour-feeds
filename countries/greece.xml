@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 21 Jul 2026 22:09:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 10:09:17 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mediterranean Travel Enters a New Rulebook as Greece, Italy and Spain Unleash Tougher ...</title>
+<link>https://www.travelandtourworld.com/news/article/0hdeczutsw6a/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/0hdeczutsw6a/</guid>
+<pubDate>Tue, 21 Jul 2026 08:57:27 +0000</pubDate>
+<description>These limitations reflect a growing trend across Mediterranean destinations where carrying capacity increasingly determines tourism policy rather than ...</description>
+</item>
 <item>
 <title>Spain Joins Forces with Italy, Greece, France, Germany and Over Twenty Other Countries in ...</title>
 <link>https://www.travelandtourworld.com/news/article/ra5yd02ysu8r/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/u79znl9igtcl/</guid>
 <pubDate>Mon, 13 Jul 2026 13:55:07 +0000</pubDate>
 <description>Greece, Netherlands, Spain, France and Norway reshape Europe cruise tourism with new taxes, mega ship limits, green rules and overtourism ...</description>
-</item>
-<item>
-<title>Greece Places Cape Sounion at the Centre of Global Travel Attention as Ancient Wonders ...</title>
-<link>https://www.travelandtourworld.com/news/article/x4chqytkpffl/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/x4chqytkpffl/</guid>
-<pubDate>Sat, 11 Jul 2026 07:42:16 +0000</pubDate>
-<description>Future tourism growth can focus on: Sustainable visitor management; Heritage conservation; Local business support; Responsible coastal tourism; Year ...</description>
 </item>
 </channel>
 </rss>

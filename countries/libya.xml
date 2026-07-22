@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/libya.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Libya. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 21 Jul 2026 22:09:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 10:09:17 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Climate change threatens Egypt's ancient rock art as Polish archaeologists race to document it</title>
+<link>https://scienceinpoland.pl/en/news/news%2C113799%2Cclimate-change-threatens-egypts-ancient-rock-art-polish-archaeologists-race</link>
+<guid isPermaLink="false">https://scienceinpoland.pl/en/news/news%2C113799%2Cclimate-change-threatens-egypts-ancient-rock-art-polish-archaeologists-race</guid>
+<pubDate>Wed, 22 Jul 2026 03:57:05 +0000</pubDate>
+<description>... lived there since prehistoric times, and the oasis was once an important stop on caravan routes linking the Nile Valley with the Sahara and Libya.</description>
+</item>
 <item>
 <title>Archaeologists fight to save Libya's ancient Greek ruins - Oman Observer</title>
 <link>https://www.omanobserver.om/article/1192268/features/culture/archaeologists-fight-to-save-libyas-ancient-greek-ruins</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">http://www.china.org.cn/world/Off_the_Wire/2026-07/17/content_118605146.shtml</guid>
 <pubDate>Fri, 17 Jul 2026 18:50:47 +0000</pubDate>
 <description>TRIPOLI, July 17 (Xinhua) -- Libya's Department of ... In a statement, the Tourism and Antiquities Office of Sousse Municipality in Libya's ...</description>
-</item>
-<item>
-<title>Archaeologists Fight to Save Ancient Greek Ruins of Cyrene and Apollonia in Libya</title>
-<link>https://greekcitytimes.com/2026/07/14/cyrene-apollonia-libya-greek-ruins-preservation/</link>
-<guid isPermaLink="false">https://greekcitytimes.com/2026/07/14/cyrene-apollonia-libya-greek-ruins-preservation/</guid>
-<pubDate>Tue, 14 Jul 2026 07:44:00 +0000</pubDate>
-<description>... climate change. The UNESCO-listed sites, founded by Greek settlers from the island of Thera (modern Santorini) in 631 BC, were once flourishing ...</description>
 </item>
 </channel>
 </rss>

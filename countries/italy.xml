@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 21 Jul 2026 22:09:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 10:09:17 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mediterranean Travel Enters a New Rulebook as Greece, Italy and Spain Unleash Tougher ...</title>
+<link>https://www.travelandtourworld.com/news/article/0hdeczutsw6a/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/0hdeczutsw6a/</guid>
+<pubDate>Tue, 21 Jul 2026 08:57:27 +0000</pubDate>
+<description>These limitations reflect a growing trend across Mediterranean destinations where carrying capacity increasingly determines tourism policy rather than ...</description>
+</item>
 <item>
 <title>Portofino Cracks Down on Crowds at Scenic Photo Hotspots</title>
 <link>https://www.thetraveler.org/portofino-cracks-down-on-crowds-at-scenic-photo-hotspots/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.bbc.com/travel/article/20260713-the-rainbow-magic-of-italys-lentil-bloom</guid>
 <pubDate>Thu, 16 Jul 2026 13:05:56 +0000</pubDate>
 <description>Tourism helps keep Castelluccio di Norcia alive, but protecting its fragile ecosystem from overtourism us equally important. During the busiest ...</description>
-</item>
-<item>
-<title>Going to Italy this summer? You might need to book the beach - Metro</title>
-<link>https://metro.co.uk/2026/07/15/going-italy-this-summer-might-need-book-beach-29134299/</link>
-<guid isPermaLink="false">https://metro.co.uk/2026/07/15/going-italy-this-summer-might-need-book-beach-29134299/</guid>
-<pubDate>Wed, 15 Jul 2026 15:01:22 +0000</pubDate>
-<description>Overtourism has led to Italy introducing booking systems for its beaches. Many have capped access in a bid to reduce footfall and protect the ...</description>
 </item>
 </channel>
 </rss>

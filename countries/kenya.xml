@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/kenya.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Kenya. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 21 Jul 2026 22:09:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 10:09:17 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>In Kenya, blanket-wrapped elephant calf sends stubborn warthog running with a squeaky trumpet</title>
+<link>https://www.thecooldown.com/outdoors/baby-elephant-kenya-warthog-faceoff/</link>
+<guid isPermaLink="false">https://www.thecooldown.com/outdoors/baby-elephant-kenya-warthog-faceoff/</guid>
+<pubDate>Wed, 22 Jul 2026 01:17:57 +0000</pubDate>
+<description>Responsible wildlife tourism prioritizes space, silence, and park rules over getting closer. Protected areas, buffer zones, and responsible safari ...</description>
+</item>
 <item>
 <title>Inside Vaud: The Swiss Region Perfecting the Art of Slow Tourism - Streamline Feed</title>
 <link>https://streamlinefeed.co.ke/news/vaud-switzerland-lake-geneva-slow-tourism</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://citizen.digital/article/conservationists-fault-govt-over-contradictory-push-to-plant-15-billion-trees-while-clearing-forests-n386148</guid>
 <pubDate>Thu, 09 Jul 2026 17:34:36 +0000</pubDate>
 <description>... Nairobi's Forests and Green Spaces - warning that the contradiction ... The coalition faulted the Ministry of Environment, Climate Change and ...</description>
-</item>
-<item>
-<title>JW Marriott Unveils a Mindful Sanctuary in Kenya's Solio Game Reserve - WebWire</title>
-<link>https://www.webwire.com/ViewPressRel.asp?aId=357279</link>
-<guid isPermaLink="false">https://www.webwire.com/ViewPressRel.asp?aId=357279</guid>
-<pubDate>Tue, 07 Jul 2026 16:48:15 +0000</pubDate>
-<description>Operating within Solio Game Reserve, the camp embraces established guidelines that prioritize conservation and responsible tourism. This low ...</description>
 </item>
 </channel>
 </rss>
