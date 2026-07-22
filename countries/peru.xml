@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/peru.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Peru. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 22 Jul 2026 10:09:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 22:09:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>IDB Invest and American Bird Conservancy Partner to Boost Bird Tourism in Peru</title>
+<link>https://abcbirds.org/news/idb-invest-bird-tourism-peru/</link>
+<guid isPermaLink="false">https://abcbirds.org/news/idb-invest-bird-tourism-peru/</guid>
+<pubDate>Wed, 22 Jul 2026 13:15:04 +0000</pubDate>
+<description>With support from the Conserva Aves Initiative and the Government of Canada, ABC's implementing partner, ECOAN, has built local capacity for bird ...</description>
+</item>
 <item>
 <title>Peru Introduces Strict Machu Picchu Visitor Quotas, Timed Entry and Separate Inca Trail Tickets</title>
 <link>https://www.travelandtourworld.com/news/article/qadoffiurehg/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/bqd6mbb72g9q/</guid>
 <pubDate>Sun, 28 Jun 2026 10:39:21 +0000</pubDate>
 <description>They now actively seek carbon-negative, deeply authentic, and community-led wilderness experiences. Recent data from the World Travel &amp; Tourism ...</description>
-</item>
-<item>
-<title>Costa Rica, Peru and Chile Dominate Global Nature Tourism as Ecotourism Reshapes ...</title>
-<link>https://www.travelandtourworld.com/news/article/hwigz1oagmnq/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/hwigz1oagmnq/</guid>
-<pubDate>Sat, 27 Jun 2026 11:08:33 +0000</pubDate>
-<description>Costa Rica, Belize, Peru, Chile and Ecuador drive global ecotourism growth with biodiversity travel, conservation tourism and sustainable travel ...</description>
 </item>
 </channel>
 </rss>

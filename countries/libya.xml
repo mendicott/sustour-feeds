@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/libya.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Libya. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 22 Jul 2026 10:09:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 22:09:27 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Climate change threatens Egypt's ancient rock art as Polish archaeologists race to document it</title>
@@ -51,6 +51,13 @@
 <description>... climate change across the Middle East and North Africa. Researchers in archaeology, environmental science and geology took part in the meeting.</description>
 </item>
 <item>
+<title>How a YouTube video accidentally proved the existence of Libya's 'desert ghosts' | CNN</title>
+<link>https://www.cnn.com/science/sand-cats-youtube-libya-desert-intl-spc</link>
+<guid isPermaLink="false">https://www.cnn.com/science/sand-cats-youtube-libya-desert-intl-spc</guid>
+<pubDate>Wed, 22 Jul 2026 10:32:34 +0000</pubDate>
+<description>When a photographer uploaded a YouTube video showing a sand cat in Libya, it started a quest to scientifically document the feline in the country ...</description>
+</item>
+<item>
 <title>Discovery of Ancient Theater and Greek Hippodrome in Susa - The Libya Update</title>
 <link>https://libyaupdate.com/discovery-of-ancient-theater-and-greek-hippodrome-in-susa/</link>
 <guid isPermaLink="false">https://libyaupdate.com/discovery-of-ancient-theater-and-greek-hippodrome-in-susa/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://libyaherald.com/2026/07/french-archaeologists-discover-exceptional-find-in-libyas-apollonia</guid>
 <pubDate>Sat, 18 Jul 2026 17:26:47 +0000</pubDate>
 <description>French archaeologists have discovered an ancient sea-facing theatre and a unique Greek racecourse in the Libyan historic city of Apollonia.</description>
-</item>
-<item>
-<title>Rare Greek racecourse, theater discovered in Libya's ancient city of Apollonia - China.org.cn</title>
-<link>http://www.china.org.cn/world/Off_the_Wire/2026-07/17/content_118605146.shtml</link>
-<guid isPermaLink="false">http://www.china.org.cn/world/Off_the_Wire/2026-07/17/content_118605146.shtml</guid>
-<pubDate>Fri, 17 Jul 2026 18:50:47 +0000</pubDate>
-<description>TRIPOLI, July 17 (Xinhua) -- Libya's Department of ... In a statement, the Tourism and Antiquities Office of Sousse Municipality in Libya's ...</description>
 </item>
 </channel>
 </rss>

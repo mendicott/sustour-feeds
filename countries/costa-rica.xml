@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/costa-rica.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Costa Rica. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 22 Jul 2026 10:09:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 22:09:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Costa Rica Overtakes Germany, France, Palau, Japan and Others in ... - Travel And Tour World</title>
+<link>https://www.travelandtourworld.com/news/article/jy3zhx4mk27j/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/jy3zhx4mk27j/</guid>
+<pubDate>Wed, 22 Jul 2026 13:49:14 +0000</pubDate>
+<description>Costa Rica leads global sustainable tourism in 2026 through nature conservation, eco taxes, and green grid power, surpassing Germany, France, ...</description>
+</item>
 <item>
 <title>Puntarenas, Costa Rica: Where Nature Shapes Wellbeing</title>
 <link>https://thecostaricanews.com/puntarenas-costa-rica-nature-wellbeing/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/llyroouqxiak/</guid>
 <pubDate>Tue, 14 Jul 2026 02:29:09 +0000</pubDate>
 <description>The final ranking reinforces Peru's growing reputation as a global leader in wildlife tourism, with Manú National Park and Tambopata National Reserve ...</description>
-</item>
-<item>
-<title>Costa Rica's Monteverde Cloud Forest Joins the IUCN Green List - The Tico Times</title>
-<link>https://ticotimes.net/2026/07/08/monteverde-iucn-green-list</link>
-<guid isPermaLink="false">https://ticotimes.net/2026/07/08/monteverde-iucn-green-list</guid>
-<pubDate>Thu, 09 Jul 2026 06:42:59 +0000</pubDate>
-<description>The Monteverde Cloud Forest Biological Reserve has been added to the IUCN Green List of Protected and Conserved Areas, becoming the first ...</description>
 </item>
 </channel>
 </rss>

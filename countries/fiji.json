@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://english.news.cn/20260722/a889e3ca28b34f29b124ca79f7af5049/c.html",
+      "url": "https://english.news.cn/20260722/a889e3ca28b34f29b124ca79f7af5049/c.html",
+      "title": "Fiji promotes circular economy to tackle waste, boost sustainability - Xinhua",
+      "content_text": "... Suva, Director of Environment at the Ministry of Environment and Climate Change Senimili Nakora said Fiji's current pattern of producing, using ...",
+      "date_published": "2026-07-22T15:01:28+00:00"
+    },
+    {
       "id": "https://www.fbcnews.com.fj/news/viti-reggae-concert-to-boost-indigenous-tourism/",
       "url": "https://www.fbcnews.com.fj/news/viti-reggae-concert-to-boost-indigenous-tourism/",
       "title": "Viti Reggae concert to boost Indigenous tourism - FBC News",
@@ -68,13 +75,6 @@
       "title": "Green light for floating island eco-tourism project proposal - The Fiji Times",
       "content_text": "A proposed floating island eco-tourism project at Wainidrua Village in Macuata has been given the green light after landowners of Bukawaqa clan ...",
       "date_published": "2026-06-30T03:29:22+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/00pzdzif5dgg/",
-      "url": "https://www.travelandtourworld.com/news/article/00pzdzif5dgg/",
-      "title": "Fiji Airways Strengthens Fiji's Eco-Tourism Future Through Native Forest Restoration and ...",
-      "content_text": "Fiji Airways native tree regeneration programme strengthens sustainable tourism, biodiversity conservation and eco-travel while supporting Fiji's ...",
-      "date_published": "2026-06-29T09:05:05+00:00"
     }
   ]
 }
