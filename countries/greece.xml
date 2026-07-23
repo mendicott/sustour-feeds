@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 22 Jul 2026 22:09:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 10:09:57 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Greece's Mount Olympus vies for UNESCO world heritage site status - YouTube</title>
+<link>https://www.youtube.com/watch?v=eiIQMIK4qu4</link>
+<guid isPermaLink="false">https://www.youtube.com/watch?v=eiIQMIK4qu4</guid>
+<pubDate>Thu, 23 Jul 2026 08:07:30 +0000</pubDate>
+<description>... UNESCO. The fact is that, throughout all these years, Olympus has been ... Slovakia: The Hidden Gem of Europe | 4K Travel Documentary. Globe ...</description>
+</item>
 <item>
 <title>Mediterranean Travel Enters a New Rulebook as Greece, Italy and Spain Unleash Tougher ...</title>
 <link>https://www.travelandtourworld.com/news/article/0hdeczutsw6a/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/mtzaqrqyqrl0/</guid>
 <pubDate>Mon, 13 Jul 2026 22:33:44 +0000</pubDate>
 <description>Research into overtourism in destinations such as Barcelona shows that residents often connect tourism pressure with overcrowding, security concerns, ...</description>
-</item>
-<item>
-<title>Greece Leads With Netherlands, Spain, France, Norway and More as Europe's Cruise ...</title>
-<link>https://www.travelandtourworld.com/news/article/u79znl9igtcl/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/u79znl9igtcl/</guid>
-<pubDate>Mon, 13 Jul 2026 13:55:07 +0000</pubDate>
-<description>Greece, Netherlands, Spain, France and Norway reshape Europe cruise tourism with new taxes, mega ship limits, green rules and overtourism ...</description>
 </item>
 </channel>
 </rss>

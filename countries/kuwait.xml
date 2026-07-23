@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/kuwait.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Kuwait. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 22 Jul 2026 22:09:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 10:09:57 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Great Barrier Reef at risk of 'collapse', scientists warn - Kuwait Times</title>
@@ -44,6 +44,13 @@
 <description>"There are probably financial goals, but also a desire to develop mass spiritual tourism and turn it into a showcase for spreading certain nationalist ...</description>
 </item>
 <item>
+<title>Tractors out, oxen in for fuel-starved Cuban farms | Kuwait Times Newspaper</title>
+<link>https://kuwaittimes.com/article/46895/business/tractors-out-oxen-in-for-fuel-starved-cuban-farms/</link>
+<guid isPermaLink="false">https://kuwaittimes.com/article/46895/business/tractors-out-oxen-in-for-fuel-starved-cuban-farms/</guid>
+<pubDate>Wed, 22 Jul 2026 17:21:36 +0000</pubDate>
+<description>CAIMITO: A farmer works at La Burgambilia agritourism farm in Caimito, Artemisa province, Cuba.- AFP ...</description>
+</item>
+<item>
 <title>Four Seasons Hotel Kuwait at Burj Alshaya Renews Green Key Certification for 2026</title>
 <link>https://www.webwire.com/ViewPressRel.asp?aId=358053</link>
 <guid isPermaLink="false">https://www.webwire.com/ViewPressRel.asp?aId=358053</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://kuwaittimes.com/article/46625/sports/wildfire-smoke-engulfs-millions-in-us-ahead-of-world-cup-final/</guid>
 <pubDate>Fri, 17 Jul 2026 15:31:07 +0000</pubDate>
 <description>Advocates have stressed the connection between repeated episodes of wildfire smoke and climate change. "Increasingly smoky skies underscore the ...</description>
-</item>
-<item>
-<title>Wildfire rages near Paris as heatwave scorches Europe - Kuwait Times</title>
-<link>https://kuwaittimes.com/article/46422/top-stories/wildfire-rages-near-paris-as-heatwave-scorches-europe/</link>
-<guid isPermaLink="false">https://kuwaittimes.com/article/46422/top-stories/wildfire-rages-near-paris-as-heatwave-scorches-europe/</guid>
-<pubDate>Tue, 14 Jul 2026 07:10:15 +0000</pubDate>
-<description>Wildfire rages near Paris as heatwave scorches Europe. Scientists link frequent wildfires across parched Europe to climate change. July 13, 2026 10:30 ...</description>
 </item>
 </channel>
 </rss>

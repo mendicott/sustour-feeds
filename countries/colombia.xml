@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/colombia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Colombia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 22 Jul 2026 22:09:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 10:09:57 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Colombia expands fair trade tourism programme across 12 regions - Travel Daily News</title>
+<link>https://www.traveldailynews.com/regional-news/central-south-america/colombia-expands-fair-trade-tourism-programme-across-12-regions/</link>
+<guid isPermaLink="false">https://www.traveldailynews.com/regional-news/central-south-america/colombia-expands-fair-trade-tourism-programme-across-12-regions/</guid>
+<pubDate>Thu, 23 Jul 2026 05:24:14 +0000</pubDate>
+<description>Fair trade tourism: Colombia launches territorial training across 12 regions to support responsible, inclusive and community-based tourism.</description>
+</item>
 <item>
 <title>Getsemani's Neighborhood Life Becomes Part of Colombia's Intangible Cultural Heritage</title>
 <link>https://colombiaone.com/2026/07/19/getsemani-neighborhood-colombia-cultural-heritage/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ahtwq7mpvure/</guid>
 <pubDate>Tue, 09 Jun 2026 23:58:50 +0000</pubDate>
 <description>As global travelers increasingly seek meaningful and sustainable journeys, Indigenous communities are becoming central to the future of tourism.</description>
-</item>
-<item>
-<title>Colombia Strengthens Its Role as Indigenous Tourism Leader in Latin America</title>
-<link>https://colombiaone.com/2026/06/08/colombia-indigenous-tourism/</link>
-<guid isPermaLink="false">https://colombiaone.com/2026/06/08/colombia-indigenous-tourism/</guid>
-<pubDate>Tue, 09 Jun 2026 07:46:21 +0000</pubDate>
-<description>Colombia is establishing itself as a top destination for indigenous tourism, hosting the first regional congress of this type of tourism.</description>
 </item>
 </channel>
 </rss>

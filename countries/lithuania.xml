@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/lithuania.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Lithuania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 22 Jul 2026 22:09:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 10:09:57 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Lithuania Launches New Forest Retreat Near Vilnius Offering Sustainable Luxury Stays ...</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/kum0x3yiojot/</guid>
 <pubDate>Thu, 16 Jul 2026 12:58:40 +0000</pubDate>
 <description>Lithuania's Sanctum forest retreat near Vilnius blends wellness, timber design, private cabins and nature-led travel in a Baltic escape.</description>
+</item>
+<item>
+<title>Lithuania Minor Cultural Routes Planned - Infoerdve.lt</title>
+<link>https://infoerdve.lt/en/eight-municipalities-plan-cultural-routes-across-lithuania-minor/</link>
+<guid isPermaLink="false">https://infoerdve.lt/en/eight-municipalities-plan-cultural-routes-across-lithuania-minor/</guid>
+<pubDate>Wed, 22 Jul 2026 21:32:37 +0000</pubDate>
+<description>Tourism and cultural organisations would also be able to promote destinations together and prepare joint applications for Lithuanian state and ...</description>
 </item>
 <item>
 <title>Lithuania Teams Up With Latvia, Estonia, Poland, and Germany to Showcase the Baltic ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://infoerdve.lt/en/lithuania-puts-a-value-on-natures-daily-work/</guid>
 <pubDate>Mon, 29 Jun 2026 08:20:38 +0000</pubDate>
 <description>Lithuania's first ecosystem services assessment measures nature's role in carbon storage, air quality, tourism and the economy.</description>
-</item>
-<item>
-<title>Lithuania, Latvia, Estonia, Norway and Others Lead Europe's Explosive New Coolcation ...</title>
-<link>https://www.travelandtourworld.com/news/article/9melvcxg0boe/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/9melvcxg0boe/</guid>
-<pubDate>Sun, 19 Jul 2026 06:11:45 +0000</pubDate>
-<description>Extreme Heat Is Changing Europe's Summer Travel Priorities. Southern Europe remains one of the continent's most important tourism regions, with Italy, ...</description>
 </item>
 </channel>
 </rss>
