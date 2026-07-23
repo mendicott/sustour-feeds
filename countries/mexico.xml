@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 23 Jul 2026 10:09:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 22:09:23 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mexico Launches Environmental Capital Fund</title>
+<link>https://mexicobusiness.news/sustainability/news/mexico-launches-environmental-capital-fund</link>
+<guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/mexico-launches-environmental-capital-fund</guid>
+<pubDate>Thu, 23 Jul 2026 18:11:04 +0000</pubDate>
+<description>Mexico launched the Environmental Capital Fund to mobilize private and public financing for restoration, climate action, and sustainable ...</description>
+</item>
 <item>
 <title>UNESCO Advances Sustainable Development in Oaxaca - Mexico Business News</title>
 <link>https://mexicobusiness.news/sustainability/news/unesco-advances-sustainable-development-oaxaca</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/7ip90ne17562/</guid>
 <pubDate>Tue, 30 Jun 2026 20:15:09 +0000</pubDate>
 <description>... heritage conservation. Its continued commitment to dedicated Indigenous ... Tags: Canada Indigenous tourism, First Nations tourism, Indigenous travel, ...</description>
-</item>
-<item>
-<title>Costa Rica Outshines United States, Canada, Mexico, Belize, Panama and other North ...</title>
-<link>https://www.travelandtourworld.com/news/article/nw5jxv5vlq4y/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/nw5jxv5vlq4y/</guid>
-<pubDate>Thu, 25 Jun 2026 18:46:15 +0000</pubDate>
-<description>Explore why Costa Rica outshines United States, Canada, Mexico and others in eco tourism through biodiversity protection and sustainability ...</description>
 </item>
 </channel>
 </rss>

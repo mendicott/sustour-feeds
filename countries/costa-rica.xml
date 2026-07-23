@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/costa-rica.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Costa Rica. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 23 Jul 2026 10:09:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 22:09:23 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Costa Rica Tourism Revolution Accelerates as Biodiversity Paradise of Pristine Beaches ...</title>
+<link>https://www.travelandtourworld.com/news/article/n4sldhluiybp/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/n4sldhluiybp/</guid>
+<pubDate>Thu, 23 Jul 2026 11:10:50 +0000</pubDate>
+<description>Costa Rica has emerged as a global tourism powerhouse because its extraordinary biodiversity, protected ecosystems and unmatched combination of ...</description>
+</item>
 <item>
 <title>Costa Rica Overtakes Germany, France, Palau, Japan and Others in ... - Travel And Tour World</title>
 <link>https://www.travelandtourworld.com/news/article/jy3zhx4mk27j/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://travelmole.com/news/costa-rica-high-value-tourism/</guid>
 <pubDate>Wed, 15 Jul 2026 01:39:42 +0000</pubDate>
 <description>ICT's tourism plan emphasizes a sustainable, non-mass tourism model that encourages longer stays, higher visitor spending and travel across multiple ...</description>
-</item>
-<item>
-<title>Peru's Manú National Park Beats Kenya, Brazil, Ecuador, India, Costa Rica and More to ...</title>
-<link>https://www.travelandtourworld.com/news/article/llyroouqxiak/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/llyroouqxiak/</guid>
-<pubDate>Tue, 14 Jul 2026 02:29:09 +0000</pubDate>
-<description>The final ranking reinforces Peru's growing reputation as a global leader in wildlife tourism, with Manú National Park and Tambopata National Reserve ...</description>
 </item>
 </channel>
 </rss>

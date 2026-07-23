@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 23 Jul 2026 10:09:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 22:09:23 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>A 2180 km cycling route through UNESCO geoparks has been opened in Spain</title>
+<link>https://pragmatika.media/en/news/v-ispanii-vidkryly-velomarshrut-zavdovzhky-2-180-km-cherez-heoparky-iunesko/</link>
+<guid isPermaLink="false">https://pragmatika.media/en/news/v-ispanii-vidkryly-velomarshrut-zavdovzhky-2-180-km-cherez-heoparky-iunesko/</guid>
+<pubDate>Thu, 23 Jul 2026 14:36:39 +0000</pubDate>
+<description>The Spanish region of Castilla-La Mancha has launched a new network of cycling routes, Rural Bike Conecta CLM, which stretches for 2180 kilometers ...</description>
+</item>
 <item>
 <title>Now, Spain Teams Up with Italy, France and Others as Anti-Tourism Pressure Forces ...</title>
 <link>https://www.travelandtourworld.com/news/article/t64vcvh7323k/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ndey6v7xk41x/</guid>
 <pubDate>Tue, 14 Jul 2026 12:54:01 +0000</pubDate>
 <description>... environmental protection measures and a new sustainable future for Mediterranean travel, with the French Riviera joining a wider European movement ...</description>
-</item>
-<item>
-<title>Spain to Launch Beach Sunbed Booking App to Manage Overtourism - Rus Tourism News</title>
-<link>https://www.rustourismnews.com/2026/07/14/spain-to-launch-beach-sunbed-booking-app-to-manage-overtourism/</link>
-<guid isPermaLink="false">https://www.rustourismnews.com/2026/07/14/spain-to-launch-beach-sunbed-booking-app-to-manage-overtourism/</guid>
-<pubDate>Tue, 14 Jul 2026 08:27:18 +0000</pubDate>
-<description>Part of Spain's Overtourism Strategy. The technology is intended to help Spanish authorities better manage visitor numbers at popular beaches, an ...</description>
 </item>
 </channel>
 </rss>

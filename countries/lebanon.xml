@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/lebanon.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Lebanon. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 23 Jul 2026 10:09:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 22:09:23 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>'They Knew Exactly Who Mona Khalil Was': Israel Kills Lebanese Turtle Conservationist</title>
@@ -51,6 +51,13 @@
 <description>The Orange House Project, which Khalil helped build into a small conservation hub and ecotourism site in al-Mansouri, became a refuge for ...</description>
 </item>
 <item>
+<title>U.N. to list more sites as 'in danger' from conflict or climate change - Japan Today</title>
+<link>https://japantoday.com/category/features/environment/un-to-list-more-sites-as-'in-danger'-from-conflict-or-climate-change</link>
+<guid isPermaLink="false">https://japantoday.com/category/features/environment/un-to-list-more-sites-as-'in-danger'-from-conflict-or-climate-change</guid>
+<pubDate>Thu, 23 Jul 2026 21:16:00 +0000</pubDate>
+<description>The United Nations looks set to list a Biblical site, Lebanese castles, an antelope migration path and the world's deepest lake as world treasures ...</description>
+</item>
+<item>
 <title>Lebanon's ancient city of Sour listed as endangered World Heritage by UNESCO</title>
 <link>https://today.lorientlejour.com/article/1542097/lebanons-ancient-city-of-sour-listed-as-endangered-world-heritage-by-unesco.html</link>
 <guid isPermaLink="false">https://today.lorientlejour.com/article/1542097/lebanons-ancient-city-of-sour-listed-as-endangered-world-heritage-by-unesco.html</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://ground.news/daily-briefing/unesco-set-to-list-lebanon-castles-lake-baikal-as-heritage-in-danger_a77c70</guid>
 <pubDate>Sun, 19 Jul 2026 01:38:37 +0000</pubDate>
 <description>... climate change, pollution, and mass tourism. Why it matters: Heritage designation unlocks funding and drives tourism, directly affecting local ...</description>
-</item>
-<item>
-<title>Lebanon Beach Pollution Hurts Tourism: Minister Warns - Daily Beirut</title>
-<link>https://dailybeirut.com/en/lebanon-news/lebanese-tourism-minister-highlights-beach-pollutions-impact-on-visitor-confiden/</link>
-<guid isPermaLink="false">https://dailybeirut.com/en/lebanon-news/lebanese-tourism-minister-highlights-beach-pollutions-impact-on-visitor-confiden/</guid>
-<pubDate>Wed, 01 Jul 2026 17:13:20 +0000</pubDate>
-<description>Tourism Minister Laura Lahoud says sea pollution directly undermines visitor trust, calling for sustainable solutions at a conference with other ...</description>
 </item>
 </channel>
 </rss>
