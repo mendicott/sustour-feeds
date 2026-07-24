@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/syria.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Syria. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 24 Jul 2026 10:09:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 22:08:53 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Aleppo advances restoration of Old City to preserve Syria's heritage, revive economy</title>
+<link>https://sana.sy/en/culture-and-arts/2331618/</link>
+<guid isPermaLink="false">https://sana.sy/en/culture-and-arts/2331618/</guid>
+<pubDate>Fri, 24 Jul 2026 07:11:51 +0000</pubDate>
+<description>Dahna said the Aga Khan Trust for Culture has played a central role in the restoration effort. The organization began operating in Syria in 1999 ...</description>
+</item>
 <item>
 <title>Syria signs agreements to restore heritage sites in Aleppo and Tartous</title>
 <link>https://sana.sy/en/culture-and-arts/2331522/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://wcyb.com/station/news-5-at-noon/interviews/appalachian-sustainable-development-launching-taste-of-damascus</guid>
 <pubDate>Wed, 15 Jul 2026 19:49:24 +0000</pubDate>
 <description>Appalachian Sustainable Development launching 'Taste of Damascus ... Regional tourism. More information: Click here · AdChoices Ad Choices Icon ...</description>
-</item>
-<item>
-<title>Maktab Anbar gains international recognition with ICESCO heritage listing</title>
-<link>https://sana.sy/en/tour-syria/2329282/</link>
-<guid isPermaLink="false">https://sana.sy/en/tour-syria/2329282/</guid>
-<pubDate>Mon, 13 Jul 2026 12:06:30 +0000</pubDate>
-<description>... cultural heritage. Located in the heart of Damascus Old City, a ... She told SANA that the listing would also support cultural tourism by ...</description>
 </item>
 </channel>
 </rss>

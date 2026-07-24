@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 24 Jul 2026 10:09:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 22:08:53 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Venice Nears the End of Its 2026 Day-Trip Entry Fee Programme as Italy Balances Tourism ...</title>
+<link>https://www.travelandtourworld.com/news/article/348aiiv2gwf0/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/348aiiv2gwf0/</guid>
+<pubDate>Fri, 24 Jul 2026 14:05:11 +0000</pubDate>
+<description>A Model for Managing Overtourism? Venice has become one of the world's most closely watched destinations in the global discussion surrounding ...</description>
+</item>
 <item>
 <title>Venice May Raise Day-Trip Entry Fee to €30–€50 as Italy Strengthens Overtourism ...</title>
 <link>https://www.travelandtourworld.com/news/article/m48ypbx74osy/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://streamlinefeed.co.ke/news/italy-enforces-paid-beach-reservations-to-combat-severe-overtourism</guid>
 <pubDate>Fri, 17 Jul 2026 12:42:34 +0000</pubDate>
 <description>Italy Enforces Paid Beach Reservations to Combat Severe Overtourism ... Italian beaches are implementing strict digital reservation systems and entry ...</description>
-</item>
-<item>
-<title>Spain Joins Forces with Italy, Greece, France, Germany and Over Twenty Other Countries in ...</title>
-<link>https://www.travelandtourworld.com/news/article/ra5yd02ysu8r/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ra5yd02ysu8r/</guid>
-<pubDate>Fri, 17 Jul 2026 11:28:34 +0000</pubDate>
-<description>Spain, Italy, Greece, France and Germany support new Natura 2000 guidelines as Europe targets overtourism control, biodiversity protection and ...</description>
 </item>
 </channel>
 </rss>

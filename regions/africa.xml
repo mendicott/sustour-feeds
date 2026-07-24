@@ -6,8 +6,22 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/africa.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Africa. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 24 Jul 2026 10:09:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 22:08:53 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>South Africa: Do Tourists Stress Out Safari Animals? We Tested Their Dung to Find Out</title>
+<link>https://allafrica.com/stories/202607240002.html</link>
+<guid isPermaLink="false">https://allafrica.com/stories/202607240002.html</guid>
+<pubDate>Fri, 24 Jul 2026 16:32:00 +0000</pubDate>
+<description>Our data supports a message of cautious optimism: when tourism is thoughtfully managed, it need not come at the cost of the wildlife. If tourist ...</description>
+</item>
+<item>
+<title>Restoring East Usambara Ecosystems and Strengthening Community Resilience in Tanzania - IUCN</title>
+<link>https://iucn.org/news/202607/restoring-east-usambara-ecosystems-and-strengthening-community-resilience-tanzania</link>
+<guid isPermaLink="false">https://iucn.org/news/202607/restoring-east-usambara-ecosystems-and-strengthening-community-resilience-tanzania</guid>
+<pubDate>Fri, 24 Jul 2026 14:20:25 +0000</pubDate>
+<description>... climate resilience in four villages of Muheza District, Tanga Region. The project reflects a shared commitment to empowering local communities ...</description>
+</item>
 <item>
 <title>South Africa relocates six cheetahs to Zambia to restore species - Big News Network.com</title>
 <link>https://www.bignewsnetwork.com/news/279206601/south-africa-relocates-six-cheetahs-to-zambia-to-restore-species</link>
@@ -63,20 +77,6 @@
 <guid isPermaLink="false">https://dailynews.co.tz/tanzania-japan-affirm-cooperation-in-conserving-unescos-world-heritage-sites/</guid>
 <pubDate>Wed, 22 Jul 2026 13:03:48 +0000</pubDate>
 <description>... heritage conservation and cultural tourism. The Tanzanian delegation included the Executive Secretary of the Tanzania National Commission for ...</description>
-</item>
-<item>
-<title>Kenya seeks return of 32000 cultural heritage collections from across the world</title>
-<link>https://peopledaily.digital/news/kenya-seeks-return-of-32000-cultural-heritage-collections-from-across-the-world</link>
-<guid isPermaLink="false">https://peopledaily.digital/news/kenya-seeks-return-of-32000-cultural-heritage-collections-from-across-the-world</guid>
-<pubDate>Wed, 22 Jul 2026 12:44:02 +0000</pubDate>
-<description>He said that the initiative aims to transform the Lake Turkana Basin into a global hub for research, heritage conservation and eco-tourism.</description>
-</item>
-<item>
-<title>Mozambique bets on conservation tourism to attract investment</title>
-<link>https://clubofmozambique.com/news/mozambique-bets-on-conservation-tourism-to-attract-investment/</link>
-<guid isPermaLink="false">https://clubofmozambique.com/news/mozambique-bets-on-conservation-tourism-to-attract-investment/</guid>
-<pubDate>Wed, 22 Jul 2026 07:28:18 +0000</pubDate>
-<description>The Government wants to transform conservation tourism into one of the main attractions for investment capital, leveraging the country's rich ...</description>
 </item>
 </channel>
 </rss>

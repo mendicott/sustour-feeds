@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/south-africa.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for South Africa. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 24 Jul 2026 10:09:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 22:08:53 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>South Africa: Do Tourists Stress Out Safari Animals? We Tested Their Dung to Find Out</title>
+<link>https://allafrica.com/stories/202607240002.html</link>
+<guid isPermaLink="false">https://allafrica.com/stories/202607240002.html</guid>
+<pubDate>Fri, 24 Jul 2026 16:32:00 +0000</pubDate>
+<description>Our data supports a message of cautious optimism: when tourism is thoughtfully managed, it need not come at the cost of the wildlife. If tourist ...</description>
+</item>
 <item>
 <title>South Africa relocates six cheetahs to Zambia to restore species - Big News Network.com</title>
 <link>https://www.bignewsnetwork.com/news/279206601/south-africa-relocates-six-cheetahs-to-zambia-to-restore-species</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://brandsouthafrica.com/180930/news-facts/kruger-at-100-celebrating-a-legacy-of-life-hope-and-conservation/</guid>
 <pubDate>Sat, 06 Jun 2026 00:57:12 +0000</pubDate>
 <description>... conservation, sustainable tourism and environmental stewardship. In a ... Travel Guides, reinforcing its status as one of the world's premier ...</description>
-</item>
-<item>
-<title>Wilderness celebrates Botswana's brave tourism decisions | Mmegi - PressReader</title>
-<link>https://www.pressreader.com/botswana/mmegi/20260605/281865830148477</link>
-<guid isPermaLink="false">https://www.pressreader.com/botswana/mmegi/20260605/281865830148477</guid>
-<pubDate>Fri, 05 Jun 2026 03:58:06 +0000</pubDate>
-<description>2026-06-05 - (Issued by Wilderness Botswana) Tourism · Travel · Botswana · Earth · Gaborone · Africa · South Africa · Simon · National Botanical ...</description>
 </item>
 </channel>
 </rss>

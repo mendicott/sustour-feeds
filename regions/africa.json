@@ -7,6 +7,20 @@
   "language": "en",
   "items": [
     {
+      "id": "https://allafrica.com/stories/202607240002.html",
+      "url": "https://allafrica.com/stories/202607240002.html",
+      "title": "South Africa: Do Tourists Stress Out Safari Animals? We Tested Their Dung to Find Out",
+      "content_text": "Our data supports a message of cautious optimism: when tourism is thoughtfully managed, it need not come at the cost of the wildlife. If tourist ...",
+      "date_published": "2026-07-24T16:32:00+00:00"
+    },
+    {
+      "id": "https://iucn.org/news/202607/restoring-east-usambara-ecosystems-and-strengthening-community-resilience-tanzania",
+      "url": "https://iucn.org/news/202607/restoring-east-usambara-ecosystems-and-strengthening-community-resilience-tanzania",
+      "title": "Restoring East Usambara Ecosystems and Strengthening Community Resilience in Tanzania - IUCN",
+      "content_text": "... climate resilience in four villages of Muheza District, Tanga Region. The project reflects a shared commitment to empowering local communities ...",
+      "date_published": "2026-07-24T14:20:25+00:00"
+    },
+    {
       "id": "https://www.bignewsnetwork.com/news/279206601/south-africa-relocates-six-cheetahs-to-zambia-to-restore-species",
       "url": "https://www.bignewsnetwork.com/news/279206601/south-africa-relocates-six-cheetahs-to-zambia-to-restore-species",
       "title": "South Africa relocates six cheetahs to Zambia to restore species - Big News Network.com",
@@ -61,20 +75,6 @@
       "title": "Tanzania, Japan affirm cooperation in conserving UNESCO's World Heritage sites",
       "content_text": "... heritage conservation and cultural tourism. The Tanzanian delegation included the Executive Secretary of the Tanzania National Commission for ...",
       "date_published": "2026-07-22T13:03:48+00:00"
-    },
-    {
-      "id": "https://peopledaily.digital/news/kenya-seeks-return-of-32000-cultural-heritage-collections-from-across-the-world",
-      "url": "https://peopledaily.digital/news/kenya-seeks-return-of-32000-cultural-heritage-collections-from-across-the-world",
-      "title": "Kenya seeks return of 32000 cultural heritage collections from across the world",
-      "content_text": "He said that the initiative aims to transform the Lake Turkana Basin into a global hub for research, heritage conservation and eco-tourism.",
-      "date_published": "2026-07-22T12:44:02+00:00"
-    },
-    {
-      "id": "https://clubofmozambique.com/news/mozambique-bets-on-conservation-tourism-to-attract-investment/",
-      "url": "https://clubofmozambique.com/news/mozambique-bets-on-conservation-tourism-to-attract-investment/",
-      "title": "Mozambique bets on conservation tourism to attract investment",
-      "content_text": "The Government wants to transform conservation tourism into one of the main attractions for investment capital, leveraging the country's rich ...",
-      "date_published": "2026-07-22T07:28:18+00:00"
     }
   ]
 }

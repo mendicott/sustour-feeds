@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ecuador.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ecuador. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 24 Jul 2026 10:09:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 22:08:53 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>A new corridor is reconnecting one of Ecuador's richest rainforests</title>
+<link>https://www.conservation.org/news/a-new-corridor-is-reconnecting-one-of-ecuadors-richest-rainforests</link>
+<guid isPermaLink="false">https://www.conservation.org/news/a-new-corridor-is-reconnecting-one-of-ecuadors-richest-rainforests</guid>
+<pubDate>Fri, 24 Jul 2026 14:36:22 +0000</pubDate>
+<description>Backed by Conservation International, Ecuador is pursuing an ambitious strategy to reconnect an Amazon fractured by deforestation.</description>
+</item>
 <item>
 <title>Community Tourism generates CAD $3.32m for local enterprises - Travel Daily News</title>
 <link>https://www.traveldailynews.com/special-interest-travel/community-tourism-generates-cad-3-32m-for-local-enterprises/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/dp-world-espol-partner-advance-133000023.html</guid>
 <pubDate>Thu, 25 Jun 2026 13:47:00 +0000</pubDate>
 <description>New scientific monitoring program will measure the ecological impact of Living Seawalls infrastructure in Ecuador NORTHAMPTON, ...</description>
-</item>
-<item>
-<title>Colombia's vote may reshape the Amazon's future as political winds shift across Latin America</title>
-<link>https://cw39.com/international/ap-international/ap-colombias-vote-may-reshape-the-amazons-future-as-political-winds-shift-across-latin-america/</link>
-<guid isPermaLink="false">https://cw39.com/international/ap-international/ap-colombias-vote-may-reshape-the-amazons-future-as-political-winds-shift-across-latin-america/</guid>
-<pubDate>Thu, 25 Jun 2026 11:26:08 +0000</pubDate>
-<description>... Ecuador's Amazon walk near a support beam for an oil pipeline as they travel through the region on what activists call a toxitour visiting oil ...</description>
 </item>
 </channel>
 </rss>
