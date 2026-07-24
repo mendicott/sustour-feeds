@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/norway.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Norway. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 23 Jul 2026 22:09:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 10:09:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Norway Unites with Denmark and Others as Northern Europe Now Emerges as the Fastest ...</title>
+<link>https://www.travelandtourworld.com/news/article/jp4azj8ytkrs/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/jp4azj8ytkrs/</guid>
+<pubDate>Thu, 23 Jul 2026 06:30:00 +0000</pubDate>
+<description>Norway and Denmark lead Northern Europe's tourism rise with record visitor demand, cooler summers, nature travel and sustainable tourism growth.</description>
+</item>
 <item>
 <title>Greece Leads With Netherlands, Spain, France, Norway and More as Europe's Cruise ...</title>
 <link>https://www.travelandtourworld.com/news/article/u79znl9igtcl/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/4aj517z9auqh/</guid>
 <pubDate>Fri, 10 Jul 2026 07:34:59 +0000</pubDate>
 <description>Norway transforms Nordic travel with zero-emission ferries, green maritime policies and Sustainable Tourism growth.</description>
-</item>
-<item>
-<title>How Norwegian Microcruises Are Rethinking Green Travel - Forbes</title>
-<link>https://www.forbes.com/sites/indrabatilahiri/2026/07/08/how-norwegian-microcruises-are-rethinking-green-travel/</link>
-<guid isPermaLink="false">https://www.forbes.com/sites/indrabatilahiri/2026/07/08/how-norwegian-microcruises-are-rethinking-green-travel/</guid>
-<pubDate>Wed, 08 Jul 2026 22:06:16 +0000</pubDate>
-<description>Cruising is still one of the most carbon-intensive forms of tourism, usually heavily dependent on both mass consumption and fuel oil. However, Norway ...</description>
 </item>
 </channel>
 </rss>

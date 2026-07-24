@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/chile.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Chile. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 23 Jul 2026 22:09:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 10:09:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Introducing 'Tomorrow Beckons', a Global Regenerative Travel Program</title>
+<link>https://www.thehotelconversation.com.au/profiles/2026/07/24/introducing-tomorrow-beckons-global-regenerative-travel-program/1784855541</link>
+<guid isPermaLink="false">https://www.thehotelconversation.com.au/profiles/2026/07/24/introducing-tomorrow-beckons-global-regenerative-travel-program/1784855541</guid>
+<pubDate>Fri, 24 Jul 2026 05:07:53 +0000</pubDate>
+<description>... travel program uniting its properties across Australia, New Zealand, Chile and Canada in a shared mission: to protect and regenerate the ...</description>
+</item>
 <item>
 <title>How Las Torres Patagonia is redefining sustainable travel in Torres del Paine National Park</title>
 <link>https://canadiangeographic.ca/articles/staying-wild-how-las-torres-patagonia-is-redefining-sustainable-travel-in-torres-del-paine-national-park/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.marcachile.cl/en/raices-unicas-en-el-mundo-cinco-joyas-de-la-flora-endemica-resguardadas-en-nuestros-parques/</guid>
 <pubDate>Fri, 17 Jul 2026 20:39:26 +0000</pubDate>
 <description>Learn more about the world's unique roots: five gems of endemic flora protected in our parks, and how they enhance Chile's image around the world.</description>
-</item>
-<item>
-<title>Indonesia plans to establish conservation area to save orangutans - TV BRICS</title>
-<link>https://tvbrics.com/en/news/indonesia-plans-to-establish-conservation-area-to-save-orangutans/</link>
-<guid isPermaLink="false">https://tvbrics.com/en/news/indonesia-plans-to-establish-conservation-area-to-save-orangutans/</guid>
-<pubDate>Wed, 15 Jul 2026 08:22:39 +0000</pubDate>
-<description>... tourism. Furthermore, Egypt is exploring the implementation of a green ports programme featuring rigorous environmental audits. Chile is actively ...</description>
 </item>
 </channel>
 </rss>

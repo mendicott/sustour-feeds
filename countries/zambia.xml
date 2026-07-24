@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/zambia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Zambia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 23 Jul 2026 22:09:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 10:09:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>South Africa relocates six cheetahs to Zambia to restore species - Big News Network.com</title>
+<link>https://www.bignewsnetwork.com/news/279206601/south-africa-relocates-six-cheetahs-to-zambia-to-restore-species</link>
+<guid isPermaLink="false">https://www.bignewsnetwork.com/news/279206601/south-africa-relocates-six-cheetahs-to-zambia-to-restore-species</guid>
+<pubDate>Fri, 24 Jul 2026 03:50:09 +0000</pubDate>
+<description>South Africa has relocated six cheetahs to Zambia's greater Luangwa ecosystem, where the species has been absent for nearly three decades, ...</description>
+</item>
 <item>
 <title>Zambia Renews Liuwa Plain Partnership to Protect New Wildlife Corridors, Support Lozi ...</title>
 <link>https://www.travelandtourworld.com/news/article/10emq05u39y2/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/xy0akl04n3bc/</guid>
 <pubDate>Sun, 21 Jun 2026 22:46:52 +0000</pubDate>
 <description>Zambia safari tourism supports wildlife conservation and local communities through sustainable travel models and community-based tourism in 2026.</description>
-</item>
-<item>
-<title>South Africa relocates 6 cheetahs to Zambia to restore species - Xinhua</title>
-<link>https://english.news.cn/20260723/b7e4094dbdbc47cfbec8a0e09afe9e72/c.html</link>
-<guid isPermaLink="false">https://english.news.cn/20260723/b7e4094dbdbc47cfbec8a0e09afe9e72/c.html</guid>
-<pubDate>Wed, 22 Jul 2026 17:19:35 +0000</pubDate>
-<description>JOHANNESBURG, July 22 (Xinhua) -- South Africa has relocated six cheetahs to Zambia's ... In a statement, Zambia's Ministry of Tourism welcomed the ...</description>
 </item>
 </channel>
 </rss>

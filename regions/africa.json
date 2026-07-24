@@ -7,11 +7,25 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.bignewsnetwork.com/news/279206601/south-africa-relocates-six-cheetahs-to-zambia-to-restore-species",
+      "url": "https://www.bignewsnetwork.com/news/279206601/south-africa-relocates-six-cheetahs-to-zambia-to-restore-species",
+      "title": "South Africa relocates six cheetahs to Zambia to restore species - Big News Network.com",
+      "content_text": "South Africa has relocated six cheetahs to Zambia's greater Luangwa ecosystem, where the species has been absent for nearly three decades, ...",
+      "date_published": "2026-07-24T03:50:09+00:00"
+    },
+    {
       "id": "https://tanzaniatimes.net/africas-next-tourism-boom-may-begin-in-its-churches/",
       "url": "https://tanzaniatimes.net/africas-next-tourism-boom-may-begin-in-its-churches/",
       "title": "Africa's next tourism boom may begin in its churches - The Tanzania Times",
       "content_text": "But the project's ambition extends well beyond academia. \"The project recognises that pilgrimage routes, sacred heritage and religious destinations ...",
       "date_published": "2026-07-23T12:53:13+00:00"
+    },
+    {
+      "id": "https://dailynews.co.tz/tanzania-backs-stronger-world-heritage-conservation/",
+      "url": "https://dailynews.co.tz/tanzania-backs-stronger-world-heritage-conservation/",
+      "title": "Tanzania backs stronger World Heritage conservation - Daily News",
+      "content_text": "... tourism. The ... tourism development while safeguarding the country's internationally recognised natural heritage for future generations.",
+      "date_published": "2026-07-23T11:19:44+00:00"
     },
     {
       "id": "https://finance.yahoo.com/small-business/articles/safari-soles-tours-expands-kenya-182500375.html",
@@ -61,20 +75,6 @@
       "title": "Mozambique bets on conservation tourism to attract investment",
       "content_text": "The Government wants to transform conservation tourism into one of the main attractions for investment capital, leveraging the country's rich ...",
       "date_published": "2026-07-22T07:28:18+00:00"
-    },
-    {
-      "id": "https://www.thecooldown.com/outdoors/baby-elephant-kenya-warthog-faceoff/",
-      "url": "https://www.thecooldown.com/outdoors/baby-elephant-kenya-warthog-faceoff/",
-      "title": "In Kenya, blanket-wrapped elephant calf sends stubborn warthog running with a squeaky trumpet",
-      "content_text": "Responsible wildlife tourism prioritizes space, silence, and park rules over getting closer. Protected areas, buffer zones, and responsible safari ...",
-      "date_published": "2026-07-22T01:17:57+00:00"
-    },
-    {
-      "id": "https://www.ena.et/web/eng/w/eng_9249535",
-      "url": "https://www.ena.et/web/eng/w/eng_9249535",
-      "title": "Ethiopia Advances Natural Resource Conservation to Secure Sustainable Future - ENA English",
-      "content_text": "Today, Ethiopia has built a comprehensive management strategy focusing on park infrastructure, biodiversity preservation, eco-tourism development, and ...",
-      "date_published": "2026-07-21T21:33:29+00:00"
     }
   ]
 }

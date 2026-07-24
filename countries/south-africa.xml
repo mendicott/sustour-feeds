@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/south-africa.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for South Africa. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 23 Jul 2026 22:09:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 10:09:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>South Africa relocates six cheetahs to Zambia to restore species - Big News Network.com</title>
+<link>https://www.bignewsnetwork.com/news/279206601/south-africa-relocates-six-cheetahs-to-zambia-to-restore-species</link>
+<guid isPermaLink="false">https://www.bignewsnetwork.com/news/279206601/south-africa-relocates-six-cheetahs-to-zambia-to-restore-species</guid>
+<pubDate>Fri, 24 Jul 2026 03:50:09 +0000</pubDate>
+<description>South Africa has relocated six cheetahs to Zambia's greater Luangwa ecosystem, where the species has been absent for nearly three decades, ...</description>
+</item>
 <item>
 <title>Unlocking the potential of South Africa's spiritual tourism</title>
 <link>https://independentonsaturday.co.za/ios/news/6476834811150336/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.pressreader.com/botswana/mmegi/20260605/281865830148477</guid>
 <pubDate>Fri, 05 Jun 2026 03:58:06 +0000</pubDate>
 <description>2026-06-05 - (Issued by Wilderness Botswana) Tourism · Travel · Botswana · Earth · Gaborone · Africa · South Africa · Simon · National Botanical ...</description>
-</item>
-<item>
-<title>South Africa relocates 6 cheetahs to Zambia to restore species - Xinhua</title>
-<link>https://english.news.cn/20260723/b7e4094dbdbc47cfbec8a0e09afe9e72/c.html</link>
-<guid isPermaLink="false">https://english.news.cn/20260723/b7e4094dbdbc47cfbec8a0e09afe9e72/c.html</guid>
-<pubDate>Wed, 22 Jul 2026 17:19:35 +0000</pubDate>
-<description>JOHANNESBURG, July 22 (Xinhua) -- South Africa has relocated six cheetahs to Zambia's ... In a statement, Zambia's Ministry of Tourism welcomed the ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/denmark.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Denmark. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 23 Jul 2026 22:09:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 10:09:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Norway Unites with Denmark and Others as Northern Europe Now Emerges as the Fastest ...</title>
+<link>https://www.travelandtourworld.com/news/article/jp4azj8ytkrs/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/jp4azj8ytkrs/</guid>
+<pubDate>Thu, 23 Jul 2026 06:30:00 +0000</pubDate>
+<description>Norway and Denmark lead Northern Europe's tourism rise with record visitor demand, cooler summers, nature travel and sustainable tourism growth.</description>
+</item>
 <item>
 <title>Will mass tourism ruin Greenland? - ThinkLandscape - Global Landscapes Forum</title>
 <link>https://thinklandscape.globallandscapesforum.org/105517/greenland-is-opening-its-doors-but-will-it-lose-itself/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.rti.org.tw/en/programnews?uid=4&amp;pid=109488</guid>
 <pubDate>Tue, 21 Jul 2026 16:03:07 +0000</pubDate>
 <description>UK scraps 200-year law that criminalized rough sleeping. Copenhagen turns responsible tourism into rewards with CopenPay initiative. Japanese ...</description>
-</item>
-<item>
-<title>France Leads Poland, Denmark, Czech Republic, Cyprus, and Others in ... - Travel And Tour World</title>
-<link>https://www.travelandtourworld.com/news/article/9gzbrf6i2waq/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/9gzbrf6i2waq/</guid>
-<pubDate>Sat, 18 Jul 2026 11:33:18 +0000</pubDate>
-<description>France and European partners transform industrial heritage into sustainable tourism through IndusTour, boosting regions and reducing tourism ...</description>
 </item>
 </channel>
 </rss>

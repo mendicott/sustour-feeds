@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 23 Jul 2026 22:09:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 10:09:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Green responsibility - The foundation of sustainable coastal tourism - Vietnam.vn</title>
+<link>https://www.vietnam.vn/en/trach-nhiem-xanh-nen-tang-cua-du-lich-bien-ben-vung</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/trach-nhiem-xanh-nen-tang-cua-du-lich-bien-ben-vung</guid>
+<pubDate>Fri, 24 Jul 2026 00:25:04 +0000</pubDate>
+<description>VTV.vn - Sustainable coastal tourism not only exploits the beauty of the ocean but also contributes to ecosystem conservation, ...</description>
+</item>
 <item>
 <title>Now Cambodia, Thailand, Vietnam, and Singapore Unlock Kep's Art-Led Coastal Revival ...</title>
 <link>https://www.travelandtourworld.com/news/article/jcsrusj2woar/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.vietnam.vn/en/de-xuat-giai-phap-phat-trien-du-lich-cong-dong-buon-ako-dhong</guid>
 <pubDate>Tue, 21 Jul 2026 12:32:04 +0000</pubDate>
 <description>... community tourism development ... However, the development of community-based tourism in the village still faces many challenges.</description>
-</item>
-<item>
-<title>Stilt houses - A highlight of community tourism at Ba Be Lake. - Vietnam.vn</title>
-<link>https://www.vietnam.vn/en/nha-san-diem-nhan-du-lich-cong-dong-ho-ba-be</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/nha-san-diem-nhan-du-lich-cong-dong-ho-ba-be</guid>
-<pubDate>Tue, 21 Jul 2026 09:08:51 +0000</pubDate>
-<description>Stilt houses - A highlight of community tourism at Ba Be Lake. In recent years, community-based tourism in Ba Be has increasingly attracted a ...</description>
 </item>
 </channel>
 </rss>
