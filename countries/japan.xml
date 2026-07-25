@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/japan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Japan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 25 Jul 2026 10:09:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 22:07:58 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Japan Targets Tohoku as Its Next Overtourism Escape While New Rail Strategy Aims to ...</title>
+<link>https://www.travelandtourworld.com/news/article/uu8mpxacexir/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/uu8mpxacexir/</guid>
+<pubDate>Sat, 25 Jul 2026 15:24:14 +0000</pubDate>
+<description>Japan's answer to overtourism may lie several hundred kilometres north of Kyoto's congested lanes and Tokyo's busiest districts.</description>
+</item>
 <item>
 <title>Japan's Kamikōchi Emerges as a Premier Alpine Nature Escape Where Protected Mountain ...</title>
 <link>https://www.travelandtourworld.com/news/article/vjm0s2fe5axw/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://japannews.yomiuri.co.jp/editorial/yomiuri-editorial/20260708-337216/</guid>
 <pubDate>Wed, 08 Jul 2026 06:57:33 +0000</pubDate>
 <description>In 2007, a Canadian tourist ship sank, resulting in a fuel spill. Global warming is also having a negative impact. In April, the International Union ...</description>
-</item>
-<item>
-<title>Nations rewrite tourism playbooks as inflation and anti-tourism impede summer travel</title>
-<link>https://www.traveldailymedia.com/nations-rewrite-tourism-playbooks-as-inflation-and-anti-tourism-impede-summer-travel/</link>
-<guid isPermaLink="false">https://www.traveldailymedia.com/nations-rewrite-tourism-playbooks-as-inflation-and-anti-tourism-impede-summer-travel/</guid>
-<pubDate>Mon, 06 Jul 2026 23:06:57 +0000</pubDate>
-<description>Backlash from overtourism in major destinations like Japan, France, and the Maldives. These issues have actually given way to a new trend called ...</description>
 </item>
 </channel>
 </rss>

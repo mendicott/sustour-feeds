@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/cambodia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Cambodia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 25 Jul 2026 10:09:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 22:07:58 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Cambodia Advances New Green Tourism Strategy as Phnom Penh Launches Plastic-Free ...</title>
+<link>https://www.travelandtourworld.com/news/article/8pqnzstzkozr/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/8pqnzstzkozr/</guid>
+<pubDate>Sat, 25 Jul 2026 07:56:21 +0000</pubDate>
+<description>Cambodia launches plastic-free tourism zones in Phnom Penh to reduce pollution, promote sustainable travel and strengthen green tourism ...</description>
+</item>
 <item>
 <title>Now Cambodia, Thailand, Vietnam, and Singapore Unlock Kep's Art-Led Coastal Revival ...</title>
 <link>https://www.travelandtourworld.com/news/article/jcsrusj2woar/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://kiripost.com/stories/flash-floods-strand-551-tourist-at-khnong-phsar-as-climate-risks-hit-ecotourism</guid>
 <pubDate>Tue, 14 Jul 2026 07:28:28 +0000</pubDate>
 <description>... Cambodia's nature-based tourism industry. The Ministry of Environment ... climate change increases the frequency of extreme weather events.</description>
-</item>
-<item>
-<title>Angkor Tourism Revenue Slides Nearly Thirty Percent as Cambodia Grapples with Falling ...</title>
-<link>https://www.travelandtourworld.com/news/article/v12sg6tpn3bx/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/v12sg6tpn3bx/</guid>
-<pubDate>Tue, 14 Jul 2026 06:21:38 +0000</pubDate>
-<description>While international visitor numbers declined by 31.69% and ticket income fell to US$18.47 million, the continued funding of heritage conservation and ...</description>
 </item>
 </channel>
 </rss>

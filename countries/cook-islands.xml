@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/cook-islands.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Cook Islands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 25 Jul 2026 10:09:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 22:07:58 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Pacific leaders gather to strengthen Indigenous-led conservation - Cook Islands News</title>
@@ -44,6 +44,13 @@
 <description>According to TIS, during the 1980s, rising tourism repeatedly sidelined environmental priorities, highlighting the need for proactive preservation. By ...</description>
 </item>
 <item>
+<title>Unlocking ocean secrets: Voyage delivers critical baseline data for Cook Islands' future</title>
+<link>http://www.cookislandsnews.com/internal/national/local/environment/weather/unlocking-ocean-secrets-voyage-delivers-critical-baseline-data-for-cook-islands-future/</link>
+<guid isPermaLink="false">http://www.cookislandsnews.com/internal/national/local/environment/weather/unlocking-ocean-secrets-voyage-delivers-critical-baseline-data-for-cook-islands-future/</guid>
+<pubDate>Sat, 25 Jul 2026 19:54:59 +0000</pubDate>
+<description>A month-long scientific voyage aboard New Zealand's two-year-old research vessel Kaharoa II has provided the Cook Islands with its most ...</description>
+</item>
+<item>
 <title>MFEM and Education join forces to upskill tradespeople under GCF - Cook Islands News</title>
 <link>http://www.cookislandsnews.com/internal/national/environment/economy/education/mfem-and-education-join-forces-to-upskill-tradespeople-under-gcf/</link>
 <guid isPermaLink="false">http://www.cookislandsnews.com/internal/national/environment/economy/education/mfem-and-education-join-forces-to-upskill-tradespeople-under-gcf/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">http://www.cookislandsnews.com/internal/national/local/environment/cook-islands-introduces-heavy-fines-and-jail-time-under-new-environment-act/</guid>
 <pubDate>Wed, 15 Jul 2026 18:28:52 +0000</pubDate>
 <description>The newly passed Environment Act 2026 replaces the 2003 legislation, introducing strict operational rules, distinct regulatory roles and heavy ...</description>
-</item>
-<item>
-<title>PACNEWS TWO, Friday 10 July 2026 - Islands Business</title>
-<link>https://islandsbusiness.com/pacnews/pacnews-two-friday-10-july-2026/</link>
-<guid isPermaLink="false">https://islandsbusiness.com/pacnews/pacnews-two-friday-10-july-2026/</guid>
-<pubDate>Fri, 10 Jul 2026 05:35:27 +0000</pubDate>
-<description>... climate change, biodiversity loss, pollution and disaster risks. ... RAROTONGA, 10 JULY 2026 (PMN) — The Cook Islands' tourism industry may ...</description>
 </item>
 </channel>
 </rss>
