@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.galapagos.org/newsroom/galapagos-students-join-new-hands-on-conservation-education-program/",
+      "url": "https://www.galapagos.org/newsroom/galapagos-students-join-new-hands-on-conservation-education-program/",
+      "title": "Galápagos Students Join New Hands-On Conservation Education Program",
+      "content_text": "\"People travel thousands of miles to experience the unforgettable wildlife in Galapagos,\" said Hugo Mogollón, chief executive officer of Galápagos ...",
+      "date_published": "2026-07-24T20:39:49+00:00"
+    },
+    {
       "id": "https://www.conservation.org/news/a-new-corridor-is-reconnecting-one-of-ecuadors-richest-rainforests",
       "url": "https://www.conservation.org/news/a-new-corridor-is-reconnecting-one-of-ecuadors-richest-rainforests",
       "title": "A new corridor is reconnecting one of Ecuador's richest rainforests",
@@ -68,13 +75,6 @@
       "title": "A group of Indigenous women from across Ecuador's Amazon walk near a ... - Sandusky Register",
       "content_text": "... travel through the region on what activists call a toxitour visiting oil fields in Sucumbios, Ecuador, on March 6. | Sandusky Register ...",
       "date_published": "2026-06-26T05:13:13+00:00"
-    },
-    {
-      "id": "https://finance.yahoo.com/economy/policy/articles/dp-world-espol-partner-advance-133000023.html",
-      "url": "https://finance.yahoo.com/economy/policy/articles/dp-world-espol-partner-advance-133000023.html",
-      "title": "DP World and ESPOL Partner To Advance Marine Biodiversity Research at the Port of Posorja",
-      "content_text": "New scientific monitoring program will measure the ecological impact of Living Seawalls infrastructure in Ecuador NORTHAMPTON, ...",
-      "date_published": "2026-06-25T13:47:00+00:00"
     }
   ]
 }

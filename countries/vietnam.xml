@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 24 Jul 2026 22:08:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 10:09:41 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>The wonders of the UNESCO Global Geopark Dak Nong - Vietnam.vn</title>
+<link>https://www.vietnam.vn/en/ky-thu-cong-vien-dia-chat-toan-cau-unesco-ak-nong</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/ky-thu-cong-vien-dia-chat-toan-cau-unesco-ak-nong</guid>
+<pubDate>Sat, 25 Jul 2026 03:50:53 +0000</pubDate>
+<description>We visited the UNESCO Dak Nong Global Geopark (in Lam Dong province) in mid-July 2026. Spanning over 4760 square kilometers, the majestic mountain ...</description>
+</item>
 <item>
 <title>Green responsibility - The foundation of sustainable coastal tourism - Vietnam.vn</title>
 <link>https://www.vietnam.vn/en/trach-nhiem-xanh-nen-tang-cua-du-lich-bien-ben-vung</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.vietnam.vn/en/phat-trien-the-manh-du-lich-cong-dong</guid>
 <pubDate>Tue, 21 Jul 2026 12:37:26 +0000</pubDate>
 <description>Kiem Lai Homestay in Na Tau village is one of the typical models of community tourism in Ngoc Chien. Built in the traditional stilt house architecture ...</description>
-</item>
-<item>
-<title>Proposed solutions for developing community tourism in Akŏ Dhông village. - Vietnam.vn</title>
-<link>https://www.vietnam.vn/en/de-xuat-giai-phap-phat-trien-du-lich-cong-dong-buon-ako-dhong</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/de-xuat-giai-phap-phat-trien-du-lich-cong-dong-buon-ako-dhong</guid>
-<pubDate>Tue, 21 Jul 2026 12:32:04 +0000</pubDate>
-<description>... community tourism development ... However, the development of community-based tourism in the village still faces many challenges.</description>
 </item>
 </channel>
 </rss>

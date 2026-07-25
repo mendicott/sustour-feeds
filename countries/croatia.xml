@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/croatia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Croatia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 24 Jul 2026 22:08:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 10:09:41 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Croatia Unleashes a Mighty Adriatic Tourism Reset as Dubrovnik Tackles Crushing Crowds ...</title>
+<link>https://www.travelandtourworld.com/news/article/3wn1jwq6otmo/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/3wn1jwq6otmo/</guid>
+<pubDate>Sat, 25 Jul 2026 08:46:29 +0000</pubDate>
+<description>Through these measures, the city's appeal is not being diminished. Its atmosphere, heritage and travel value are being defended from the very ...</description>
+</item>
 <item>
 <title>'Respect the City': How Dubrovnik is managing overtourism without losing its charm</title>
 <link>https://www.euronews.com/travel/2026/07/24/respect-the-city-how-dubrovnik-is-managing-overtourism-without-losing-its-charm</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.pressreader.com/usa/the-kansas-city-star-sunday/20260712/282699053881498</guid>
 <pubDate>Sun, 12 Jul 2026 06:24:01 +0000</pubDate>
 <description>Dubrovnik began a fightback against overtourism a decade ago when there were reportedly warnings the Croatian city could lose its Unesco World ...</description>
-</item>
-<item>
-<title>Croatia's Tourism Reaches Capacity Limits, Says Prime Minister, Calls for Competitive Pricing</title>
-<link>https://www.thedubrovniktimes.com/news/croatia/item/20128-croatia-s-tourism-reaches-capacity-limits-says-prime-minister-calls-for-competitive-pricing</link>
-<guid isPermaLink="false">https://www.thedubrovniktimes.com/news/croatia/item/20128-croatia-s-tourism-reaches-capacity-limits-says-prime-minister-calls-for-competitive-pricing</guid>
-<pubDate>Sat, 11 Jul 2026 12:53:03 +0000</pubDate>
-<description>Croatian Prime Minister Andrej Plenković says Croatia's tourism sector has reached its capacity, urging competitive pricing as the country records ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 24 Jul 2026 22:08:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 10:09:41 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>'No time to waste': Greece bids for Mount Olympus to be included on Unesco list of world ...</title>
+<link>https://www.theguardian.com/world/2026/jul/25/no-time-to-waste-greece-bids-for-mount-olympus-to-be-included-on-unesco-list-of-world-heritage-sites</link>
+<guid isPermaLink="false">https://www.theguardian.com/world/2026/jul/25/no-time-to-waste-greece-bids-for-mount-olympus-to-be-included-on-unesco-list-of-world-heritage-sites</guid>
+<pubDate>Sat, 25 Jul 2026 05:31:16 +0000</pubDate>
+<description>Increasingly the designation is regarded as a bulwark against the depredations of development and overtourism. ... climate breakdown. "They could ...</description>
+</item>
 <item>
 <title>Eco group hails 'landmark ruling' by EU court on projects in Natura sites - eKathimerini.com</title>
 <link>https://www.ekathimerini.com/news/environment/1310377/eco-group-hails-landmark-ruling-by-eu-court-on-projects-in-natura-sites/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/uzgxug1fd171/</guid>
 <pubDate>Wed, 15 Jul 2026 06:27:41 +0000</pubDate>
 <description>Across the Netherlands, a major visitor-economy reset has been advanced as Amsterdam overtourism measures are used to protect housing, neighbourhoods, ...</description>
-</item>
-<item>
-<title>Italy Aligns With Spain, France, Greece and Other EU Nations as Natura 2000 Network ...</title>
-<link>https://www.travelandtourworld.com/news/article/qd1s4ig6ldea/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/qd1s4ig6ldea/</guid>
-<pubDate>Wed, 15 Jul 2026 06:16:47 +0000</pubDate>
-<description>The European Commission has launched a major sustainable tourism push by introducing new guidelines that position Europe's Natura 2000 protected areas ...</description>
 </item>
 </channel>
 </rss>

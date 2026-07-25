@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/cook-islands.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Cook Islands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 24 Jul 2026 22:08:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 10:09:41 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Pacific leaders gather to strengthen Indigenous-led conservation - Cook Islands News</title>
@@ -44,6 +44,13 @@
 <description>According to TIS, during the 1980s, rising tourism repeatedly sidelined environmental priorities, highlighting the need for proactive preservation. By ...</description>
 </item>
 <item>
+<title>MFEM and Education join forces to upskill tradespeople under GCF - Cook Islands News</title>
+<link>http://www.cookislandsnews.com/internal/national/environment/economy/education/mfem-and-education-join-forces-to-upskill-tradespeople-under-gcf/</link>
+<guid isPermaLink="false">http://www.cookislandsnews.com/internal/national/environment/economy/education/mfem-and-education-join-forces-to-upskill-tradespeople-under-gcf/</guid>
+<pubDate>Fri, 24 Jul 2026 18:22:07 +0000</pubDate>
+<description>The GCF EDA Project, "Direct Financing for Communities and Businesses to Respond to Climate Change in the Cook Islands", was established through the ...</description>
+</item>
+<item>
 <title>Expanding Access to Clean Water in the Cook Islands - Asian Development Bank</title>
 <link>https://www.adb.org/node/1162096</link>
 <guid isPermaLink="false">https://www.adb.org/node/1162096</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://islandsbusiness.com/pacnews/pacnews-two-friday-10-july-2026/</guid>
 <pubDate>Fri, 10 Jul 2026 05:35:27 +0000</pubDate>
 <description>... climate change, biodiversity loss, pollution and disaster risks. ... RAROTONGA, 10 JULY 2026 (PMN) — The Cook Islands' tourism industry may ...</description>
-</item>
-<item>
-<title>Cook Islands Government accelerates renewable energy push</title>
-<link>https://www.cookislandsnews.com/internal/national/local/environment/outer-islands/technology/economy/cook-islands-government-accelerates-renewable-energy-push/</link>
-<guid isPermaLink="false">https://www.cookislandsnews.com/internal/national/local/environment/outer-islands/technology/economy/cook-islands-government-accelerates-renewable-energy-push/</guid>
-<pubDate>Sat, 04 Jul 2026 12:31:21 +0000</pubDate>
-<description>After failing to achieve earlier targets, the government has accelerated its renewable energy pledge with a solar project aimed at cutting diesel ...</description>
 </item>
 </channel>
 </rss>

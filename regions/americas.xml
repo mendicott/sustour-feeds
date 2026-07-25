@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/americas.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Americas. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 24 Jul 2026 22:08:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 10:09:41 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Rota dos Corais, Pernambuco, Tourism Evolves into Global Model for Coral Reef ...</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/xayeuiebdu17/</guid>
 <pubDate>Wed, 24 Jun 2026 18:42:55 +0000</pubDate>
 <description>Brazil Rota dos Corais tourism lets visitors join coral reef restoration through regenerative travel led by Biofábrica de Corais in Pernambuco.</description>
+</item>
+<item>
+<title>Galápagos Students Join New Hands-On Conservation Education Program</title>
+<link>https://www.galapagos.org/newsroom/galapagos-students-join-new-hands-on-conservation-education-program/</link>
+<guid isPermaLink="false">https://www.galapagos.org/newsroom/galapagos-students-join-new-hands-on-conservation-education-program/</guid>
+<pubDate>Fri, 24 Jul 2026 20:39:49 +0000</pubDate>
+<description>"People travel thousands of miles to experience the unforgettable wildlife in Galapagos," said Hugo Mogollón, chief executive officer of Galápagos ...</description>
 </item>
 <item>
 <title>A new corridor is reconnecting one of Ecuador's richest rainforests</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.traveldailynews.com/regional-news/central-south-america/colombia-expands-fair-trade-tourism-programme-across-12-regions/</guid>
 <pubDate>Thu, 23 Jul 2026 05:24:14 +0000</pubDate>
 <description>Fair trade tourism: Colombia launches territorial training across 12 regions to support responsible, inclusive and community-based tourism.</description>
-</item>
-<item>
-<title>Hawaii, New Zealand, French Polynesia and United States Strengthen Pacific Tourism ...</title>
-<link>https://www.travelandtourworld.com/news/article/zpfj775ro2ip/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/zpfj775ro2ip/</guid>
-<pubDate>Wed, 22 Jul 2026 18:49:01 +0000</pubDate>
-<description>Hawaii, New Zealand, French Polynesia and United States Strengthen Pacific Tourism Through Waa Kia Cultural Alliance for Sustainable Heritage Travel.</description>
 </item>
 </channel>
 </rss>

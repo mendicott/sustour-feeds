@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/lebanon.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Lebanon. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 24 Jul 2026 22:08:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 10:09:41 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>'They Knew Exactly Who Mona Khalil Was': Israel Kills Lebanese Turtle Conservationist</title>
@@ -58,6 +58,13 @@
 <description>The Orange House Project, which Khalil helped build into a small conservation hub and ecotourism site in al-Mansouri, became a refuge for ...</description>
 </item>
 <item>
+<title>UNESCO places occupied West Bank, Lebanon sites on endangered heritage list</title>
+<link>https://www.aljazeera.com/news/2026/7/24/unesco-places-occupied-west-bank-lebanon-sites-on-endangered-heritage-list</link>
+<guid isPermaLink="false">https://www.aljazeera.com/news/2026/7/24/unesco-places-occupied-west-bank-lebanon-sites-on-endangered-heritage-list</guid>
+<pubDate>Fri, 24 Jul 2026 21:05:29 +0000</pubDate>
+<description>That project would add a fence, entry fees and a road restricted to use by Israelis, bypassing the Palestinian tourism trade built around the ruins.</description>
+</item>
+<item>
 <title>UNESCO adds Lebanese, West Bank sites to endangered list - DW</title>
 <link>https://amp.dw.com/en/unesco-adds-lebanese-west-bank-sites-to-endangered-list/a-78102475</link>
 <guid isPermaLink="false">https://amp.dw.com/en/unesco-adds-lebanese-west-bank-sites-to-endangered-list/a-78102475</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.lemonde.fr/en/international/article/2026/07/24/unesco-adds-west-bank-site-and-lebanese-castles-to-world-heritage-list_6755793_4.html</guid>
 <pubDate>Fri, 24 Jul 2026 12:11:34 +0000</pubDate>
 <description>Climate change · World · Europe · France ... At Friday's meeting, a Lebanese delegate said the castles have been used "only for cultural and tourism ...</description>
-</item>
-<item>
-<title>UNESCO lists world heritage sites in Lebanon, West Bank as in danger - Al Arabiya</title>
-<link>https://english.alarabiya.net/amp/News/middle-east/2026/07/24/unesco-lists-world-heritage-sites-in-lebanon-west-bank-as-in-danger</link>
-<guid isPermaLink="false">https://english.alarabiya.net/amp/News/middle-east/2026/07/24/unesco-lists-world-heritage-sites-in-lebanon-west-bank-as-in-danger</guid>
-<pubDate>Fri, 24 Jul 2026 11:57:45 +0000</pubDate>
-<description>The UN's cultural agency on Friday placed locations including a Lebanese castle recently conquered by Israeli forces and an archaeological site in ...</description>
 </item>
 </channel>
 </rss>
