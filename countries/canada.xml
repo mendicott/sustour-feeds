@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/canada.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Canada. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 26 Jul 2026 10:08:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 22:07:49 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Lunenburg celebrates 30th year as UNESCO world heritage site - Yahoo News Canada</title>
+<link>https://ca.news.yahoo.com/lunenburg-celebrates-30th-unesco-world-220052491.html</link>
+<guid isPermaLink="false">https://ca.news.yahoo.com/lunenburg-celebrates-30th-unesco-world-220052491.html</guid>
+<pubDate>Sat, 25 Jul 2026 23:35:33 +0000</pubDate>
+<description>The National Trust for Canada, a charity focusing on historic sites ... (Town of Lunenburg Tourism). More. Old Town Lunenburg already brings in ...</description>
+</item>
 <item>
 <title>Introducing 'Tomorrow Beckons', a Global Regenerative Travel Program</title>
 <link>https://www.thehotelconversation.com.au/profiles/2026/07/24/introducing-tomorrow-beckons-global-regenerative-travel-program/1784855541</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://ca.finance.yahoo.com/news/government-canada-powering-long-term-203000800.html</guid>
 <pubDate>Mon, 13 Jul 2026 20:47:25 +0000</pubDate>
 <description>... Indigenous tourism, the Government of Canada is making targeted investments to help share authentic Indigenous stories and support economic ...</description>
-</item>
-<item>
-<title>30 Beluga Whales trapped at closed marine park finally getting rescued: Next destination revealed</title>
-<link>https://www.geo.tv/latest/672910-30-beluga-whales-trapped-at-closed-marine-park-finally-getting-rescued</link>
-<guid isPermaLink="false">https://www.geo.tv/latest/672910-30-beluga-whales-trapped-at-closed-marine-park-finally-getting-rescued</guid>
-<pubDate>Mon, 13 Jul 2026 20:00:27 +0000</pubDate>
-<description>The park first wanted to send the whales to a marine park in China; however, the Canadian officials said no, citing concerns about animal welfare. In ...</description>
 </item>
 </channel>
 </rss>

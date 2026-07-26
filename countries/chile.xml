@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/chile.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Chile. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 26 Jul 2026 10:08:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 22:07:49 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>According to a study, for every dollar invested in Chilean Patagonia national parks, six return ...</title>
+<link>https://noticiasambientales.com/environment-en/according-to-a-study-for-every-dollar-invested-in-chilean-patagonia-national-parks-six-return-to-the-local-economy/</link>
+<guid isPermaLink="false">https://noticiasambientales.com/environment-en/according-to-a-study-for-every-dollar-invested-in-chilean-patagonia-national-parks-six-return-to-the-local-economy/</guid>
+<pubDate>Sun, 26 Jul 2026 10:57:42 +0000</pubDate>
+<description>Tourism in Figures · Turning conservation into a central asset of the country brand. · Diversifying funding sources for protected areas. · Articulating ...</description>
+</item>
 <item>
 <title>Introducing 'Tomorrow Beckons', a Global Regenerative Travel Program</title>
 <link>https://www.thehotelconversation.com.au/profiles/2026/07/24/introducing-tomorrow-beckons-global-regenerative-travel-program/1784855541</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/n6n9o9z8fida/</guid>
 <pubDate>Wed, 22 Jul 2026 21:20:09 +0000</pubDate>
 <description>Modern travelers prioritize Chile for its commitment to green tourism, pristine national parks, and eco-certified luxury lodges. Advertisement ...</description>
-</item>
-<item>
-<title>Raíces únicas en el mundo: cinco joyas de la flora endémica resguardadas en nuestros parques</title>
-<link>https://www.marcachile.cl/en/raices-unicas-en-el-mundo-cinco-joyas-de-la-flora-endemica-resguardadas-en-nuestros-parques/</link>
-<guid isPermaLink="false">https://www.marcachile.cl/en/raices-unicas-en-el-mundo-cinco-joyas-de-la-flora-endemica-resguardadas-en-nuestros-parques/</guid>
-<pubDate>Fri, 17 Jul 2026 20:39:26 +0000</pubDate>
-<description>Learn more about the world's unique roots: five gems of endemic flora protected in our parks, and how they enhance Chile's image around the world.</description>
 </item>
 </channel>
 </rss>

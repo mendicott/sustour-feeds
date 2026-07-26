@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for China. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 26 Jul 2026 10:08:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 22:07:49 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>China shares its experiences at World Heritage Committee session</title>
+<link>https://www.chinadaily.com.cn/a/202607/26/WS6a65ed9aa310986e2b467545.html</link>
+<guid isPermaLink="false">https://www.chinadaily.com.cn/a/202607/26/WS6a65ed9aa310986e2b467545.html</guid>
+<pubDate>Sun, 26 Jul 2026 17:23:01 +0000</pubDate>
+<description>"Since 2024, the National Cultural Heritage Administration of China has been donating to ICOMOS to fund a joint research project to develop a ...</description>
+</item>
 <item>
 <title>From Combating Desertification to the Green Economy: China Seeks to Reach 26% Forest ...</title>
 <link>https://www.telesurenglish.net/from-combating-desertification-to-the-green-economy-china-seeks-to-reach-26-forest-coverage-by-2030/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.sxdaily.com.cn/2026-06/22/content_20043585.html</guid>
 <pubDate>Mon, 22 Jun 2026 08:37:05 +0000</pubDate>
 <description>"Everything is well-preserved. That's real ecological tourism and responsible tourism," said a Tunisian official on his first visit to SW China's ...</description>
-</item>
-<item>
-<title>Romania Joins China, Switzerland, Norway, Turkey and France in a High-Altitude ...</title>
-<link>https://www.travelandtourworld.com/news/article/7cfde4ax9uzt/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/7cfde4ax9uzt/</guid>
-<pubDate>Wed, 17 Jun 2026 17:27:52 +0000</pubDate>
-<description>Travel planners expect the bridge to be integrated into broader tourism circuits. These may include forest trails, heritage towns, and protected ...</description>
 </item>
 </channel>
 </rss>
