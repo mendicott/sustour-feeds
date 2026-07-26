@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/india.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for India. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 25 Jul 2026 22:07:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 10:08:07 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Can India's Panna Tiger Reserve success story be sustained? - The Week</title>
+<link>https://www.theweek.in/theweek/specials/2026/07/25/panna-tiger-reserve-can-indias-tiger-success-story-be-sustained.html</link>
+<guid isPermaLink="false">https://www.theweek.in/theweek/specials/2026/07/25/panna-tiger-reserve-can-indias-tiger-success-story-be-sustained.html</guid>
+<pubDate>Sun, 26 Jul 2026 02:32:03 +0000</pubDate>
+<description>Ethical tourism that benefits local communities is indispensable to securing long-term public support for tiger conservation." 61-Tiger-population.</description>
+</item>
 <item>
 <title>Environmental safeguards must precede tourism expansion: Tarigami - UNITED NEWS OF INDIA</title>
 <link>https://www.uniindia.com/environmental-safeguards-must-precede-tourism-expansion-tarigami/north/news/3919909.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://organiser.org/2026/07/18/370507/bharat/from-prambanan-to-angkor-wat-how-india-is-preserving-ancient-heritage-to-strengthen-global-cultural-ties/</guid>
 <pubDate>Sat, 18 Jul 2026 15:54:20 +0000</pubDate>
 <description>Today, the Archaeological Survey of India (ASI) serves as a trusted technical partner for world heritage conservation in numerous countries. Cambodia: ...</description>
-</item>
-<item>
-<title>Dark-sky tourism: India must protect night skies to boost ecology and tourism - Deccan Herald</title>
-<link>https://www.deccanherald.com/amp/story/opinion%2Flooking-up-to-the-night-sky-4077663</link>
-<guid isPermaLink="false">https://www.deccanherald.com/amp/story/opinion%2Flooking-up-to-the-night-sky-4077663</guid>
-<pubDate>Sat, 18 Jul 2026 02:51:42 +0000</pubDate>
-<description>A national dark-sky policy, shielded lighting and astronomy tourism can ... Such a tourism policy must respect ecological carrying capacity ...</description>
 </item>
 </channel>
 </rss>

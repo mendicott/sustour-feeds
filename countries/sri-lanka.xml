@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/sri-lanka.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Sri Lanka. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 25 Jul 2026 22:07:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 10:08:07 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Communities drive mangrove restoration in Mullaitivu to boost climate resilience - Newswire</title>
@@ -65,18 +65,18 @@
 <description>Discover how responsible tourism directly benefits local communities, drives global travel trends, eliminates economic leakage, and empowers rural ...</description>
 </item>
 <item>
+<title>Blog: Beyond planting – three lessons in mangrove restoration from Sri Lanka</title>
+<link>https://thecommonwealth.org/story/blog-beyond-planting-three-lessons-mangrove-restoration-sri-lanka</link>
+<guid isPermaLink="false">https://thecommonwealth.org/story/blog-beyond-planting-three-lessons-mangrove-restoration-sri-lanka</guid>
+<pubDate>Sat, 25 Jul 2026 18:45:57 +0000</pubDate>
+<description>Blog by Dr Gina Maswabi, Dr Deepa Pullanikkatil, Mxolisi Sibanda and Dr Laila Shahzad, Climate Change section, Commonwealth Secretariat.</description>
+</item>
+<item>
 <title>El Niño and encroachment threaten Sri Lanka's national parks | News - Eco-Business</title>
 <link>https://www.eco-business.com/news/el-nino-and-encroachment-threaten-sri-lankas-national-parks/</link>
 <guid isPermaLink="false">https://www.eco-business.com/news/el-nino-and-encroachment-threaten-sri-lankas-national-parks/</guid>
 <pubDate>Fri, 24 Jul 2026 14:59:54 +0000</pubDate>
 <description>Encroachments of national parks in Sri Lanka had occurred as early as the 1950s and 1960s, shrinking park terrain.</description>
-</item>
-<item>
-<title>Remapping country's hidden tourism experiences - The island.lk</title>
-<link>https://island.lk/remapping-countrys-hidden-tourism-experiences/</link>
-<guid isPermaLink="false">https://island.lk/remapping-countrys-hidden-tourism-experiences/</guid>
-<pubDate>Thu, 23 Jul 2026 12:12:19 +0000</pubDate>
-<description>Pic and story by S.K. Samaranayake. Sarath Wijewardena, a Sri Lankan eco-tourism guide, and Aaron Moore, a British tourist, are currently engaged ...</description>
 </item>
 </channel>
 </rss>
