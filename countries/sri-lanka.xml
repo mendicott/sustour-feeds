@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/sri-lanka.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Sri Lanka. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 27 Jul 2026 10:08:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 22:09:44 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Hayleys Plantations advances Payment for Ecosystem Services across Sri Lanka's estates</title>
+<link>https://www.ft.lk/business/Hayleys-Plantations-advances-Payment-for-Ecosystem-Services-across-Sri-Lanka-s-estates/34-795195</link>
+<guid isPermaLink="false">https://www.ft.lk/business/Hayleys-Plantations-advances-Payment-for-Ecosystem-Services-across-Sri-Lanka-s-estates/34-795195</guid>
+<pubDate>Mon, 27 Jul 2026 01:22:00 +0000</pubDate>
+<description>Hayleys Plantations Managing Director Dr. Roshan Rajadurai, UNDP in Sri Lanka Resident Representative Azusa Kubota and Hayleys General Manager ...</description>
+</item>
 <item>
 <title>Communities drive mangrove restoration in Mullaitivu to boost climate resilience - Newswire</title>
 <link>https://www.newswire.lk/2026/07/24/communities-drive-mangrove-restoration-in-mullaitivu-to-boost-climate-resilience/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://thecommonwealth.org/story/blog-beyond-planting-three-lessons-mangrove-restoration-sri-lanka</guid>
 <pubDate>Sat, 25 Jul 2026 18:45:57 +0000</pubDate>
 <description>Blog by Dr Gina Maswabi, Dr Deepa Pullanikkatil, Mxolisi Sibanda and Dr Laila Shahzad, Climate Change section, Commonwealth Secretariat.</description>
-</item>
-<item>
-<title>El Niño and encroachment threaten Sri Lanka's national parks | News - Eco-Business</title>
-<link>https://www.eco-business.com/news/el-nino-and-encroachment-threaten-sri-lankas-national-parks/</link>
-<guid isPermaLink="false">https://www.eco-business.com/news/el-nino-and-encroachment-threaten-sri-lankas-national-parks/</guid>
-<pubDate>Fri, 24 Jul 2026 14:59:54 +0000</pubDate>
-<description>Encroachments of national parks in Sri Lanka had occurred as early as the 1950s and 1960s, shrinking park terrain.</description>
 </item>
 </channel>
 </rss>
