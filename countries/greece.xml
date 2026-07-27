@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 26 Jul 2026 22:07:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 10:08:46 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Greek Islands: Tourism Makes Water Scarcity Worse | .TR</title>
+<link>https://www.tourism-review.com/greek-islands-face-water-scarcity-not-only-due-to-tourism-news15580</link>
+<guid isPermaLink="false">https://www.tourism-review.com/greek-islands-face-water-scarcity-not-only-due-to-tourism-news15580</guid>
+<pubDate>Mon, 27 Jul 2026 05:46:37 +0000</pubDate>
+<description>Similarly, the consumption of water on Santorini increases by over 500 percent, while that of Paros and Karpathos increases by around 344 percent ...</description>
+</item>
 <item>
 <title>Santorini Joins Athens, Mykonos and Other Greek Cities in Implementing Strict Restrictions ...</title>
 <link>https://www.travelandtourworld.com/news/article/3jirbhwndpv1/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ra5yd02ysu8r/</guid>
 <pubDate>Fri, 17 Jul 2026 11:28:34 +0000</pubDate>
 <description>Spain, Italy, Greece, France and Germany support new Natura 2000 guidelines as Europe targets overtourism control, biodiversity protection and ...</description>
-</item>
-<item>
-<title>Greece Stands with Italy, Spain, France, Portugal and Others in New Travel Restrictions with ...</title>
-<link>https://www.travelandtourworld.com/news/article/8fp92y45xe1p/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/8fp92y45xe1p/</guid>
-<pubDate>Fri, 17 Jul 2026 10:35:19 +0000</pubDate>
-<description>New travel restrictions in Greece, Italy, Spain, France, Portugal &amp; Croatia bring heavy fines and beach rules to combat overtourism.</description>
 </item>
 </channel>
 </rss>

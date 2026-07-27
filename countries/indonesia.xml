@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/indonesia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Indonesia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 26 Jul 2026 22:07:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 10:08:46 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>15,000 Mangroves Planted in Bali, Community-Based Conservation Continues to Develop</title>
+<link>https://www.kompas.id/artikel/15000-mangroves-planted-in-bali-community-based-conservation-continues-to-be-developed</link>
+<guid isPermaLink="false">https://www.kompas.id/artikel/15000-mangroves-planted-in-bali-community-based-conservation-continues-to-be-developed</guid>
+<pubDate>Mon, 27 Jul 2026 03:03:59 +0000</pubDate>
+<description>Planting at the Batu Lumbang Mangrove Ecotourism aims to restore the coastal ecosystem while strengthening community-based mangrove management.</description>
+</item>
 <item>
 <title>World Mangrove Day: PLN Indonesia Power Combines Mangrove Conservation ... - Indo Bali News</title>
 <link>https://indobalinews.pikiran-rakyat.com/english-corner/pr-8810356058/world-mangrove-day-pln-indonesia-power-combines-mangrove-conservation-with-community-empowerment</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://observerid.com/beyond-the-green-card-driving-real-green-action-across-indonesias-geoparks/</guid>
 <pubDate>Sun, 19 Jul 2026 06:09:35 +0000</pubDate>
 <description>... conservation, education, research, cultural preservation and community empowerment. However, after a lengthy journey of geopark development across ...</description>
-</item>
-<item>
-<title>Saudi Arabia Aligns With Türkiye, Indonesia and Malaysia as Religious Tourism Rebounds ...</title>
-<link>https://www.travelandtourworld.com/news/article/qyy6bg0tqbmq/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/qyy6bg0tqbmq/</guid>
-<pubDate>Sat, 18 Jul 2026 23:06:03 +0000</pubDate>
-<description>The scale of Hajj makes Saudi Arabia a central hub in the global faith tourism economy. Indonesia Becomes a Major Source Market for Religious Travel.</description>
 </item>
 </channel>
 </rss>
