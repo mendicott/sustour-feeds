@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ecuador.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ecuador. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 28 Jul 2026 10:09:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 22:09:37 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Ecuador's Cuenca Sets the Big Gold Standard for Heritage Tourism with Its UNESCO ...</title>
+<link>https://www.travelandtourworld.com/news/article/0frdwvm6tmf3/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/0frdwvm6tmf3/</guid>
+<pubDate>Tue, 28 Jul 2026 12:48:25 +0000</pubDate>
+<description>Cuenca's UNESCO-recognised tramway is transforming travel in Ecuador with seamless transit, heritage preservation and direct access to the city's ...</description>
+</item>
 <item>
 <title>Ecuador creates new Amazonian corridor: Yasuní–Limoncocha–Cuyabeno</title>
 <link>https://www.conservation.org/press/ecuador-creates-new-amazonian-corridor-yasunilimoncochacuyabeno-</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://weareaquaculture.com/news/environment/ecuadorian-shrimp-sector-launches-mangrove-restoration-project-for-climate-resilience</guid>
 <pubDate>Mon, 29 Jun 2026 11:04:55 +0000</pubDate>
 <description>... Conservation International Ecuador (CI-Ecuador) to promote sustainable and climate-resilient shrimp aquaculture.</description>
-</item>
-<item>
-<title>Costa Rica, Peru and Chile Dominate Global Nature Tourism as Ecotourism Reshapes ...</title>
-<link>https://www.travelandtourworld.com/news/article/hwigz1oagmnq/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/hwigz1oagmnq/</guid>
-<pubDate>Sat, 27 Jun 2026 11:08:33 +0000</pubDate>
-<description>Costa Rica, Belize, Peru, Chile and Ecuador drive global ecotourism growth with biodiversity travel, conservation tourism and sustainable travel ...</description>
 </item>
 </channel>
 </rss>

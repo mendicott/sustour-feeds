@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/canada.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Canada. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 28 Jul 2026 10:09:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 22:09:37 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>A Rare Opportunity to Support Indigenous-led Conservation in Canada | Audubon</title>
+<link>https://www.audubon.org/canada/news/rare-opportunity-support-indigenous-led-conservation-canada</link>
+<guid isPermaLink="false">https://www.audubon.org/canada/news/rare-opportunity-support-indigenous-led-conservation-canada</guid>
+<pubDate>Tue, 28 Jul 2026 21:11:40 +0000</pubDate>
+<description>A male Rufous Hummingbird in profile perched on the tip of a budding branch. Birds Tell Us to Act on Climate. Pledge to stand with Audubon to call on ...</description>
+</item>
 <item>
 <title>Open Call: Education and Relationship Building Stream (Canada) - fundsforNGOs</title>
 <link>https://www2.fundsforngos.org/community-development-2/open-call-education-and-relationship-building-stream-canada/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.mylethbridgenow.com/63588/news/community/head-smashed-in-buffalo-jump-one-of-three-world-heritage-sites-to-be-featured/</guid>
 <pubDate>Thu, 16 Jul 2026 21:00:11 +0000</pubDate>
 <description>Marking the 50th anniversary of Canada signing the UNESCO World Heritage Convention, the National Trust for Canada has announced a series of ...</description>
-</item>
-<item>
-<title>New research reveals Canadian travellers are looking beyond AI, social media and ...</title>
-<link>https://finance.yahoo.com/news/research-reveals-canadian-travellers-looking-120000419.html</link>
-<guid isPermaLink="false">https://finance.yahoo.com/news/research-reveals-canadian-travellers-looking-120000419.html</guid>
-<pubDate>Thu, 16 Jul 2026 01:48:35 +0000</pubDate>
-<description>Intrepid Travel signs landmark deal to support Indigenous Tourism in Canada.</description>
 </item>
 </channel>
 </rss>

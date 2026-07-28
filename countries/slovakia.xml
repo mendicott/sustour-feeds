@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/slovakia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Slovakia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 28 Jul 2026 10:09:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 22:09:37 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Dobšiná Ice Cave lost around 600 cubic metres of ice in a year, experts say</title>
+<link>https://spectator.sme.sk/travel/c/dobsinska-ice-cave-slovakia-climate-change</link>
+<guid isPermaLink="false">https://spectator.sme.sk/travel/c/dobsinska-ice-cave-slovakia-climate-change</guid>
+<pubDate>Tue, 28 Jul 2026 19:08:17 +0000</pubDate>
+<description>Slovakia's only remaining ice cave is continuing to lose frozen deposits as warmer conditions, heavy rainfall and fewer freezing days affect the ...</description>
+</item>
 <item>
 <title>Greece's Mount Olympus vies for UNESCO world heritage site status - YouTube</title>
 <link>https://www.youtube.com/watch?v=eiIQMIK4qu4</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.unesco.org/en/articles/tanzania-slovakia-dialogue-strengthening-biosphere-reserves-cooperation</guid>
 <pubDate>Mon, 15 Jun 2026 07:59:39 +0000</pubDate>
 <description>A high-level visit to the UNESCO Dar es Salaam Office opened new opportunities for collaboration between Slovakia and Tanzania in managing the ...</description>
-</item>
-<item>
-<title>100000 living willow trees create a unique eco-maze in eastern Slovakia | Reuters Connect</title>
-<link>https://www.reutersconnect.com/item/100000-living-willow-trees-create-a-unique-eco-maze-in-eastern-slovakia/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwT1FKNjVZ</link>
-<guid isPermaLink="false">https://www.reutersconnect.com/item/100000-living-willow-trees-create-a-unique-eco-maze-in-eastern-slovakia/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwT1FKNjVZ</guid>
-<pubDate>Mon, 08 Jun 2026 11:34:08 +0000</pubDate>
-<description>The project aims to promote environmental education, biodiversity and sustainable tourism in eastern Slovakia. Robert Nemeti / AnadoluNo Use USA ...</description>
 </item>
 </channel>
 </rss>

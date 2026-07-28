@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 28 Jul 2026 10:09:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 22:09:37 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>How Mallorca became an anti-tourism war-zone - The Telegraph</title>
+<link>https://www.telegraph.co.uk/travel/news/how-mallorca-became-an-anti-tourism-warzone/</link>
+<guid isPermaLink="false">https://www.telegraph.co.uk/travel/news/how-mallorca-became-an-anti-tourism-warzone/</guid>
+<pubDate>Tue, 28 Jul 2026 16:17:35 +0000</pubDate>
+<description>How Mallorca became an anti-tourism war-zone. Spanish police clashed violently with campaigners as anger over soaring tourist numbers comes to a head.</description>
+</item>
 <item>
 <title>Tourist protests turn violent in Spain as armed police clash with anti-British demonstrators</title>
 <link>https://www.gbnews.com/news/world/majorca-spain-tourist-protests-violent-armed-police</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ra5yd02ysu8r/</guid>
 <pubDate>Fri, 17 Jul 2026 11:28:34 +0000</pubDate>
 <description>Spain, Italy, Greece, France and Germany support new Natura 2000 guidelines as Europe targets overtourism control, biodiversity protection and ...</description>
-</item>
-<item>
-<title>Greece Stands with Italy, Spain, France, Portugal and Others in New Travel Restrictions with ...</title>
-<link>https://www.travelandtourworld.com/news/article/8fp92y45xe1p/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/8fp92y45xe1p/</guid>
-<pubDate>Fri, 17 Jul 2026 10:35:19 +0000</pubDate>
-<description>New travel restrictions in Greece, Italy, Spain, France, Portugal &amp; Croatia bring heavy fines and beach rules to combat overtourism.</description>
 </item>
 </channel>
 </rss>

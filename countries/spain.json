@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.telegraph.co.uk/travel/news/how-mallorca-became-an-anti-tourism-warzone/",
+      "url": "https://www.telegraph.co.uk/travel/news/how-mallorca-became-an-anti-tourism-warzone/",
+      "title": "How Mallorca became an anti-tourism war-zone - The Telegraph",
+      "content_text": "How Mallorca became an anti-tourism war-zone. Spanish police clashed violently with campaigners as anger over soaring tourist numbers comes to a head.",
+      "date_published": "2026-07-28T16:17:35+00:00"
+    },
+    {
       "id": "https://www.gbnews.com/news/world/majorca-spain-tourist-protests-violent-armed-police",
       "url": "https://www.gbnews.com/news/world/majorca-spain-tourist-protests-violent-armed-police",
       "title": "Tourist protests turn violent in Spain as armed police clash with anti-British demonstrators",
@@ -68,13 +75,6 @@
       "title": "Spain Joins Forces with Italy, Greece, France, Germany and Over Twenty Other Countries in ...",
       "content_text": "Spain, Italy, Greece, France and Germany support new Natura 2000 guidelines as Europe targets overtourism control, biodiversity protection and ...",
       "date_published": "2026-07-17T11:28:34+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/8fp92y45xe1p/",
-      "url": "https://www.travelandtourworld.com/news/article/8fp92y45xe1p/",
-      "title": "Greece Stands with Italy, Spain, France, Portugal and Others in New Travel Restrictions with ...",
-      "content_text": "New travel restrictions in Greece, Italy, Spain, France, Portugal & Croatia bring heavy fines and beach rules to combat overtourism.",
-      "date_published": "2026-07-17T10:35:19+00:00"
     }
   ]
 }
