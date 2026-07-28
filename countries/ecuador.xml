@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ecuador.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ecuador. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 27 Jul 2026 22:09:44 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 10:09:33 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Ecuador creates new Amazonian corridor: Yasuní–Limoncocha–Cuyabeno</title>
+<link>https://www.conservation.org/press/ecuador-creates-new-amazonian-corridor-yasunilimoncochacuyabeno-</link>
+<guid isPermaLink="false">https://www.conservation.org/press/ecuador-creates-new-amazonian-corridor-yasunilimoncochacuyabeno-</guid>
+<pubDate>Mon, 27 Jul 2026 21:06:37 +0000</pubDate>
+<description>... climate change. The corridor aims to address these challenges by strengthening ecological connectivity and reducing habitat fragmentation, both of ...</description>
+</item>
 <item>
 <title>Galápagos Students Join New Hands-On Conservation Education Program</title>
 <link>https://www.galapagos.org/newsroom/galapagos-students-join-new-hands-on-conservation-education-program/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/hwigz1oagmnq/</guid>
 <pubDate>Sat, 27 Jun 2026 11:08:33 +0000</pubDate>
 <description>Costa Rica, Belize, Peru, Chile and Ecuador drive global ecotourism growth with biodiversity travel, conservation tourism and sustainable travel ...</description>
-</item>
-<item>
-<title>A group of Indigenous women from across Ecuador's Amazon walk near a ... - Sandusky Register</title>
-<link>https://sanduskyregister.com/photo-single/1298081/?mode=team</link>
-<guid isPermaLink="false">https://sanduskyregister.com/photo-single/1298081/?mode=team</guid>
-<pubDate>Fri, 26 Jun 2026 05:13:13 +0000</pubDate>
-<description>... travel through the region on what activists call a toxitour visiting oil fields in Sucumbios, Ecuador, on March 6. | Sandusky Register ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/cambodia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Cambodia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 27 Jul 2026 22:09:44 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 10:09:33 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Govt expands green tourism projects to boost conservation and local livelihoods</title>
+<link>https://www.khmertimeskh.com/501961441/govt-expands-green-tourism-projects-to-boost-conservation-and-local-livelihoods/</link>
+<guid isPermaLink="false">https://www.khmertimeskh.com/501961441/govt-expands-green-tourism-projects-to-boost-conservation-and-local-livelihoods/</guid>
+<pubDate>Mon, 27 Jul 2026 17:37:27 +0000</pubDate>
+<description>Phnom Khnang Phsar, rising more than 1,185 metres above sea level, features pine forests and wildlife, making it one of Cambodia's ecotourism ...</description>
+</item>
 <item>
 <title>Once He Cut Down the Forest. Now He Protects It as a Guide in Cambodia's Cardamom Mountains</title>
 <link>https://cambodianess.com/article/once-he-cut-down-the-forest-now-he-protects-it-as-a-guide-in-cambodias-cardamom-mountains</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.khmertimeskh.com/501946196/cambodias-samkos-redd-project-boosts-forest-conservation-with-local-development/</guid>
 <pubDate>Sun, 19 Jul 2026 17:38:04 +0000</pubDate>
 <description>A carbon-financed forest conservation project in western Cambodia is helping indigenous communities protect their spirit forests, secure access to ...</description>
-</item>
-<item>
-<title>India's heritage conservation strengthens global partnerships - Organiser</title>
-<link>https://organiser.org/2026/07/18/370507/bharat/from-prambanan-to-angkor-wat-how-india-is-preserving-ancient-heritage-to-strengthen-global-cultural-ties/</link>
-<guid isPermaLink="false">https://organiser.org/2026/07/18/370507/bharat/from-prambanan-to-angkor-wat-how-india-is-preserving-ancient-heritage-to-strengthen-global-cultural-ties/</guid>
-<pubDate>Sat, 18 Jul 2026 15:54:20 +0000</pubDate>
-<description>Today, the Archaeological Survey of India (ASI) serves as a trusted technical partner for world heritage conservation in numerous countries. Cambodia: ...</description>
 </item>
 </channel>
 </rss>

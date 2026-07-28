@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 27 Jul 2026 22:09:44 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 10:09:33 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>In Mexico's Yucatan Peninsula, protecting a historic and biodiverse landscape - World Wildlife Fund</title>
+<link>https://www.worldwildlife.org/news/magazine/fall-2026/in-mexicos-yucatan-peninsula-protecting-a-historic-and-biodiverse-landscape/</link>
+<guid isPermaLink="false">https://www.worldwildlife.org/news/magazine/fall-2026/in-mexicos-yucatan-peninsula-protecting-a-historic-and-biodiverse-landscape/</guid>
+<pubDate>Mon, 27 Jul 2026 16:35:05 +0000</pubDate>
+<description>Rather than travel ... Donations are tax-deductible as allowed by law. © 2026 World Wildlife Fund. WWF® and ©1986 Panda Symbol are owned by WWF.</description>
+</item>
 <item>
 <title>Mexico: SEMARNAT Formally Bans Mining Procedures in Federal Natural Protected Areas</title>
 <link>https://www.lexology.com/library/detail.aspx?g=4db59178-2ef6-45cb-b160-be9b935fdaa3</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://mexiconewsdaily.com/news/mnd-local-ecological-and-tourism-challenges-for-baja-california-surs-3-oldest-protected-areas/</guid>
 <pubDate>Wed, 08 Jul 2026 21:17:49 +0000</pubDate>
 <description>Chris Sands is a writer and editor for Mexico News Daily, and the former Cabo San Lucas local expert for the USA Today travel website 10 Best and ...</description>
-</item>
-<item>
-<title>Mexico Teams Up With Chile, Costa Rica, United States, Finland, Portugal, Kenya, Canada ...</title>
-<link>https://www.travelandtourworld.com/news/article/dg0orazylvsc/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/dg0orazylvsc/</guid>
-<pubDate>Thu, 02 Jul 2026 02:20:22 +0000</pubDate>
-<description>... tourism model with rainforest conservation and biodiversity protection. In Mexico, coastal and heritage tourism corridors are being modernised ...</description>
 </item>
 </channel>
 </rss>
