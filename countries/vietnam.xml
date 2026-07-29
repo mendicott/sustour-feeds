@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 29 Jul 2026 10:09:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 22:09:36 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Tuyen Quang develops historical tourism starting from the Happiness Road. - Vietnam.vn</title>
+<link>https://www.vietnam.vn/en/tuyen-quang-phat-trien-du-lich-lich-su-tu-duong-hanh-phuc</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/tuyen-quang-phat-trien-du-lich-lich-su-tu-duong-hanh-phuc</guid>
+<pubDate>Wed, 29 Jul 2026 15:40:35 +0000</pubDate>
+<description>Nestled amidst the majestic landscape of the UNESCO Global Geopark Dong Van Karst Plateau, the monument complex is a convergence point of natural ...</description>
+</item>
 <item>
 <title>Responsible tourism: "Ambassadors" for coral reef protection. - Vietnam.vn</title>
 <link>https://www.vietnam.vn/en/du-lich-trach-nhiem-dai-su-bao-ve-ran-san-ho</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/xydbc7mxyt39/</guid>
 <pubDate>Sun, 26 Jul 2026 09:21:17 +0000</pubDate>
 <description>Country-Wise Tourism Opportunities ; China, Jingdezhen, Cultural tourism ; Thailand, Wat Phra Mahathat, Religious tourism ; Tunisia, Sidi Bou Said ...</description>
-</item>
-<item>
-<title>An impressive destination for international tourists. - Vietnam.vn</title>
-<link>https://www.vietnam.vn/en/diem-den-an-tuong-cua-du-khach-quoc-te</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/diem-den-an-tuong-cua-du-khach-quoc-te</guid>
-<pubDate>Sun, 26 Jul 2026 00:43:00 +0000</pubDate>
-<description>... community tourism, many foreign tourists have come to my house to see ... In the first six months of 2026, community-based tourism in Ta Van ...</description>
 </item>
 </channel>
 </rss>

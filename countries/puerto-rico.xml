@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/puerto-rico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Puerto Rico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 29 Jul 2026 10:09:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 22:09:36 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Scientists transplant microscopic reef life off Vieques in breakthrough coral restoration study</title>
+<link>https://pasquines.us/2026/07/28/scientists-transplant-microscopic-reef-life-off-vieques-in-breakthrough-coral-restoration-study/</link>
+<guid isPermaLink="false">https://pasquines.us/2026/07/28/scientists-transplant-microscopic-reef-life-off-vieques-in-breakthrough-coral-restoration-study/</guid>
+<pubDate>Wed, 29 Jul 2026 14:32:41 +0000</pubDate>
+<description>A new study conducted off the coast of Vieques, Puerto Rico has shown that the invisible microbial communities that make coral reefs function can ...</description>
+</item>
 <item>
 <title>Alternative Spring Break: Community Collaborations International (CCI) Puerto Rico Project</title>
 <link>https://altoona.psu.edu/student-success/student-success-center/study-away/programs/alternative-spring-break</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=xQjEVryfxqA</guid>
 <pubDate>Fri, 19 Jun 2026 14:29:58 +0000</pubDate>
 <description>... Puerto Rico's only tropical rainforest ✨ Would you hike into the cloud forest or cool off in the river pools? #El Yunque #Puerto Rico Travel ...</description>
-</item>
-<item>
-<title>Puerto Rico travel must-see for history lovers, and anyone interested in Indigenous heritage</title>
-<link>https://www.youtube.com/watch?v=ScP45TwbfCs</link>
-<guid isPermaLink="false">https://www.youtube.com/watch?v=ScP45TwbfCs</guid>
-<pubDate>Sun, 07 Jun 2026 18:39:01 +0000</pubDate>
-<description>Puerto Rico travel must-see for history lovers, and anyone interested in Indigenous heritage. Tibes Indigenous Ceremonial Ground in Ponce, ...</description>
 </item>
 </channel>
 </rss>

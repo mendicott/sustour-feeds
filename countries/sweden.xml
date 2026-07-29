@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/sweden.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Sweden. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 29 Jul 2026 10:09:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 22:09:37 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Blekinge Archipelago Emerges as Sweden's Coastal Treasure Where UNESCO-Protected ...</title>
+<link>https://www.travelandtourworld.com/news/article/hn0apbhus4ie/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/hn0apbhus4ie/</guid>
+<pubDate>Wed, 29 Jul 2026 16:46:32 +0000</pubDate>
+<description>Blekinge Archipelago Strengthens Sweden's Position in Sustainable Coastal Tourism ; Coastline, Baltic Sea ; International Recognition, UNESCO Biosphere ...</description>
+</item>
 <item>
 <title>Denmark Sweden and Switzerland Lead Global Sustainable Travel Transformations with ...</title>
 <link>https://www.nomadlawyer.org/denmark-sweden-switzerland-lead-global-sustainable-travel-transformations-2026</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.mynewsdesk.com/haglofs/pressreleases/mobile-and-satellite-data-tackles-overtourism-in-sweden-3456058</guid>
 <pubDate>Wed, 24 Jun 2026 11:44:46 +0000</pubDate>
 <description>Sweden is known for its vast forests and untouched wilderness. But growing tourism and increasing pressure on some of the most popular natural ...</description>
-</item>
-<item>
-<title>Experience the Pearl of Africa: How Uganda is Targeting Denmark, Sweden, Norway ...</title>
-<link>https://www.travelandtourworld.com/news/article/zcaimjwa0bxb/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/zcaimjwa0bxb/</guid>
-<pubDate>Tue, 23 Jun 2026 05:27:09 +0000</pubDate>
-<description>The Nordic market is viewed by tourism authorities as a goldmine for sustainable travel, characterized by a profound appreciation for ...</description>
 </item>
 </channel>
 </rss>

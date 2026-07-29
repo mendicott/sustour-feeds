@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/oman.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Oman. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 29 Jul 2026 10:09:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 22:09:37 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>New guide showcases Al Hajar Geological Park attractions | Muscat Daily - PressReader</title>
+<link>https://www.pressreader.com/oman/muscat-daily/20260729/281582362422194</link>
+<guid isPermaLink="false">https://www.pressreader.com/oman/muscat-daily/20260729/281582362422194</guid>
+<pubDate>Wed, 29 Jul 2026 01:32:56 +0000</pubDate>
+<description>The ministry stated that Al Hajar Geological Park is the sultanate's first national geopark and efforts are ongoing to meet the requirements for ...</description>
+</item>
 <item>
 <title>Al Hajar Geopark Booklet to promote sustainable tourism - Oman Observer</title>
 <link>https://www.omanobserver.om/ampArticle/1193641</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.muscatdaily.com/2026/07/25/khareef-environmental-drive-focuses-on-conservation-and-safety/</guid>
 <pubDate>Sat, 25 Jul 2026 17:41:52 +0000</pubDate>
 <description>Environment Authority removes 612 vehicles from Dhofar green spaces to protect ecosystems during khareef 2026.</description>
-</item>
-<item>
-<title>Doha Alongside AlUla and More are Spearheading Sustainable Tourism Driven by Nature ...</title>
-<link>https://www.travelandtourworld.com/news/article/ha550rortddz/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ha550rortddz/</guid>
-<pubDate>Sat, 25 Jul 2026 10:55:42 +0000</pubDate>
-<description>Saudi Arabia, UAE, Qatar and Oman are transforming GCC sustainable tourism through strict eco-rules, protected destinations and regenerative ...</description>
 </item>
 </channel>
 </rss>

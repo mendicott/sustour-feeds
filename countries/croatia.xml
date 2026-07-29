@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/croatia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Croatia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 29 Jul 2026 10:09:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 22:09:37 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>How Dubrovnik's 'Respect the City' scheme is tackling overtourism - Travel Tomorrow</title>
+<link>https://traveltomorrow.com/how-dubrovniks-respect-the-city-scheme-is-tackling-overtourism/</link>
+<guid isPermaLink="false">https://traveltomorrow.com/how-dubrovniks-respect-the-city-scheme-is-tackling-overtourism/</guid>
+<pubDate>Wed, 29 Jul 2026 14:29:45 +0000</pubDate>
+<description>"For years, tourism in Dubrovnik wasn't managed; it simply just 'happened' on its own. Previously, there would be days where five or six cruise ships ...</description>
+</item>
 <item>
 <title>Travel Update Now: Dubrovnik's Pioneering "Respect the City" Campaign Redefines Global ...</title>
 <link>https://www.travelandtourworld.com/news/article/rwe2toyh92mv/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/biwy455503nq/</guid>
 <pubDate>Thu, 16 Jul 2026 14:35:00 +0000</pubDate>
 <description>Croatia introduces a new hospitality law to regulate short-term rentals, strengthen inspections, improve digital processes and support sustainable ...</description>
-</item>
-<item>
-<title>France Follows Italy, Spain, Croatia, Portugal and More in Reshaping Cruise Tourism Rules ...</title>
-<link>https://www.travelandtourworld.com/news/article/ndey6v7xk41x/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ndey6v7xk41x/</guid>
-<pubDate>Tue, 14 Jul 2026 12:54:01 +0000</pubDate>
-<description>... environmental protection measures and a new sustainable future for Mediterranean travel, with the French Riviera joining a wider European movement ...</description>
 </item>
 </channel>
 </rss>

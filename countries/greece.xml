@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 29 Jul 2026 10:09:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 22:09:37 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Athens Airbnb permit freeze beginning to slow growth, mayor says - Greek City Times</title>
+<link>https://greekcitytimes.com/2026/07/29/athens-airbnb-permit-freeze-slowing-growth-doukas/</link>
+<guid isPermaLink="false">https://greekcitytimes.com/2026/07/29/athens-airbnb-permit-freeze-slowing-growth-doukas/</guid>
+<pubDate>Tue, 28 Jul 2026 23:25:11 +0000</pubDate>
+<description>... Tourism Carrying Capacity Study. "According to the latest data, it appears that the suspension of new short-term rental permits in the areas where ...</description>
+</item>
 <item>
 <title>Greek Islands: Tourism Makes Water Scarcity Worse | .TR</title>
 <link>https://www.tourism-review.com/greek-islands-face-water-scarcity-not-only-due-to-tourism-news15580</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/0hdeczutsw6a/</guid>
 <pubDate>Tue, 21 Jul 2026 08:57:27 +0000</pubDate>
 <description>These limitations reflect a growing trend across Mediterranean destinations where carrying capacity increasingly determines tourism policy rather than ...</description>
-</item>
-<item>
-<title>Spain Joins Forces with Italy, Greece, France, Germany and Over Twenty Other Countries in ...</title>
-<link>https://www.travelandtourworld.com/news/article/ra5yd02ysu8r/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ra5yd02ysu8r/</guid>
-<pubDate>Fri, 17 Jul 2026 11:28:34 +0000</pubDate>
-<description>Spain, Italy, Greece, France and Germany support new Natura 2000 guidelines as Europe targets overtourism control, biodiversity protection and ...</description>
 </item>
 </channel>
 </rss>
