@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/united-kingdom.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for United Kingdom. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 28 Jul 2026 22:09:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 10:09:58 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>What Barcelona's 'not one tourist more' plan means for visitors and the city - AOL UK</title>
+<link>https://www.aol.co.uk/articles/barcelona-not-one-tourist-more-043333000.html</link>
+<guid isPermaLink="false">https://www.aol.co.uk/articles/barcelona-not-one-tourist-more-043333000.html</guid>
+<pubDate>Wed, 29 Jul 2026 05:25:34 +0000</pubDate>
+<description>Over that time, city officials have shifted focus from responding to crisis-mode overtourism to sustainable management. ... Majorca's anti-tourism ...</description>
+</item>
 <item>
 <title>Open Call: Education and Relationship Building Stream (Canada) - fundsforNGOs</title>
 <link>https://www2.fundsforngos.org/community-development-2/open-call-education-and-relationship-building-stream-canada/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://naturalengland.blog.gov.uk/2026/07/07/celebrating-the-nature-and-archaeology-near-you/</guid>
 <pubDate>Tue, 07 Jul 2026 09:02:52 +0000</pubDate>
 <description>... National Trust and Landsec. Mayfield ...</description>
-</item>
-<item>
-<title>Celebrating the Nature and Archaeology Near You - Natural England</title>
-<link>https://naturalengland.blog.gov.uk/2026/07/07/celebrating-the-nature-and-archaeology-near-you/</link>
-<guid isPermaLink="false">https://naturalengland.blog.gov.uk/2026/07/07/celebrating-the-nature-and-archaeology-near-you/</guid>
-<pubDate>Tue, 07 Jul 2026 07:07:34 +0000</pubDate>
-<description>... Geology, heritage, landscape, National Nature Reserves, Natural England, nature · The Paludiculture and Wetter Farming Fund – strengthening the case ...</description>
 </item>
 </channel>
 </rss>

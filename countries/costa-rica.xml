@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/costa-rica.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Costa Rica. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 28 Jul 2026 22:09:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 10:09:58 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Jabiru Count Brings Hope for Costa Rica's Threatened Wetlands - The Tico Times</title>
+<link>https://ticotimes.net/2026/07/28/costa-rica-jabiru-population-recovery-2026</link>
+<guid isPermaLink="false">https://ticotimes.net/2026/07/28/costa-rica-jabiru-population-recovery-2026</guid>
+<pubDate>Tue, 28 Jul 2026 22:27:34 +0000</pubDate>
+<description>... wetlands. Responsible tourism is also important because excessive noise or people approaching nests can disturb adult birds and place chicks at risk.</description>
+</item>
 <item>
 <title>World Oceans Day: Costa Rica Protects More Than 30% of Its Marine Territory and Invites ...</title>
 <link>https://www.travelweek.ca/news/destinations/world-oceans-day-costa-rica-protects-more-than-30-of-its-marine-territory-and-invites-travellers-to-experience-ocean-conservation-firsthand/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://thecostaricanews.com/alajuela-costa-rica-volcanoes-forests-renewal/</guid>
 <pubDate>Mon, 20 Jul 2026 13:34:41 +0000</pubDate>
 <description>Healthy forests help protect biodiversity, secure clean water supplies, strengthen local ecosystems, and create opportunities for sustainable tourism ...</description>
-</item>
-<item>
-<title>Wildlife and conservation in Costa Rica and Panama</title>
-<link>https://www.msn.com/en-us/travel/tripideas/wildlife-and-conservation-in-costa-rica-and-panama/ss-AA2817XP</link>
-<guid isPermaLink="false">https://www.msn.com/en-us/travel/tripideas/wildlife-and-conservation-in-costa-rica-and-panama/ss-AA2817XP</guid>
-<pubDate>Mon, 20 Jul 2026 04:33:38 +0000</pubDate>
-<description>Costa Rica and Panama both protect large portions of their land, preserving diverse ecosystems from cloud forests to coral reefs.</description>
 </item>
 </channel>
 </rss>

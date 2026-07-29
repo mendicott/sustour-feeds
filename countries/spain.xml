@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 28 Jul 2026 22:09:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 10:09:58 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Spain could hit short-stay cruise tourists with €30 taxes under a 'not one tourist more' push</title>
+<link>https://www.thecooldown.com/green-business/barcelona-cruise-tax-overtourism-2026/</link>
+<guid isPermaLink="false">https://www.thecooldown.com/green-business/barcelona-cruise-tax-overtourism-2026/</guid>
+<pubDate>Wed, 29 Jul 2026 09:28:25 +0000</pubDate>
+<description>As Fox Local detailed, the planned increase targets passengers in the city for under 12 hours and fits into a wider campaign to reduce overtourism, a ...</description>
+</item>
 <item>
 <title>How Mallorca became an anti-tourism war-zone - The Telegraph</title>
 <link>https://www.telegraph.co.uk/travel/news/how-mallorca-became-an-anti-tourism-warzone/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/0hdeczutsw6a/</guid>
 <pubDate>Tue, 21 Jul 2026 08:57:27 +0000</pubDate>
 <description>These limitations reflect a growing trend across Mediterranean destinations where carrying capacity increasingly determines tourism policy rather than ...</description>
-</item>
-<item>
-<title>Spain Joins Forces with Italy, Greece, France, Germany and Over Twenty Other Countries in ...</title>
-<link>https://www.travelandtourworld.com/news/article/ra5yd02ysu8r/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ra5yd02ysu8r/</guid>
-<pubDate>Fri, 17 Jul 2026 11:28:34 +0000</pubDate>
-<description>Spain, Italy, Greece, France and Germany support new Natura 2000 guidelines as Europe targets overtourism control, biodiversity protection and ...</description>
 </item>
 </channel>
 </rss>
