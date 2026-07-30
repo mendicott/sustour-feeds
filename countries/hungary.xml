@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/hungary.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Hungary. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 30 Jul 2026 10:10:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 22:14:31 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Lake Balaton Aligns with Tokaj, Eger and More in Leading Hungary's Slow Travel Boom as ...</title>
@@ -51,6 +51,13 @@
 <description>WWF Hungary is urging sweeping reforms to forest management after the current logging moratorium expires, calling for expanded continuous-cover ...</description>
 </item>
 <item>
+<title>Danube water levels: Hungary, Romania cut nuclear output - DW</title>
+<link>https://www.dw.com/en/danube-water-levels-hungary-romania-cut-nuclear-output/a-78171891</link>
+<guid isPermaLink="false">https://www.dw.com/en/danube-water-levels-hungary-romania-cut-nuclear-output/a-78171891</guid>
+<pubDate>Thu, 30 Jul 2026 14:37:55 +0000</pubDate>
+<description>Danube tourism and river cargo have also been severely affected by Europe's heatwave.</description>
+</item>
+<item>
 <title>Record-low Danube River affects tourism and industry as drought and heat grip Central Europe</title>
 <link>https://www.newsday.com/news/nation/danube-river-record-lows-tourism-industry-drought-w37668</link>
 <guid isPermaLink="false">https://www.newsday.com/news/nation/danube-river-record-lows-tourism-industry-drought-w37668</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/rd2t7oz5cxho/</guid>
 <pubDate>Wed, 22 Jul 2026 10:30:15 +0000</pubDate>
 <description>Slovakia's High Tatras are inspiring a new wave of community hiking, outdoor wellness, sustainable tourism and cross-border travel across Central ...</description>
-</item>
-<item>
-<title>Germany Unites With Austria and Romania Tourism Shattered as Low Water Levels ...</title>
-<link>https://www.travelandtourworld.com/news/article/lbigxacslovi/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lbigxacslovi/</guid>
-<pubDate>Tue, 21 Jul 2026 19:40:41 +0000</pubDate>
-<description>Record heatwaves in Germany, Austria, Hungary, and Romania cripple the Danube and Rhine rivers, threatening European travel and river cruise ...</description>
 </item>
 </channel>
 </rss>

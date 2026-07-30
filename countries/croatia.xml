@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/croatia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Croatia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 30 Jul 2026 10:10:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 22:14:31 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>How Dubrovnik Is Fighting Back Against Mass Tourism – Euronews Takes Notice</title>
+<link>https://www.thedubrovniktimes.com/news/dubrovnik/item/20253-how-dubrovnik-is-fighting-back-against-mass-tourism-euronews-takes-notice</link>
+<guid isPermaLink="false">https://www.thedubrovniktimes.com/news/dubrovnik/item/20253-how-dubrovnik-is-fighting-back-against-mass-tourism-euronews-takes-notice</guid>
+<pubDate>Thu, 30 Jul 2026 13:53:53 +0000</pubDate>
+<description>Dubrovnik has been highlighted by Euronews Travel as a leading example of sustainable tourism, with the city's Respect the City programme earning.</description>
+</item>
 <item>
 <title>How Dubrovnik's 'Respect the City' scheme is tackling overtourism - Travel Tomorrow</title>
 <link>https://traveltomorrow.com/how-dubrovniks-respect-the-city-scheme-is-tackling-overtourism/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/8fp92y45xe1p/</guid>
 <pubDate>Fri, 17 Jul 2026 10:35:19 +0000</pubDate>
 <description>New travel restrictions in Greece, Italy, Spain, France, Portugal &amp; Croatia bring heavy fines and beach rules to combat overtourism.</description>
-</item>
-<item>
-<title>Croatia Tourism Law Reform Introduces Strict New Rental Rules to Crack Down on Illegal ...</title>
-<link>https://www.travelandtourworld.com/news/article/biwy455503nq/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/biwy455503nq/</guid>
-<pubDate>Thu, 16 Jul 2026 14:35:00 +0000</pubDate>
-<description>Croatia introduces a new hospitality law to regulate short-term rentals, strengthen inspections, improve digital processes and support sustainable ...</description>
 </item>
 </channel>
 </rss>

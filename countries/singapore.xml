@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/singapore.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Singapore. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 30 Jul 2026 10:10:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 22:14:31 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Royal Caribbean warns cruisers of new port ban - Yahoo Finance Singapore</title>
+<link>https://sg.finance.yahoo.com/news/royal-caribbean-warns-cruisers-port-153651216.html</link>
+<guid isPermaLink="false">https://sg.finance.yahoo.com/news/royal-caribbean-warns-cruisers-port-153651216.html</guid>
+<pubDate>Thu, 30 Jul 2026 15:43:39 +0000</pubDate>
+<description>As part of new measures to combat overtourism and ... The next port stop in Lisbon on the 4,960-passenger cruise ship is scheduled for Sept.</description>
+</item>
 <item>
 <title>Now Cambodia, Thailand, Vietnam, and Singapore Unlock Kep's Art-Led Coastal Revival ...</title>
 <link>https://www.travelandtourworld.com/news/article/jcsrusj2woar/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://kpl.gov.la/EN/detail.aspx?id=102403</guid>
 <pubDate>Mon, 27 Jul 2026 05:38:46 +0000</pubDate>
 <description>... environmental protection, and investment. President Calls on Vientiane ... environmental protection, and sustainable tourism. Laos, Singapore ...</description>
-</item>
-<item>
-<title>How Singapore's most iconic attractions are sustainably driven - TIME</title>
-<link>https://time.com/branded-content/singapore-tourism-board/how-singapores-most-iconic-attractions-are-sustainably-driven/?amp=true</link>
-<guid isPermaLink="false">https://time.com/branded-content/singapore-tourism-board/how-singapores-most-iconic-attractions-are-sustainably-driven/?amp=true</guid>
-<pubDate>Mon, 20 Jul 2026 17:42:04 +0000</pubDate>
-<description>Ranking as the third densest country in the world, Singapore's growing population and natural resource constraints have accelerated the government's ...</description>
 </item>
 </channel>
 </rss>
