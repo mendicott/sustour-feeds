@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/luxembourg.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Luxembourg. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 29 Jul 2026 22:09:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 10:10:06 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Earth Overshoot Day: Environmental organisations stage demonstration at Findel airport</title>
+<link>https://today.rtl.lu/news/luxembourg/votum-klima-stages-demonstration-at-findel-for-earth-overshoot-day-1085483063</link>
+<guid isPermaLink="false">https://today.rtl.lu/news/luxembourg/votum-klima-stages-demonstration-at-findel-for-earth-overshoot-day-1085483063</guid>
+<pubDate>Wed, 29 Jul 2026 17:10:19 +0000</pubDate>
+<description>Campaigners warn that the world's natural resources for the year have already been largely exhausted, with Luxembourg among the fastest countries ...</description>
+</item>
 <item>
 <title>CIFOR-ICRAF at UNFCCC COP29 - Landscape Alliance</title>
 <link>https://www.landscapealliance.org/event/cifor-icraf-at-unfccc-cop29/76744/financing-of-high-impact-nbs-investment-opportunities-resilient-landscapes-luxembourg/</link>
@@ -37,6 +44,13 @@
 <description>... Green Spaces as Luxembourg City Unveils Ambitious Climate Resilience Plan for Sustainable Tourism and Future-Ready Living. Published on July 9 ...</description>
 </item>
 <item>
+<title>New hotel set to open at popular Luxembourg tourist hotspot in 2028</title>
+<link>https://www.luxtimes.lu/luxembourg/new-hotel-set-to-open-at-popular-luxembourg-tourist-hotspot-in-2028/159359247.html</link>
+<guid isPermaLink="false">https://www.luxtimes.lu/luxembourg/new-hotel-set-to-open-at-popular-luxembourg-tourist-hotspot-in-2028/159359247.html</guid>
+<pubDate>Thu, 30 Jul 2026 07:08:03 +0000</pubDate>
+<description>Tender documents state project at Lultzhausen, on the Upper Sûre Lake, must balance conservation of nature and tourism.</description>
+</item>
+<item>
 <title>Greek islands face drought as tourist season hits | Reuters</title>
 <link>https://www.reuters.com/business/environment/greek-islands-face-drought-tourist-season-hits-2026-07-16/</link>
 <guid isPermaLink="false">https://www.reuters.com/business/environment/greek-islands-face-drought-tourist-season-hits-2026-07-16/</guid>
@@ -63,20 +77,6 @@
 <guid isPermaLink="false">https://www.luxtimes.lu/world/france-and-spain-plan-economic-support-as-major-fires-still-burn/159278646.html</guid>
 <pubDate>Tue, 28 Jul 2026 07:36:17 +0000</pubDate>
 <description>... tourism that are taking a hit during the industry's peak season. ... Climate change is intensifying periods of extreme heat in Europe, the ...</description>
-</item>
-<item>
-<title>Wildfires force France to evacuate tourists from campsites | Luxembourg Times</title>
-<link>https://www.luxtimes.lu/europeanunion/wildfires-force-france-to-evacuate-tourists-from-campsites/159125164.html</link>
-<guid isPermaLink="false">https://www.luxtimes.lu/europeanunion/wildfires-force-france-to-evacuate-tourists-from-campsites/159125164.html</guid>
-<pubDate>Thu, 23 Jul 2026 16:34:26 +0000</pubDate>
-<description>Climate change is intensifying periods of extreme heat in Europe, the fastest-warming continent. The record-breaking heat and drought have fueled ...</description>
-</item>
-<item>
-<title>Tourism campaign: Seventh edition of Vëlosummer officially launched - RTL Today</title>
-<link>https://today.rtl.lu/news/luxembourg/seventh-edition-of-velosummer-officially-launched-1997132677</link>
-<guid isPermaLink="false">https://today.rtl.lu/news/luxembourg/seventh-edition-of-velosummer-officially-launched-1997132677</guid>
-<pubDate>Sat, 18 Jul 2026 15:19:46 +0000</pubDate>
-<description>... Luxembourg, that's a holiday") campaign, which aims to encourage both residents and tourists to discover Luxembourg from a new perspective. 1 / 2.</description>
 </item>
 </channel>
 </rss>

@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://businessplus.ie/news/failte-ireland-3-year-corporate-strategy/",
+      "url": "https://businessplus.ie/news/failte-ireland-3-year-corporate-strategy/",
+      "title": "Fáilte Ireland launches new 3-year corporate strategy - Business Plus",
+      "content_text": "Fáilte Ireland has launched a new three-year corporate strategy aimed at driving sustainable growth across Ireland's tourism sector, with a strong ...",
+      "date_published": "2026-07-29T14:43:35+00:00"
+    },
+    {
       "id": "https://www.hotelnews.ie/articles/2026/failteireland/minister-burke-tides-of-time",
       "url": "https://www.hotelnews.ie/articles/2026/failteireland/minister-burke-tides-of-time",
       "title": "Minister Burke Officially Opens Tides of Time Visitor Centre in Tipperary | Hotelnews.ie",
@@ -68,13 +75,6 @@
       "title": "\"TURISTA VE A CASA / TOURIST GO HOME\" – The University Times",
       "content_text": "The phrase \"BAN AIRBNB NOW\" has become an increasingly common sight on the streets of Dublin. Similar to Spain, tourism makes up a substantial part of ...",
       "date_published": "2026-06-30T16:14:52+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/rhzn9afe7b2s/",
-      "url": "https://www.travelandtourworld.com/news/article/rhzn9afe7b2s/",
-      "title": "Italy Joins France, Greece, Ireland, Austria, Switzerland, and Portugal in Turning Heritage ...",
-      "content_text": "Italy is actively joining a powerful European movement that transforms heritage farming, agritourism, and eco-tourism into a high-value travel economy ...",
-      "date_published": "2026-06-26T09:55:52+00:00"
     }
   ]
 }

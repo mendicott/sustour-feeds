@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/united-kingdom.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for United Kingdom. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 29 Jul 2026 22:09:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 10:10:06 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>'I need my beach': Why Jamaica's beaches are off-limits to locals - Yahoo News UK</title>
+<link>https://uk.news.yahoo.com/beach-why-jamaicas-beaches-off-182045263.html</link>
+<guid isPermaLink="false">https://uk.news.yahoo.com/beach-why-jamaicas-beaches-off-182045263.html</guid>
+<pubDate>Wed, 29 Jul 2026 19:57:43 +0000</pubDate>
+<description>From the white sands of Montego Bay to Bob Marley Beach in Kingston, campaigners say ordinary Jamaicans are being priced out of their own ...</description>
+</item>
 <item>
 <title>First Nations lead the return of salmon to Canada's Upper Columbia River - Mongabay</title>
 <link>https://news.mongabay.com/2026/07/first-nations-lead-the-return-of-salmon-to-canadas-upper-columbia-river/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.theguardian.com/business/2026/jul/09/uk-students-lose-thousands-of-pounds-gvi-eco-tour-operator-shuts-down</guid>
 <pubDate>Thu, 09 Jul 2026 08:01:16 +0000</pubDate>
 <description>GVI was part of the growing "voluntourism" sector, which combines volunteer conservation and community work with adventure travel in developing ...</description>
-</item>
-<item>
-<title>From the 2010 Olympics to the World Cup, Vancouver has pioneered Indigenous inclusion</title>
-<link>https://www.tdtnews.com/news/nation_world/article_825d38c9-0092-5f92-a746-910d785ed3cf.html</link>
-<guid isPermaLink="false">https://www.tdtnews.com/news/nation_world/article_825d38c9-0092-5f92-a746-910d785ed3cf.html</guid>
-<pubDate>Wed, 08 Jul 2026 16:48:00 +0000</pubDate>
-<description>... Indigenous Tourism BC, pose for a photo at a watch party during the World Cup in Vancouver, British Columbia, Sunday, June 28, 2026. Abbie Parr ...</description>
 </item>
 </channel>
 </rss>

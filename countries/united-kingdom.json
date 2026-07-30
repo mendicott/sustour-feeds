@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://uk.news.yahoo.com/beach-why-jamaicas-beaches-off-182045263.html",
+      "url": "https://uk.news.yahoo.com/beach-why-jamaicas-beaches-off-182045263.html",
+      "title": "'I need my beach': Why Jamaica's beaches are off-limits to locals - Yahoo News UK",
+      "content_text": "From the white sands of Montego Bay to Bob Marley Beach in Kingston, campaigners say ordinary Jamaicans are being priced out of their own ...",
+      "date_published": "2026-07-29T19:57:43+00:00"
+    },
+    {
       "id": "https://news.mongabay.com/2026/07/first-nations-lead-the-return-of-salmon-to-canadas-upper-columbia-river/",
       "url": "https://news.mongabay.com/2026/07/first-nations-lead-the-return-of-salmon-to-canadas-upper-columbia-river/",
       "title": "First Nations lead the return of salmon to Canada's Upper Columbia River - Mongabay",
@@ -68,13 +75,6 @@
       "title": "'I'm left with a year of nothing': UK gap year students lose thousands of pounds as tour ...",
       "content_text": "GVI was part of the growing \"voluntourism\" sector, which combines volunteer conservation and community work with adventure travel in developing ...",
       "date_published": "2026-07-09T08:01:16+00:00"
-    },
-    {
-      "id": "https://www.tdtnews.com/news/nation_world/article_825d38c9-0092-5f92-a746-910d785ed3cf.html",
-      "url": "https://www.tdtnews.com/news/nation_world/article_825d38c9-0092-5f92-a746-910d785ed3cf.html",
-      "title": "From the 2010 Olympics to the World Cup, Vancouver has pioneered Indigenous inclusion",
-      "content_text": "... Indigenous Tourism BC, pose for a photo at a watch party during the World Cup in Vancouver, British Columbia, Sunday, June 28, 2026. Abbie Parr ...",
-      "date_published": "2026-07-08T16:48:00+00:00"
     }
   ]
 }

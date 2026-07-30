@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/costa-rica.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Costa Rica. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 29 Jul 2026 22:09:36 +0000</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 10:10:06 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>OKC Zoo, Botanical Garden release itineraries for 2027 conservation travel destinations</title>
+<link>https://www.kswo.com/2026/07/29/okc-zoo-botanical-garden-release-itineraries-2027-conservation-travel-destinations/</link>
+<guid isPermaLink="false">https://www.kswo.com/2026/07/29/okc-zoo-botanical-garden-release-itineraries-2027-conservation-travel-destinations/</guid>
+<pubDate>Wed, 29 Jul 2026 20:23:56 +0000</pubDate>
+<description>Zoo officials have released the itineraries for their 2027 conservation travel destinations, offering trips to Costa Rica, Tanzania and Rwanda.</description>
+</item>
 <item>
 <title>Jabiru Count Brings Hope for Costa Rica's Threatened Wetlands - The Tico Times</title>
 <link>https://ticotimes.net/2026/07/28/costa-rica-jabiru-population-recovery-2026</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://thecostaricanews.com/puntarenas-costa-rica-nature-wellbeing/</guid>
 <pubDate>Mon, 20 Jul 2026 14:51:33 +0000</pubDate>
 <description>Limón, Costa Rica: Where the Caribbean Meets Nature Limón, Costa Rica is a province where the Caribbean Sea, tropical rainforests,... Travel &amp; Tourism ...</description>
-</item>
-<item>
-<title>Alajuela, Costa Rica: Volcanoes, Forests, and the Landscape of Renewal</title>
-<link>https://thecostaricanews.com/alajuela-costa-rica-volcanoes-forests-renewal/</link>
-<guid isPermaLink="false">https://thecostaricanews.com/alajuela-costa-rica-volcanoes-forests-renewal/</guid>
-<pubDate>Mon, 20 Jul 2026 13:34:41 +0000</pubDate>
-<description>Healthy forests help protect biodiversity, secure clean water supplies, strengthen local ecosystems, and create opportunities for sustainable tourism ...</description>
 </item>
 </channel>
 </rss>
