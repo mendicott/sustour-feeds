@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/taiwan-china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Taiwan (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 31 Jul 2026 10:04:02 +0000</lastBuildDate>
+<lastBuildDate>Fri, 31 Jul 2026 22:09:30 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Miaoli Mazu temple becomes Taiwan's 1st to retire carbon credits</title>
@@ -58,6 +58,13 @@
 <description>According to Taiwan's Presidential Office, Hsiao's visit has three goals: to deepen bilateral relations, assist Palau in promoting sustainable tourism ...</description>
 </item>
 <item>
+<title>Cabinet approves Tainan coast conservation plan - Taipei Times</title>
+<link>https://www.taipeitimes.com/News/taiwan/archives/2026/08/01/2003861756</link>
+<guid isPermaLink="false">https://www.taipeitimes.com/News/taiwan/archives/2026/08/01/2003861756</guid>
+<pubDate>Fri, 31 Jul 2026 17:15:17 +0000</pubDate>
+<description>Notes from Central Taiwan: Institutionalizing Taiwan's tourism failure ... travel to Morocco, the ministry said in a statement. Taiwanese are ...</description>
+</item>
+<item>
 <title>Formosa Sustainable Conservation International Forum Coming this October - Roomie</title>
 <link>https://www.roomie.tw/posts/167502</link>
 <guid isPermaLink="false">https://www.roomie.tw/posts/167502</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.taipeitimes.com/News/editorials/archives/2026/07/30/2003861611</guid>
 <pubDate>Thu, 30 Jul 2026 00:04:27 +0000</pubDate>
 <description>The harvest festival is neither a tourist attraction nor a political rally. It is an important ceremony for indigenous groups to honor their ancestors ...</description>
-</item>
-<item>
-<title>Can Taiwan Become a Hub of Mountain Tourism?</title>
-<link>https://topics.amcham.com.tw/2026/07/can-taiwan-become-a-hub-of-mountain-tourism/</link>
-<guid isPermaLink="false">https://topics.amcham.com.tw/2026/07/can-taiwan-become-a-hub-of-mountain-tourism/</guid>
-<pubDate>Mon, 27 Jul 2026 13:29:43 +0000</pubDate>
-<description>Globally, market demand for active travel and nature-based tourism is on the rise. ... The TTA is "actively promoting the island's forest and hiking ...</description>
 </item>
 </channel>
 </rss>

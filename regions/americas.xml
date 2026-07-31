@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/americas.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Americas. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 31 Jul 2026 10:04:02 +0000</lastBuildDate>
+<lastBuildDate>Fri, 31 Jul 2026 22:09:30 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Rota dos Corais, Pernambuco, Tourism Evolves into Global Model for Coral Reef ...</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/xayeuiebdu17/</guid>
 <pubDate>Wed, 24 Jun 2026 18:42:55 +0000</pubDate>
 <description>Brazil Rota dos Corais tourism lets visitors join coral reef restoration through regenerative travel led by Biofábrica de Corais in Pernambuco.</description>
+</item>
+<item>
+<title>Researchers shed light on elusive sharks of Galapagos Islands | San Saba News &amp; Star</title>
+<link>https://www.sansabanews.com/news/researchers-shed-light-elusive-sharks-galapagos-islands</link>
+<guid isPermaLink="false">https://www.sansabanews.com/news/researchers-shed-light-elusive-sharks-galapagos-islands</guid>
+<pubDate>Fri, 31 Jul 2026 06:18:54 +0000</pubDate>
+<description>Understanding where these sharks travel is essential for their conservation. Smooth hammerheads, like other hammerhead species, are threatened by ...</description>
 </item>
 <item>
 <title>The Canadian Wilderness Lodge You Can Only Reach by Seaplane - Fodors Travel Guide</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://news.mongabay.com/2026/07/first-nations-lead-the-return-of-salmon-to-canadas-upper-columbia-river/</guid>
 <pubDate>Wed, 29 Jul 2026 15:57:21 +0000</pubDate>
 <description>First Nations in British Columbia, western Canada, are working to restore salmon to the Upper Columbia Basin and leading ceremonial salmon fry ...</description>
-</item>
-<item>
-<title>Scientists transplant microscopic reef life off Vieques in breakthrough coral restoration study</title>
-<link>https://pasquines.us/2026/07/28/scientists-transplant-microscopic-reef-life-off-vieques-in-breakthrough-coral-restoration-study/</link>
-<guid isPermaLink="false">https://pasquines.us/2026/07/28/scientists-transplant-microscopic-reef-life-off-vieques-in-breakthrough-coral-restoration-study/</guid>
-<pubDate>Wed, 29 Jul 2026 14:32:41 +0000</pubDate>
-<description>A new study conducted off the coast of Vieques, Puerto Rico has shown that the invisible microbial communities that make coral reefs function can ...</description>
 </item>
 </channel>
 </rss>

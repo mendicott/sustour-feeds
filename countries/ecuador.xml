@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ecuador.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ecuador. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 31 Jul 2026 10:04:02 +0000</lastBuildDate>
+<lastBuildDate>Fri, 31 Jul 2026 22:09:30 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Researchers shed light on elusive sharks of Galapagos Islands | San Saba News &amp; Star</title>
+<link>https://www.sansabanews.com/news/researchers-shed-light-elusive-sharks-galapagos-islands</link>
+<guid isPermaLink="false">https://www.sansabanews.com/news/researchers-shed-light-elusive-sharks-galapagos-islands</guid>
+<pubDate>Fri, 31 Jul 2026 06:18:54 +0000</pubDate>
+<description>Understanding where these sharks travel is essential for their conservation. Smooth hammerheads, like other hammerhead species, are threatened by ...</description>
+</item>
 <item>
 <title>Ecuador's Cuenca Sets the Big Gold Standard for Heritage Tourism with Its UNESCO ...</title>
 <link>https://www.travelandtourworld.com/news/article/0frdwvm6tmf3/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://waateanews.com/2026/07/08/from-the-andes-to-aotearoa-dale-stephens-says-maori-tourism-can-help-shape-the-future/</guid>
 <pubDate>Wed, 08 Jul 2026 11:01:27 +0000</pubDate>
 <description>After time travelling through Colombia and Ecuador, Māori tourism leader Dale Stephens is back with fresh insights into how indigenous-led tourism ...</description>
-</item>
-<item>
-<title>Ecuadorian shrimp sector launches mangrove restoration project for climate resilience</title>
-<link>https://weareaquaculture.com/news/environment/ecuadorian-shrimp-sector-launches-mangrove-restoration-project-for-climate-resilience</link>
-<guid isPermaLink="false">https://weareaquaculture.com/news/environment/ecuadorian-shrimp-sector-launches-mangrove-restoration-project-for-climate-resilience</guid>
-<pubDate>Mon, 29 Jun 2026 11:04:55 +0000</pubDate>
-<description>... Conservation International Ecuador (CI-Ecuador) to promote sustainable and climate-resilient shrimp aquaculture.</description>
 </item>
 </channel>
 </rss>

@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.sansabanews.com/news/researchers-shed-light-elusive-sharks-galapagos-islands",
+      "url": "https://www.sansabanews.com/news/researchers-shed-light-elusive-sharks-galapagos-islands",
+      "title": "Researchers shed light on elusive sharks of Galapagos Islands | San Saba News & Star",
+      "content_text": "Understanding where these sharks travel is essential for their conservation. Smooth hammerheads, like other hammerhead species, are threatened by ...",
+      "date_published": "2026-07-31T06:18:54+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/0frdwvm6tmf3/",
       "url": "https://www.travelandtourworld.com/news/article/0frdwvm6tmf3/",
       "title": "Ecuador's Cuenca Sets the Big Gold Standard for Heritage Tourism with Its UNESCO ...",
@@ -68,13 +75,6 @@
       "title": "#economy: From the Andes to Aotearoa: Dale Stephens Says Māori Tourism Can Help ...",
       "content_text": "After time travelling through Colombia and Ecuador, Māori tourism leader Dale Stephens is back with fresh insights into how indigenous-led tourism ...",
       "date_published": "2026-07-08T11:01:27+00:00"
-    },
-    {
-      "id": "https://weareaquaculture.com/news/environment/ecuadorian-shrimp-sector-launches-mangrove-restoration-project-for-climate-resilience",
-      "url": "https://weareaquaculture.com/news/environment/ecuadorian-shrimp-sector-launches-mangrove-restoration-project-for-climate-resilience",
-      "title": "Ecuadorian shrimp sector launches mangrove restoration project for climate resilience",
-      "content_text": "... Conservation International Ecuador (CI-Ecuador) to promote sustainable and climate-resilient shrimp aquaculture.",
-      "date_published": "2026-06-29T11:04:55+00:00"
     }
   ]
 }
