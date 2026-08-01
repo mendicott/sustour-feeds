@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/middle-east.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Middle East. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 01 Aug 2026 10:09:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 22:08:11 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>FM Abdelatty, UNESCO chief discuss Egypt efforts to preserve archaeological, heritage sites</title>
+<link>https://english.ahram.org.eg/NewsContentMulti/562354/Multimedia.aspx</link>
+<guid isPermaLink="false">https://english.ahram.org.eg/NewsContentMulti/562354/Multimedia.aspx</guid>
+<pubDate>Sat, 01 Aug 2026 03:48:31 +0000</pubDate>
+<description>Minister of Foreign Affairs Badr Abdelatty discussed on Friday with the Director General of the United Nations Educational, Scientific and ...</description>
+</item>
 <item>
 <title>World Ranger Day spotlights Saudi conservation drive across royal reserves | Arab News</title>
 <link>https://www.arabnews.com/node/2652980/amp</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.pressreader.com/oman/muscat-daily/20260729/281582362422194</guid>
 <pubDate>Wed, 29 Jul 2026 01:32:56 +0000</pubDate>
 <description>The ministry stated that Al Hajar Geological Park is the sultanate's first national geopark and efforts are ongoing to meet the requirements for ...</description>
-</item>
-<item>
-<title>Egypt completes 50 Green Sharm projects, cuts emissions by 85,100 tons - Multimedia</title>
-<link>https://english.ahram.org.eg/NewsContentMulti/571896/Multimedia.aspx</link>
-<guid isPermaLink="false">https://english.ahram.org.eg/NewsContentMulti/571896/Multimedia.aspx</guid>
-<pubDate>Tue, 28 Jul 2026 20:46:32 +0000</pubDate>
-<description>Egypt has placed the project within a broader state push to develop South Sinai's protected areas as global ecotourism destinations, including ...</description>
 </item>
 </channel>
 </rss>

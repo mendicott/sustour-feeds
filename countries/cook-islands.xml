@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/cook-islands.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Cook Islands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 01 Aug 2026 10:09:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 22:08:11 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Pacific leaders gather to strengthen Indigenous-led conservation - Cook Islands News</title>
@@ -44,6 +44,13 @@
 <description>According to TIS, during the 1980s, rising tourism repeatedly sidelined environmental priorities, highlighting the need for proactive preservation. By ...</description>
 </item>
 <item>
+<title>Unity and respect for ra'ui a key step for Aitutaki lagoon plan - Cook Islands News</title>
+<link>http://www.cookislandsnews.com/internal/national/local/unity-and-respect-for-raui-a-key-step-for-aitutaki-lagoon-plan/</link>
+<guid isPermaLink="false">http://www.cookislandsnews.com/internal/national/local/unity-and-respect-for-raui-a-key-step-for-aitutaki-lagoon-plan/</guid>
+<pubDate>Sat, 01 Aug 2026 21:38:48 +0000</pubDate>
+<description>It's anticipated management partners for the plan across government will include the Environment Service, Public Health, Police, Tourism and ...</description>
+</item>
+<item>
 <title>Platform supports holiday home operators - Cook Islands News</title>
 <link>http://www.cookislandsnews.com/internal/national/features/art/business/platform-supports-holiday-home-operators/</link>
 <guid isPermaLink="false">http://www.cookislandsnews.com/internal/national/features/art/business/platform-supports-holiday-home-operators/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">http://www.cookislandsnews.com/internal/national/environment/economy/education/mfem-and-education-join-forces-to-upskill-tradespeople-under-gcf/</guid>
 <pubDate>Fri, 24 Jul 2026 18:22:07 +0000</pubDate>
 <description>The GCF EDA Project, "Direct Financing for Communities and Businesses to Respond to Climate Change in the Cook Islands", was established through the ...</description>
-</item>
-<item>
-<title>Expanding Access to Clean Water in the Cook Islands - Asian Development Bank</title>
-<link>https://www.adb.org/node/1162096</link>
-<guid isPermaLink="false">https://www.adb.org/node/1162096</guid>
-<pubDate>Mon, 20 Jul 2026 07:46:08 +0000</pubDate>
-<description>Water security is central to sustainable development in the Cook Islands, supporting public health, tourism, and livelihoods. Yet, water supply ...</description>
 </item>
 </channel>
 </rss>

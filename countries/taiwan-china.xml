@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/taiwan-china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Taiwan (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 01 Aug 2026 10:09:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 22:08:11 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>How a road trip detour to Tumbler Ridge led this tourist from Taiwan to a 100-million-year ...</title>
+<link>https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-unesco-geopark-prehistoric-past-9.7276850</link>
+<guid isPermaLink="false">https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-unesco-geopark-prehistoric-past-9.7276850</guid>
+<pubDate>Sat, 01 Aug 2026 13:03:24 +0000</pubDate>
+<description>One of five UNESCO Geoparks in Canada, Tumbler Ridge has been attracting people from around the world who are helping to uncover the region's ...</description>
+</item>
 <item>
 <title>Miaoli Mazu temple becomes Taiwan's 1st to retire carbon credits</title>
 <link>https://focustaiwan.tw/society/202607260008</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.roomie.tw/posts/167502</guid>
 <pubDate>Thu, 30 Jul 2026 10:44:01 +0000</pubDate>
 <description>Through this platform, Taiwan aims to showcase its biodiversity and sustainable image of green tourism. A Global Benchmark for Biodiversity and ...</description>
-</item>
-<item>
-<title>Protecting indigenous culture in a democracy - Taipei Times</title>
-<link>https://www.taipeitimes.com/News/editorials/archives/2026/07/30/2003861611</link>
-<guid isPermaLink="false">https://www.taipeitimes.com/News/editorials/archives/2026/07/30/2003861611</guid>
-<pubDate>Thu, 30 Jul 2026 00:04:27 +0000</pubDate>
-<description>The harvest festival is neither a tourist attraction nor a political rally. It is an important ceremony for indigenous groups to honor their ancestors ...</description>
 </item>
 </channel>
 </rss>

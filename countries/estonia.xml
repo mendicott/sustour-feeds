@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/estonia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Estonia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 01 Aug 2026 10:09:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 22:08:11 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Estonia opens hundreds of working farms to the public this weekend - Wanderlust Magazine</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://news.inbox.lv/150gskk-while-some-fear-bears-others-profit-from-them-what-surprises-tourists-in-neighboring-estonia?language=en</guid>
 <pubDate>Sat, 04 Jul 2026 17:07:53 +0000</pubDate>
 <description>... ecotourism if safe conditions are created for both animals and visitors. The Estonian experience demonstrates that wildlife can be not only a ...</description>
+</item>
+<item>
+<title>Estonia Leads Romania, Latvia, Ireland And More To Reveal Europe's Hidden Authentic ...</title>
+<link>https://www.travelandtourworld.com/news/article/q797ks8kc11f/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/q797ks8kc11f/</guid>
+<pubDate>Sat, 01 Aug 2026 16:53:06 +0000</pubDate>
+<description>Discover Europe's authentic hidden destinations where culture, traditions, landscapes and local communities still define unforgettable travel ...</description>
 </item>
 <item>
 <title>Triink Talk: How to save Tallinn's Old Town from the rats - news | ERR</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/i5bhk3w3vexb/</guid>
 <pubDate>Sun, 05 Jul 2026 22:20:29 +0000</pubDate>
 <description>Weather conditions remain stable during peak travel months. Outdoor activities remain accessible throughout the season. Nature-based tourism is ...</description>
-</item>
-<item>
-<title>The island where women have kept their culture alive for centuries - CNN</title>
-<link>https://edition.cnn.com/2026/06/29/travel/video/quests-world-of-wonder-kihnu-island-estonia-women-culture-keepers-spc</link>
-<guid isPermaLink="false">https://edition.cnn.com/2026/06/29/travel/video/quests-world-of-wonder-kihnu-island-estonia-women-culture-keepers-spc</guid>
-<pubDate>Mon, 29 Jun 2026 19:34:28 +0000</pubDate>
-<description>Kihnu women consider themselves the guardians of Estonia's island heritage.</description>
 </item>
 </channel>
 </rss>

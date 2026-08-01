@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://english.ahram.org.eg/NewsContentMulti/562354/Multimedia.aspx",
+      "url": "https://english.ahram.org.eg/NewsContentMulti/562354/Multimedia.aspx",
+      "title": "FM Abdelatty, UNESCO chief discuss Egypt efforts to preserve archaeological, heritage sites",
+      "content_text": "Minister of Foreign Affairs Badr Abdelatty discussed on Friday with the Director General of the United Nations Educational, Scientific and ...",
+      "date_published": "2026-08-01T03:48:31+00:00"
+    },
+    {
       "id": "https://english.ahram.org.eg/NewsContentMulti/571896/Multimedia.aspx",
       "url": "https://english.ahram.org.eg/NewsContentMulti/571896/Multimedia.aspx",
       "title": "Egypt completes 50 Green Sharm projects, cuts emissions by 85,100 tons - Multimedia",
@@ -68,13 +75,6 @@
       "title": "South Africa Stands With Morocco, Egypt, Kenya And Emerging African Tourism ...",
       "content_text": "Seychelles is pursuing a low-volume, high-value tourism strategy, emphasising environmental protection and ultra-luxury hospitality offerings.",
       "date_published": "2026-06-30T14:53:59+00:00"
-    },
-    {
-      "id": "https://iol.co.za/travel/world/2026-06-29-egypt-to-phase-out-camel-and-horse-rides-at-the-pyramids-of-giza-in-major-ethical-tourism-shift/",
-      "url": "https://iol.co.za/travel/world/2026-06-29-egypt-to-phase-out-camel-and-horse-rides-at-the-pyramids-of-giza-in-major-ethical-tourism-shift/",
-      "title": "Egypt to phase out camel and horse rides at the Pyramids of Giza in major ethical tourism shift - IOL",
-      "content_text": "The mistreatment of wildlife within the travel industry remains a global point of contention. As holidaymakers increasingly embrace ethical travel ...",
-      "date_published": "2026-06-29T20:33:41+00:00"
     }
   ]
 }

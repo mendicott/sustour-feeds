@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/luxembourg.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Luxembourg. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 01 Aug 2026 10:09:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 22:08:11 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Earth Overshoot Day: Environmental organisations stage demonstration at Findel airport</title>
@@ -44,6 +44,13 @@
 <description>... Green Spaces as Luxembourg City Unveils Ambitious Climate Resilience Plan for Sustainable Tourism and Future-Ready Living. Published on July 9 ...</description>
 </item>
 <item>
+<title>Portugal's Porto Santo Complements Funchal with Direct Luxembourg City Flights, a New ...</title>
+<link>https://www.travelandtourworld.com/news/article/xy5ckhqg2o7a/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/xy5ckhqg2o7a/</guid>
+<pubDate>Sat, 01 Aug 2026 12:42:46 +0000</pubDate>
+<description>Porto Santo links Luxembourg flights, a terminal tender and island buses as Portugal tests year-round car-light tourism.</description>
+</item>
+<item>
 <title>New hotel set to open at popular Luxembourg tourist hotspot in 2028</title>
 <link>https://www.luxtimes.lu/luxembourg/new-hotel-set-to-open-at-popular-luxembourg-tourist-hotspot-in-2028/159359247.html</link>
 <guid isPermaLink="false">https://www.luxtimes.lu/luxembourg/new-hotel-set-to-open-at-popular-luxembourg-tourist-hotspot-in-2028/159359247.html</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=7aRzFDbgJ_M</guid>
 <pubDate>Wed, 29 Jul 2026 21:50:56 +0000</pubDate>
 <description>Wildfires: Europe on track for worst year on record as burned area reaches size of Luxembourg ... Travel: https://www.youtube.com/c/EuronewsTravel?</description>
-</item>
-<item>
-<title>France and Spain plan economic support as major fires still burn | Luxembourg Times</title>
-<link>https://www.luxtimes.lu/world/france-and-spain-plan-economic-support-as-major-fires-still-burn/159278646.html</link>
-<guid isPermaLink="false">https://www.luxtimes.lu/world/france-and-spain-plan-economic-support-as-major-fires-still-burn/159278646.html</guid>
-<pubDate>Tue, 28 Jul 2026 07:36:17 +0000</pubDate>
-<description>... tourism that are taking a hit during the industry's peak season. ... Climate change is intensifying periods of extreme heat in Europe, the ...</description>
 </item>
 </channel>
 </rss>

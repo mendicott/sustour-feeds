@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/canada.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Canada. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 01 Aug 2026 10:09:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 22:08:11 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>How a road trip detour to Tumbler Ridge led this tourist from Taiwan to a 100-million-year ...</title>
+<link>https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-unesco-geopark-prehistoric-past-9.7276850</link>
+<guid isPermaLink="false">https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-unesco-geopark-prehistoric-past-9.7276850</guid>
+<pubDate>Sat, 01 Aug 2026 13:03:24 +0000</pubDate>
+<description>One of five UNESCO Geoparks in Canada, Tumbler Ridge has been attracting people from around the world who are helping to uncover the region's ...</description>
+</item>
 <item>
 <title>The Canadian Wilderness Lodge You Can Only Reach by Seaplane - Fodors Travel Guide</title>
 <link>https://www.fodors.com/world/north-america/canada/experiences/news/going-off-the-grid-in-canada-helped-save-me</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://nit.com.au/20-07-2026/25467/a-learning-journey-connecting-the-goldfields-and-canada</guid>
 <pubDate>Mon, 20 Jul 2026 07:12:02 +0000</pubDate>
 <description>Mr Marchant also operates ventures in Indigenous tourism, consulting, and hospitality, which collectively aim to strengthen Indigenous economic ...</description>
-</item>
-<item>
-<title>Canada, Botswana, Kenya, Tanzania, India and more Drive the Future of Global Wildlife ...</title>
-<link>https://www.travelandtourworld.com/news/article/w15zexewlojt/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/w15zexewlojt/</guid>
-<pubDate>Sun, 19 Jul 2026 09:22:29 +0000</pubDate>
-<description>... endangered species, conservation programmes and photography-based ... tourism, conservation powered safari travel, global wildlife tourism revolution, ...</description>
 </item>
 </channel>
 </rss>

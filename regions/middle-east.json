@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://english.ahram.org.eg/NewsContentMulti/562354/Multimedia.aspx",
+      "url": "https://english.ahram.org.eg/NewsContentMulti/562354/Multimedia.aspx",
+      "title": "FM Abdelatty, UNESCO chief discuss Egypt efforts to preserve archaeological, heritage sites",
+      "content_text": "Minister of Foreign Affairs Badr Abdelatty discussed on Friday with the Director General of the United Nations Educational, Scientific and ...",
+      "date_published": "2026-08-01T03:48:31+00:00"
+    },
+    {
       "id": "https://www.arabnews.com/node/2652980/amp",
       "url": "https://www.arabnews.com/node/2652980/amp",
       "title": "World Ranger Day spotlights Saudi conservation drive across royal reserves | Arab News",
@@ -68,13 +75,6 @@
       "title": "New guide showcases Al Hajar Geological Park attractions | Muscat Daily - PressReader",
       "content_text": "The ministry stated that Al Hajar Geological Park is the sultanate's first national geopark and efforts are ongoing to meet the requirements for ...",
       "date_published": "2026-07-29T01:32:56+00:00"
-    },
-    {
-      "id": "https://english.ahram.org.eg/NewsContentMulti/571896/Multimedia.aspx",
-      "url": "https://english.ahram.org.eg/NewsContentMulti/571896/Multimedia.aspx",
-      "title": "Egypt completes 50 Green Sharm projects, cuts emissions by 85,100 tons - Multimedia",
-      "content_text": "Egypt has placed the project within a broader state push to develop South Sinai's protected areas as global ecotourism destinations, including ...",
-      "date_published": "2026-07-28T20:46:32+00:00"
     }
   ]
 }

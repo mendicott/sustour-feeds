@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-unesco-geopark-prehistoric-past-9.7276850",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-unesco-geopark-prehistoric-past-9.7276850",
+      "title": "How a road trip detour to Tumbler Ridge led this tourist from Taiwan to a 100-million-year ...",
+      "content_text": "One of five UNESCO Geoparks in Canada, Tumbler Ridge has been attracting people from around the world who are helping to uncover the region's ...",
+      "date_published": "2026-08-01T13:03:24+00:00"
+    },
+    {
       "id": "https://focustaiwan.tw/society/202607260008",
       "url": "https://focustaiwan.tw/society/202607260008",
       "title": "Miaoli Mazu temple becomes Taiwan's 1st to retire carbon credits",
@@ -68,13 +75,6 @@
       "title": "Formosa Sustainable Conservation International Forum Coming this October - Roomie",
       "content_text": "Through this platform, Taiwan aims to showcase its biodiversity and sustainable image of green tourism. A Global Benchmark for Biodiversity and ...",
       "date_published": "2026-07-30T10:44:01+00:00"
-    },
-    {
-      "id": "https://www.taipeitimes.com/News/editorials/archives/2026/07/30/2003861611",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/07/30/2003861611",
-      "title": "Protecting indigenous culture in a democracy - Taipei Times",
-      "content_text": "The harvest festival is neither a tourist attraction nor a political rally. It is an important ceremony for indigenous groups to honor their ancestors ...",
-      "date_published": "2026-07-30T00:04:27+00:00"
     }
   ]
 }
