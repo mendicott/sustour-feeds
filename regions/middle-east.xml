@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/middle-east.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Middle East. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 31 Jul 2026 22:09:30 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 10:09:16 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>World Ranger Day spotlights Saudi conservation drive across royal reserves | Arab News</title>
+<link>https://www.arabnews.com/node/2652980/amp</link>
+<guid isPermaLink="false">https://www.arabnews.com/node/2652980/amp</guid>
+<pubDate>Sat, 01 Aug 2026 03:20:58 +0000</pubDate>
+<description>... endangered species and promoting sustainable tourism. Rangers at the Imam Abdulaziz bin Mohammed Royal Reserve, in cooperation with the Special ...</description>
+</item>
 <item>
 <title>Iraq expects record 22 million pilgrims for Arbaeen - Iraqi News</title>
 <link>https://www.iraqinews.com/iraq/iraq-expects-record-22-million-pilgrims-for-arbaeen/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://english.ahram.org.eg/NewsContentMulti/571896/Multimedia.aspx</guid>
 <pubDate>Tue, 28 Jul 2026 20:46:32 +0000</pubDate>
 <description>Egypt has placed the project within a broader state push to develop South Sinai's protected areas as global ecotourism destinations, including ...</description>
-</item>
-<item>
-<title>Al Hajar Geopark Booklet to promote sustainable tourism - Oman Observer</title>
-<link>https://www.omanobserver.om/ampArticle/1193641</link>
-<guid isPermaLink="false">https://www.omanobserver.om/ampArticle/1193641</guid>
-<pubDate>Tue, 28 Jul 2026 20:06:02 +0000</pubDate>
-<description>MUSCAT: The Ministry of Heritage and Tourism has issued the Al Hajar Geopark Booklet in both Arabic and English. This comes within the framework ...</description>
 </item>
 </channel>
 </rss>

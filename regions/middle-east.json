@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.arabnews.com/node/2652980/amp",
+      "url": "https://www.arabnews.com/node/2652980/amp",
+      "title": "World Ranger Day spotlights Saudi conservation drive across royal reserves | Arab News",
+      "content_text": "... endangered species and promoting sustainable tourism. Rangers at the Imam Abdulaziz bin Mohammed Royal Reserve, in cooperation with the Special ...",
+      "date_published": "2026-08-01T03:20:58+00:00"
+    },
+    {
       "id": "https://www.iraqinews.com/iraq/iraq-expects-record-22-million-pilgrims-for-arbaeen/",
       "url": "https://www.iraqinews.com/iraq/iraq-expects-record-22-million-pilgrims-for-arbaeen/",
       "title": "Iraq expects record 22 million pilgrims for Arbaeen - Iraqi News",
@@ -68,13 +75,6 @@
       "title": "Egypt completes 50 Green Sharm projects, cuts emissions by 85,100 tons - Multimedia",
       "content_text": "Egypt has placed the project within a broader state push to develop South Sinai's protected areas as global ecotourism destinations, including ...",
       "date_published": "2026-07-28T20:46:32+00:00"
-    },
-    {
-      "id": "https://www.omanobserver.om/ampArticle/1193641",
-      "url": "https://www.omanobserver.om/ampArticle/1193641",
-      "title": "Al Hajar Geopark Booklet to promote sustainable tourism - Oman Observer",
-      "content_text": "MUSCAT: The Ministry of Heritage and Tourism has issued the Al Hajar Geopark Booklet in both Arabic and English. This comes within the framework ...",
-      "date_published": "2026-07-28T20:06:02+00:00"
     }
   ]
 }

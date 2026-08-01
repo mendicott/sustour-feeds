@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.arabnews.com/node/2652980/amp",
+      "url": "https://www.arabnews.com/node/2652980/amp",
+      "title": "World Ranger Day spotlights Saudi conservation drive across royal reserves | Arab News",
+      "content_text": "... endangered species and promoting sustainable tourism. Rangers at the Imam Abdulaziz bin Mohammed Royal Reserve, in cooperation with the Special ...",
+      "date_published": "2026-08-01T03:20:58+00:00"
+    },
+    {
       "id": "https://www.arabnews.com/node/2652275/saudi-arabia",
       "url": "https://www.arabnews.com/node/2652275/saudi-arabia",
       "title": "Saudi reserves chart path for future of eco-tourism | Arab News",
@@ -68,13 +75,6 @@
       "title": "Saudi ecotourism milestone as Al-Urumah Season draws 800000 visitors - Arab News",
       "content_text": "... tourism and conservation-focused travel. The Imam Abdulaziz bin ... responsible outdoor recreation. From 52,000 visitors in its first edition ...",
       "date_published": "2026-06-04T10:00:25+00:00"
-    },
-    {
-      "id": "https://www.arabnews.com/node/2645971/saudi-arabia",
-      "url": "https://www.arabnews.com/node/2645971/saudi-arabia",
-      "title": "Saudi ecotourism milestone as Al-Urumah Season draws 800000 visits - Arab News",
-      "content_text": "RIYADH: Saudi Arabia's flagship ecotourism initiative, Al-Urumah Season, has concluded its fifth edition with more than 800000 visits recorded ...",
-      "date_published": "2026-06-04T09:31:15+00:00"
     }
   ]
 }

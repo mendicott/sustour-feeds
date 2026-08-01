@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/saudi-arabia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Saudi Arabia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 31 Jul 2026 22:09:30 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 10:09:16 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>World Ranger Day spotlights Saudi conservation drive across royal reserves | Arab News</title>
+<link>https://www.arabnews.com/node/2652980/amp</link>
+<guid isPermaLink="false">https://www.arabnews.com/node/2652980/amp</guid>
+<pubDate>Sat, 01 Aug 2026 03:20:58 +0000</pubDate>
+<description>... endangered species and promoting sustainable tourism. Rangers at the Imam Abdulaziz bin Mohammed Royal Reserve, in cooperation with the Special ...</description>
+</item>
 <item>
 <title>Saudi reserves chart path for future of eco-tourism | Arab News</title>
 <link>https://www.arabnews.com/node/2652275/saudi-arabia</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.arabnews.com/node/2645942/saudi-arabia</guid>
 <pubDate>Thu, 04 Jun 2026 10:00:25 +0000</pubDate>
 <description>... tourism and conservation-focused travel. The Imam Abdulaziz bin ... responsible outdoor recreation. From 52,000 visitors in its first edition ...</description>
-</item>
-<item>
-<title>Saudi ecotourism milestone as Al-Urumah Season draws 800000 visits - Arab News</title>
-<link>https://www.arabnews.com/node/2645971/saudi-arabia</link>
-<guid isPermaLink="false">https://www.arabnews.com/node/2645971/saudi-arabia</guid>
-<pubDate>Thu, 04 Jun 2026 09:31:15 +0000</pubDate>
-<description>RIYADH: Saudi Arabia's flagship ecotourism initiative, Al-Urumah Season, has concluded its fifth edition with more than 800000 visits recorded ...</description>
 </item>
 </channel>
 </rss>
