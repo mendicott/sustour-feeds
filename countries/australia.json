@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.yahoo.com/news/science/articles/australias-norfolk-island-1-000-060400922.html",
+      "url": "https://www.yahoo.com/news/science/articles/australias-norfolk-island-1-000-060400922.html",
+      "title": "On Australia's Norfolk Island, 1,000 snails thought extinct for decades get a new home",
+      "content_text": "An unusual conservation recovery is underway on Australia's Norfolk Island, where a tiny snail once believed extinct is being given another chance ...",
+      "date_published": "2026-08-02T12:38:37+00:00"
+    },
+    {
       "id": "https://thewest.com.au/travel/new-festival-wants-visitors-to-meet-the-real-bajau-c-22575122",
       "url": "https://thewest.com.au/travel/new-festival-wants-visitors-to-meet-the-real-bajau-c-22575122",
       "title": "New festival wants visitors to meet the real Bajau | The West Australian",
@@ -68,13 +75,6 @@
       "title": "South Australia Reverses Ousting: Moonta Volunteers Reinstated in National Trust Truce",
       "content_text": "Global Implications for Volunteer-Driven Heritage. The Moonta dispute highlights a systemic friction point in heritage management globally: the ...",
       "date_published": "2026-07-27T08:51:19+00:00"
-    },
-    {
-      "id": "https://www.thehotelconversation.com.au/profiles/2026/07/24/introducing-tomorrow-beckons-global-regenerative-travel-program/1784855541",
-      "url": "https://www.thehotelconversation.com.au/profiles/2026/07/24/introducing-tomorrow-beckons-global-regenerative-travel-program/1784855541",
-      "title": "Introducing 'Tomorrow Beckons', a Global Regenerative Travel Program",
-      "content_text": "... travel program uniting its properties across Australia, New Zealand, Chile and Canada in a shared mission: to protect and regenerate the ...",
-      "date_published": "2026-07-24T05:07:53+00:00"
     }
   ]
 }

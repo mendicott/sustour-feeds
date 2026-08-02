@@ -7,6 +7,20 @@
   "language": "en",
   "items": [
     {
+      "id": "https://petra.gov.jo/en/news/aseza-launches-dedicated-cycling-route-in-wadi-rum",
+      "url": "https://petra.gov.jo/en/news/aseza-launches-dedicated-cycling-route-in-wadi-rum",
+      "title": "ASEZA Launches Dedicated Cycling Route in Wadi Rum - The Jordan News Agency",
+      "content_text": "... tourism activities, encouraging longer visitor stays, and reinforcing Wadi Rum's position as a global destination for eco-tourism and adventure ...",
+      "date_published": "2026-08-02T14:54:58+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/swsj0htyrqhj/",
+      "url": "https://www.travelandtourworld.com/news/article/swsj0htyrqhj/",
+      "title": "Saudi Arabia Unlocks the Stunning Makkah Islands for Sustainable Marine Tourism With ...",
+      "content_text": "Marine tourism could diversify Makkah Region travel, support coastal jobs and extend Jeddah stays while safeguarding fragile island ecosystems.",
+      "date_published": "2026-08-02T12:43:26+00:00"
+    },
+    {
       "id": "https://www.wam.ae/en/article/c1ik1hd-hatta-mountain-conservation-reserve-showcases",
       "url": "https://www.wam.ae/en/article/c1ik1hd-hatta-mountain-conservation-reserve-showcases",
       "title": "Hatta Mountain Conservation Reserve showcases unique biodiversity, sustainable ...",
@@ -61,20 +75,6 @@
       "title": "Nearly 2.9 million foreign Arbaeen arrivals | Latest breaking news in Iraq and the world",
       "content_text": "Shafaq News- Baghdad Around 2887305 visitors have entered Iraq from abroad since the start of the Islamic month of Muharram to participate in the ...",
       "date_published": "2026-07-30T09:17:40+00:00"
-    },
-    {
-      "id": "https://petra.gov.jo/grades/index.php/en/news/petra-chinas-badaling-great-wall-forge-partnership-to-advance-heritage-tourism",
-      "url": "https://petra.gov.jo/grades/index.php/en/news/petra-chinas-badaling-great-wall-forge-partnership-to-advance-heritage-tourism",
-      "title": "Petra, China's Badaling Great Wall Forge Partnership to Advance Heritage Tourism",
-      "content_text": "... preservation, sustainable tourism, and destination management. The agreement was signed on Sunday during an official ceremony in Beijing, marking ...",
-      "date_published": "2026-07-30T07:16:41+00:00"
-    },
-    {
-      "id": "https://www.tasnimnews.ir/en/news/2026/07/30/3659925/over-1-7-million-pilgrims-leave-iran-for-arbaeen-commemorations",
-      "url": "https://www.tasnimnews.ir/en/news/2026/07/30/3659925/over-1-7-million-pilgrims-leave-iran-for-arbaeen-commemorations",
-      "title": "Over 1.7 Million Pilgrims Leave Iran for Arbaeen Commemorations - Society/Culture news",
-      "content_text": "TEHRAN (Tasnim) – More than 1.7 million pilgrims have crossed Iran's borders to travel to Iraq for the annual Arbaeen pilgrimage, the country's ...",
-      "date_published": "2026-07-30T06:58:27+00:00"
     }
   ]
 }

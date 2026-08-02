@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/americas.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Americas. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 02 Aug 2026 10:08:25 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 22:07:48 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Rota dos Corais, Pernambuco, Tourism Evolves into Global Model for Coral Reef ...</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/xayeuiebdu17/</guid>
 <pubDate>Wed, 24 Jun 2026 18:42:55 +0000</pubDate>
 <description>Brazil Rota dos Corais tourism lets visitors join coral reef restoration through regenerative travel led by Biofábrica de Corais in Pernambuco.</description>
+</item>
+<item>
+<title>Canada Expands Mongolia Aviation Access as Ottawa Deal Allows Direct Passenger ...</title>
+<link>https://www.travelandtourworld.com/news/article/2e9ec5ie27li/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/2e9ec5ie27li/</guid>
+<pubDate>Sun, 02 Aug 2026 10:22:59 +0000</pubDate>
+<description>Canada's Mongolia air deal could open Ulaanbaatar access for visa-free Gobi geopark and steppe adventures.</description>
 </item>
 <item>
 <title>La Fortuna, Costa Rica: Where the community takes its share of the tourism industry</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.pressreader.com/fiji/fiji-sun/20260801/281818585630914</guid>
 <pubDate>Fri, 31 Jul 2026 21:22:17 +0000</pubDate>
 <description>2026-08-01 - SHRATIKA NAIDU, MALI ISLAND Feedback: shratikan@fijisun.com.fj Tourism · Travel · Mali · United States of America · Fiji · Macuata · ...</description>
-</item>
-<item>
-<title>Study Reveals Thousands of Previously Undocumented Species in Ecuador's Chocó</title>
-<link>https://www.rainforesttrust.org/our-impact/rainforest-news/study-reveals-thousands-of-previously-undocumented-species-in-ecuadors-choco/</link>
-<guid isPermaLink="false">https://www.rainforesttrust.org/our-impact/rainforest-news/study-reveals-thousands-of-previously-undocumented-species-in-ecuadors-choco/</guid>
-<pubDate>Fri, 31 Jul 2026 19:02:15 +0000</pubDate>
-<description>Many of the genetic units identified through DNA barcoding may represent species that have never been formally described. Led by Ecuador's National ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/australia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Australia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 02 Aug 2026 10:08:25 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 22:07:48 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>On Australia's Norfolk Island, 1,000 snails thought extinct for decades get a new home</title>
+<link>https://www.yahoo.com/news/science/articles/australias-norfolk-island-1-000-060400922.html</link>
+<guid isPermaLink="false">https://www.yahoo.com/news/science/articles/australias-norfolk-island-1-000-060400922.html</guid>
+<pubDate>Sun, 02 Aug 2026 12:38:37 +0000</pubDate>
+<description>An unusual conservation recovery is underway on Australia's Norfolk Island, where a tiny snail once believed extinct is being given another chance ...</description>
+</item>
 <item>
 <title>New festival wants visitors to meet the real Bajau | The West Australian</title>
 <link>https://thewest.com.au/travel/new-festival-wants-visitors-to-meet-the-real-bajau-c-22575122</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://streamlinefeed.co.ke/news/south-australia-moonta-volunteers-reinstated-national-trust-deal</guid>
 <pubDate>Mon, 27 Jul 2026 08:51:19 +0000</pubDate>
 <description>Global Implications for Volunteer-Driven Heritage. The Moonta dispute highlights a systemic friction point in heritage management globally: the ...</description>
-</item>
-<item>
-<title>Introducing 'Tomorrow Beckons', a Global Regenerative Travel Program</title>
-<link>https://www.thehotelconversation.com.au/profiles/2026/07/24/introducing-tomorrow-beckons-global-regenerative-travel-program/1784855541</link>
-<guid isPermaLink="false">https://www.thehotelconversation.com.au/profiles/2026/07/24/introducing-tomorrow-beckons-global-regenerative-travel-program/1784855541</guid>
-<pubDate>Fri, 24 Jul 2026 05:07:53 +0000</pubDate>
-<description>... travel program uniting its properties across Australia, New Zealand, Chile and Canada in a shared mission: to protect and regenerate the ...</description>
 </item>
 </channel>
 </rss>

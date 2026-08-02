@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/uganda.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Uganda. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 02 Aug 2026 10:08:25 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 22:07:48 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Uganda Partners with Rwanda and More Countries as Mountain Gorilla Conservation ...</title>
+<link>https://www.travelandtourworld.com/news/article/l7fnowkidg9i/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/l7fnowkidg9i/</guid>
+<pubDate>Sun, 02 Aug 2026 15:26:46 +0000</pubDate>
+<description>As sustainable tourism becomes increasingly important within global travel markets, Uganda's experience demonstrates how conservation-driven ...</description>
+</item>
 <item>
 <title>To protect endangered mountain gorillas, this wildlife vet empowers their human neighbors</title>
 <link>https://www.cnn.com/2026/07/31/world/gladys-kalema-zikusoka-conservation-through-public-health-cnnheroes</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/8oq1h24qw0bg/</guid>
 <pubDate>Sat, 27 Jun 2026 12:41:28 +0000</pubDate>
 <description>... tourism, biodiversity conservation and immersive nature-based travel beyond the traditional Northern Circuit. Tanzania is reshaping its global tourism ...</description>
-</item>
-<item>
-<title>Uganda reports steady increase in giraffe population growth</title>
-<link>https://ntv.co.ug/news/uganda-reports-steady-increase-in-giraffe-population-growth</link>
-<guid isPermaLink="false">https://ntv.co.ug/news/uganda-reports-steady-increase-in-giraffe-population-growth</guid>
-<pubDate>Sat, 27 Jun 2026 11:15:35 +0000</pubDate>
-<description>Uganda's giraffe conservation efforts are showing encouraging results, with wildlife managers reporting steady population growth after decades of ...</description>
 </item>
 </channel>
 </rss>

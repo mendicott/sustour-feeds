@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/philippines.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Philippines. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 02 Aug 2026 10:08:25 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 22:07:48 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>DECENTRALIZING HERITAGE CONSERVATION | The Manila Times - PressReader</title>
+<link>https://www.pressreader.com/philippines/manila-times/20260802/281788520861616</link>
+<guid isPermaLink="false">https://www.pressreader.com/philippines/manila-times/20260802/281788520861616</guid>
+<pubDate>Sat, 01 Aug 2026 22:55:19 +0000</pubDate>
+<description>... heritage conservation. By institutionalizing a dedicated space for Kalinga's history in the town of Pasil, the law moves beyond mere tourism; it ...</description>
+</item>
 <item>
 <title>Thomasians in monuments council vow to strengthen heritage networks - The Varsitarian</title>
 <link>https://varsitarian.net/thomasians-in-monuments-council-vow-to-strengthen-heritage-networks/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.manilatimes.net/2026/07/11/business/green-industries/philippines-launches-national-policy-to-scale-nature-based-solutions/2382369/amp</guid>
 <pubDate>Fri, 10 Jul 2026 16:24:00 +0000</pubDate>
 <description>NATURE-BASED Solutions (NbS), which protect the environment, restore ecosystems and address societal challenges like climate change and the need ...</description>
-</item>
-<item>
-<title>Philippines Strengthens Green Tourism Push as Misamis Oriental Partners With DENR-10 to ...</title>
-<link>https://www.travelandtourworld.com/news/article/9p04qnk6q3ob/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/9p04qnk6q3ob/</guid>
-<pubDate>Tue, 07 Jul 2026 06:25:52 +0000</pubDate>
-<description>Philippines Misamis Oriental expands ecotourism with DENR-10 support, protecting nature, coastal areas and creating sustainable travel ...</description>
 </item>
 </channel>
 </rss>
