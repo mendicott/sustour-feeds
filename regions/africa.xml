@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/africa.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Africa. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 01 Aug 2026 22:08:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 10:08:25 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Ghana's Safari World to make inroad into Nigeria</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://english.ahram.org.eg/NewsContentMulti/562354/Multimedia.aspx</guid>
 <pubDate>Sat, 01 Aug 2026 03:48:31 +0000</pubDate>
 <description>Minister of Foreign Affairs Badr Abdelatty discussed on Friday with the Director General of the United Nations Educational, Scientific and ...</description>
+</item>
+<item>
+<title>Fifteen elephants found dead outside Kenyan park | APAnews - African Press Agency</title>
+<link>https://apanews.net/fifteen-elephants-found-dead-outside-kenyan-park/</link>
+<guid isPermaLink="false">https://apanews.net/fifteen-elephants-found-dead-outside-kenyan-park/</guid>
+<pubDate>Fri, 31 Jul 2026 21:22:22 +0000</pubDate>
+<description>Fifteen elephants were found dead outside the Amboseli National Park in Kenya allegedly due to cyanide poisoning, according to the Kenya Wildlife ...</description>
 </item>
 <item>
 <title>Ruto Govt to Hire More Rangers in Wildlife Protection Push | Dawan Africa</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://streamlinefeed.co.ke/news/zainab-ansell-elected-global-sustainable-tourism-council-board</guid>
 <pubDate>Fri, 31 Jul 2026 13:23:13 +0000</pubDate>
 <description>Ansell, the Founder and Chief Executive Officer of Zara Tanzania Adventures and Zita Tanzania Wild Camps, will commence her three-year mandate on ...</description>
-</item>
-<item>
-<title>"The truck got stuck at 2am." Why 12 giraffes were just captured in Namibia and driven to Angola</title>
-<link>https://www.discoverwildlife.com/animal-facts/mammals/giraffe-translocation-angola</link>
-<guid isPermaLink="false">https://www.discoverwildlife.com/animal-facts/mammals/giraffe-translocation-angola</guid>
-<pubDate>Fri, 31 Jul 2026 13:09:59 +0000</pubDate>
-<description>Conservationists are celebrating the translocation of 12 Angolan giraffes to their historic home in Angola's Bicuar National Park.</description>
 </item>
 </channel>
 </rss>

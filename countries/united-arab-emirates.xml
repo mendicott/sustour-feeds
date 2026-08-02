@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/united-arab-emirates.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for United Arab Emirates. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 01 Aug 2026 22:08:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 10:08:25 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Hatta Mountain Conservation Reserve showcases unique biodiversity, sustainable ...</title>
+<link>https://www.wam.ae/en/article/c1ik1hd-hatta-mountain-conservation-reserve-showcases</link>
+<guid isPermaLink="false">https://www.wam.ae/en/article/c1ik1hd-hatta-mountain-conservation-reserve-showcases</guid>
+<pubDate>Sat, 01 Aug 2026 22:23:46 +0000</pubDate>
+<description>... Dubai's most prominent protected areas thanks to its rich biodiversity and unique ecological characteristics. The Dubai Environment and Climate ...</description>
+</item>
 <item>
 <title>The geology and biodiversity of Wadi Wurayah, the UAE's first natural UNESCO World Heritage Site</title>
 <link>https://www.cntravellerme.com/story/the-geology-and-biodiversity-of-wadi-wurayah-the-uaes-first-natural-unesco-world-heritage-site</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/tlmldjelus4o/</guid>
 <pubDate>Sat, 20 Jun 2026 10:50:48 +0000</pubDate>
 <description>Verified reports confirm that regional transit hubs are being overhauled to manage an unprecedented surge in religious travel, supported by automated ...</description>
-</item>
-<item>
-<title>Tourists Are Invited To Visit The Conservation Area in the Dubai Desert - TravelWires</title>
-<link>https://www.travelwires.com/tourists-are-invited-to-visit-the-conservation-area-in-the-dubai-desert/</link>
-<guid isPermaLink="false">https://www.travelwires.com/tourists-are-invited-to-visit-the-conservation-area-in-the-dubai-desert/</guid>
-<pubDate>Thu, 18 Jun 2026 06:39:50 +0000</pubDate>
-<description>The cultural hall highlights the significant achievements by the DDCR, recognized as a successful model for habitat protection, controlled tourism, as ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/philippines.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Philippines. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 01 Aug 2026 22:08:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 10:08:25 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Thomasians in monuments council vow to strengthen heritage networks - The Varsitarian</title>
+<link>https://varsitarian.net/thomasians-in-monuments-council-vow-to-strengthen-heritage-networks/</link>
+<guid isPermaLink="false">https://varsitarian.net/thomasians-in-monuments-council-vow-to-strengthen-heritage-networks/</guid>
+<pubDate>Sat, 01 Aug 2026 12:37:56 +0000</pubDate>
+<description>TWO THOMASIANS assumed top posts in the International Council on Monuments and Sites (Icomos) Philippines during the council's assembly on July 11 ...</description>
+</item>
 <item>
 <title>P100-M eco-tourism project up in Dinagat Islands - Philippine News Agency</title>
 <link>https://www.pna.gov.ph/articles/1280651</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/9p04qnk6q3ob/</guid>
 <pubDate>Tue, 07 Jul 2026 06:25:52 +0000</pubDate>
 <description>Philippines Misamis Oriental expands ecotourism with DENR-10 support, protecting nature, coastal areas and creating sustainable travel ...</description>
-</item>
-<item>
-<title>The Philippines needs 15000 forest rangers to meet its conservation goals; It only has 2200</title>
-<link>https://www.eco-business.com/news/the-philippines-needs-15000-forest-rangers-to-meet-its-conservation-goals-it-only-has-2200/</link>
-<guid isPermaLink="false">https://www.eco-business.com/news/the-philippines-needs-15000-forest-rangers-to-meet-its-conservation-goals-it-only-has-2200/</guid>
-<pubDate>Tue, 30 Jun 2026 14:20:02 +0000</pubDate>
-<description>Government data released to Eco-Business by the Philippines' Department of Environment and Natural Resources (DENR) shows it currently employs just ...</description>
 </item>
 </channel>
 </rss>

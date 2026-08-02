@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.wam.ae/en/article/c1ik1hd-hatta-mountain-conservation-reserve-showcases",
+      "url": "https://www.wam.ae/en/article/c1ik1hd-hatta-mountain-conservation-reserve-showcases",
+      "title": "Hatta Mountain Conservation Reserve showcases unique biodiversity, sustainable ...",
+      "content_text": "... Dubai's most prominent protected areas thanks to its rich biodiversity and unique ecological characteristics. The Dubai Environment and Climate ...",
+      "date_published": "2026-08-01T22:23:46+00:00"
+    },
+    {
       "id": "https://english.ahram.org.eg/NewsContentMulti/562354/Multimedia.aspx",
       "url": "https://english.ahram.org.eg/NewsContentMulti/562354/Multimedia.aspx",
       "title": "FM Abdelatty, UNESCO chief discuss Egypt efforts to preserve archaeological, heritage sites",
@@ -68,13 +75,6 @@
       "title": "Over 1.7 Million Pilgrims Leave Iran for Arbaeen Commemorations - Society/Culture news",
       "content_text": "TEHRAN (Tasnim) – More than 1.7 million pilgrims have crossed Iran's borders to travel to Iraq for the annual Arbaeen pilgrimage, the country's ...",
       "date_published": "2026-07-30T06:58:27+00:00"
-    },
-    {
-      "id": "https://www.pressreader.com/oman/muscat-daily/20260729/281582362422194",
-      "url": "https://www.pressreader.com/oman/muscat-daily/20260729/281582362422194",
-      "title": "New guide showcases Al Hajar Geological Park attractions | Muscat Daily - PressReader",
-      "content_text": "The ministry stated that Al Hajar Geological Park is the sultanate's first national geopark and efforts are ongoing to meet the requirements for ...",
-      "date_published": "2026-07-29T01:32:56+00:00"
     }
   ]
 }

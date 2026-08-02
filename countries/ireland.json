@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.irishtimes.com/life-style/people/2026/08/01/a-look-at-dublin-bays-completely-unique-biosphere/",
+      "url": "https://www.irishtimes.com/life-style/people/2026/08/01/a-look-at-dublin-bays-completely-unique-biosphere/",
+      "title": "A look at Dublin Bay's 'completely unique' biosphere - The Irish Times",
+      "content_text": "In 2015, Unesco extended the reserve to the entirety of Dublin Bay, including Ireland's Eye, which has 9000 pairs of breeding seabirds across 11 ...",
+      "date_published": "2026-08-01T14:01:13+00:00"
+    },
+    {
       "id": "https://businessplus.ie/news/failte-ireland-3-year-corporate-strategy/",
       "url": "https://businessplus.ie/news/failte-ireland-3-year-corporate-strategy/",
       "title": "Fáilte Ireland launches new 3-year corporate strategy - Business Plus",
@@ -68,13 +75,6 @@
       "title": "New €1.5 million Zipit Donadea Forest Adventure Park Opens in Co. Kildare | Hotelnews.ie",
       "content_text": "Regenerative tourism project funded through Fáilte Ireland's EU Just Transition Fund scheme, will enhance outdoor tourism offering in Kildare.",
       "date_published": "2026-07-02T14:42:01+00:00"
-    },
-    {
-      "id": "https://universitytimes.ie/2026/06/turista-ve-a-casa-tourist-go-home-2/",
-      "url": "https://universitytimes.ie/2026/06/turista-ve-a-casa-tourist-go-home-2/",
-      "title": "\"TURISTA VE A CASA / TOURIST GO HOME\" – The University Times",
-      "content_text": "The phrase \"BAN AIRBNB NOW\" has become an increasingly common sight on the streets of Dublin. Similar to Spain, tourism makes up a substantial part of ...",
-      "date_published": "2026-06-30T16:14:52+00:00"
     }
   ]
 }

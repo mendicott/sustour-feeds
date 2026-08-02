@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/middle-east.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Middle East. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 01 Aug 2026 22:08:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 10:08:25 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Hatta Mountain Conservation Reserve showcases unique biodiversity, sustainable ...</title>
+<link>https://www.wam.ae/en/article/c1ik1hd-hatta-mountain-conservation-reserve-showcases</link>
+<guid isPermaLink="false">https://www.wam.ae/en/article/c1ik1hd-hatta-mountain-conservation-reserve-showcases</guid>
+<pubDate>Sat, 01 Aug 2026 22:23:46 +0000</pubDate>
+<description>... Dubai's most prominent protected areas thanks to its rich biodiversity and unique ecological characteristics. The Dubai Environment and Climate ...</description>
+</item>
 <item>
 <title>FM Abdelatty, UNESCO chief discuss Egypt efforts to preserve archaeological, heritage sites</title>
 <link>https://english.ahram.org.eg/NewsContentMulti/562354/Multimedia.aspx</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.tasnimnews.ir/en/news/2026/07/30/3659925/over-1-7-million-pilgrims-leave-iran-for-arbaeen-commemorations</guid>
 <pubDate>Thu, 30 Jul 2026 06:58:27 +0000</pubDate>
 <description>TEHRAN (Tasnim) – More than 1.7 million pilgrims have crossed Iran's borders to travel to Iraq for the annual Arbaeen pilgrimage, the country's ...</description>
-</item>
-<item>
-<title>New guide showcases Al Hajar Geological Park attractions | Muscat Daily - PressReader</title>
-<link>https://www.pressreader.com/oman/muscat-daily/20260729/281582362422194</link>
-<guid isPermaLink="false">https://www.pressreader.com/oman/muscat-daily/20260729/281582362422194</guid>
-<pubDate>Wed, 29 Jul 2026 01:32:56 +0000</pubDate>
-<description>The ministry stated that Al Hajar Geological Park is the sultanate's first national geopark and efforts are ongoing to meet the requirements for ...</description>
 </item>
 </channel>
 </rss>
