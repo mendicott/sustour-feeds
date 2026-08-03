@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/oman.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Oman. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 03 Aug 2026 10:08:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 22:09:02 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Slow Travel: Why Travelling Less Is Creating More Meaningful Journeys - Oman Observer</title>
+<link>https://www.omanobserver.om/article/1193901/features/travel/slow-travel-why-travelling-less-is-creating-more-meaningful-journeys</link>
+<guid isPermaLink="false">https://www.omanobserver.om/article/1193901/features/travel/slow-travel-why-travelling-less-is-creating-more-meaningful-journeys</guid>
+<pubDate>Mon, 03 Aug 2026 17:27:23 +0000</pubDate>
+<description>Slow travel is redefining tourism by encouraging visitors to spend more time in fewer places, connect with local communities and experience ...</description>
+</item>
 <item>
 <title>New guide showcases Al Hajar Geological Park attractions | Muscat Daily - PressReader</title>
 <link>https://www.pressreader.com/oman/muscat-daily/20260729/281582362422194</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.omanobserver.om/article/1191454/oman/oman-elected-to-unesco-intangible-heritage-panel</guid>
 <pubDate>Thu, 18 Jun 2026 14:29:53 +0000</pubDate>
 <description>She also commended the Secretariat's initiatives linking intangible heritage to sustainable development, education, climate change and artificial ...</description>
-</item>
-<item>
-<title>Al Gharif brings Dhofar's farm heritage to life - Oman Observer</title>
-<link>https://www.omanobserver.om/article/1193870/oman/al-gharif-brings-dhofars-farm-heritage-to-life</link>
-<guid isPermaLink="false">https://www.omanobserver.om/article/1193870/oman/al-gharif-brings-dhofars-farm-heritage-to-life</guid>
-<pubDate>Sun, 02 Aug 2026 19:26:34 +0000</pubDate>
-<description>SALALAH: A new agri-tourism destination showcasing Dhofar's rich agricultural heritage is drawing visitors during Khareef Dhofar 2026, offering a.</description>
 </item>
 </channel>
 </rss>

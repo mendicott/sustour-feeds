@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/indonesia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Indonesia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 03 Aug 2026 10:08:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 22:09:02 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>UNESCO Evaluates Indonesia's Ijen Global Geopark Status - RRI.co.id</title>
+<link>https://rri.co.id/en/tourism/2622114/unesco-evaluates-indonesias-ijen-global-geopark-status</link>
+<guid isPermaLink="false">https://rri.co.id/en/tourism/2622114/unesco-evaluates-indonesias-ijen-global-geopark-status</guid>
+<pubDate>Mon, 03 Aug 2026 10:51:14 +0000</pubDate>
+<description>Indonesia's Ijen Geopark has begun its first revalidation as a UNESCO Global Geopark. The evaluation started in Banyuwangi, East Java, on Sunday, ...</description>
+</item>
 <item>
 <title>Karo Flower and Fruit Festival boosts tourism and local economy - ANTARA News</title>
 <link>https://en.antaranews.com/amp/news/425147/karo-flower-and-fruit-festival-boosts-tourism-and-local-economy</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://rri.co.id/en/tourism/2601663/indonesia-prepares-ijen-geopark-for-unesco-revalidation</guid>
 <pubDate>Tue, 28 Jul 2026 05:05:20 +0000</pubDate>
 <description>Indonesia is preparing the Ijen UNESCO Global Geopark for its international revalidation process in August 2026. The preparation was discussed ...</description>
-</item>
-<item>
-<title>Indonesia Supports Kemiren for UN Tourism Best Village Status - RRI.co.id</title>
-<link>https://rri.co.id/en/tourism/2601595/indonesia-supports-kemiren-for-un-tourism-best-village-status</link>
-<guid isPermaLink="false">https://rri.co.id/en/tourism/2601595/indonesia-supports-kemiren-for-un-tourism-best-village-status</guid>
-<pubDate>Tue, 28 Jul 2026 04:35:38 +0000</pubDate>
-<description>Indonesia's Ministry of Tourism is supporting Kemiren Tourism Village in Banyuwangi to achieve the Best Tourism Village status from UN Tourism.</description>
 </item>
 </channel>
 </rss>
