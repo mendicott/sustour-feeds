@@ -7,11 +7,25 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.aljazeera.com/features/2026/8/3/the-battle-for-the-maasai-mara-can-kenyas-most-iconic-ecosystem-be-saved",
+      "url": "https://www.aljazeera.com/features/2026/8/3/the-battle-for-the-maasai-mara-can-kenyas-most-iconic-ecosystem-be-saved",
+      "title": "The battle for the Maasai Mara: Can Kenya's most iconic ecosystem be saved? - Al Jazeera",
+      "content_text": "\"When the interests of wildlife and nature conflict with tourism, the rights of nature are supreme. Any interaction between tourists, wild animals ...",
+      "date_published": "2026-08-03T02:07:46+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/l7fnowkidg9i/",
       "url": "https://www.travelandtourworld.com/news/article/l7fnowkidg9i/",
       "title": "Uganda Partners with Rwanda and More Countries as Mountain Gorilla Conservation ...",
       "content_text": "As sustainable tourism becomes increasingly important within global travel markets, Uganda's experience demonstrates how conservation-driven ...",
       "date_published": "2026-08-02T15:26:46+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/qv4jg3niv96n/",
+      "url": "https://www.travelandtourworld.com/news/article/qv4jg3niv96n/",
+      "title": "Egypt Stakes the Future of Red Sea Tourism on a Groundbreaking Coral Reef Protection ...",
+      "content_text": "Table: Egypt's Coral Reef Tourism at a Glance. Indicator, Details. Protected ecosystem, Great Fringing Reef. Total length, Approximately 2,000 km.",
+      "date_published": "2026-08-02T07:26:59+00:00"
     },
     {
       "id": "https://thesun.ng/ghanas-safari-world-to-make-inroad-into-nigeria/",
@@ -61,20 +75,6 @@
       "title": "Tanzania advances shared governance for community protected and conserved areas",
       "content_text": "The workshop brought together government institutions, local communities, community conservation organisations, civil society, academia, conservation ...",
       "date_published": "2026-07-31T16:31:21+00:00"
-    },
-    {
-      "id": "https://www.cnn.com/2026/07/31/world/gladys-kalema-zikusoka-conservation-through-public-health-cnnheroes",
-      "url": "https://www.cnn.com/2026/07/31/world/gladys-kalema-zikusoka-conservation-through-public-health-cnnheroes",
-      "title": "To protect endangered mountain gorillas, this wildlife vet empowers their human neighbors",
-      "content_text": "Uganda's lush forests and abundant wildlife were a tourist destination in the 1960s, but the brutal reign of Idi Amin in the 1970s changed that.",
-      "date_published": "2026-07-31T15:19:00+00:00"
-    },
-    {
-      "id": "https://iucn.org/news/202607/tanzania-advances-shared-governance-protected-and-conserved-areas",
-      "url": "https://iucn.org/news/202607/tanzania-advances-shared-governance-protected-and-conserved-areas",
-      "title": "Tanzania advances shared governance of protected and conserved areas - News | IUCN",
-      "content_text": "... Tourism, Mr Daniel Pancras giving remarks at the opening of the workshop. Photo: IUCN Tanzania. A workshop participant presenting his points in a ...",
-      "date_published": "2026-07-31T14:33:11+00:00"
     }
   ]
 }

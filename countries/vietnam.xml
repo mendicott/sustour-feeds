@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 02 Aug 2026 22:07:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 10:08:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>"Awakening" identity and creating livelihoods through community tourism. - Vietnam.vn</title>
+<link>https://www.vietnam.vn/en/anh-thuc-ban-sac-tao-sinh-ke-tu-du-lich-cong-dong</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/anh-thuc-ban-sac-tao-sinh-ke-tu-du-lich-cong-dong</guid>
+<pubDate>Sun, 02 Aug 2026 22:22:55 +0000</pubDate>
+<description>... community-based tourism in Western Lam Dong province. This is expected ... community tourism. Mr. Nguyen Anh Son, Vice Chairman of the ...</description>
+</item>
 <item>
 <title>Bau Da Wetland: A New Ecotourism Destination in Dak Lak - Vietnam.vn</title>
 <link>https://www.vietnam.vn/en/rung-ngap-nuoc-bau-da-diem-hen-du-lich-sinh-thai-moi-cua-dak-lak</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.vietnam.vn/en/tuyen-quang-phat-trien-du-lich-lich-su-tu-duong-hanh-phuc</guid>
 <pubDate>Wed, 29 Jul 2026 15:40:35 +0000</pubDate>
 <description>Nestled amidst the majestic landscape of the UNESCO Global Geopark Dong Van Karst Plateau, the monument complex is a convergence point of natural ...</description>
-</item>
-<item>
-<title>Responsible tourism: "Ambassadors" for coral reef protection. - Vietnam.vn</title>
-<link>https://www.vietnam.vn/en/du-lich-trach-nhiem-dai-su-bao-ve-ran-san-ho</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/du-lich-trach-nhiem-dai-su-bao-ve-ran-san-ho</guid>
-<pubDate>Wed, 29 Jul 2026 00:13:59 +0000</pubDate>
-<description>Travel · Happy Vietnam · Enterprise · Product ... Tag: coral bleaching#Great Barriercoral reef restorationResponsible tourismGreat Barrier Reef.</description>
 </item>
 </channel>
 </rss>

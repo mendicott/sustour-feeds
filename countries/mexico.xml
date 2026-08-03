@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 02 Aug 2026 22:07:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 10:08:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mexico, Ecuador and Other Countries Lead Sustainable Tourism Transformation as Global ...</title>
+<link>https://www.travelandtourworld.com/news/article/92nfkutxut2g/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/92nfkutxut2g/</guid>
+<pubDate>Mon, 03 Aug 2026 03:48:00 +0000</pubDate>
+<description>... Heritage conservation, Protects cultural identity. Environmental planning, Builds resilience. Responsible travel, Reduces negative impacts. Mexico ...</description>
+</item>
 <item>
 <title>Mexico protected more than 1 million monarch butterflies in 1980. Today, they've created a ...</title>
 <link>https://en.as.com/latest_news/mexico-protected-more-than-1-million-monarch-butterflies-in-1980-today-theyve-created-a-one-of-a-kind-ecosystem-f202607-n/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://cdmxsecreta.com/en/2026-amecameca-international-firefly-festival/</guid>
 <pubDate>Fri, 10 Jul 2026 17:44:11 +0000</pubDate>
 <description>27 ecotourism parks in Amecameca, Ecatzingo, and Tlalmanalco are joining the 2026 Firefly Festival with tours and more.</description>
-</item>
-<item>
-<title>Less than two hours from Mexico City: 3 ecotourism parks to see fireflies in 2026</title>
-<link>https://cdmxsecreta.com/en/parks-to-see-fireflies-2026-texcoco/</link>
-<guid isPermaLink="false">https://cdmxsecreta.com/en/parks-to-see-fireflies-2026-texcoco/</guid>
-<pubDate>Wed, 08 Jul 2026 21:57:10 +0000</pubDate>
-<description>These are the ecotourism parks participating in the 2026 Firefly Viewing Season in Texcoco.</description>
 </item>
 </channel>
 </rss>

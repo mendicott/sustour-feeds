@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/egypt.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Egypt. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 02 Aug 2026 22:07:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 10:08:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Egypt Stakes the Future of Red Sea Tourism on a Groundbreaking Coral Reef Protection ...</title>
+<link>https://www.travelandtourworld.com/news/article/qv4jg3niv96n/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/qv4jg3niv96n/</guid>
+<pubDate>Sun, 02 Aug 2026 07:26:59 +0000</pubDate>
+<description>Table: Egypt's Coral Reef Tourism at a Glance. Indicator, Details. Protected ecosystem, Great Fringing Reef. Total length, Approximately 2,000 km.</description>
+</item>
 <item>
 <title>FM Abdelatty, UNESCO chief discuss Egypt efforts to preserve archaeological, heritage sites</title>
 <link>https://english.ahram.org.eg/NewsContentMulti/562354/Multimedia.aspx</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.dw.com/en/how-citizen-scientists-are-saving-egypts-sea-turtles/video-77893238</guid>
 <pubDate>Thu, 09 Jul 2026 15:57:41 +0000</pubDate>
 <description>Our weekly program highlights inspiring ideas from Africa and Europe, focusing on sustainable living and technology-driven solutions to the climate ...</description>
-</item>
-<item>
-<title>South Africa Stands With Morocco, Egypt, Kenya And Emerging African Tourism ...</title>
-<link>https://www.travelandtourworld.com/news/article/6mtl2jwwr8xo/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/6mtl2jwwr8xo/</guid>
-<pubDate>Tue, 30 Jun 2026 14:53:59 +0000</pubDate>
-<description>Seychelles is pursuing a low-volume, high-value tourism strategy, emphasising environmental protection and ultra-luxury hospitality offerings.</description>
 </item>
 </channel>
 </rss>

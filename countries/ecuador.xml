@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ecuador.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ecuador. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 02 Aug 2026 22:07:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 10:08:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mexico, Ecuador and Other Countries Lead Sustainable Tourism Transformation as Global ...</title>
+<link>https://www.travelandtourworld.com/news/article/92nfkutxut2g/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/92nfkutxut2g/</guid>
+<pubDate>Mon, 03 Aug 2026 03:48:00 +0000</pubDate>
+<description>... Heritage conservation, Protects cultural identity. Environmental planning, Builds resilience. Responsible travel, Reduces negative impacts. Mexico ...</description>
+</item>
 <item>
 <title>Study Reveals Thousands of Previously Undocumented Species in Ecuador's Chocó</title>
 <link>https://www.rainforesttrust.org/our-impact/rainforest-news/study-reveals-thousands-of-previously-undocumented-species-in-ecuadors-choco/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://karryon.com.au/forgood/travel-planeterra-report/</guid>
 <pubDate>Wed, 15 Jul 2026 02:35:51 +0000</pubDate>
 <description>In Ecuador, Quichua Native Travel supports Kichwa communities through locally led cultural experiences, with tourism income supporting women-led ...</description>
-</item>
-<item>
-<title>Peru's Manú National Park Beats Kenya, Brazil, Ecuador, India, Costa Rica and More to ...</title>
-<link>https://www.travelandtourworld.com/news/article/llyroouqxiak/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/llyroouqxiak/</guid>
-<pubDate>Tue, 14 Jul 2026 02:29:09 +0000</pubDate>
-<description>The final ranking reinforces Peru's growing reputation as a global leader in wildlife tourism, with Manú National Park and Tambopata National Reserve ...</description>
 </item>
 </channel>
 </rss>
