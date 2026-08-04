@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://theworld.org/stories/2026/08/04/this-slovak-village-wants-to-get-rid-of-its-unesco-world-heritage-designation",
+      "url": "https://theworld.org/stories/2026/08/04/this-slovak-village-wants-to-get-rid-of-its-unesco-world-heritage-designation",
+      "title": "This Slovak village wants to get rid of its UNESCO World Heritage designation",
+      "content_text": "From DW, Inside Europe's Rob Cameron reports about the small Slovak village that wants to drop its UNESCO designation because of too much tourism.",
+      "date_published": "2026-08-04T18:27:03+00:00"
+    },
+    {
       "id": "https://spectator.sme.sk/travel/c/dobsinska-ice-cave-slovakia-climate-change",
       "url": "https://spectator.sme.sk/travel/c/dobsinska-ice-cave-slovakia-climate-change",
       "title": "Dobšiná Ice Cave lost around 600 cubic metres of ice in a year, experts say",
@@ -68,13 +75,6 @@
       "title": "Vlkolinec: 'Not a museum': Slovak UNESCO village strains under tourism - RTL Today",
       "content_text": "68-year-old pensioner Anton Sabucha protested to AFP, nodding to the signs outside his house. Tourists are \"going wherever they want, taking pictures ...",
       "date_published": "2026-07-03T11:15:30+00:00"
-    },
-    {
-      "id": "https://www.unesco.org/en/articles/tanzania-slovakia-dialogue-strengthening-biosphere-reserves-cooperation",
-      "url": "https://www.unesco.org/en/articles/tanzania-slovakia-dialogue-strengthening-biosphere-reserves-cooperation",
-      "title": "Tanzania-Slovakia dialogue on strengthening biosphere reserves cooperation - UNESCO",
-      "content_text": "A high-level visit to the UNESCO Dar es Salaam Office opened new opportunities for collaboration between Slovakia and Tanzania in managing the ...",
-      "date_published": "2026-06-15T07:59:39+00:00"
     }
   ]
 }

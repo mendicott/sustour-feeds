@@ -7,6 +7,20 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=mqYVrh81bng",
+      "url": "https://www.youtube.com/watch?v=mqYVrh81bng",
+      "title": "Maasai Mara Facing Ecological Crisis: Can Kenya Save Its Most Famous Reserve? | Firstpost Africa",
+      "content_text": "Watch this video as Firstpost explains how overdevelopment is threatening both tourism and the ecosystem of Kenya's iconic Maasai Mara.",
+      "date_published": "2026-08-04T21:21:31+00:00"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=iETrqjYVNls",
+      "url": "https://www.youtube.com/watch?v=iETrqjYVNls",
+      "title": "Is luxury tourism destroying Kenya's Maasai Mara? - YouTube",
+      "content_text": "... tourism is threatening the ecosystem that makes the spectacle possible, and the battle has now reached the courts. Subscribe: http://trt.world ...",
+      "date_published": "2026-08-04T15:46:04+00:00"
+    },
+    {
       "id": "https://www.birdguides.com/news/birdlife-international-to-unveil-landmark-global-report-on-migratory-b/",
       "url": "https://www.birdguides.com/news/birdlife-international-to-unveil-landmark-global-report-on-migratory-b/",
       "title": "BirdLife International to unveil landmark global report on migratory birds - BirdGuides",
@@ -61,20 +75,6 @@
       "title": "Intrepid secures license to support Kenyan reforestation project - Travel Weekly",
       "content_text": "\"Kenya's rich biodiversity is a vital part of the African and global ... tourism, aviation, hospitality and travel marketing. About TW. About ...",
       "date_published": "2026-07-31T00:00:28+00:00"
-    },
-    {
-      "id": "https://nation.africa/kenya/brand-book/kwca-on-financing-kenya-conservancy-model-5541722",
-      "url": "https://nation.africa/kenya/brand-book/kwca-on-financing-kenya-conservancy-model-5541722",
-      "title": "Kenya has embraced the conservancy model, now we must finance it - Nation Africa",
-      "content_text": "Developed through a partnership between the Ministry of Tourism and Wildlife and the Kenya Wildlife Conservancies Association (KWCA), with support ...",
-      "date_published": "2026-07-30T19:45:59+00:00"
-    },
-    {
-      "id": "https://travelweekly.co.uk/news/intrepid-to-plant-20000-trees-as-part-of-kenya-reforestation-plan",
-      "url": "https://travelweekly.co.uk/news/intrepid-to-plant-20000-trees-as-part-of-kenya-reforestation-plan",
-      "title": "Intrepid to plant 20,000 trees as part of Kenya reforestation plan - News - Travel Weekly",
-      "content_text": "The Mau Forest initiative aims to help combat biodiversity loss and climate change in the region using native saplings provided by NGO Rhino Arc.",
-      "date_published": "2026-07-30T11:17:57+00:00"
     }
   ]
 }

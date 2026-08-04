@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/south-africa.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for South Africa. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 04 Aug 2026 10:09:13 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 22:08:46 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>South Africa's Wildlife Tourism Strategy Shifts Toward Ethical Safaris Amid Trophy Hunting Debate</title>
+<link>https://www.travelandtourworld.com/news/article/vyuffvbmh2q5/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/vyuffvbmh2q5/</guid>
+<pubDate>Tue, 04 Aug 2026 12:35:06 +0000</pubDate>
+<description>In 2026, responsible travel is expected to be more widespread, sparking interest in models of wildlife-friendly tourism domestically. South Africa has ...</description>
+</item>
 <item>
 <title>Call for Applications: Tourism Growth Fund (South Africa) - fundsforNGOs</title>
 <link>https://www2.fundsforngos.org/construction/call-for-applications-tourism-growth-fund-south-africa/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/6mtl2jwwr8xo/</guid>
 <pubDate>Tue, 30 Jun 2026 14:53:59 +0000</pubDate>
 <description>Seychelles is pursuing a low-volume, high-value tourism strategy, emphasising environmental protection and ultra-luxury hospitality offerings.</description>
-</item>
-<item>
-<title>South Africa Joins Kenya, Tanzania, Angola, Algeria, Rwanda, Botswana, Namibia, Zambia ...</title>
-<link>https://www.travelandtourworld.com/news/article/od9jowcu0a5t/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/od9jowcu0a5t/</guid>
-<pubDate>Wed, 24 Jun 2026 05:28:55 +0000</pubDate>
-<description>South Africa, Kenya, Tanzania, Angola and Algeria lead Africa's tourism shift as slow travel, conservation experiences and new destinations gain ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/slovakia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Slovakia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 04 Aug 2026 10:09:13 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 22:08:46 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>This Slovak village wants to get rid of its UNESCO World Heritage designation</title>
+<link>https://theworld.org/stories/2026/08/04/this-slovak-village-wants-to-get-rid-of-its-unesco-world-heritage-designation</link>
+<guid isPermaLink="false">https://theworld.org/stories/2026/08/04/this-slovak-village-wants-to-get-rid-of-its-unesco-world-heritage-designation</guid>
+<pubDate>Tue, 04 Aug 2026 18:27:03 +0000</pubDate>
+<description>From DW, Inside Europe's Rob Cameron reports about the small Slovak village that wants to drop its UNESCO designation because of too much tourism.</description>
+</item>
 <item>
 <title>Dobšiná Ice Cave lost around 600 cubic metres of ice in a year, experts say</title>
 <link>https://spectator.sme.sk/travel/c/dobsinska-ice-cave-slovakia-climate-change</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://today.rtl.lu/news/world/not-a-museum-slovak-unesco-village-strains-under-tourism-322689880</guid>
 <pubDate>Fri, 03 Jul 2026 11:15:30 +0000</pubDate>
 <description>68-year-old pensioner Anton Sabucha protested to AFP, nodding to the signs outside his house. Tourists are "going wherever they want, taking pictures ...</description>
-</item>
-<item>
-<title>Tanzania-Slovakia dialogue on strengthening biosphere reserves cooperation - UNESCO</title>
-<link>https://www.unesco.org/en/articles/tanzania-slovakia-dialogue-strengthening-biosphere-reserves-cooperation</link>
-<guid isPermaLink="false">https://www.unesco.org/en/articles/tanzania-slovakia-dialogue-strengthening-biosphere-reserves-cooperation</guid>
-<pubDate>Mon, 15 Jun 2026 07:59:39 +0000</pubDate>
-<description>A high-level visit to the UNESCO Dar es Salaam Office opened new opportunities for collaboration between Slovakia and Tanzania in managing the ...</description>
 </item>
 </channel>
 </rss>

@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.australiangeographic.com.au/nature-wildlife/2026/08/landcare-volunteers-come-for-nature-stay-for-community/",
+      "url": "https://www.australiangeographic.com.au/nature-wildlife/2026/08/landcare-volunteers-come-for-nature-stay-for-community/",
+      "title": "Landcare volunteers 'come for nature, stay for community' - Australian Geographic",
+      "content_text": "As one of the country's first grassroots conservation movements, the organisation is synonymous with planting trees and restoring habitats. But a new ...",
+      "date_published": "2026-08-04T14:53:47+00:00"
+    },
+    {
       "id": "https://www.haveagonews.com.au/travel/bushfood-stories-and-culture-on-the-menu-in-dumbleyung/",
       "url": "https://www.haveagonews.com.au/travel/bushfood-stories-and-culture-on-the-menu-in-dumbleyung/",
       "title": "Bushfood, Stories and Culture on the Menu in Dumbleyung - Have a Go News",
@@ -68,13 +75,6 @@
       "title": "Expansion of Mimbi Caves Campground completed | Western Australian Government",
       "content_text": "... Tourism Projects, facilitated by the National Indigenous Australians Agency, which helps increase the supply of First Nations tourism experiences ...",
       "date_published": "2026-07-31T10:38:50+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/2xl4qa4i53og/",
-      "url": "https://www.travelandtourworld.com/news/article/2xl4qa4i53og/",
-      "title": "Australia Balances Lord Howe Island's Daily Sydney Air Link Against a 400-Person Visitor ...",
-      "content_text": "Lord Howe and Rapa Nui show how air access, lodging caps and stay rules can curb overtourism without limiting connectivity.",
-      "date_published": "2026-07-31T10:33:27+00:00"
     }
   ]
 }

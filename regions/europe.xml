@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/europe.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Europe. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 04 Aug 2026 10:09:13 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 22:08:46 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>This Slovak village wants to get rid of its UNESCO World Heritage designation</title>
+<link>https://theworld.org/stories/2026/08/04/this-slovak-village-wants-to-get-rid-of-its-unesco-world-heritage-designation</link>
+<guid isPermaLink="false">https://theworld.org/stories/2026/08/04/this-slovak-village-wants-to-get-rid-of-its-unesco-world-heritage-designation</guid>
+<pubDate>Tue, 04 Aug 2026 18:27:03 +0000</pubDate>
+<description>From DW, Inside Europe's Rob Cameron reports about the small Slovak village that wants to drop its UNESCO designation because of too much tourism.</description>
+</item>
 <item>
 <title>Croatia Leads a Western Balkans Tourism Transformation as Regional Nations Build a ...</title>
 <link>https://www.travelandtourworld.com/news/article/hv5q0tjjegk8/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://armenianweekly.com/2026/08/02/marriott-drops-genocide-tourism-package-in-ethnically-cleansed-artsakh/</guid>
 <pubDate>Sun, 02 Aug 2026 19:19:11 +0000</pubDate>
 <description>And Azerbaijani troops continue to occupy the sovereign territory of the Republic of Armenia. Tags. Genocide Artsakh Marriott Backlash CARA.</description>
-</item>
-<item>
-<title>Italy and Greece Rethink Tourism Access as Historic Site Crowding Across Rome, Vatican ...</title>
-<link>https://www.travelandtourworld.com/news/article/w0cn50lc0777/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/w0cn50lc0777/</guid>
-<pubDate>Sun, 02 Aug 2026 15:04:38 +0000</pubDate>
-<description>It records travel-document information, facial images, fingerprints and entry or exit details for most covered non-EU short-stay travellers crossing ...</description>
 </item>
 </channel>
 </rss>
