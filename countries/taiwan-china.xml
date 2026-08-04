@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/taiwan-china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Taiwan (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 03 Aug 2026 22:09:02 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 10:09:13 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Academia Sinica - Press Releases | Building Coral Resilience in a Changing Climate</title>
+<link>https://www.sinica.edu.tw/en/news_content/55/3895</link>
+<guid isPermaLink="false">https://www.sinica.edu.tw/en/news_content/55/3895</guid>
+<pubDate>Mon, 03 Aug 2026 10:04:23 +0000</pubDate>
+<description>Global warming is placing coral reefs around the world at increasing ... Address:128 Section 2, Academia Road, Nankang, Taipei 115201, Taiwan ...</description>
+</item>
 <item>
 <title>How a road trip detour to Tumbler Ridge led this tourist from Taiwan to a 100-million-year ...</title>
 <link>https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-unesco-geopark-prehistoric-past-9.7276850</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.taipeitimes.com/News/taiwan/archives/2026/08/01/2003861756</guid>
 <pubDate>Fri, 31 Jul 2026 17:15:17 +0000</pubDate>
 <description>Notes from Central Taiwan: Institutionalizing Taiwan's tourism failure ... travel to Morocco, the ministry said in a statement. Taiwanese are ...</description>
-</item>
-<item>
-<title>Formosa Sustainable Conservation International Forum Coming this October - Roomie</title>
-<link>https://www.roomie.tw/posts/167502</link>
-<guid isPermaLink="false">https://www.roomie.tw/posts/167502</guid>
-<pubDate>Thu, 30 Jul 2026 10:44:01 +0000</pubDate>
-<description>Through this platform, Taiwan aims to showcase its biodiversity and sustainable image of green tourism. A Global Benchmark for Biodiversity and ...</description>
 </item>
 </channel>
 </rss>

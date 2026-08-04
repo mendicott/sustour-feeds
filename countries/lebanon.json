@@ -42,6 +42,13 @@
       "date_published": "2026-06-21T19:08:55+00:00"
     },
     {
+      "id": "https://mymodernmet.com/unesco-sites-lebanon-palestine-iran/?adt_ei={{%20subscriber.email_address%20}}",
+      "url": "https://mymodernmet.com/unesco-sites-lebanon-palestine-iran/?adt_ei={{%20subscriber.email_address%20}}",
+      "title": "UNESCO Grants World Heritage Status to Ancient Sites in Lebanon, Palestine, and Iran",
+      "content_text": "UNESCO added 25 new sites to its World Heritage List, including ancient sites in Lebanon, Palestine, and Iran.",
+      "date_published": "2026-08-03T19:33:36+00:00"
+    },
+    {
       "id": "https://www.jpost.com/middle-east/article-904228",
       "url": "https://www.jpost.com/middle-east/article-904228",
       "title": "UNESCO lists Tyre, Beaufort Castle, Sebastia as World Heritage sites in danger",
@@ -68,13 +75,6 @@
       "title": "UNESCO set to declare Beaufort Castle a heritage site in danger after IDF takeover",
       "content_text": "... Lebanon after the IDF retook the strategic site, alongside Sebastia in the West Bank and other locations threatened by war and climate change.",
       "date_published": "2026-07-19T11:23:59+00:00"
-    },
-    {
-      "id": "https://www.naharnet.com/stories/en/321329-un-to-list-south-lebanon-historic-castles-as-in-danger-from-conflict",
-      "url": "https://www.naharnet.com/stories/en/321329-un-to-list-south-lebanon-historic-castles-as-in-danger-from-conflict",
-      "title": "UN to list south Lebanon historic castles as 'in danger' from conflict - Naharnet",
-      "content_text": "... climate change. The 196 members states of the United Nations ... tourism, large-scale logging and lower water levels due to a dam upstream in ...",
-      "date_published": "2026-07-18T15:18:03+00:00"
     }
   ]
 }

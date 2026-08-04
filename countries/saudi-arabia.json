@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://darksky.org/places/desert-rock-resort/",
+      "url": "https://darksky.org/places/desert-rock-resort/",
+      "title": "Desert Rock Resort - DarkSky.org",
+      "content_text": "Light Pollution Education ... Desert Rock is part of The Red Sea, a regenerative tourism destination on the northwest coast of Saudi Arabia.",
+      "date_published": "2026-08-03T16:03:19+00:00"
+    },
+    {
       "id": "https://travelmole.com/news/saudi-arabia-alula-ranger-model-sustainability/",
       "url": "https://travelmole.com/news/saudi-arabia-alula-ranger-model-sustainability/",
       "title": "Saudi Arabia AlUla showcases ranger-led model for sustainable tourism - TravelMole",
@@ -68,13 +75,6 @@
       "title": "Why Saudi Arabia's Al-Baha Region Is Becoming a Must-Visit Summer Destination for Rural ...",
       "content_text": "... meaningful travel experiences while supporting local communities, protecting natural landscapes, and preserving cultural traditions for future ...",
       "date_published": "2026-07-02T05:58:29+00:00"
-    },
-    {
-      "id": "https://techafricanews.com/2026/06/22/wego-partners-with-saudi-ministry-of-hajj-and-umrah-to-launch-digital-umrah-platform/",
-      "url": "https://techafricanews.com/2026/06/22/wego-partners-with-saudi-ministry-of-hajj-and-umrah-to-launch-digital-umrah-platform/",
-      "title": "Wego Partners with Saudi Ministry of Hajj and Umrah to Launch Digital Umrah Platform",
-      "content_text": "By bringing together Wego's leading travel technology and extensive regional reach with the Kingdom's trusted network of licensed Umrah service ...",
-      "date_published": "2026-06-22T06:59:36+00:00"
     }
   ]
 }

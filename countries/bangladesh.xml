@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/bangladesh.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Bangladesh. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 03 Aug 2026 22:09:02 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 10:09:13 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Bangladesh restricts tourist boats to protect Tanguar Haor wetland - The Climate Watch</title>
+<link>https://theclimatewatch.com/bangladesh-restricts-tourist-boats-to-protect-tanguar-haor-wetland/</link>
+<guid isPermaLink="false">https://theclimatewatch.com/bangladesh-restricts-tourist-boats-to-protect-tanguar-haor-wetland/</guid>
+<pubDate>Tue, 04 Aug 2026 07:07:26 +0000</pubDate>
+<description>... biodiversity while allowing tourism in designated areas. Photo ... Tourists must be informed about responsible travel practices before ...</description>
+</item>
 <item>
 <title>Houseboat, tourist vessels banned in Tanguar Haor's ecological critical area - Dhaka Tribune</title>
 <link>https://www.dhakatribune.com/amp/bangladesh/nation/416653/houseboat-tourist-vessels-banned-in-tanguar</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://today.thefinancialexpress.com.bd/country/sonadia-islands-eco-system-under-threat-amid-administrative-deadlock-1782586090</guid>
 <pubDate>Sat, 27 Jun 2026 18:50:57 +0000</pubDate>
 <description>... tourism activities, placing one of Bangladesh's most important coastal ecosystems under severe threat. Although the government eventually ...</description>
-</item>
-<item>
-<title>Charfashion-Monpura to be developed as eco-friendly tourism hub: Nurul Islam Nayon | Interview</title>
-<link>https://www.bssnews.net/interview/410799</link>
-<guid isPermaLink="false">https://www.bssnews.net/interview/410799</guid>
-<pubDate>Sun, 02 Aug 2026 01:55:30 +0000</pubDate>
-<description>By Mostak Ahmad DHAKA, Aug 01, 2026 (BSS)- The government plans to develop Charfashion and Monpura into an eco-friendly tourism hub...</description>
 </item>
 </channel>
 </rss>

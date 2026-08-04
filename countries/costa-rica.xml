@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/costa-rica.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Costa Rica. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 03 Aug 2026 22:09:02 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 10:09:13 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>What a Recovering Forest Sounds Like: What 16658 Hours of Recordings in Costa Rica Measured</title>
+<link>https://thecostaricanews.com/what-a-recovering-forest-sounds-like-what-16658-hours-of-recordings-in-costa-rica-measured/</link>
+<guid isPermaLink="false">https://thecostaricanews.com/what-a-recovering-forest-sounds-like-what-16658-hours-of-recordings-in-costa-rica-measured/</guid>
+<pubDate>Mon, 03 Aug 2026 18:11:59 +0000</pubDate>
+<description>A study of 16658 hours of audio in Costa Rica reveals how soundscapes prove natural forest regeneration outperforms tree plantations in restoring ...</description>
+</item>
 <item>
 <title>Costa Rica Launches Campaign to Prevent Tourists from Extracting Wildlife</title>
 <link>https://thecostaricanews.com/costa-rica-launches-campaign-to-prevent-tourists-from-extracting-wildlife/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.kswo.com/2026/07/29/okc-zoo-botanical-garden-release-itineraries-2027-conservation-travel-destinations/</guid>
 <pubDate>Wed, 29 Jul 2026 20:23:56 +0000</pubDate>
 <description>Zoo officials have released the itineraries for their 2027 conservation travel destinations, offering trips to Costa Rica, Tanzania and Rwanda.</description>
-</item>
-<item>
-<title>Jabiru Count Brings Hope for Costa Rica's Threatened Wetlands - The Tico Times</title>
-<link>https://ticotimes.net/2026/07/28/costa-rica-jabiru-population-recovery-2026</link>
-<guid isPermaLink="false">https://ticotimes.net/2026/07/28/costa-rica-jabiru-population-recovery-2026</guid>
-<pubDate>Tue, 28 Jul 2026 22:27:34 +0000</pubDate>
-<description>... wetlands. Responsible tourism is also important because excessive noise or people approaching nests can disturb adult birds and place chicks at risk.</description>
 </item>
 </channel>
 </rss>

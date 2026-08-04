@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/lebanon.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Lebanon. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 03 Aug 2026 22:09:02 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 10:09:13 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Lebanon's Deir El Ahmar Walkable Rosary Creates A New Pilgrimage Experience As ...</title>
@@ -44,6 +44,13 @@
 <description>The Orange House, which Khalil helped build into a small conservation hub and ecotourism site in Mansouri, became a refuge for endangered ...</description>
 </item>
 <item>
+<title>UNESCO Grants World Heritage Status to Ancient Sites in Lebanon, Palestine, and Iran</title>
+<link>https://mymodernmet.com/unesco-sites-lebanon-palestine-iran/?adt_ei={{%20subscriber.email_address%20}}</link>
+<guid isPermaLink="false">https://mymodernmet.com/unesco-sites-lebanon-palestine-iran/?adt_ei={{%20subscriber.email_address%20}}</guid>
+<pubDate>Mon, 03 Aug 2026 19:33:36 +0000</pubDate>
+<description>UNESCO added 25 new sites to its World Heritage List, including ancient sites in Lebanon, Palestine, and Iran.</description>
+</item>
+<item>
 <title>UNESCO lists Tyre, Beaufort Castle, Sebastia as World Heritage sites in danger</title>
 <link>https://www.jpost.com/middle-east/article-904228</link>
 <guid isPermaLink="false">https://www.jpost.com/middle-east/article-904228</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.ynetnews.com/article/s1pldq9vzg</guid>
 <pubDate>Sun, 19 Jul 2026 11:23:59 +0000</pubDate>
 <description>... Lebanon after the IDF retook the strategic site, alongside Sebastia in the West Bank and other locations threatened by war and climate change.</description>
-</item>
-<item>
-<title>UN to list south Lebanon historic castles as 'in danger' from conflict - Naharnet</title>
-<link>https://www.naharnet.com/stories/en/321329-un-to-list-south-lebanon-historic-castles-as-in-danger-from-conflict</link>
-<guid isPermaLink="false">https://www.naharnet.com/stories/en/321329-un-to-list-south-lebanon-historic-castles-as-in-danger-from-conflict</guid>
-<pubDate>Sat, 18 Jul 2026 15:18:03 +0000</pubDate>
-<description>... climate change. The 196 members states of the United Nations ... tourism, large-scale logging and lower water levels due to a dam upstream in ...</description>
 </item>
 </channel>
 </rss>
