@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/japan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Japan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 04 Aug 2026 22:08:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 10:09:26 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Agoda and GSTC Expand Sustainable Tourism Academy to Japan with Japanese Language Support</title>
+<link>https://us.acrofan.com/detail.php?number=1017891</link>
+<guid isPermaLink="false">https://us.acrofan.com/detail.php?number=1017891</guid>
+<pubDate>Wed, 05 Aug 2026 05:23:43 +0000</pubDate>
+<description>TOKYO, Aug. 5, 2026 /PRNewswire/ -- Digital travel platform Agoda and the Global Sustainable Tourism Council (GSTC) jointly announce the expansion ...</description>
+</item>
 <item>
 <title>Japan's Hidden Art Islands Become the Next Global Travel Obsession as Setouchi ...</title>
 <link>https://www.travelandtourworld.com/news/article/xyfttg6f31vb/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://asia.nikkei.com/spotlight/japan-immigration/japan-plans-to-tighten-permanent-residency-requirements-for-foreigners</guid>
 <pubDate>Sun, 26 Jul 2026 04:40:49 +0000</pubDate>
 <description>TOKYO -- Japan plans to revise guidelines for granting permanent ... Travel &amp; Leisure · Japan raises visa fees fivefold to tackle overtourism.</description>
-</item>
-<item>
-<title>Japan Targets Tohoku as Its Next Overtourism Escape While New Rail Strategy Aims to ...</title>
-<link>https://www.travelandtourworld.com/news/article/uu8mpxacexir/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/uu8mpxacexir/</guid>
-<pubDate>Sat, 25 Jul 2026 15:24:14 +0000</pubDate>
-<description>Japan's answer to overtourism may lie several hundred kilometres north of Kyoto's congested lanes and Tokyo's busiest districts.</description>
 </item>
 </channel>
 </rss>

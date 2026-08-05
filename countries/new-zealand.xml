@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/new-zealand.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for New Zealand. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 04 Aug 2026 22:08:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 10:09:26 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>The Cathedral Cove Kayak Tour That Lands You Where No One Else Can - Travel Dudes</title>
+<link>https://traveldudes.com/cathedral-cove-kayak-tour/</link>
+<guid isPermaLink="false">https://traveldudes.com/cathedral-cove-kayak-tour/</guid>
+<pubDate>Tue, 04 Aug 2026 18:47:40 +0000</pubDate>
+<description>Cathedral Cove Kayak Tours has been running this trip since 1999, and it's now one of New Zealand's top eco-tourism experiences. Guides, kayaks, ...</description>
+</item>
 <item>
 <title>Vietnam Teams Up With New Zealand And More Countries In A Global Circular Tourism ...</title>
 <link>https://www.travelandtourworld.com/news/article/s88ysfxd1zpa/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.auckland.ac.nz/en/news/2026/07/16/planetary-solutions-sustainable-tourism.html</guid>
 <pubDate>Wed, 15 Jul 2026 22:09:32 +0000</pubDate>
 <description>Beach's research found New Zealand tourism businesses are facing challenges in becoming more sustainable – one company, for instance, has set aside ...</description>
-</item>
-<item>
-<title>Call for Love Queenstown Charitable Funding Program (New Zealand) - fundsforNGOs</title>
-<link>https://www2.fundsforngos.org/community-development-2/call-for-love-queenstown-charitable-funding-program-new-zealand/amp/</link>
-<guid isPermaLink="false">https://www2.fundsforngos.org/community-development-2/call-for-love-queenstown-charitable-funding-program-new-zealand/amp/</guid>
-<pubDate>Wed, 15 Jul 2026 19:15:28 +0000</pubDate>
-<description>Regenerative Travel and Visitor Awareness. Projects may encourage: Responsible visitor behaviour. Regenerative tourism practices. Environmental ...</description>
 </item>
 </channel>
 </rss>

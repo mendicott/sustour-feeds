@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.travelandtourworld.com/news/article/egypt-travel-nabq-ecotourism-sustainable-sharm-el-sheikh/",
+      "url": "https://www.travelandtourworld.com/news/article/egypt-travel-nabq-ecotourism-sustainable-sharm-el-sheikh/",
+      "title": "Egypt Ignites New Hope With Bold Nabq Ecotourism Plan To Protect South Sinai And ...",
+      "content_text": "Nabq covers approximately 600 square kilometers, making it the largest coastal protected area on the Gulf of Aqaba. ... protected areas of Egypt.",
+      "date_published": "2026-08-05T06:22:47+00:00"
+    },
+    {
       "id": "https://english.aawsat.com/business/5303470-egypt-moves-boost-tourism-investment-nature-reserves",
       "url": "https://english.aawsat.com/business/5303470-egypt-moves-boost-tourism-investment-nature-reserves",
       "title": "Egypt Moves to Boost Tourism Investment in Nature Reserves",
@@ -35,6 +42,13 @@
       "date_published": "2026-08-04T15:45:35+00:00"
     },
     {
+      "id": "https://themedialine.org/mideast-daily-news/aqabas-coral-reefs-earn-jordan-a-new-unesco-world-heritage-site/",
+      "url": "https://themedialine.org/mideast-daily-news/aqabas-coral-reefs-earn-jordan-a-new-unesco-world-heritage-site/",
+      "title": "Aqaba's Coral Reefs Earn Jordan a New UNESCO World Heritage Site - The Media Line",
+      "content_text": "Environmental education will also play a larger role as officials seek to protect one of the world's most resilient coral reef ecosystems.",
+      "date_published": "2026-08-04T11:38:41+00:00"
+    },
+    {
       "id": "https://www.omanobserver.om/article/1193901/features/travel/slow-travel-why-travelling-less-is-creating-more-meaningful-journeys",
       "url": "https://www.omanobserver.om/article/1193901/features/travel/slow-travel-why-travelling-less-is-creating-more-meaningful-journeys",
       "title": "Slow Travel: Why Travelling Less Is Creating More Meaningful Journeys - Oman Observer",
@@ -61,20 +75,6 @@
       "title": "Baghdad Municipality Intensifies Services Along \"Ya Hussein\" Route Ahead of Arbaeen Pilgrimage",
       "content_text": "Ali Hassan Lafta, Deputy Mayor of Baghdad for Technical Affairs, said that municipal departments operating along the route have begun implementing a ...",
       "date_published": "2026-08-03T09:32:54+00:00"
-    },
-    {
-      "id": "https://travelmole.com/news/saudi-arabia-alula-ranger-model-sustainability/",
-      "url": "https://travelmole.com/news/saudi-arabia-alula-ranger-model-sustainability/",
-      "title": "Saudi Arabia AlUla showcases ranger-led model for sustainable tourism - TravelMole",
-      "content_text": "As global demand for nature-based tourism accelerates, Saudi Arabia's AlUla is positioning itself as a blueprint for sustainable destination ...",
-      "date_published": "2026-08-03T05:09:25+00:00"
-    },
-    {
-      "id": "https://www.breakingtravelnews.com/news/article/alulas-rangers-scale-nature-and-heritage-protection/",
-      "url": "https://www.breakingtravelnews.com/news/article/alulas-rangers-scale-nature-and-heritage-protection/",
-      "title": "AlUla's Rangers Scale Nature and Heritage Protection - Breaking Travel News",
-      "content_text": "Their work demonstrates how heritage conservation and public engagement ... world travel & tourism council tourism travel alula saudi tourism nature- ...",
-      "date_published": "2026-08-03T05:02:41+00:00"
     }
   ]
 }

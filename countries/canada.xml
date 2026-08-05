@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/canada.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Canada. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 04 Aug 2026 22:08:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 10:09:26 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Destination BC and Destination Canada Partner to Showcase BC Fall Experiences to ...</title>
+<link>https://www.destinationbc.ca/news/destination-bc-and-destination-canada-partner-to-showcase-bc-fall-experiences-to-california-travellers/</link>
+<guid isPermaLink="false">https://www.destinationbc.ca/news/destination-bc-and-destination-canada-partner-to-showcase-bc-fall-experiences-to-california-travellers/</guid>
+<pubDate>Tue, 04 Aug 2026 23:07:05 +0000</pubDate>
+<description>Birthplace of Adventure, where immersive outdoor experiences, Indigenous tourism, distinctive accommodations, and spectacular landscapes inspire ...</description>
+</item>
 <item>
 <title>Canada Expands Mongolia Aviation Access as Ottawa Deal Allows Direct Passenger ...</title>
 <link>https://www.travelandtourworld.com/news/article/2e9ec5ie27li/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://abcbirds.org/news/idb-invest-bird-tourism-peru/</guid>
 <pubDate>Wed, 22 Jul 2026 13:15:04 +0000</pubDate>
 <description>With support from the Conserva Aves Initiative and the Government of Canada, ABC's implementing partner, ECOAN, has built local capacity for bird ...</description>
-</item>
-<item>
-<title>Canada Event Industry News for July 21, 2026 - BizBash</title>
-<link>https://www.bizbash.com/industry-buzz/canada-event-industry-news-for-july-21-2026</link>
-<guid isPermaLink="false">https://www.bizbash.com/industry-buzz/canada-event-industry-news-for-july-21-2026</guid>
-<pubDate>Tue, 21 Jul 2026 16:28:52 +0000</pubDate>
-<description>... sustainable and regenerative tourism, while focusing on the actions and innovations needed to shape the future of travel and tourism. BizBash Buzz ...</description>
 </item>
 </channel>
 </rss>
