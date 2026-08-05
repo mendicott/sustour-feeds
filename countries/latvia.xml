@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/latvia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Latvia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 05 Aug 2026 10:09:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 22:08:57 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Op-Ed: 'Beyond Passenger Numbers: Redefining Cruise Tourism in the Mediterranean'</title>
+<link>https://news.gtp.gr/2026/08/05/op-ed-beyond-passenger-numbers-redefining-cruise-tourism-in-the-mediterranean-theodora-riga-medcruise/</link>
+<guid isPermaLink="false">https://news.gtp.gr/2026/08/05/op-ed-beyond-passenger-numbers-redefining-cruise-tourism-in-the-mediterranean-theodora-riga-medcruise/</guid>
+<pubDate>Wed, 05 Aug 2026 19:27:38 +0000</pubDate>
+<description>MedCruise President Theodora Riga talks to GTP on carrying capacity, shore power and the governance frameworks Mediterranean ports need to keep ...</description>
+</item>
 <item>
 <title>Lithuania Pairs Up Forest Wellness With Award-Winning Design as Latvia, Estonia, Finland ...</title>
 <link>https://www.travelandtourworld.com/news/article/kum0x3yiojot/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://news.inbox.lv/150kvuw-how-many-bears-live-in-latvia-a-competition-for-a-new-study-has-been-announced?language=en</guid>
 <pubDate>Mon, 03 Aug 2026 13:27:24 +0000</pubDate>
 <description>The Nature Conservation Agency has announced an open competition for conducting monitoring of brown bears in Latvia from 2026 to 2028.</description>
-</item>
-<item>
-<title>LIAA expands tourism demand generation activities across Latvia's regions - News</title>
-<link>https://news.inbox.eu/150j3e2-liaa-expands-tourism-demand-generation-activities-across-latvia-s-regions?language=en</link>
-<guid isPermaLink="false">https://news.inbox.eu/150j3e2-liaa-expands-tourism-demand-generation-activities-across-latvia-s-regions?language=en</guid>
-<pubDate>Tue, 21 Jul 2026 18:24:51 +0000</pubDate>
-<description>This summer, the Investment and Development Agency of Latvia (LIAA) has significantly expanded its efforts to stimulate tourism demand across ...</description>
 </item>
 </channel>
 </rss>

@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.nationalgeographic.com/animals/article/black-rhino-reintroduction-matusadona",
+      "url": "https://www.nationalgeographic.com/animals/article/black-rhino-reintroduction-matusadona",
+      "title": "The extraordinary comeback of Zimbabwe's endangered black rhinos | National Geographic",
+      "content_text": "The first evening that black rhinos were back in Matusadona National Park in Zimbabwe this May, park manager Mike Pelham grabbed a bedroll and ...",
+      "date_published": "2026-08-05T09:57:49+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/va5yzdscnz6e/",
       "url": "https://www.travelandtourworld.com/news/article/va5yzdscnz6e/",
       "title": "Zimbabwe Unearths 210-Million-Year-Old Dinosaur Fossil as Ancient Discovery Boosts ...",
@@ -68,13 +75,6 @@
       "title": "Montclair embraces sustainable tourism as RTG invests in Eastern Highlands growth",
       "content_text": "\"The Eastern Highlands is one of Zimbabwe's most spectacular tourism assets and we believe it has immense potential to become the country's next major ...",
       "date_published": "2026-06-19T09:18:44+00:00"
-    },
-    {
-      "id": "https://gulfnews.com/business/aviation/emirates-skycargo-flies-in-crime-fighting-dogs-on-mission-to-protect-wildlife-from-poachers-1.500578700",
-      "url": "https://gulfnews.com/business/aviation/emirates-skycargo-flies-in-crime-fighting-dogs-on-mission-to-protect-wildlife-from-poachers-1.500578700",
-      "title": "Emirates SkyCargo flies in 'crime-fighting' dogs on mission to protect wildlife from poachers",
-      "content_text": "Emirates SkyCargo flies conservation dogs Vega and Kuda from UK to Zimbabwe to help rangers track poachers and protect endangered wildlife in ...",
-      "date_published": "2026-06-18T12:15:14+00:00"
     }
   ]
 }

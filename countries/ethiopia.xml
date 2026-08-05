@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ethiopia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ethiopia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 05 Aug 2026 10:09:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 22:08:57 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Green Legacy Initiative Enhances Ecotourism Alongside Environmental Protection, Says ...</title>
+<link>https://www.ena.et/web/eng/w/eng_9344889</link>
+<guid isPermaLink="false">https://www.ena.et/web/eng/w/eng_9344889</guid>
+<pubDate>Wed, 05 Aug 2026 19:24:15 +0000</pubDate>
+<description>Addis Ababa, August 5, 2026 (ENA) — Ethiopia's Green Legacy Initiative (GLI) is playing a significant role in expanding the country's ecotourism ...</description>
+</item>
 <item>
 <title>Ethiopia Advances Natural Resource Conservation to Secure Sustainable Future - ENA English</title>
 <link>https://www.ena.et/web/eng/w/eng_9249535</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.fanamc.com/english/amp/building-destinations-revealing-ethiopia-the-dine-for-nation-transformation/</guid>
 <pubDate>Tue, 30 Jun 2026 20:25:30 +0000</pubDate>
 <description>In Oromia, the Wenchi Project reshapes the volcanic landscape of Wenchi Crater Lake into a structured eco-tourism destination centered on the Wenchi ...</description>
-</item>
-<item>
-<title>Ethiopia Reaches Defining Lalibela Heritage Moment as France-Supported Programme ...</title>
-<link>https://www.travelandtourworld.com/news/article/db2871sehi9t/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/db2871sehi9t/</guid>
-<pubDate>Sun, 02 Aug 2026 06:44:19 +0000</pubDate>
-<description>Tags: Addis Ababa tourism growth, Amhara travel advisory, Ethiopia heritage conservation, Ethiopia tourism recovery, Ethiopian Airlines Lalibela ...</description>
 </item>
 </channel>
 </rss>

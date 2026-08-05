@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 05 Aug 2026 10:09:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 22:08:57 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mexico Launches Sustainable Tourism Investment Framework</title>
+<link>https://mexicobusiness.news/sustainability/news/mexico-launches-sustainable-tourism-investment-framework</link>
+<guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/mexico-launches-sustainable-tourism-investment-framework</guid>
+<pubDate>Tue, 04 Aug 2026 21:31:58 +0000</pubDate>
+<description>Destination stewardship succeeds when governments, local communities and the private sector work together with a shared vision for long-term success.</description>
+</item>
 <item>
 <title>Mexico, Ecuador and Other Countries Lead Sustainable Tourism Transformation as Global ...</title>
 <link>https://www.travelandtourworld.com/news/article/92nfkutxut2g/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/mexico-expands-forest-restoration-under-national-strategy</guid>
 <pubDate>Fri, 10 Jul 2026 23:30:46 +0000</pubDate>
 <description>... climate resilience, watershed protection and rural development. During a National Reforestation Day event in Oaxaca, Alicia Bárcena, Minister of ...</description>
-</item>
-<item>
-<title>Just an hour and a half from Mexico City: The 2026 International Firefly Festival is coming ...</title>
-<link>https://cdmxsecreta.com/en/2026-amecameca-international-firefly-festival/</link>
-<guid isPermaLink="false">https://cdmxsecreta.com/en/2026-amecameca-international-firefly-festival/</guid>
-<pubDate>Fri, 10 Jul 2026 17:44:11 +0000</pubDate>
-<description>27 ecotourism parks in Amecameca, Ecatzingo, and Tlalmanalco are joining the 2026 Firefly Festival with tours and more.</description>
 </item>
 </channel>
 </rss>

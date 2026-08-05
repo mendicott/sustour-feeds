@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/cook-islands.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Cook Islands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 05 Aug 2026 10:09:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 22:08:57 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Pacific leaders gather to strengthen Indigenous-led conservation - Cook Islands News</title>
@@ -44,6 +44,13 @@
 <description>According to TIS, during the 1980s, rising tourism repeatedly sidelined environmental priorities, highlighting the need for proactive preservation. By ...</description>
 </item>
 <item>
+<title>Hawaii Hasn't Had To Compete In 60 Years. That May Be Changing.</title>
+<link>https://beatofhawaii.com/hawaii-hasnt-had-to-compete-in-60-years-that-may-be-changing/</link>
+<guid isPermaLink="false">https://beatofhawaii.com/hawaii-hasnt-had-to-compete-in-60-years-that-may-be-changing/</guid>
+<pubDate>Wed, 05 Aug 2026 05:52:40 +0000</pubDate>
+<description>Fiji, French Polynesia, and the Cook Islands are making new moves as Hawaii's long-held advantage as America's Pacific default starts to shift.</description>
+</item>
+<item>
 <title>Unity and respect for ra'ui a key step for Aitutaki lagoon plan - Cook Islands News</title>
 <link>http://www.cookislandsnews.com/internal/national/local/unity-and-respect-for-raui-a-key-step-for-aitutaki-lagoon-plan/</link>
 <guid isPermaLink="false">http://www.cookislandsnews.com/internal/national/local/unity-and-respect-for-raui-a-key-step-for-aitutaki-lagoon-plan/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">http://www.cookislandsnews.com/internal/national/local/environment/weather/unlocking-ocean-secrets-voyage-delivers-critical-baseline-data-for-cook-islands-future/</guid>
 <pubDate>Sat, 25 Jul 2026 19:54:59 +0000</pubDate>
 <description>A month-long scientific voyage aboard New Zealand's two-year-old research vessel Kaharoa II has provided the Cook Islands with its most ...</description>
-</item>
-<item>
-<title>MFEM and Education join forces to upskill tradespeople under GCF - Cook Islands News</title>
-<link>http://www.cookislandsnews.com/internal/national/environment/economy/education/mfem-and-education-join-forces-to-upskill-tradespeople-under-gcf/</link>
-<guid isPermaLink="false">http://www.cookislandsnews.com/internal/national/environment/economy/education/mfem-and-education-join-forces-to-upskill-tradespeople-under-gcf/</guid>
-<pubDate>Fri, 24 Jul 2026 18:22:07 +0000</pubDate>
-<description>The GCF EDA Project, "Direct Financing for Communities and Businesses to Respond to Climate Change in the Cook Islands", was established through the ...</description>
 </item>
 </channel>
 </rss>

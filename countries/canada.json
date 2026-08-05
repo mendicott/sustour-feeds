@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://canadiantravelnews.ca/montreal-indigenous-peoples-garden/",
+      "url": "https://canadiantravelnews.ca/montreal-indigenous-peoples-garden/",
+      "title": "Montréal's First Nations Garden Gets a New Name as It Turns 25 - - Canadian Travel News",
+      "content_text": "More than a botanical attraction, the Indigenous Peoples Garden serves as a gathering place for education, cultural exchange and community activities.",
+      "date_published": "2026-08-05T10:53:17+00:00"
+    },
+    {
       "id": "https://www.destinationbc.ca/news/destination-bc-and-destination-canada-partner-to-showcase-bc-fall-experiences-to-california-travellers/",
       "url": "https://www.destinationbc.ca/news/destination-bc-and-destination-canada-partner-to-showcase-bc-fall-experiences-to-california-travellers/",
       "title": "Destination BC and Destination Canada Partner to Showcase BC Fall Experiences to ...",
@@ -68,13 +75,6 @@
       "title": "Introducing 'Tomorrow Beckons', a Global Regenerative Travel Program",
       "content_text": "... travel program uniting its properties across Australia, New Zealand, Chile and Canada in a shared mission: to protect and regenerate the ...",
       "date_published": "2026-07-24T05:07:53+00:00"
-    },
-    {
-      "id": "https://abcbirds.org/news/idb-invest-bird-tourism-peru/",
-      "url": "https://abcbirds.org/news/idb-invest-bird-tourism-peru/",
-      "title": "IDB Invest and American Bird Conservancy Partner to Boost Bird Tourism in Peru",
-      "content_text": "With support from the Conserva Aves Initiative and the Government of Canada, ABC's implementing partner, ECOAN, has built local capacity for bird ...",
-      "date_published": "2026-07-22T13:15:04+00:00"
     }
   ]
 }

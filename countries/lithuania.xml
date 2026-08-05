@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/lithuania.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Lithuania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 05 Aug 2026 10:09:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 22:08:57 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Vilnius Introduces 10 Forest-Bathing Routes for a Slower Way to Explore the City</title>
+<link>https://baltic-review.com/vilnius-forest-bathing-routes/</link>
+<guid isPermaLink="false">https://baltic-review.com/vilnius-forest-bathing-routes/</guid>
+<pubDate>Wed, 05 Aug 2026 13:05:43 +0000</pubDate>
+<description>Lukas Jonaitis is an experienced globetrotter and the editor of our Travel column. With a passion for sustainable travel and a knack for uncovering ...</description>
+</item>
 <item>
 <title>Lithuania Hosts UNESCO Heritage Resilience Talks in Busan - Infoerdve.lt</title>
 <link>https://infoerdve.lt/en/lithuania-hosts-unesco-heritage-resilience-talks-in-busan/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://infoerdve.lt/en/varena-promotes-slow-summer-travel-in-lithuanias-dzukija/</guid>
 <pubDate>Thu, 09 Jul 2026 18:30:38 +0000</pubDate>
 <description>... tourism campaign. The campaign, introduced by the Varėna District Tourism and Entrepreneurship Centre "Korys", invites visitors to look at the ...</description>
-</item>
-<item>
-<title>A discovery for Vilnius residents: another beach in the capital attracts with exceptionally ...</title>
-<link>https://madeinvilnius.lt/en/news/city/Vilnius-residents-discover-another-beach-in-the-capital-that-entices-with-exceptionally-warm-and-green-water/</link>
-<guid isPermaLink="false">https://madeinvilnius.lt/en/news/city/Vilnius-residents-discover-another-beach-in-the-capital-that-entices-with-exceptionally-warm-and-green-water/</guid>
-<pubDate>Sun, 05 Jul 2026 07:47:24 +0000</pubDate>
-<description>For those who prefer more sustainable travel, it is convenient to get to the beach by public transport in the capital or by bike. "Green water, but ...</description>
 </item>
 </channel>
 </rss>
