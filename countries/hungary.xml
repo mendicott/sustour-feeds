@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/hungary.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Hungary. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 06 Aug 2026 10:09:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Aug 2026 22:09:26 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Lake Balaton Aligns with Tokaj, Eger and More in Leading Hungary's Slow Travel Boom as ...</title>
@@ -51,6 +51,13 @@
 <description>WWF Hungary is urging sweeping reforms to forest management after the current logging moratorium expires, calling for expanded continuous-cover ...</description>
 </item>
 <item>
+<title>Want to see the climate crisis? Go to the banks of the dried-up Danube - EUobserver</title>
+<link>https://euobserver.com/231566/want-to-see-the-climate-crisis-go-to-the-banks-of-the-dried-up-danube/</link>
+<guid isPermaLink="false">https://euobserver.com/231566/want-to-see-the-climate-crisis-go-to-the-banks-of-the-dried-up-danube/</guid>
+<pubDate>Thu, 06 Aug 2026 15:59:27 +0000</pubDate>
+<description>Extreme drought in Hungary has halted river transport, shut down a nuclear power plant and exposed historic sites. Large companies have been ...</description>
+</item>
+<item>
 <title>In Hungary, a wetland paradise lost - Financial Times</title>
 <link>https://www.ft.com/content/1dc7cd77-5fd6-4b72-a99c-46100904871f?syn-25a6b1a6=1</link>
 <guid isPermaLink="false">https://www.ft.com/content/1dc7cd77-5fd6-4b72-a99c-46100904871f?syn-25a6b1a6=1</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www2.fundsforngos.org/individuals/2026-sustainable-tulip-award-for-circular-design-projects-hungary/</guid>
 <pubDate>Fri, 31 Jul 2026 05:26:26 +0000</pubDate>
 <description>... Travel &amp; Tourism · Women · Youth · Funds for Individuals · Funds in Your ... Climate Change &amp; Biodiversity Proposals · Community Development Proposals ...</description>
-</item>
-<item>
-<title>Record-low Danube River affects tourism as drought and heat grip Central Europe</title>
-<link>https://www.nbcnews.com/world/europe/record-low-danube-river-affects-tourism-drought-heat-central-europe-rcna589968</link>
-<guid isPermaLink="false">https://www.nbcnews.com/world/europe/record-low-danube-river-affects-tourism-drought-heat-central-europe-rcna589968</guid>
-<pubDate>Thu, 30 Jul 2026 15:41:36 +0000</pubDate>
-<description>... tourism and confronting residents with the realities of climate change. ... BUDAPEST, Hungary — As wildfires rage in France and Spain and a ...</description>
 </item>
 </channel>
 </rss>

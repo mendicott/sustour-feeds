@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/japan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Japan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 06 Aug 2026 10:09:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Aug 2026 22:09:26 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>From recognition to stewardship: Asia advances a new regional roadmap for OECMs - IUCN</title>
+<link>https://iucn.org/blog/202608/recognition-stewardship-asia-advances-new-regional-roadmap-oecms</link>
+<guid isPermaLink="false">https://iucn.org/blog/202608/recognition-stewardship-asia-advances-new-regional-roadmap-oecms</guid>
+<pubDate>Thu, 06 Aug 2026 12:47:10 +0000</pubDate>
+<description>... Tokyo, Japan, from 9 to 11 July 2026. Convened by the Ministry of the Environment of Japan (MoEJ) in collaboration with the Asia Protected Areas ...</description>
+</item>
 <item>
 <title>Agoda and GSTC Expand Sustainable Tourism Academy to Japan with Japanese Language Support</title>
 <link>https://us.acrofan.com/detail.php?number=1017891</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=t3-_83fG1rk</guid>
 <pubDate>Sun, 26 Jul 2026 06:50:53 +0000</pubDate>
 <description>... tourism development will prioritize cultural preservation while ensuring visitors can experience the sites responsibly. #japan #unesco ...</description>
-</item>
-<item>
-<title>Japan plans to tighten permanent residency requirements for foreigners - Nikkei Asia</title>
-<link>https://asia.nikkei.com/spotlight/japan-immigration/japan-plans-to-tighten-permanent-residency-requirements-for-foreigners</link>
-<guid isPermaLink="false">https://asia.nikkei.com/spotlight/japan-immigration/japan-plans-to-tighten-permanent-residency-requirements-for-foreigners</guid>
-<pubDate>Sun, 26 Jul 2026 04:40:49 +0000</pubDate>
-<description>TOKYO -- Japan plans to revise guidelines for granting permanent ... Travel &amp; Leisure · Japan raises visa fees fivefold to tackle overtourism.</description>
 </item>
 </channel>
 </rss>

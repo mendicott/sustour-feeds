@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 06 Aug 2026 10:09:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Aug 2026 22:09:26 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mexico Expands Protected Areas Strategy Toward 30x30 Goal</title>
+<link>https://mexicobusiness.news/sustainability/news/mexico-expands-protected-areas-strategy-toward-30x30-goal</link>
+<guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/mexico-expands-protected-areas-strategy-toward-30x30-goal</guid>
+<pubDate>Thu, 06 Aug 2026 17:23:39 +0000</pubDate>
+<description>... protected areas while aligning conservation policy with the global 30x30 biodiversity target. ... protected area so that interested parties can review ...</description>
+</item>
 <item>
 <title>Mexico Launches Sustainable Tourism Investment Framework</title>
 <link>https://mexicobusiness.news/sustainability/news/mexico-launches-sustainable-tourism-investment-framework</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/bl86tsm8yw0o/</guid>
 <pubDate>Sun, 12 Jul 2026 15:47:48 +0000</pubDate>
 <description>... cultural heritage, eco-tourism, and outdoor adventures thrive. ... The destination emphasizes responsible travel, biodiversity conservation, and ...</description>
-</item>
-<item>
-<title>Mexico Expands Forest Restoration Under National Strategy</title>
-<link>https://mexicobusiness.news/sustainability/news/mexico-expands-forest-restoration-under-national-strategy</link>
-<guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/mexico-expands-forest-restoration-under-national-strategy</guid>
-<pubDate>Fri, 10 Jul 2026 23:30:46 +0000</pubDate>
-<description>... climate resilience, watershed protection and rural development. During a National Reforestation Day event in Oaxaca, Alicia Bárcena, Minister of ...</description>
 </item>
 </channel>
 </rss>

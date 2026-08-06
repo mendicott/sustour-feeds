@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 06 Aug 2026 10:09:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Aug 2026 22:09:26 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Crete Proposes Time-Slot System to Save Balos Lagoon from Overtourism - Greek Reporter</title>
+<link>https://greekreporter.com/2026/08/06/crete-proposes-time-slot-system-balos-overtourism/</link>
+<guid isPermaLink="false">https://greekreporter.com/2026/08/06/crete-proposes-time-slot-system-balos-overtourism/</guid>
+<pubDate>Thu, 06 Aug 2026 14:06:12 +0000</pubDate>
+<description>Crete Proposes Time-Slot System to Save Balos Lagoon from Overtourism ... Local authorities in western Crete have submitted a proposal to the Ministry ...</description>
+</item>
 <item>
 <title>Santorini Would Like Its Mornings Back - Ethos</title>
 <link>https://the-ethos.co/santorini-would-like-its-mornings-back/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://greekcitytimes.com/2026/07/29/athens-airbnb-permit-freeze-slowing-growth-doukas/</guid>
 <pubDate>Tue, 28 Jul 2026 23:25:11 +0000</pubDate>
 <description>... Tourism Carrying Capacity Study. "According to the latest data, it appears that the suspension of new short-term rental permits in the areas where ...</description>
-</item>
-<item>
-<title>Greek Islands: Tourism Makes Water Scarcity Worse | .TR</title>
-<link>https://www.tourism-review.com/greek-islands-face-water-scarcity-not-only-due-to-tourism-news15580</link>
-<guid isPermaLink="false">https://www.tourism-review.com/greek-islands-face-water-scarcity-not-only-due-to-tourism-news15580</guid>
-<pubDate>Mon, 27 Jul 2026 05:46:37 +0000</pubDate>
-<description>Similarly, the consumption of water on Santorini increases by over 500 percent, while that of Paros and Karpathos increases by around 344 percent ...</description>
 </item>
 </channel>
 </rss>
