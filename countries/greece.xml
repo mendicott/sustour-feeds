@@ -6,8 +6,22 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 05 Aug 2026 22:08:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Aug 2026 10:09:56 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Santorini Would Like Its Mornings Back - Ethos</title>
+<link>https://the-ethos.co/santorini-would-like-its-mornings-back/</link>
+<guid isPermaLink="false">https://the-ethos.co/santorini-would-like-its-mornings-back/</guid>
+<pubDate>Thu, 06 Aug 2026 02:45:22 +0000</pubDate>
+<description>Since last summer, cruise passengers arriving at Santorini and Mykonos owe Greece up to 20 euros a head, a levy meant to offset overtourism.</description>
+</item>
+<item>
+<title>Fires leave deepening scar, WWF warns of lasting damage | eKathimerini.com</title>
+<link>https://www.ekathimerini.com/news/environment/1311571/fires-leave-deepening-scar-wwf-warns-of-lasting-damage/</link>
+<guid isPermaLink="false">https://www.ekathimerini.com/news/environment/1311571/fires-leave-deepening-scar-wwf-warns-of-lasting-damage/</guid>
+<pubDate>Wed, 05 Aug 2026 17:33:51 +0000</pubDate>
+<description>Wildfires in Greece have forced more than 10000 residents and visitors from their homes, with burned land expected to top 20000 hectares, WWF ...</description>
+</item>
 <item>
 <title>Gyaros: From island of exile and torture to an oasis of life - Greek City Times</title>
 <link>https://greekcitytimes.com/2026/08/03/gyaros-from-exile-island-to-oasis-of-life/</link>
@@ -63,20 +77,6 @@
 <guid isPermaLink="false">https://www.tourism-review.com/greek-islands-face-water-scarcity-not-only-due-to-tourism-news15580</guid>
 <pubDate>Mon, 27 Jul 2026 05:46:37 +0000</pubDate>
 <description>Similarly, the consumption of water on Santorini increases by over 500 percent, while that of Paros and Karpathos increases by around 344 percent ...</description>
-</item>
-<item>
-<title>Santorini Joins Athens, Mykonos and Other Greek Cities in Implementing Strict Restrictions ...</title>
-<link>https://www.travelandtourworld.com/news/article/3jirbhwndpv1/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/3jirbhwndpv1/</guid>
-<pubDate>Sun, 26 Jul 2026 13:14:23 +0000</pubDate>
-<description>Santorini, Athens and Mykonos introduce tourism controls as Europe tackles overtourism with visitor limits, charges and sustainability measures.</description>
-</item>
-<item>
-<title>Greece welcomes inscription of Mount Olympus on UNESCO World Heritage List - Xinhua</title>
-<link>https://english.news.cn/20260726/1f5fc6db6b344a0ebb71c17066277241/c.html</link>
-<guid isPermaLink="false">https://english.news.cn/20260726/1f5fc6db6b344a0ebb71c17066277241/c.html</guid>
-<pubDate>Sun, 26 Jul 2026 12:58:54 +0000</pubDate>
-<description>Greek authorities said the UNESCO recognition will help strengthen conservation efforts, promote sustainable tourism and further raise the ...</description>
 </item>
 </channel>
 </rss>

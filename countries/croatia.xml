@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/croatia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Croatia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 05 Aug 2026 22:08:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Aug 2026 10:09:56 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Take a Virtual Drive into Dubrovnik as Summer Sunshine Lights Up the Adriatic</title>
+<link>https://www.thedubrovniktimes.com/news/dubrovnik/item/20288-take-a-virtual-drive-into-dubrovnik-as-summer-sunshine-lights-up-the-adriatic</link>
+<guid isPermaLink="false">https://www.thedubrovniktimes.com/news/dubrovnik/item/20288-take-a-virtual-drive-into-dubrovnik-as-summer-sunshine-lights-up-the-adriatic</guid>
+<pubDate>Wed, 05 Aug 2026 10:16:24 +0000</pubDate>
+<description>BBC Highlights Dubrovnik as a Model for Tackling Overtourism. BBC Highlights Dubrovnik as a Model for … Aug 05, 2026 10 Dubrovnik · Take a Virtual ...</description>
+</item>
 <item>
 <title>BBC Highlights Dubrovnik as a Model for Tackling Overtourism</title>
 <link>https://www.thedubrovniktimes.com/news/dubrovnik/item/20289-bbc-highlights-dubrovnik-as-a-model-for-tackling-overtourism</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.thedubrovniktimes.com/news/dubrovnik/item/20216-dubrovnik-showcased-by-arte-tv-as-europe-s-model-for-sustainable-tourism</guid>
 <pubDate>Fri, 24 Jul 2026 07:15:53 +0000</pubDate>
 <description>Dubrovnik has been chosen by European broadcaster ARTE TV as a leading example of sustainable tourism. Mayor Mato Franković.</description>
-</item>
-<item>
-<title>Andorra Outpaces The Bahamas, Malta, Iceland, Croatia, Cyprus, Cabo Verde, and The ...</title>
-<link>https://www.travelandtourworld.com/news/article/o2kgsoj1b8ko/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/o2kgsoj1b8ko/</guid>
-<pubDate>Tue, 21 Jul 2026 19:06:44 +0000</pubDate>
-<description>Andorra Outpaces The Bahamas, Malta, Iceland, Croatia, Cyprus, Cabo Verde and The Maldives in 2026 Tourism Saturation Carrying Capacity Breakdown.</description>
 </item>
 </channel>
 </rss>

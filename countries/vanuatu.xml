@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vanuatu.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vanuatu. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 05 Aug 2026 22:08:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Aug 2026 10:09:56 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Vanuatu Advances in International Gastronomy Recognition Journey After Showcasing ...</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://www.unocha.org/news/climate-change-vanuatu-puts-communities-drivers-seat-loss-and-damage-action</guid>
 <pubDate>Mon, 08 Jun 2026 16:24:36 +0000</pubDate>
 <description>A heavy decision has weighed on the people of Marou, a village in Emau Island — one of Vanuatu's 83 islands in the South Pacific Ocean for some time.</description>
+</item>
+<item>
+<title>Beaches, banyans and a gentle giant named Pepper: Horse trekking in Vanuatu - Waikato Times</title>
+<link>https://www.waikatotimes.co.nz/travel/361038401/beaches-banyans-and-gentle-giant-named-pepper-horse-trekking-vanuatu</link>
+<guid isPermaLink="false">https://www.waikatotimes.co.nz/travel/361038401/beaches-banyans-and-gentle-giant-named-pepper-horse-trekking-vanuatu</guid>
+<pubDate>Wed, 05 Aug 2026 02:51:34 +0000</pubDate>
+<description>Riding a horse through rainforest and over pristine sands seems like something that only happens in movies. But not when you're in the South ...</description>
 </item>
 <item>
 <title>Blue Transformation, the Pacific Way: Communities, Ocean and the Future of Aquatic Food Systems</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.foreignminister.gov.au/minister/penny-wong/media-release/vanuatu-and-australia-sign-nakamal-agreement</guid>
 <pubDate>Mon, 29 Jun 2026 15:38:27 +0000</pubDate>
 <description>Recognising the existential threat posed by climate change, Australia and Vanuatu will work together to transition to renewable energy sources ...</description>
-</item>
-<item>
-<title>Australia-Vanuatu Nakamal agreement set to be signed after months of fraught negotiations</title>
-<link>https://www.abc.net.au/news/2026-06-29/australia-vanuatu-set-to-sign-strategic-pact-nakamal-agreement/106852624</link>
-<guid isPermaLink="false">https://www.abc.net.au/news/2026-06-29/australia-vanuatu-set-to-sign-strategic-pact-nakamal-agreement/106852624</guid>
-<pubDate>Sun, 28 Jun 2026 19:41:10 +0000</pubDate>
-<description>The Nakamal Agreement will cover infrastructure, climate change ... While Australia was never going to completely liberalise travel from Vanuatu ...</description>
 </item>
 </channel>
 </rss>
