@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/germany.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Germany. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 07 Aug 2026 10:09:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 22:08:40 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Việt Nam receives $23 million boost for sustainable forest management - Vietnam News</title>
+<link>https://vietnamnews.vn/environment/1797095/viet-nam-receives-23-million-boost-for-sustainable-forest-management.html</link>
+<guid isPermaLink="false">https://vietnamnews.vn/environment/1797095/viet-nam-receives-23-million-boost-for-sustainable-forest-management.html</guid>
+<pubDate>Fri, 07 Aug 2026 12:52:03 +0000</pubDate>
+<description>The EU and Germany have launched a US$23 million programme to restore Việt Nam's natural forests, strengthen climate resilience and improve ...</description>
+</item>
 <item>
 <title>France And Germany Strengthen Europe's Green Travel Movement As Global Ecotourism ...</title>
 <link>https://www.travelandtourworld.com/news/article/jtxao4ilu4d1/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ayt45eoai4c1/</guid>
 <pubDate>Sun, 05 Jul 2026 16:29:59 +0000</pubDate>
 <description>Spain Teams Up With France, Finland, Germany, Netherlands, UK and Italy to Drive a New Wave of Eco Tourism and Bird Watching Travel Across Europe's ...</description>
-</item>
-<item>
-<title>Germany Aligns With Italy, Hungary, Switzerland and More Leading Source Of Visitors as ...</title>
-<link>https://www.travelandtourworld.com/news/article/qwyqsqcrcsyl/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/qwyqsqcrcsyl/</guid>
-<pubDate>Fri, 03 Jul 2026 15:14:44 +0000</pubDate>
-<description>The measure has been implemented to tackle rising overtourism pressure, reduce summer traffic congestion, and preserve the UNESCO-listed heritage ...</description>
 </item>
 </channel>
 </rss>

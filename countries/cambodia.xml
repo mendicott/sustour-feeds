@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/cambodia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Cambodia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 07 Aug 2026 10:09:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 22:08:40 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Cambodia conservation efforts help protect critically endangered Giant Ibis - Khmer Times</title>
+<link>https://www.khmertimeskh.com/501991528/cambodia-conservation-efforts-help-protect-critically-endangered-giant-ibis/</link>
+<guid isPermaLink="false">https://www.khmertimeskh.com/501991528/cambodia-conservation-efforts-help-protect-critically-endangered-giant-ibis/</guid>
+<pubDate>Thu, 06 Aug 2026 23:06:04 +0000</pubDate>
+<description>Conservationists protecting nests in Cambodia's Keo Seima Wildlife Sanctuary have discovered 17 Giant Ibis nests over the past decade, ...</description>
+</item>
 <item>
 <title>Cambodia boosts green tourism with "One Tourist, One Tree" campaign - Khmer Times</title>
 <link>https://www.khmertimeskh.com/501980541/cambodia-boosts-green-tourism-with-one-tourist-one-tree-campaign/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.khmertimeskh.com/501950626/khnang-phsar-emerges-as-green-tourism-hub-boosting-livelihoods/</guid>
 <pubDate>Sun, 26 Jul 2026 17:34:36 +0000</pubDate>
 <description>Infrastructure improvements and community-led tourism have transformed Khnang Phsar from a remote mountain destination into one of Cambodia's ...</description>
-</item>
-<item>
-<title>Green tourism project to boost conservation and community livelihoods: MoE - Khmer Times</title>
-<link>https://www.khmertimeskh.com/501950574/green-tourism-project-to-boost-conservation-and-community-livelihoods-moe/</link>
-<guid isPermaLink="false">https://www.khmertimeskh.com/501950574/green-tourism-project-to-boost-conservation-and-community-livelihoods-moe/</guid>
-<pubDate>Sun, 26 Jul 2026 13:59:53 +0000</pubDate>
-<description>The Te Teuk Pus Hot Springs are among Cambodia's rare natural attractions, featuring naturally boiling hot springs with temperatures ranging from 70C ...</description>
 </item>
 </channel>
 </rss>

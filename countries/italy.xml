@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 07 Aug 2026 10:09:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 22:08:40 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>The Lake Como village on front line in Italy's battle with overtourism - The Times</title>
+<link>https://www.thetimes.com/world/europe/article/varenna-lake-como-italy-overtourism-v9gvfr0pf</link>
+<guid isPermaLink="false">https://www.thetimes.com/world/europe/article/varenna-lake-como-italy-overtourism-v9gvfr0pf</guid>
+<pubDate>Fri, 07 Aug 2026 12:50:18 +0000</pubDate>
+<description>The Lake Como village on front line in Italy's battle with overtourism · Varenna is grappling with the price of popularity — and cracking down on bad ...</description>
+</item>
 <item>
 <title>Italy and Greece Rethink Tourism Access as Historic Site Crowding Across Rome, Vatican ...</title>
 <link>https://www.travelandtourworld.com/news/article/w0cn50lc0777/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/t64vcvh7323k/</guid>
 <pubDate>Thu, 23 Jul 2026 06:43:57 +0000</pubDate>
 <description>Tags: anti-tourism protests Europe, Barcelona holiday rental ban, France overtourism, Italy overtourism, Spain overtourism. Advertisement ...</description>
-</item>
-<item>
-<title>8 Italian villages and areas to escape overtourism this summer - inItaly</title>
-<link>https://www.initaly.it/en/articolo/8-borghi-e-luoghi-italiani-per-sfuggire-allovertourism-questestate-28921</link>
-<guid isPermaLink="false">https://www.initaly.it/en/articolo/8-borghi-e-luoghi-italiani-per-sfuggire-allovertourism-questestate-28921</guid>
-<pubDate>Thu, 23 Jul 2026 00:15:45 +0000</pubDate>
-<description>These places balance scenic beauty, historical heritage and local food offerings, supporting local economies without reproducing overtourism's ...</description>
 </item>
 </channel>
 </rss>

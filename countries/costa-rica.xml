@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/costa-rica.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Costa Rica. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 07 Aug 2026 10:09:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 22:08:40 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Costa Rica Warns Tourists That Wildlife Souvenirs Can Lead to Criminal Charges | NIA</title>
+<link>https://newsinamerica.com/en/travel/2026/costa-rica-warns-tourists-that-wildlife-souvenirs-can-lead-to-criminal-charges/</link>
+<guid isPermaLink="false">https://newsinamerica.com/en/travel/2026/costa-rica-warns-tourists-that-wildlife-souvenirs-can-lead-to-criminal-charges/</guid>
+<pubDate>Thu, 06 Aug 2026 17:10:24 +0000</pubDate>
+<description>Home Travel Costa Rica Warns Tourists That Wildlife Souvenirs Can Lead to Criminal Charges ... Costa Rica has built a tourism economy on the promise ...</description>
+</item>
 <item>
 <title>A Cocos hike takes visitors on a trip back in time to an untouched world - CNN</title>
 <link>https://www.cnn.com/TRAVEL/DESTINATIONS/9802/cocos.island/mainframe/hiking.index.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://ticotimes.net/2026/07/31/costa-rica-wildlife-souvenirs-warning</guid>
 <pubDate>Fri, 31 Jul 2026 22:29:42 +0000</pubDate>
 <description>Costa Rica's new What You Carry campaign warns travelers that shells, coral, plants and wildlife products can trigger criminal investigations.</description>
-</item>
-<item>
-<title>TUI Care Foundation Launches Wildlife Conservation Programme in Costa Rica | ittn.ie</title>
-<link>https://ittn.ie/sustainability/tui-care-foundation-launches-wildlife-conservation-programme-in-costa-rica/</link>
-<guid isPermaLink="false">https://ittn.ie/sustainability/tui-care-foundation-launches-wildlife-conservation-programme-in-costa-rica/</guid>
-<pubDate>Thu, 30 Jul 2026 10:53:36 +0000</pubDate>
-<description>Responsible tourism development presents an opportunity to address both biodiversity loss and community development but requires effective ...</description>
 </item>
 </channel>
 </rss>
