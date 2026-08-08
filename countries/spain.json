@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.youtube.com/shorts/s1anKBWc3hY",
+      "url": "https://www.youtube.com/shorts/s1anKBWc3hY",
+      "title": "Hundreds Protest Against Mass Tourism in Spain's Mallorca - YouTube",
+      "content_text": "... overtourism and protect their quality of life. Protesters are calling for action on housing affordability, tourism limits and the wider economic ...",
+      "date_published": "2026-08-08T18:20:50+00:00"
+    },
+    {
       "id": "https://niagaranow.com/opinion.phtml/letter-tourism-pushback-in-spain-an-omen-of-things-to-come/",
       "url": "https://niagaranow.com/opinion.phtml/letter-tourism-pushback-in-spain-an-omen-of-things-to-come/",
       "title": "Letter: Tourism pushback in Spain an omen of things to come - Niagara Now",
@@ -68,13 +75,6 @@
       "title": "Cies Islands Capture Global Traveller Attention as Spain's New Protected Island Paradise ...",
       "content_text": "Overtourism has become an increasingly visible issue across several parts of Spain. Popular cities, beaches and islands have faced pressure from ...",
       "date_published": "2026-07-25T13:44:44+00:00"
-    },
-    {
-      "id": "https://pragmatika.media/en/news/v-ispanii-vidkryly-velomarshrut-zavdovzhky-2-180-km-cherez-heoparky-iunesko/",
-      "url": "https://pragmatika.media/en/news/v-ispanii-vidkryly-velomarshrut-zavdovzhky-2-180-km-cherez-heoparky-iunesko/",
-      "title": "A 2180 km cycling route through UNESCO geoparks has been opened in Spain",
-      "content_text": "The Spanish region of Castilla-La Mancha has launched a new network of cycling routes, Rural Bike Conecta CLM, which stretches for 2180 kilometers ...",
-      "date_published": "2026-07-23T14:36:39+00:00"
     }
   ]
 }

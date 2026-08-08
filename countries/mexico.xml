@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 08 Aug 2026 10:08:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 22:07:48 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mérida, Cancún and Others Are Advancing Sustainable Tourism in Mexico Focusing on ...</title>
+<link>https://www.travelandtourworld.com/news/article/l2y1ztvqvwos/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/l2y1ztvqvwos/</guid>
+<pubDate>Sat, 08 Aug 2026 17:18:13 +0000</pubDate>
+<description>Mérida, Cancún and Mexican cities advance sustainable tourism through conservation, cultural protection, responsible hospitality and greener ...</description>
+</item>
 <item>
 <title>Mexico Expands Protected Areas Strategy Toward 30x30 Goal</title>
 <link>https://mexicobusiness.news/sustainability/news/mexico-expands-protected-areas-strategy-toward-30x30-goal</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/unesco-advances-sustainable-development-oaxaca</guid>
 <pubDate>Tue, 21 Jul 2026 20:15:24 +0000</pubDate>
 <description>... sustainable tourism and biodiversity conservation. The initiative has also produced methodologies, educational guides and training programs that ...</description>
-</item>
-<item>
-<title>Mexico Pairs Up with United States and Spain as Barceló México Reforma Secures Green ...</title>
-<link>https://www.travelandtourworld.com/news/article/b79uaodofbrg/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/b79uaodofbrg/</guid>
-<pubDate>Wed, 15 Jul 2026 09:45:39 +0000</pubDate>
-<description>Green Globe describes its programme as an international certification system for travel and tourism businesses. The recognition is notable because the ...</description>
 </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/iran.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Iran. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 08 Aug 2026 10:08:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 22:07:48 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Over 1.7 Million Pilgrims Leave Iran for Arbaeen Commemorations - Society/Culture news</title>
@@ -51,6 +51,13 @@
 <description>BAKU, Azerbaijan, June 24. Work is underway in Iran within the framework of projects to develop green and sustainable tourism, Secretary of the ...</description>
 </item>
 <item>
+<title>Iran war follows the faithful on the world's biggest pilgrimage - The Times</title>
+<link>https://www.thetimes.com/world/middle-east/article/iran-war-faithful-pilgrimage-x8smllxmw</link>
+<guid isPermaLink="false">https://www.thetimes.com/world/middle-east/article/iran-war-faithful-pilgrimage-x8smllxmw</guid>
+<pubDate>Sat, 08 Aug 2026 16:10:27 +0000</pubDate>
+<description>Every year millions of people — mostly Shia Muslims — travel to Karbala, 55 miles southwest of Baghdad, for Arbaeen, the world's largest annual ...</description>
+</item>
+<item>
 <title>UNESCO Grants World Heritage Status to Ancient Sites in Lebanon, Palestine, and Iran</title>
 <link>https://mymodernmet.com/unesco-sites-lebanon-palestine-iran/?adt_ei={{%20subscriber.email_address%20}}</link>
 <guid isPermaLink="false">https://mymodernmet.com/unesco-sites-lebanon-palestine-iran/?adt_ei={{%20subscriber.email_address%20}}</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.dawn.com/news/2018502</guid>
 <pubDate>Sun, 26 Jul 2026 15:25:35 +0000</pubDate>
 <description>A community-centered agroforestry project that starts with the farmer and ends with a climate asset.</description>
-</item>
-<item>
-<title>Iran's Qazvin Faces a UNESCO Tourism Readiness Test in South Korea's Busan as Alamūt ...</title>
-<link>https://www.travelandtourworld.com/news/article/mp8bj5yc2dc7/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/mp8bj5yc2dc7/</guid>
-<pubDate>Wed, 22 Jul 2026 09:35:55 +0000</pubDate>
-<description>... tourism planning and the need for carrying-capacity controls. The opportunity is therefore strongest for low-volume, guided mountain travel, not ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/costa-rica.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Costa Rica. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 08 Aug 2026 10:08:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 22:07:48 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>TUI Care Foundation Expands New Sustainable Tourism Project in Costa Rica to Protect ...</title>
+<link>https://www.travelandtourworld.com/news/article/qf02j51921uz/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/qf02j51921uz/</guid>
+<pubDate>Sat, 08 Aug 2026 19:56:31 +0000</pubDate>
+<description>Costa Rica is known around the world as one of the most biologically diverse countries, but the ecosystems in Costa Rica are increasingly endangered ...</description>
+</item>
 <item>
 <title>Costa Rica Warns Tourists That Wildlife Souvenirs Can Lead to Criminal Charges | NIA</title>
 <link>https://newsinamerica.com/en/travel/2026/costa-rica-warns-tourists-that-wildlife-souvenirs-can-lead-to-criminal-charges/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://ticotimes.net/2026/08/01/golfo-dulce-whale-watching-season-returns</guid>
 <pubDate>Sat, 01 Aug 2026 16:18:32 +0000</pubDate>
 <description>Whale watching has grown from a niche add-on into one of the anchors of sustainable tourism in the South Pacific, and it feeds hotels, restaurants, ...</description>
-</item>
-<item>
-<title>Costa Rica Warns Tourists That Wildlife Souvenirs Can Lead to Criminal Charges</title>
-<link>https://ticotimes.net/2026/07/31/costa-rica-wildlife-souvenirs-warning</link>
-<guid isPermaLink="false">https://ticotimes.net/2026/07/31/costa-rica-wildlife-souvenirs-warning</guid>
-<pubDate>Fri, 31 Jul 2026 22:29:42 +0000</pubDate>
-<description>Costa Rica's new What You Carry campaign warns travelers that shells, coral, plants and wildlife products can trigger criminal investigations.</description>
 </item>
 </channel>
 </rss>

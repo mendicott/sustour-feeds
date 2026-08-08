@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/lebanon.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Lebanon. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 08 Aug 2026 10:08:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 22:07:48 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Lebanon's Deir El Ahmar Walkable Rosary Creates A New Pilgrimage Experience As ...</title>
@@ -44,6 +44,13 @@
 <description>The Orange House, which Khalil helped build into a small conservation hub and ecotourism site in Mansouri, became a refuge for endangered ...</description>
 </item>
 <item>
+<title>Held for ransom, smuggled out in a potato sack: How a rare eagle made it home to Serbia</title>
+<link>https://tvpworld.com/94755095/rare-serbian-eagle-feliks-released-after-syria-kidnap-ordeal</link>
+<guid isPermaLink="false">https://tvpworld.com/94755095/rare-serbian-eagle-feliks-released-after-syria-kidnap-ordeal</guid>
+<pubDate>Sat, 08 Aug 2026 13:55:32 +0000</pubDate>
+<description>A conservationist in Lebanon learned about his plight from a WhatsApp group used by poachers to sell endangered species illegally and sprang into ...</description>
+</item>
+<item>
 <title>UNESCO Grants World Heritage Status to Ancient Sites in Lebanon, Palestine, and Iran</title>
 <link>https://mymodernmet.com/unesco-sites-lebanon-palestine-iran/?adt_ei={{%20subscriber.email_address%20}}</link>
 <guid isPermaLink="false">https://mymodernmet.com/unesco-sites-lebanon-palestine-iran/?adt_ei={{%20subscriber.email_address%20}}</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.dawn.com/news/2016613</guid>
 <pubDate>Sun, 19 Jul 2026 12:30:12 +0000</pubDate>
 <description>Biblical sites in occupied West Bank, Lebanese castles, South Sudan's savannahs and grasslands among fast-tracked nominations; Russia's Lake ...</description>
-</item>
-<item>
-<title>UNESCO set to declare Beaufort Castle a heritage site in danger after IDF takeover</title>
-<link>https://www.ynetnews.com/article/s1pldq9vzg</link>
-<guid isPermaLink="false">https://www.ynetnews.com/article/s1pldq9vzg</guid>
-<pubDate>Sun, 19 Jul 2026 11:23:59 +0000</pubDate>
-<description>... Lebanon after the IDF retook the strategic site, alongside Sebastia in the West Bank and other locations threatened by war and climate change.</description>
 </item>
 </channel>
 </rss>
