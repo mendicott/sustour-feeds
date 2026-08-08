@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/austria.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Austria. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 07 Aug 2026 22:08:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 10:08:12 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Austria's Tough New Tourism Rules Target Overtourism</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://www.thetraveler.org/austrias-tough-new-tourism-rules-target-overtourism/</guid>
 <pubDate>Fri, 07 Aug 2026 19:31:59 +0000</pubDate>
 <description>Austria's Tough New Tourism Rules Target Overtourism ... Austria is rolling out tougher tourism rules, from bus caps to new fees and enforcement drives, ...</description>
+</item>
+<item>
+<title>Austria Tackles Chaotic Crowds As Radical New Travel Rules Change How Everyone ...</title>
+<link>https://www.travelandtourworld.com/news/article/vmcilwrr26y7/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/vmcilwrr26y7/</guid>
+<pubDate>Fri, 07 Aug 2026 18:04:10 +0000</pubDate>
+<description>Explore how European tourism policies are tackling overtourism from Hallstatt to Santiago by redirecting visitor flows toward authentic regional ...</description>
 </item>
 <item>
 <title>Austria Tightens Tourism Rules To Curb Chaotic Crowds</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.msn.com/en-us/travel/article/tourisms-toll-on-the-worlds-most-scenic-villages/ss-AA25BZPK</guid>
 <pubDate>Sat, 04 Jul 2026 19:37:41 +0000</pubDate>
 <description>Overtourism in Hallstatt, Austria — Bailey J. Ahlberg | baileyjahlberg.com. Overtourism in Hallstatt: Dream vs. Crowds - mountain-tours.at ...</description>
-</item>
-<item>
-<title>Salzburg Teams Up with Hallstatt, Vienna and Austrian Alpine Destinations Aggressively ...</title>
-<link>https://www.travelandtourworld.com/news/article/1etqypeao0sb/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/1etqypeao0sb/</guid>
-<pubDate>Sat, 04 Jul 2026 08:10:25 +0000</pubDate>
-<description>Austria tightens overtourism controls as Salzburg, Hallstatt, Vienna and Alpine destinations enforce 2026 driving bans.</description>
 </item>
 </channel>
 </rss>

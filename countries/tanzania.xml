@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/tanzania.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Tanzania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 07 Aug 2026 22:08:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 10:08:12 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Whose conservation, whose development? The Maasai struggle over land in northern Tanzania</title>
+<link>https://globalvoices.org/2026/08/07/whose-conservation-whose-development-the-maasai-struggle-over-land-in-northern-tanzania/</link>
+<guid isPermaLink="false">https://globalvoices.org/2026/08/07/whose-conservation-whose-development-the-maasai-struggle-over-land-in-northern-tanzania/</guid>
+<pubDate>Sat, 08 Aug 2026 07:16:57 +0000</pubDate>
+<description>From this perspective, relocation is presented as necessary to protect biodiversity and tourism resources. Conservation has become a tool for 'green ...</description>
+</item>
 <item>
 <title>Tanzania Bets on Infrastructure to Secure Seven Million Tourist Arrivals - Streamline Feed</title>
 <link>https://streamlinefeed.co.ke/news/tanzania-bets-infrastructure-secure-seven-million-tourist-arrivals</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://news.fundsforngos.org/2026/07/27/tanzania-launches-project-to-restore-east-usambara-ecosystems-and-strengthen-community-resilience/</guid>
 <pubDate>Mon, 27 Jul 2026 10:49:41 +0000</pubDate>
 <description>The restoration efforts in East Usambara are expected to contribute to Tanzania's broader goals for biodiversity conservation, climate resilience, and ...</description>
-</item>
-<item>
-<title>Mount Kilimanjaro restoration drive gets boost - Daily News Tanzania</title>
-<link>https://dailynews.co.tz/mount-kilimanjaro-restoration-drive-gets-boost-2/</link>
-<guid isPermaLink="false">https://dailynews.co.tz/mount-kilimanjaro-restoration-drive-gets-boost-2/</guid>
-<pubDate>Sat, 25 Jul 2026 12:11:47 +0000</pubDate>
-<description>... biodiversity and create employment opportunities linked to tourism and environmental conservation. For his part, GGML Managing Director Mr Ashraf ...</description>
 </item>
 </channel>
 </rss>

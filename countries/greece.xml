@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 07 Aug 2026 22:08:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 10:08:12 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Greece introduces new tourism planning rules for hotels, islands, Airbnb and construction</title>
+<link>https://greekcitytimes.com/2026/08/08/slug-greece-tourism-planning-rules-hotels-airbnb-construction/</link>
+<guid isPermaLink="false">https://greekcitytimes.com/2026/08/08/slug-greece-tourism-planning-rules-hotels-airbnb-construction/</guid>
+<pubDate>Sat, 08 Aug 2026 07:50:08 +0000</pubDate>
+<description>For the first time, the concept of tourism carrying capacity is being incorporated systematically into national spatial planning. ... Travel · Tech ...</description>
+</item>
 <item>
 <title>Paros, Greece, erupts over a 46-pool luxury hotel project as overtourism strains water supply</title>
 <link>https://www.sustainableconstruction-now.com/article/540476/paros-greece-erupts-over-a-46pool-luxury-hotel-project-as-overtourism-strains-water-supply?utm_source=renewableenergy&amp;utm_medium=newsfeed&amp;utm_campaign=renewableenergy-articleId-540476</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/w0cn50lc0777/</guid>
 <pubDate>Sun, 02 Aug 2026 15:04:38 +0000</pubDate>
 <description>It records travel-document information, facial images, fingerprints and entry or exit details for most covered non-EU short-stay travellers crossing ...</description>
-</item>
-<item>
-<title>Greek PM, Athens Mayor Discuss City's European Presidency Preparations - tovima.com</title>
-<link>https://www.tovima.com/politics/greek-pm-athens-mayor-discuss-citys-european-presidency-preparations/amp/</link>
-<guid isPermaLink="false">https://www.tovima.com/politics/greek-pm-athens-mayor-discuss-citys-european-presidency-preparations/amp/</guid>
-<pubDate>Fri, 31 Jul 2026 14:51:02 +0000</pubDate>
-<description>Athens Mayor, Tourism Minister Clash Over Overtourism. 27.04.2026, 17:00. Athens Mayor, Tourism Minister Clash Over Overtourism. Mitsotakis ...</description>
 </item>
 </channel>
 </rss>
