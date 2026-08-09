@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/myanmar.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Myanmar. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 08 Aug 2026 22:07:48 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 10:08:06 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Culture &amp;Tourism : Efforts for development of cultural tourism | Myanmar International TV</title>
+<link>https://www.myanmaritv.com/news/culture-tourism-efforts-development-cultural-tourism</link>
+<guid isPermaLink="false">https://www.myanmaritv.com/news/culture-tourism-efforts-development-cultural-tourism</guid>
+<pubDate>Sun, 09 Aug 2026 06:10:59 +0000</pubDate>
+<description>Aiming for the long-term resilience of ancient heritage in Kengtung District, Shan State (South) and systematic maintenance measures, ...</description>
+</item>
 <item>
 <title>Slowly making a comeback | The Star Malaysia - Star2 - PressReader</title>
 <link>https://www.pressreader.com/malaysia/the-star-malaysia-star2/20260714/281629607027396</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/bxkqqyh86uzg/</guid>
 <pubDate>Thu, 18 Jun 2026 01:00:07 +0000</pubDate>
 <description>Myanmar hosts Mekong Tourism Forum 2026, uniting Greater Mekong nations to promote sustainable tourism, cultural heritage, community growth and ...</description>
-</item>
-<item>
-<title>Cambodia Joins Myanmar, Thailand, Vietnam, Laos and China at Mekong Tourism Forum ...</title>
-<link>https://www.travelandtourworld.com/news/article/h7vmulek966t/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/h7vmulek966t/</guid>
-<pubDate>Mon, 15 Jun 2026 04:02:37 +0000</pubDate>
-<description>The Mekong Tourism Forum 2026 is being hosted in Yangon under the theme of tourism that benefits communities while encouraging purposeful travel ...</description>
 </item>
 </channel>
 </rss>

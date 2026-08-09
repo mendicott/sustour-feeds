@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/turkiye.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Turkiye. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 08 Aug 2026 22:07:48 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 10:08:06 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Greece Unveils New Tourism Development Regulations as Turkey Raises Aegean Claims</title>
+<link>https://greekreporter.com/2026/08/08/greece-tourism-development-regulations/</link>
+<guid isPermaLink="false">https://greekreporter.com/2026/08/08/greece-tourism-development-regulations/</guid>
+<pubDate>Sun, 09 Aug 2026 01:49:42 +0000</pubDate>
+<description>Greece is implementing stricter planning regulations to curb overtourism by placing new limits on hotel construction and island capacity.</description>
+</item>
 <item>
 <title>Greece Unveils New Tourism Development Rules as Turkey Raises Aegean Claims</title>
 <link>https://greekreporter.com/2026/08/08/greece-tourism-development-rules/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/7cfde4ax9uzt/</guid>
 <pubDate>Wed, 17 Jun 2026 17:27:52 +0000</pubDate>
 <description>Travel planners expect the bridge to be integrated into broader tourism circuits. These may include forest trails, heritage towns, and protected ...</description>
-</item>
-<item>
-<title>Basilica Therma Roman bath in Türkiye enters UNESCO Tentative List</title>
-<link>https://en.yenisafak.com/life/basilica-therma-roman-bath-in-turkiye-added-to-unesco-tentative-list-3719293</link>
-<guid isPermaLink="false">https://en.yenisafak.com/life/basilica-therma-roman-bath-in-turkiye-added-to-unesco-tentative-list-3719293</guid>
-<pubDate>Tue, 09 Jun 2026 18:57:45 +0000</pubDate>
-<description>The ancient Basilica Therma Roman Bath, known locally as "Kral Kizi," has been included on the UNESCO World Heritage Tentative List in Yozgat ...</description>
 </item>
 </channel>
 </rss>

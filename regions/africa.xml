@@ -6,8 +6,22 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/africa.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Africa. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 08 Aug 2026 22:07:48 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 10:08:06 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Kenya Sets Guinness World Record: 4,124 Volunteers Plant Mangroves | Good News</title>
+<link>https://denkstrom.org/en/goodnews/kenya-mangrove-guinness-world-record/</link>
+<guid isPermaLink="false">https://denkstrom.org/en/goodnews/kenya-mangrove-guinness-world-record/</guid>
+<pubDate>Sat, 08 Aug 2026 12:22:28 +0000</pubDate>
+<description>Climate ecologists call this reservoir blue carbon because it forms in coastal, not terrestrial, ecosystems. There is also direct relevance for ...</description>
+</item>
+<item>
+<title>South Africa Tourism Reclaims Global Spotlight With Over 12% Growth In Foreign Travel Demand</title>
+<link>https://www.travelandtourworld.com/news/article/nk38pacll76i/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/nk38pacll76i/</guid>
+<pubDate>Sat, 08 Aug 2026 08:07:29 +0000</pubDate>
+<description>Visitors are increasingly seeking meaningful travel experiences that connect them with nature and conservation. South Africa's safari tourism ...</description>
+</item>
 <item>
 <title>Whose conservation, whose development? The Maasai struggle over land in northern Tanzania</title>
 <link>https://globalvoices.org/2026/08/07/whose-conservation-whose-development-the-maasai-struggle-over-land-in-northern-tanzania/</link>
@@ -63,20 +77,6 @@
 <guid isPermaLink="false">https://fastcompanyme.com/news/egypt-unveils-new-model-to-balance-conservation-and-tourism-at-nabq-nature-reserve/</guid>
 <pubDate>Wed, 05 Aug 2026 10:01:42 +0000</pubDate>
 <description>Awad said the model is expected to provide sustainable funding for conservation efforts, promote lower-carbon tourism, create jobs, improve local ...</description>
-</item>
-<item>
-<title>The extraordinary comeback of Zimbabwe's endangered black rhinos | National Geographic</title>
-<link>https://www.nationalgeographic.com/animals/article/black-rhino-reintroduction-matusadona</link>
-<guid isPermaLink="false">https://www.nationalgeographic.com/animals/article/black-rhino-reintroduction-matusadona</guid>
-<pubDate>Wed, 05 Aug 2026 09:57:49 +0000</pubDate>
-<description>The first evening that black rhinos were back in Matusadona National Park in Zimbabwe this May, park manager Mike Pelham grabbed a bedroll and ...</description>
-</item>
-<item>
-<title>Tanzania Bets on Infrastructure to Secure Seven Million Tourist Arrivals - Streamline Feed</title>
-<link>https://streamlinefeed.co.ke/news/tanzania-bets-infrastructure-secure-seven-million-tourist-arrivals</link>
-<guid isPermaLink="false">https://streamlinefeed.co.ke/news/tanzania-bets-infrastructure-secure-seven-million-tourist-arrivals</guid>
-<pubDate>Wed, 05 Aug 2026 06:28:51 +0000</pubDate>
-<description>... high-value, low-volume eco-tourism. By focusing on premium safari ... travel. The Tanzania Tourist Board has also intensified its digital ...</description>
 </item>
 </channel>
 </rss>

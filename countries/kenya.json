@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://denkstrom.org/en/goodnews/kenya-mangrove-guinness-world-record/",
+      "url": "https://denkstrom.org/en/goodnews/kenya-mangrove-guinness-world-record/",
+      "title": "Kenya Sets Guinness World Record: 4,124 Volunteers Plant Mangroves | Good News",
+      "content_text": "Climate ecologists call this reservoir blue carbon because it forms in coastal, not terrestrial, ecosystems. There is also direct relevance for ...",
+      "date_published": "2026-08-08T12:22:28+00:00"
+    },
+    {
       "id": "https://www.aa.com.tr/en/environment/kenya-investigates-suspected-cyanide-poisoning-after-16-elephants-die-in-amboseli-ecosystem/4020877",
       "url": "https://www.aa.com.tr/en/environment/kenya-investigates-suspected-cyanide-poisoning-after-16-elephants-die-in-amboseli-ecosystem/4020877",
       "title": "Kenya investigates suspected cyanide poisoning after 16 elephants die in Amboseli ecosystem",
@@ -68,13 +75,6 @@
       "title": "Fifteen elephants found dead outside Kenyan park | APAnews - African Press Agency",
       "content_text": "Fifteen elephants were found dead outside the Amboseli National Park in Kenya allegedly due to cyanide poisoning, according to the Kenya Wildlife ...",
       "date_published": "2026-07-31T21:22:22+00:00"
-    },
-    {
-      "id": "https://www.dawan.africa/news/ruto-govt-to-hire-more-rangers-in-wildlife-protection-push",
-      "url": "https://www.dawan.africa/news/ruto-govt-to-hire-more-rangers-in-wildlife-protection-push",
-      "title": "Ruto Govt to Hire More Rangers in Wildlife Protection Push | Dawan Africa",
-      "content_text": "Tourism CS Miano announces fresh investments in ranger recruitment, training, and technology to safeguard Kenya's multi-billion-shilling tourism ...",
-      "date_published": "2026-07-31T17:53:18+00:00"
     }
   ]
 }

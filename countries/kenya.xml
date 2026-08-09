@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/kenya.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Kenya. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 08 Aug 2026 22:07:48 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 10:08:06 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Kenya Sets Guinness World Record: 4,124 Volunteers Plant Mangroves | Good News</title>
+<link>https://denkstrom.org/en/goodnews/kenya-mangrove-guinness-world-record/</link>
+<guid isPermaLink="false">https://denkstrom.org/en/goodnews/kenya-mangrove-guinness-world-record/</guid>
+<pubDate>Sat, 08 Aug 2026 12:22:28 +0000</pubDate>
+<description>Climate ecologists call this reservoir blue carbon because it forms in coastal, not terrestrial, ecosystems. There is also direct relevance for ...</description>
+</item>
 <item>
 <title>Kenya investigates suspected cyanide poisoning after 16 elephants die in Amboseli ecosystem</title>
 <link>https://www.aa.com.tr/en/environment/kenya-investigates-suspected-cyanide-poisoning-after-16-elephants-die-in-amboseli-ecosystem/4020877</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://apanews.net/fifteen-elephants-found-dead-outside-kenyan-park/</guid>
 <pubDate>Fri, 31 Jul 2026 21:22:22 +0000</pubDate>
 <description>Fifteen elephants were found dead outside the Amboseli National Park in Kenya allegedly due to cyanide poisoning, according to the Kenya Wildlife ...</description>
-</item>
-<item>
-<title>Ruto Govt to Hire More Rangers in Wildlife Protection Push | Dawan Africa</title>
-<link>https://www.dawan.africa/news/ruto-govt-to-hire-more-rangers-in-wildlife-protection-push</link>
-<guid isPermaLink="false">https://www.dawan.africa/news/ruto-govt-to-hire-more-rangers-in-wildlife-protection-push</guid>
-<pubDate>Fri, 31 Jul 2026 17:53:18 +0000</pubDate>
-<description>Tourism CS Miano announces fresh investments in ranger recruitment, training, and technology to safeguard Kenya's multi-billion-shilling tourism ...</description>
 </item>
 </channel>
 </rss>

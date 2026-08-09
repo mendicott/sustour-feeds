@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/middle-east.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Middle East. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 08 Aug 2026 22:07:48 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 10:08:06 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>PDTRA, JICA Discuss Strategic Tourism Plan and Sustainable Development</title>
+<link>https://petra.gov.jo/gweb/index.php/en/news/pdtra-jica-discuss-strategic-tourism-plan-and-sustainable-development</link>
+<guid isPermaLink="false">https://petra.gov.jo/gweb/index.php/en/news/pdtra-jica-discuss-strategic-tourism-plan-and-sustainable-development</guid>
+<pubDate>Sun, 09 Aug 2026 00:45:38 +0000</pubDate>
+<description>For his part, Ueda reaffirmed JICA's commitment to supporting the Petra Authority's efforts to develop sustainable tourism, empower local communities, ...</description>
+</item>
 <item>
 <title>Bahla Fort craft project joins Unesco volunteer campaign - Muscat Daily</title>
 <link>https://www.muscatdaily.com/2026/08/05/bahla-fort-craft-project-joins-unesco-volunteer-campaign/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.omanobserver.om/article/1193901/features/travel/slow-travel-why-travelling-less-is-creating-more-meaningful-journeys</guid>
 <pubDate>Mon, 03 Aug 2026 17:27:23 +0000</pubDate>
 <description>Slow travel is redefining tourism by encouraging visitors to spend more time in fewer places, connect with local communities and experience ...</description>
-</item>
-<item>
-<title>Desert Rock Resort - DarkSky.org</title>
-<link>https://darksky.org/places/desert-rock-resort/</link>
-<guid isPermaLink="false">https://darksky.org/places/desert-rock-resort/</guid>
-<pubDate>Mon, 03 Aug 2026 16:03:19 +0000</pubDate>
-<description>Light Pollution Education ... Desert Rock is part of The Red Sea, a regenerative tourism destination on the northwest coast of Saudi Arabia.</description>
 </item>
 </channel>
 </rss>

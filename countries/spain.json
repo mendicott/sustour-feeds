@@ -7,11 +7,25 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=S1gPh5Lq2yw",
+      "url": "https://www.youtube.com/watch?v=S1gPh5Lq2yw",
+      "title": "Locals protest against overtourism in Spain's Mallorca - YouTube",
+      "content_text": "Locals protest against overtourism in Spain's Mallorca Residents of Soller protest against overtourism on Spain's Balearic Island of Mallorca.",
+      "date_published": "2026-08-09T06:21:21+00:00"
+    },
+    {
       "id": "https://www.youtube.com/shorts/s1anKBWc3hY",
       "url": "https://www.youtube.com/shorts/s1anKBWc3hY",
       "title": "Hundreds Protest Against Mass Tourism in Spain's Mallorca - YouTube",
       "content_text": "... overtourism and protect their quality of life. Protesters are calling for action on housing affordability, tourism limits and the wider economic ...",
       "date_published": "2026-08-08T18:20:50+00:00"
+    },
+    {
+      "id": "https://www.youtube.com/shorts/8YZqwJpRg5k",
+      "url": "https://www.youtube.com/shorts/8YZqwJpRg5k",
+      "title": "Spain's Mallorca Protests Mass Tourism - YouTube",
+      "content_text": "Hundreds of people took to the streets in Mallorca, Spain, on Saturday to protest mass tourism and its impact on housing costs and the cost of ...",
+      "date_published": "2026-08-08T17:26:26+00:00"
     },
     {
       "id": "https://niagaranow.com/opinion.phtml/letter-tourism-pushback-in-spain-an-omen-of-things-to-come/",
@@ -61,20 +75,6 @@
       "title": "Spain Introduces New Overtourism Strategy as Barcelona Raises Cruise Tourist Charges to ...",
       "content_text": "Barcelona is preparing a higher fee for short-stay cruise passengers as authorities attempt to manage overtourism, reduce pressure on ...",
       "date_published": "2026-07-26T14:42:28+00:00"
-    },
-    {
-      "id": "https://nypost.com/2026/07/25/world-news/popular-city-cracks-down-on-tourism-saying-16-million-visitors-is-more-than-enough/",
-      "url": "https://nypost.com/2026/07/25/world-news/popular-city-cracks-down-on-tourism-saying-16-million-visitors-is-more-than-enough/",
-      "title": "Popular city cracks down on tourism saying 16 million visitors is more than enough",
-      "content_text": "Barcelona, Spain, has emerged as one of Europe's most forceful opponents of mass tourism in recent years. Now, the commissioner for sustainable ...",
-      "date_published": "2026-07-25T17:51:41+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/fz2ygdhuij9s/",
-      "url": "https://www.travelandtourworld.com/news/article/fz2ygdhuij9s/",
-      "title": "Cies Islands Capture Global Traveller Attention as Spain's New Protected Island Paradise ...",
-      "content_text": "Overtourism has become an increasingly visible issue across several parts of Spain. Popular cities, beaches and islands have faced pressure from ...",
-      "date_published": "2026-07-25T13:44:44+00:00"
     }
   ]
 }

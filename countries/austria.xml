@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/austria.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Austria. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 08 Aug 2026 22:07:48 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 10:08:06 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Austria Tightens Tourism Rules To Tame Chaotic Crowds</title>
+<link>https://www.thetraveler.org/austria-tightens-tourism-rules-to-tame-chaotic-crowds-2/</link>
+<guid isPermaLink="false">https://www.thetraveler.org/austria-tightens-tourism-rules-to-tame-chaotic-crowds-2/</guid>
+<pubDate>Sun, 09 Aug 2026 03:32:47 +0000</pubDate>
+<description>Few places illustrate Austria's overtourism dilemma as sharply as Hallstatt, the lakeside village long promoted as a storybook Alpine escape. With ...</description>
+</item>
 <item>
 <title>Austria's Tough New Tourism Rules Target Chaotic Crowds</title>
 <link>https://www.thetraveler.org/austrias-tough-new-tourism-rules-target-chaotic-crowds-3/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/qxgjs4gqb6tw/</guid>
 <pubDate>Fri, 10 Jul 2026 10:30:15 +0000</pubDate>
 <description>... travel across borders. Czechia Builds a New Era of Film Tourism Through Culture, Creativity and Sustainable Travel. Czechia does not need to create ...</description>
-</item>
-<item>
-<title>Switzerland Aligns with Italy, France, Austria, and Germany as Overtourism Challenges ...</title>
-<link>https://www.travelandtourworld.com/news/article/t1oh8k30s0ai/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/t1oh8k30s0ai/</guid>
-<pubDate>Wed, 08 Jul 2026 11:43:32 +0000</pubDate>
-<description>Switzerland aligns with Italy, France, Austria, and Germany to address overtourism through sustainable tourism, visitor management, and regional ...</description>
 </item>
 </channel>
 </rss>
