@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/new-zealand.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for New Zealand. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 09 Aug 2026 10:08:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 22:07:42 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>New Zealand's tourism industry faces complex path to sustainability</title>
+<link>https://www.ausleisure.com.au/news/new-zealands-tourism-industry-faces-complex-path-to-sustainability</link>
+<guid isPermaLink="false">https://www.ausleisure.com.au/news/new-zealands-tourism-industry-faces-complex-path-to-sustainability</guid>
+<pubDate>Sun, 09 Aug 2026 21:19:39 +0000</pubDate>
+<description>Inspired by a lifelong love of travel and a ... We thought carbon neutral was it, then carbon zero, then regenerative, and now nature positive.</description>
+</item>
 <item>
 <title>The Cathedral Cove Kayak Tour That Lands You Where No One Else Can - Travel Dudes</title>
 <link>https://traveldudes.com/cathedral-cove-kayak-tour/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.traveloffpath.com/9-popular-destinations-americans-must-pay-a-separate-fee-to-visit-this-summer/</guid>
 <pubDate>Sun, 19 Jul 2026 04:43:06 +0000</pubDate>
 <description>New Zealand requires all visitors to pay an International Visitor Conservation and Tourism ... Categories Travel, Travel News. Tags. Tags. Tourist ...</description>
-</item>
-<item>
-<title>Is there such a thing as a sustainable tourist? - University of Auckland</title>
-<link>https://www.auckland.ac.nz/en/news/2026/07/16/planetary-solutions-sustainable-tourism.html</link>
-<guid isPermaLink="false">https://www.auckland.ac.nz/en/news/2026/07/16/planetary-solutions-sustainable-tourism.html</guid>
-<pubDate>Wed, 15 Jul 2026 22:09:32 +0000</pubDate>
-<description>Beach's research found New Zealand tourism businesses are facing challenges in becoming more sustainable – one company, for instance, has set aside ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/argentina.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Argentina. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 09 Aug 2026 10:08:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 22:07:42 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Argentina Travel Redefined, Crafting Soul-Stirring Routes For The Chronically Curious Will ...</title>
+<link>https://www.travelandtourworld.com/news/article/di9hmrq6pkcs/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/di9hmrq6pkcs/</guid>
+<pubDate>Sun, 09 Aug 2026 13:22:11 +0000</pubDate>
+<description>Preserving Biodiversity Through Low-Impact Eco-Tourism in the Iberá Wetlands. It was showcased that fragile wetlands represent some of the most ...</description>
+</item>
 <item>
 <title>Now Argentina, Chile and Bolivia Unite Around Latin America's First Solar Train, Reviving a ...</title>
 <link>https://www.travelandtourworld.com/news/article/bgd2uwfiz6te/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://dialogue.earth/en/energy/mapped-colombia-and-argentinas-energy-transition-copper-boom/</guid>
 <pubDate>Wed, 08 Jul 2026 16:49:31 +0000</pubDate>
 <description>Demand for copper has soared but further extraction threatens a range of environments and Indigenous reserves.</description>
-</item>
-<item>
-<title>Costa Rica Supercharges United States, Canada, Mexico and Colombia to Lead the ...</title>
-<link>https://www.travelandtourworld.com/news/article/9x5tmqte5b67/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/9x5tmqte5b67/</guid>
-<pubDate>Wed, 01 Jul 2026 11:30:16 +0000</pubDate>
-<description>Costa Rica supercharges the United States, Canada, Mexico, Argentina, Brazil and Colombia to lead the Americas' explosive agritourism revolution.</description>
 </item>
 </channel>
 </rss>

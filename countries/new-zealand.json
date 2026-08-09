@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.ausleisure.com.au/news/new-zealands-tourism-industry-faces-complex-path-to-sustainability",
+      "url": "https://www.ausleisure.com.au/news/new-zealands-tourism-industry-faces-complex-path-to-sustainability",
+      "title": "New Zealand's tourism industry faces complex path to sustainability",
+      "content_text": "Inspired by a lifelong love of travel and a ... We thought carbon neutral was it, then carbon zero, then regenerative, and now nature positive.",
+      "date_published": "2026-08-09T21:19:39+00:00"
+    },
+    {
       "id": "https://traveldudes.com/cathedral-cove-kayak-tour/",
       "url": "https://traveldudes.com/cathedral-cove-kayak-tour/",
       "title": "The Cathedral Cove Kayak Tour That Lands You Where No One Else Can - Travel Dudes",
@@ -68,13 +75,6 @@
       "title": "9 Popular Destinations Americans Must Pay A Separate Fee To Visit This Summer",
       "content_text": "New Zealand requires all visitors to pay an International Visitor Conservation and Tourism ... Categories Travel, Travel News. Tags. Tags. Tourist ...",
       "date_published": "2026-07-19T04:43:06+00:00"
-    },
-    {
-      "id": "https://www.auckland.ac.nz/en/news/2026/07/16/planetary-solutions-sustainable-tourism.html",
-      "url": "https://www.auckland.ac.nz/en/news/2026/07/16/planetary-solutions-sustainable-tourism.html",
-      "title": "Is there such a thing as a sustainable tourist? - University of Auckland",
-      "content_text": "Beach's research found New Zealand tourism businesses are facing challenges in becoming more sustainable – one company, for instance, has set aside ...",
-      "date_published": "2026-07-15T22:09:32+00:00"
     }
   ]
 }
