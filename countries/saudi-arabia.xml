@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/saudi-arabia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Saudi Arabia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 09 Aug 2026 22:07:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 10:08:26 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Najran's Badr Al-Janoub Emerges as a Sustainable Mountain Ecotourism Model for Saudi Arabia</title>
+<link>https://www.travelandtourworld.com/news/article/7aknokoux5wm/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/7aknokoux5wm/</guid>
+<pubDate>Mon, 10 Aug 2026 08:58:19 +0000</pubDate>
+<description>Explore how mountain ecotourism in Saudi Arabia transforms Badr Al-Janoub with native trees, honey trails, and eco-farms.</description>
+</item>
 <item>
 <title>Desert Rock Resort - DarkSky.org</title>
 <link>https://darksky.org/places/desert-rock-resort/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.dawn.com/news/2013497</guid>
 <pubDate>Tue, 07 Jul 2026 18:19:58 +0000</pubDate>
 <description>A fully digital initiative connecting visa application directly to travel bookings, making it easier to visit Saudi than ever before.</description>
-</item>
-<item>
-<title>Why Saudi Arabia's Al-Baha Region Is Becoming a Must-Visit Summer Destination for Rural ...</title>
-<link>https://www.travelandtourworld.com/news/article/horn0zlp9epo/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/horn0zlp9epo/</guid>
-<pubDate>Thu, 02 Jul 2026 05:58:29 +0000</pubDate>
-<description>... meaningful travel experiences while supporting local communities, protecting natural landscapes, and preserving cultural traditions for future ...</description>
 </item>
 </channel>
 </rss>

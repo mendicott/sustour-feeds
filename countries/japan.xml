@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/japan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Japan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 09 Aug 2026 22:07:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 10:08:26 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>I spent 15 years chasing my dream of designing planes. I gave it up to help revive rural Japan.</title>
+<link>https://www.businessinsider.com/gave-up-dream-career-revive-rural-japan-tourism-akiya-2026-8</link>
+<guid isPermaLink="false">https://www.businessinsider.com/gave-up-dream-career-revive-rural-japan-tourism-akiya-2026-8</guid>
+<pubDate>Mon, 10 Aug 2026 04:04:26 +0000</pubDate>
+<description>... cities, Japanese entrepreneur Daisuke Fujii found a new way to help farmers boost their income: agritourism.</description>
+</item>
 <item>
 <title>Temple lodgings preparing for pilgrims on Japan's Shikoku island - Nikkei Asia</title>
 <link>https://asia.nikkei.com/business/travel-leisure/temple-lodgings-preparing-for-pilgrims-on-japan-s-shikoku-island</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.koreajoongangdaily.com/world/unesco-world-heritage-committee-draws-to-close-with-25-new-sites-added/12798837</guid>
 <pubDate>Wed, 29 Jul 2026 16:30:13 +0000</pubDate>
 <description>The UNESCO World Heritage Committee session in Busan ended after adding 25 new heritage sites, including Japan's Asuka-Fujiwara capitals and ...</description>
-</item>
-<item>
-<title>Japan Coral Protectors Race To Save Reefs From Heat 'Bomb' - Barron's</title>
-<link>https://www.barrons.com/news/japan-coral-protectors-race-to-save-reefs-from-heat-bomb-ea1e7162</link>
-<guid isPermaLink="false">https://www.barrons.com/news/japan-coral-protectors-race-to-save-reefs-from-heat-bomb-ea1e7162</guid>
-<pubDate>Wed, 29 Jul 2026 14:37:15 +0000</pubDate>
-<description>From "heatwave simulators" to ecological bootcamps, scientists and conservationists are trying ways to revive and reinforce the famous coral reefs ...</description>
 </item>
 </channel>
 </rss>

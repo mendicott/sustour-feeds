@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/macau-china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Macau (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 09 Aug 2026 22:07:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 10:08:26 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Macau confirms first intangible cultural heritage transmitters - 澳門廣播電視</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://agbrief.com/news/macau/23/06/2026/sjm-becomes-first-macau-based-member-of-global-sustainable-tourism-council/</guid>
 <pubDate>Tue, 23 Jun 2026 19:02:32 +0000</pubDate>
 <description>... travel and reinforcing its role in advancing sustainability across the destination. The GSTC is the internationally recognised body responsible ...</description>
+</item>
+<item>
+<title>Indonesia closes national park as wildfire spreads | Macau Business</title>
+<link>https://macaubusiness.com/indonesia-closes-national-park-as-wildfire-spreads/</link>
+<guid isPermaLink="false">https://macaubusiness.com/indonesia-closes-national-park-as-wildfire-spreads/</guid>
+<pubDate>Sun, 09 Aug 2026 21:29:43 +0000</pubDate>
+<description>International, MNA | Indonesian authorities have closed access to a national park on Java Island as firefighters battle a wildfire raging there ...</description>
 </item>
 <item>
 <title>Cross-border botanical garden planned | MACAU DAILY TIMES 澳門每日時報</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.macaupostdaily.com/news/28807</guid>
 <pubDate>Thu, 16 Jul 2026 13:52:28 +0000</pubDate>
 <description>Macao's cultural heritage can drive sustainable tourism. 2026-07-16 15:42. BY Harald Brüning. Comment:0. The 13th APEC Tourism Ministerial Meeting in ...</description>
-</item>
-<item>
-<title>Macao's cultural heritage can drive sustainable tourism - Opinion - Chinadaily.com.cn</title>
-<link>https://www.chinadaily.com.cn/a/202607/15/WS6a57412aa310986e2b465673.html</link>
-<guid isPermaLink="false">https://www.chinadaily.com.cn/a/202607/15/WS6a57412aa310986e2b465673.html</guid>
-<pubDate>Wed, 15 Jul 2026 08:18:53 +0000</pubDate>
-<description>The 13th APEC Tourism Ministerial Meeting in late June was the first time in 12 years that the event had been held in China's Macao Special ...</description>
 </item>
 </channel>
 </rss>

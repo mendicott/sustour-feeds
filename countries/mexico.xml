@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 09 Aug 2026 22:07:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 10:08:26 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mazatlan Mexico Tourism Forum 2026 Unites Global Experts to Transform the Future of ...</title>
+<link>https://www.travelandtourworld.com/news/article/wrru2iv8sy4c/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/wrru2iv8sy4c/</guid>
+<pubDate>Sun, 09 Aug 2026 05:07:13 +0000</pubDate>
+<description>Mazatlan will host Tourism Forum 2026, bringing experts together to discuss sustainable tourism management and future travel trends.</description>
+</item>
 <item>
 <title>Mérida, Cancún and Others Are Advancing Sustainable Tourism in Mexico Focusing on ...</title>
 <link>https://www.travelandtourworld.com/news/article/l2y1ztvqvwos/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/mexico-launches-environmental-capital-fund</guid>
 <pubDate>Thu, 23 Jul 2026 18:11:04 +0000</pubDate>
 <description>Mexico launched the Environmental Capital Fund to mobilize private and public financing for restoration, climate action, and sustainable ...</description>
-</item>
-<item>
-<title>UNESCO Advances Sustainable Development in Oaxaca - Mexico Business News</title>
-<link>https://mexicobusiness.news/sustainability/news/unesco-advances-sustainable-development-oaxaca</link>
-<guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/unesco-advances-sustainable-development-oaxaca</guid>
-<pubDate>Tue, 21 Jul 2026 20:15:24 +0000</pubDate>
-<description>... sustainable tourism and biodiversity conservation. The initiative has also produced methodologies, educational guides and training programs that ...</description>
 </item>
 </channel>
 </rss>
