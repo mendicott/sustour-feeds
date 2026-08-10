@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 10 Aug 2026 10:08:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 22:09:12 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>On overtourism in the Valle de Guadalupe area of Baja California, Mexico - ArchDaily</title>
+<link>https://www.archdaily.com/1120585/on-overtourism-in-the-valle-de-guadalupe-area-of-baja-california-mexico/5c92bee0284dd14c820007a7-on-overtourism-in-the-valle-de-guadalupe-area-of-baja-california-mexico-photo</link>
+<guid isPermaLink="false">https://www.archdaily.com/1120585/on-overtourism-in-the-valle-de-guadalupe-area-of-baja-california-mexico/5c92bee0284dd14c820007a7-on-overtourism-in-the-valle-de-guadalupe-area-of-baja-california-mexico-photo</guid>
+<pubDate>Sun, 09 Aug 2026 23:14:45 +0000</pubDate>
+<description>Image 3 of 5 from gallery of On overtourism in the Valle de Guadalupe area of Baja California, Mexico. Photograph by Marcos Betanzos.</description>
+</item>
 <item>
 <title>Mazatlan Mexico Tourism Forum 2026 Unites Global Experts to Transform the Future of ...</title>
 <link>https://www.travelandtourworld.com/news/article/wrru2iv8sy4c/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.lexology.com/library/detail.aspx?g=4db59178-2ef6-45cb-b160-be9b935fdaa3</guid>
 <pubDate>Fri, 24 Jul 2026 10:43:52 +0000</pubDate>
 <description>On July 20, 2026, the Ministry of Environment and Natural Resources (Secretaría de Medio Ambiente y Recursos Naturales, or "SEMARNAT") published in ...</description>
-</item>
-<item>
-<title>Mexico Launches Environmental Capital Fund</title>
-<link>https://mexicobusiness.news/sustainability/news/mexico-launches-environmental-capital-fund</link>
-<guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/mexico-launches-environmental-capital-fund</guid>
-<pubDate>Thu, 23 Jul 2026 18:11:04 +0000</pubDate>
-<description>Mexico launched the Environmental Capital Fund to mobilize private and public financing for restoration, climate action, and sustainable ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/slovakia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Slovakia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 10 Aug 2026 10:08:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 22:09:12 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Where to find Slovakia's natural 'air conditioning' as temperatures soar</title>
+<link>https://spectator.sme.sk/travel/c/peat-bogs-orava-slovakia-climate-change</link>
+<guid isPermaLink="false">https://spectator.sme.sk/travel/c/peat-bogs-orava-slovakia-climate-change</guid>
+<pubDate>Mon, 10 Aug 2026 16:32:12 +0000</pubDate>
+<description>Peat bogs in northern Slovakia can lower air temperatures by up to 3°C – and several can be explored along wooden walkways.</description>
+</item>
 <item>
 <title>This Slovak village wants to get rid of its UNESCO World Heritage designation</title>
 <link>https://theworld.org/stories/2026/08/04/this-slovak-village-wants-to-get-rid-of-its-unesco-world-heritage-designation</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.taipeitimes.com/News/world/archives/2026/07/04/2003860228</guid>
 <pubDate>Fri, 03 Jul 2026 17:33:46 +0000</pubDate>
 <description>... tourism boom. Vlkolinec, which comprises some 45 wooden houses, attracts about 100,000 tourists a year, official estimates show. They wander among ...</description>
-</item>
-<item>
-<title>Vlkolinec: 'Not a museum': Slovak UNESCO village strains under tourism - RTL Today</title>
-<link>https://today.rtl.lu/news/world/not-a-museum-slovak-unesco-village-strains-under-tourism-322689880</link>
-<guid isPermaLink="false">https://today.rtl.lu/news/world/not-a-museum-slovak-unesco-village-strains-under-tourism-322689880</guid>
-<pubDate>Fri, 03 Jul 2026 11:15:30 +0000</pubDate>
-<description>68-year-old pensioner Anton Sabucha protested to AFP, nodding to the signs outside his house. Tourists are "going wherever they want, taking pictures ...</description>
 </item>
 </channel>
 </rss>
