@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/peru.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Peru. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 10 Aug 2026 22:09:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 10:08:59 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Representing Peru at the Student Conference on Conservation Science</title>
+<link>https://www.neaq.org/representing-peru-at-the-student-conference-on-conservation-science/</link>
+<guid isPermaLink="false">https://www.neaq.org/representing-peru-at-the-student-conference-on-conservation-science/</guid>
+<pubDate>Mon, 10 Aug 2026 16:05:21 +0000</pubDate>
+<description>What did you present? My poster, titled Fishers Retain Relational Values with Marine Wildlife Beyond the Conservation and Tourism Dichotomy, explored ...</description>
+</item>
 <item>
 <title>Elevated experiences at Peru's Explora Valle Sagrado - Travel Weekly</title>
 <link>https://www.travelweekly.com/South-America-Travel/Experiences-Explora-Valle-Sagrado-Peru</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://andina.pe/Ingles/noticia-peru-contract-awarded-to-update-machu-picchus-carrying-capacity-study-1082919.aspx</guid>
 <pubDate>Thu, 09 Jul 2026 22:30:30 +0000</pubDate>
 <description>This announcement was made by Foreign Trade and Tourism Minister Berthin Gomez on Thursday, during the presentation ceremony of Marca Peru (Peru Brand) ...</description>
-</item>
-<item>
-<title>Peru: Machu Picchu Pueblo expects higher visitor capacity at Inca Citadel | Agencia Andina</title>
-<link>https://andina.pe/agencia/noticia-peru-machu-picchu-pueblo-expects-higher-visitor-capacity-at-inca-citadel-1082747.aspx</link>
-<guid isPermaLink="false">https://andina.pe/agencia/noticia-peru-machu-picchu-pueblo-expects-higher-visitor-capacity-at-inca-citadel-1082747.aspx</guid>
-<pubDate>Wed, 08 Jul 2026 19:18:49 +0000</pubDate>
-<description>The Machu Picchu District Municipality expects the Ministry of Foreign Trade and Tourism (Mincetur) to complete the new carrying capacity study ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ecuador.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ecuador. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 10 Aug 2026 22:09:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 10:08:59 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Ecuador beetle encounter leaves wildlife creator 'star-struck' - Yahoo</title>
+<link>https://www.yahoo.com/lifestyle/articles/ecuador-beetle-encounter-leaves-wildlife-222500124.html</link>
+<guid isPermaLink="false">https://www.yahoo.com/lifestyle/articles/ecuador-beetle-encounter-leaves-wildlife-222500124.html</guid>
+<pubDate>Mon, 10 Aug 2026 23:10:17 +0000</pubDate>
+<description>When insect habitat disappears, the effects can ripple outward to plants, birds, and other animals.</description>
+</item>
 <item>
 <title>Mexico, Ecuador and Other Countries Lead Sustainable Tourism Transformation as Global ...</title>
 <link>https://www.travelandtourworld.com/news/article/92nfkutxut2g/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.paxnews.com/news/buzz/planeterra-community-tourism-generated-33m-local-enterprises-2025</guid>
 <pubDate>Wed, 15 Jul 2026 11:25:55 +0000</pubDate>
 <description>In Ecuador, Quichua Native Travel works with Kichwa communities to offer locally led cultural experiences, with tourism revenue supporting women ...</description>
-</item>
-<item>
-<title>Travel loves talking about who gets paid, but rarely asks who actually gets the money - Karryon</title>
-<link>https://karryon.com.au/forgood/travel-planeterra-report/</link>
-<guid isPermaLink="false">https://karryon.com.au/forgood/travel-planeterra-report/</guid>
-<pubDate>Wed, 15 Jul 2026 02:35:51 +0000</pubDate>
-<description>In Ecuador, Quichua Native Travel supports Kichwa communities through locally led cultural experiences, with tourism income supporting women-led ...</description>
 </item>
 </channel>
 </rss>

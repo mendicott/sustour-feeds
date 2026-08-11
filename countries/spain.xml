@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 10 Aug 2026 22:09:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 10:08:59 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Ecotourism: alert for a second crisis after the fires - Demócrata</title>
+<link>https://www.democrata.es/en/economy/the-ecotourism-association-warns-of-a-second-crisis-after-the-fires-and-demands-tourism-recovery-plans/</link>
+<guid isPermaLink="false">https://www.democrata.es/en/economy/the-ecotourism-association-warns-of-a-second-crisis-after-the-fires-and-demands-tourism-recovery-plans/</guid>
+<pubDate>Tue, 11 Aug 2026 04:21:49 +0000</pubDate>
+<description>The Ecotourism Association in Spain demands more prevention, recovery plans, and funding for destinations affected by fires in light of the risk ...</description>
+</item>
 <item>
 <title>Hundreds of anti-tourism Spanish protesters march in Mallorca's Soller | AJ #shorts</title>
 <link>https://www.modernghana.com/videonews/aljazeera/1/696400</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.thecooldown.com/green-business/barcelona-cruise-tax-overtourism-2026/</guid>
 <pubDate>Wed, 29 Jul 2026 09:28:25 +0000</pubDate>
 <description>As Fox Local detailed, the planned increase targets passengers in the city for under 12 hours and fits into a wider campaign to reduce overtourism, a ...</description>
-</item>
-<item>
-<title>How Mallorca became an anti-tourism war-zone - The Telegraph</title>
-<link>https://www.telegraph.co.uk/travel/news/how-mallorca-became-an-anti-tourism-warzone/</link>
-<guid isPermaLink="false">https://www.telegraph.co.uk/travel/news/how-mallorca-became-an-anti-tourism-warzone/</guid>
-<pubDate>Tue, 28 Jul 2026 16:17:35 +0000</pubDate>
-<description>How Mallorca became an anti-tourism war-zone. Spanish police clashed violently with campaigners as anger over soaring tourist numbers comes to a head.</description>
 </item>
 </channel>
 </rss>
