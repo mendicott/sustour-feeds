@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ecuador.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ecuador. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 11 Aug 2026 10:08:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 22:09:12 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Ecuador Expands Digital Entry System for Galápagos Travel</title>
+<link>https://www.thetraveler.org/ecuador-expands-digital-entry-system-for-galapagos-travel/</link>
+<guid isPermaLink="false">https://www.thetraveler.org/ecuador-expands-digital-entry-system-for-galapagos-travel/</guid>
+<pubDate>Tue, 11 Aug 2026 11:38:26 +0000</pubDate>
+<description>Several operators and independent travel guides emphasize that connectivity can be unreliable and that some online portals have periodic outages.</description>
+</item>
 <item>
 <title>Ecuador beetle encounter leaves wildlife creator 'star-struck' - Yahoo</title>
 <link>https://www.yahoo.com/lifestyle/articles/ecuador-beetle-encounter-leaves-wildlife-222500124.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.traveldailynews.com/special-interest-travel/community-tourism-generates-cad-3-32m-for-local-enterprises/</guid>
 <pubDate>Wed, 15 Jul 2026 22:21:10 +0000</pubDate>
 <description>In Ecuador, Quichua Native Travel supports Kichwa communities through locally managed cultural experiences. Revenue from tourism supports women ...</description>
-</item>
-<item>
-<title>Planeterra: Community tourism generated $3.3M for local enterprises in 2025</title>
-<link>https://www.paxnews.com/news/buzz/planeterra-community-tourism-generated-33m-local-enterprises-2025</link>
-<guid isPermaLink="false">https://www.paxnews.com/news/buzz/planeterra-community-tourism-generated-33m-local-enterprises-2025</guid>
-<pubDate>Wed, 15 Jul 2026 11:25:55 +0000</pubDate>
-<description>In Ecuador, Quichua Native Travel works with Kichwa communities to offer locally led cultural experiences, with tourism revenue supporting women ...</description>
 </item>
 </channel>
 </rss>

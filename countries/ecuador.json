@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.thetraveler.org/ecuador-expands-digital-entry-system-for-galapagos-travel/",
+      "url": "https://www.thetraveler.org/ecuador-expands-digital-entry-system-for-galapagos-travel/",
+      "title": "Ecuador Expands Digital Entry System for Galápagos Travel",
+      "content_text": "Several operators and independent travel guides emphasize that connectivity can be unreliable and that some online portals have periodic outages.",
+      "date_published": "2026-08-11T11:38:26+00:00"
+    },
+    {
       "id": "https://www.yahoo.com/lifestyle/articles/ecuador-beetle-encounter-leaves-wildlife-222500124.html",
       "url": "https://www.yahoo.com/lifestyle/articles/ecuador-beetle-encounter-leaves-wildlife-222500124.html",
       "title": "Ecuador beetle encounter leaves wildlife creator 'star-struck' - Yahoo",
@@ -68,13 +75,6 @@
       "title": "Community Tourism generates CAD $3.32m for local enterprises - Travel Daily News",
       "content_text": "In Ecuador, Quichua Native Travel supports Kichwa communities through locally managed cultural experiences. Revenue from tourism supports women ...",
       "date_published": "2026-07-15T22:21:10+00:00"
-    },
-    {
-      "id": "https://www.paxnews.com/news/buzz/planeterra-community-tourism-generated-33m-local-enterprises-2025",
-      "url": "https://www.paxnews.com/news/buzz/planeterra-community-tourism-generated-33m-local-enterprises-2025",
-      "title": "Planeterra: Community tourism generated $3.3M for local enterprises in 2025",
-      "content_text": "In Ecuador, Quichua Native Travel works with Kichwa communities to offer locally led cultural experiences, with tourism revenue supporting women ...",
-      "date_published": "2026-07-15T11:25:55+00:00"
     }
   ]
 }

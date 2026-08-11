@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/japan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Japan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 11 Aug 2026 10:08:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 22:09:12 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Wild Boars Have Started Hunting Rabbits on Japan's Famous Bunny Island - ZME Science</title>
+<link>https://www.zmescience.com/ecology/animals-ecology/japan-rabbit-island-boars-tourists/</link>
+<guid isPermaLink="false">https://www.zmescience.com/ecology/animals-ecology/japan-rabbit-island-boars-tourists/</guid>
+<pubDate>Tue, 11 Aug 2026 21:38:04 +0000</pubDate>
+<description>In other words, tourism has pushed the rabbit population beyond the island's natural carrying capacity (the number of animals the habitat can support ...</description>
+</item>
 <item>
 <title>Agoda, GSTC expand Sustainable Tourism Academy with Japanese, Korean language support</title>
 <link>https://www.ttgasia.com/2026/08/11/agoda-gstc-expand-sustainable-tourism-academy-with-japanese-korean-language-support/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://timesofindia.indiatimes.com/world/rest-of-world/tourist-feeding-helped-push-japans-famous-rabbit-island-beyond-its-natural-limits-now-vegetation-is-stripped-and-wild-boars-are-attacking-rabbits/articleshow/132741603.cms</guid>
 <pubDate>Thu, 30 Jul 2026 15:30:04 +0000</pubDate>
 <description>The researchers pointed out that their findings do not mean wildlife tourism should be banned. Instead, they argue that feeding needs clear rules ...</description>
-</item>
-<item>
-<title>A wild boar capturing a rabbit in a park area on Okunoshima Island, Japan - EurekAlert!</title>
-<link>https://www.eurekalert.org/multimedia/1143930</link>
-<guid isPermaLink="false">https://www.eurekalert.org/multimedia/1143930</guid>
-<pubDate>Wed, 29 Jul 2026 19:16:26 +0000</pubDate>
-<description>Journal of Ecotourism; Funder: Japan Society for the Promotion of Science; DOI: 10.1080/14724049.2026.2705843. Tags. /Life sciences/Organismal biology ...</description>
 </item>
 </channel>
 </rss>

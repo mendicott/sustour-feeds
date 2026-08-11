@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 11 Aug 2026 10:08:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 22:09:12 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>An Giang accelerates preparations to welcome the ICOMOS expert team. - Vietnam.vn</title>
+<link>https://www.vietnam.vn/en/an-giang-day-nhanh-chuan-bi-don-doan-chuyen-gia-icomos</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/an-giang-day-nhanh-chuan-bi-don-doan-chuyen-gia-icomos</guid>
+<pubDate>Tue, 11 Aug 2026 13:42:49 +0000</pubDate>
+<description>... ICOMOS expert delegation to conduct a field survey of the nomination dossier for the Oc Eo - Ba The archaeological site to be submitted to UNESCO ...</description>
+</item>
 <item>
 <title>EU, Germany join Vietnam's efforts in natural forest restoration, sustainable management</title>
 <link>https://news.tuoitre.vn/eu-germany-join-vietnams-efforts-in-natural-forest-restoration-sustainable-management-10326080911465482.htm</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.vietnam.vn/en/lang-son-chuyen-hoa-loi-the-tai-nguyen-thanh-san-pham-du-lich-dac-sac</guid>
 <pubDate>Thu, 06 Aug 2026 17:02:34 +0000</pubDate>
 <description>19/2025/NQ-HĐND stipulating 16 policies to support the development of community tourism and promote the value of the UNESCO Lang Son Global Geopark in ...</description>
-</item>
-<item>
-<title>Vietnam Tourism Rises As Khanh Hoa Turns Van Ninh Heritage Into A New Cultural Travel ...</title>
-<link>https://www.travelandtourworld.com/news/article/hl2gonnttspy/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/hl2gonnttspy/</guid>
-<pubDate>Thu, 06 Aug 2026 08:49:56 +0000</pubDate>
-<description>By combining heritage conservation with sustainable tourism planning, the region is creating opportunities for economic growth while protecting ...</description>
 </item>
 </channel>
 </rss>

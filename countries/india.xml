@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/india.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for India. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 11 Aug 2026 10:08:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 22:09:12 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>India's First Mountain Wildlife Safari to Launch in Ladakh With a Big Snow Leopard Focus</title>
+<link>https://www.infomance.com/news/indias-first-mountain-wildlife-safari-to-launch-in-ladakh-with-a-big-snow-leopard-focus/</link>
+<guid isPermaLink="false">https://www.infomance.com/news/indias-first-mountain-wildlife-safari-to-launch-in-ladakh-with-a-big-snow-leopard-focus/</guid>
+<pubDate>Tue, 11 Aug 2026 17:16:27 +0000</pubDate>
+<description>Ladakh administration approves India's first high-altitude snow leopard Jeep safari to advance structured eco-tourism and community conservation.</description>
+</item>
 <item>
 <title>Prasanna Kumar Patro lays out Uttarakhand's ecotourism roadmap - The Times of India</title>
 <link>https://timesofindia.indiatimes.com/india/uttarakhand-forward-2-0-prasanna-kumar-patro-lays-out-uttarakhands-ecotourism-roadmap/articleshow/133090814.cms</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.policyedge.in/p/ladakh-approves-indias-first-high-altitude-wildlife-safari</guid>
 <pubDate>Fri, 07 Aug 2026 07:03:26 +0000</pubDate>
 <description>The initiative seeks to regulate wildlife tourism while making local communities direct partners in conserving Ladakh's fragile ecosystem and ...</description>
-</item>
-<item>
-<title>India's first High-Altitude Wildlife Safari to begin in Ladakh - Greater Kashmir</title>
-<link>https://www.greaterkashmir.com/ladakh/indias-first-high-altitude-wildlife-safari-to-begin-in-ladakh-12237656</link>
-<guid isPermaLink="false">https://www.greaterkashmir.com/ladakh/indias-first-high-altitude-wildlife-safari-to-begin-in-ladakh-12237656</guid>
-<pubDate>Fri, 07 Aug 2026 03:33:05 +0000</pubDate>
-<description>LG Ladakh VK Saxena approves guided wildlife safari on snow-leopard, bird-watching trails in high-altitude areas ... tourism, sustainable livelihood ...</description>
 </item>
 </channel>
 </rss>

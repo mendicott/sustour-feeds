@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/oman.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Oman. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 11 Aug 2026 10:08:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 22:09:12 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Dhofar opens licensing route for green tourism | Oman Daily Observer - PressReader</title>
+<link>https://www.pressreader.com/oman/oman-daily-observer/20260811/281578067483726</link>
+<guid isPermaLink="false">https://www.pressreader.com/oman/oman-daily-observer/20260811/281578067483726</guid>
+<pubDate>Tue, 11 Aug 2026 03:49:41 +0000</pubDate>
+<description>Dhofar has a licensing framework for green tourism, including agricultural tourism, while proposals to integrate the governorate's diverse tourism ...</description>
+</item>
 <item>
 <title>Beit Kofan blends Dhofar heritage with sustainable tourism - Kuwait Times</title>
 <link>https://kuwaittimes.com/article/47917/kuwait/other-news/beit-kofan-blends-dhofar-heritage-with-sustainable-tourism/amp</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.pressreader.com/oman/muscat-daily/20260729/281582362422194</guid>
 <pubDate>Wed, 29 Jul 2026 01:32:56 +0000</pubDate>
 <description>The ministry stated that Al Hajar Geological Park is the sultanate's first national geopark and efforts are ongoing to meet the requirements for ...</description>
-</item>
-<item>
-<title>Al Hajar Geopark Booklet to promote sustainable tourism - Oman Observer</title>
-<link>https://www.omanobserver.om/ampArticle/1193641</link>
-<guid isPermaLink="false">https://www.omanobserver.om/ampArticle/1193641</guid>
-<pubDate>Tue, 28 Jul 2026 20:06:02 +0000</pubDate>
-<description>MUSCAT: The Ministry of Heritage and Tourism has issued the Al Hajar Geopark Booklet in both Arabic and English. This comes within the framework ...</description>
 </item>
 </channel>
 </rss>

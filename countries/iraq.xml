@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/iraq.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Iraq. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 11 Aug 2026 10:08:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 22:09:12 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Kurdistan Region Moves to Register 45 Protected Areas - Kurdistan24</title>
+<link>https://www.kurdistan24.net/en/story/931773/kurdistan-region-moves-to-register-45-protected-areas</link>
+<guid isPermaLink="false">https://www.kurdistan24.net/en/story/931773/kurdistan-region-moves-to-register-45-protected-areas</guid>
+<pubDate>Tue, 11 Aug 2026 10:52:27 +0000</pubDate>
+<description>According to figures from the Kurdistan Region Environmental Board, 45 of Iraq's 82 officially identified natural protected areas are located within ...</description>
+</item>
 <item>
 <title>Foreign Arbaeen visitors to Iraq reach 4.88M - Shafaq News</title>
 <link>https://www.shafaq.com/en/society/Foreign-Arbaeen-visitors-to-Iraq-reach-4-88M</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://shafaq.com/amp/en/society/Iraq-pushes-green-initiatives-for-Arbaeen-pilgrimage</guid>
 <pubDate>Sat, 25 Jul 2026 10:16:56 +0000</pubDate>
 <description>Shafaq News- Baghdad The Iraq Green Observatory on Saturday called for greener practices during Iraq's Arbaeen pilgrimage, encouraging service ...</description>
-</item>
-<item>
-<title>Iraq turns to ecotourism in bid to attract visitors - The New Region</title>
-<link>https://thenewregion.com/posts/5803</link>
-<guid isPermaLink="false">https://thenewregion.com/posts/5803</guid>
-<pubDate>Sat, 04 Jul 2026 18:58:55 +0000</pubDate>
-<description>Iraq's tourism authority said it is promoting investment in environmentally friendly tourism projects and simplifying entry procedures for ...</description>
 </item>
 </channel>
 </rss>
