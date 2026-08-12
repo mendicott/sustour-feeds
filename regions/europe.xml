@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/europe.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Europe. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 11 Aug 2026 22:09:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 10:08:45 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Italy, Greece and More Countries Are Cracking Down on Crowds With New Tourist Fees ...</title>
@@ -58,6 +58,13 @@
 <description>... transformed Chumbe Island into a sustainable marine sanctuary that protects its unique coral reef and promotes ecological education for three decades.</description>
 </item>
 <item>
+<title>Geoheritage of the Middle Reaches of the Nemunas River (South Lithuania) and its use for ...</title>
+<link>https://link.springer.com/article/10.1007/s12371-026-01409-0</link>
+<guid isPermaLink="false">https://link.springer.com/article/10.1007/s12371-026-01409-0</guid>
+<pubDate>Tue, 11 Aug 2026 08:12:44 +0000</pubDate>
+<description>... geotourism. This situation has been used for many years in conducting ... geotourism is good only in national and regional parks. Outside the ...</description>
+</item>
+<item>
 <title>France and More nations Trains Spark Europe's Green Travel Revolution With Low-Carbon Journeys</title>
 <link>https://www.travelandtourworld.com/news/article/bne1eflfq8et/</link>
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/bne1eflfq8et/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.democrata.es/en/economy/the-ecotourism-association-warns-of-a-second-crisis-after-the-fires-and-demands-tourism-recovery-plans/</guid>
 <pubDate>Tue, 11 Aug 2026 04:21:49 +0000</pubDate>
 <description>The Ecotourism Association in Spain demands more prevention, recovery plans, and funding for destinations affected by fires in light of the risk ...</description>
-</item>
-<item>
-<title>Greece and Austria Unite to Transform Sustainable Mountain Tourism as Europe's Hidden ...</title>
-<link>https://www.travelandtourworld.com/news/article/2jaqq259mssr/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/2jaqq259mssr/</guid>
-<pubDate>Tue, 11 Aug 2026 01:14:46 +0000</pubDate>
-<description>... travel sensation. Together, Greece and Austria are putting sustainable mountain tourism at the center of a changing European travel landscape.</description>
 </item>
 </channel>
 </rss>

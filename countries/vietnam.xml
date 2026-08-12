@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 11 Aug 2026 22:09:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 10:08:45 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Village amid the clouds where culture drives community-based tourism - Vietnam News</title>
+<link>https://vietnamnews.vn/life-style/1797273/village-amid-the-clouds-where-culture-drives-community-based-tourism.html</link>
+<guid isPermaLink="false">https://vietnamnews.vn/life-style/1797273/village-amid-the-clouds-where-culture-drives-community-based-tourism.html</guid>
+<pubDate>Wed, 12 Aug 2026 01:57:31 +0000</pubDate>
+<description>Lồng Village was officially recognised as a community-based cultural tourism destination of Điện Biên Province on March 28 and has opened to tourists ...</description>
+</item>
 <item>
 <title>An Giang accelerates preparations to welcome the ICOMOS expert team. - Vietnam.vn</title>
 <link>https://www.vietnam.vn/en/an-giang-day-nhanh-chuan-bi-don-doan-chuyen-gia-icomos</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.vietnam.vn/en/giam-sat-cong-tac-phat-trien-du-lich-cong-dong-tai-xa-la-bang</guid>
 <pubDate>Fri, 07 Aug 2026 12:15:32 +0000</pubDate>
 <description>25/2021/NQ-HĐND of the Provincial People's Council at the Tan Son hamlet community tourism site (with a total budget of over 1.11 billion VND) and ...</description>
-</item>
-<item>
-<title>Lang Son: Transforming resource advantages into unique tourism products. - Vietnam.vn</title>
-<link>https://www.vietnam.vn/en/lang-son-chuyen-hoa-loi-the-tai-nguyen-thanh-san-pham-du-lich-dac-sac</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/lang-son-chuyen-hoa-loi-the-tai-nguyen-thanh-san-pham-du-lich-dac-sac</guid>
-<pubDate>Thu, 06 Aug 2026 17:02:34 +0000</pubDate>
-<description>19/2025/NQ-HĐND stipulating 16 policies to support the development of community tourism and promote the value of the UNESCO Lang Son Global Geopark in ...</description>
 </item>
 </channel>
 </rss>

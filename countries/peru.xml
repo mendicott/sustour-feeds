@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/peru.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Peru. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 11 Aug 2026 22:09:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 10:08:45 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Batancito de Ñoma becomes the first OECM reported in Piura | WWF</title>
+<link>https://www.wwf.org.pe/en/?401190/Batancito-de-oma-becomes-the-first-OECM-reported-in-Piura</link>
+<guid isPermaLink="false">https://www.wwf.org.pe/en/?401190/Batancito-de-oma-becomes-the-first-OECM-reported-in-Piura</guid>
+<pubDate>Tue, 11 Aug 2026 10:00:39 +0000</pubDate>
+<description>© WWF-Peru. For Benjamín Nima Espinoza, president of the Association for ... tourism initiatives. © WWF-Peru. An example for other conservation ...</description>
+</item>
 <item>
 <title>Representing Peru at the Student Conference on Conservation Science</title>
 <link>https://www.neaq.org/representing-peru-at-the-student-conference-on-conservation-science/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.worldbank.org/en/news/press-release/2026/07/10/peru-to-strengthen-the-arequipa-colca-tourism-corridor-and-promote-private-investment-and-job-creation-with-world-bank-s</guid>
 <pubDate>Fri, 10 Jul 2026 12:10:38 +0000</pubDate>
 <description>World Bank supports Peru's Arequipa–Colca corridor with a US$77.2 million project to boost sustainable tourism, attract investment, ...</description>
-</item>
-<item>
-<title>Peru: Contract awarded to update Machu Picchu's carrying capacity study | News | ANDINA</title>
-<link>https://andina.pe/Ingles/noticia-peru-contract-awarded-to-update-machu-picchus-carrying-capacity-study-1082919.aspx</link>
-<guid isPermaLink="false">https://andina.pe/Ingles/noticia-peru-contract-awarded-to-update-machu-picchus-carrying-capacity-study-1082919.aspx</guid>
-<pubDate>Thu, 09 Jul 2026 22:30:30 +0000</pubDate>
-<description>This announcement was made by Foreign Trade and Tourism Minister Berthin Gomez on Thursday, during the presentation ceremony of Marca Peru (Peru Brand) ...</description>
 </item>
 </channel>
 </rss>

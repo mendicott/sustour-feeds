@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/lithuania.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Lithuania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 11 Aug 2026 22:09:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 10:08:45 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Geoheritage of the Middle Reaches of the Nemunas River (South Lithuania) and its use for ...</title>
+<link>https://link.springer.com/article/10.1007/s12371-026-01409-0</link>
+<guid isPermaLink="false">https://link.springer.com/article/10.1007/s12371-026-01409-0</guid>
+<pubDate>Tue, 11 Aug 2026 08:12:44 +0000</pubDate>
+<description>... geotourism. This situation has been used for many years in conducting ... geotourism is good only in national and regional parks. Outside the ...</description>
+</item>
 <item>
 <title>Vilnius Introduces 10 Forest-Bathing Routes for a Slower Way to Explore the City</title>
 <link>https://baltic-review.com/vilnius-forest-bathing-routes/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/yrazuzwjiae8/</guid>
 <pubDate>Sat, 11 Jul 2026 09:12:04 +0000</pubDate>
 <description>Lithuania's Baltic coast offers Blue Flag beaches, UNESCO heritage, coastal culture, cycling, nature, and sustainable tourism beyond Europe's ...</description>
-</item>
-<item>
-<title>Varėna Promotes Slow Summer Travel in Lithuania's Dzūkija - Infoerdve.lt</title>
-<link>https://infoerdve.lt/en/varena-promotes-slow-summer-travel-in-lithuanias-dzukija/</link>
-<guid isPermaLink="false">https://infoerdve.lt/en/varena-promotes-slow-summer-travel-in-lithuanias-dzukija/</guid>
-<pubDate>Thu, 09 Jul 2026 18:30:38 +0000</pubDate>
-<description>... tourism campaign. The campaign, introduced by the Varėna District Tourism and Entrepreneurship Centre "Korys", invites visitors to look at the ...</description>
 </item>
 </channel>
 </rss>

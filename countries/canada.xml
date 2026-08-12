@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/canada.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Canada. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 11 Aug 2026 22:09:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 10:08:45 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Indigenous Tourism in Canada, When Communities Tell Their Own Stories</title>
+<link>https://panamericanworld.com/en/magazine/travel-and-culture/indigenous-tourism-in-canada/</link>
+<guid isPermaLink="false">https://panamericanworld.com/en/magazine/travel-and-culture/indigenous-tourism-in-canada/</guid>
+<pubDate>Tue, 11 Aug 2026 19:16:10 +0000</pubDate>
+<description>Canada is home to more than 700 distinct Indigenous communities, each with its own histories, languages and relationships to territory.</description>
+</item>
 <item>
 <title>Lake Louise, Jasper and More Canadian Destinations Facing Overtourism Crisis, But Nation ...</title>
 <link>https://www.travelandtourworld.com/news/article/4h8y0637st08/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.audubon.org/canada/news/rare-opportunity-support-indigenous-led-conservation-canada</guid>
 <pubDate>Tue, 28 Jul 2026 21:11:40 +0000</pubDate>
 <description>A male Rufous Hummingbird in profile perched on the tip of a budding branch. Birds Tell Us to Act on Climate. Pledge to stand with Audubon to call on ...</description>
-</item>
-<item>
-<title>Open Call: Education and Relationship Building Stream (Canada) - fundsforNGOs</title>
-<link>https://www2.fundsforngos.org/community-development-2/open-call-education-and-relationship-building-stream-canada/</link>
-<guid isPermaLink="false">https://www2.fundsforngos.org/community-development-2/open-call-education-and-relationship-building-stream-canada/</guid>
-<pubDate>Tue, 28 Jul 2026 06:39:33 +0000</pubDate>
-<description>Eligible applicants include Aboriginal communities and Aboriginal organizations located in Ontario. ... Tourism Growth Program in British ...</description>
 </item>
 </channel>
 </rss>
