@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 12 Aug 2026 10:08:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 22:08:51 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Goodbye tourism, hello seaweed: Mexico's invasive species sargassum crisis is turning tourists away</title>
+<link>https://en.as.com/latest_news/goodbye-tourism-hello-seaweed-mexicos-invasive-species-sargassum-crisis-is-turning-tourists-away-can-its-beaches-recover-f202608-n/</link>
+<guid isPermaLink="false">https://en.as.com/latest_news/goodbye-tourism-hello-seaweed-mexicos-invasive-species-sargassum-crisis-is-turning-tourists-away-can-its-beaches-recover-f202608-n/</guid>
+<pubDate>Wed, 12 Aug 2026 00:45:03 +0000</pubDate>
+<description>The gigantic sargassum belt already reaches 8850 kilometers in length, and experts warn of its effects on coastal areas.</description>
+</item>
 <item>
 <title>On overtourism in the Valle de Guadalupe area of Baja California, Mexico - ArchDaily</title>
 <link>https://www.archdaily.com/1120585/on-overtourism-in-the-valle-de-guadalupe-area-of-baja-california-mexico/5c92bee0284dd14c820007a7-on-overtourism-in-the-valle-de-guadalupe-area-of-baja-california-mexico-photo</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.worldwildlife.org/news/magazine/fall-2026/in-mexicos-yucatan-peninsula-protecting-a-historic-and-biodiverse-landscape/</guid>
 <pubDate>Mon, 27 Jul 2026 16:35:05 +0000</pubDate>
 <description>Rather than travel ... Donations are tax-deductible as allowed by law. © 2026 World Wildlife Fund. WWF® and ©1986 Panda Symbol are owned by WWF.</description>
-</item>
-<item>
-<title>Mexico: SEMARNAT Formally Bans Mining Procedures in Federal Natural Protected Areas</title>
-<link>https://www.lexology.com/library/detail.aspx?g=4db59178-2ef6-45cb-b160-be9b935fdaa3</link>
-<guid isPermaLink="false">https://www.lexology.com/library/detail.aspx?g=4db59178-2ef6-45cb-b160-be9b935fdaa3</guid>
-<pubDate>Fri, 24 Jul 2026 10:43:52 +0000</pubDate>
-<description>On July 20, 2026, the Ministry of Environment and Natural Resources (Secretaría de Medio Ambiente y Recursos Naturales, or "SEMARNAT") published in ...</description>
 </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/cook-islands.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Cook Islands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 12 Aug 2026 10:08:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 22:08:51 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Pacific leaders gather to strengthen Indigenous-led conservation - Cook Islands News</title>
@@ -44,6 +44,13 @@
 <description>According to TIS, during the 1980s, rising tourism repeatedly sidelined environmental priorities, highlighting the need for proactive preservation. By ...</description>
 </item>
 <item>
+<title>New 'eco-friendly' accommodation development proposed for Aitutaki - Cook Islands News</title>
+<link>http://www.cookislandsnews.com/internal/national/environment/economy/tourism/new-eco-friendly-accommodation-development-proposed-for-aitutaki/</link>
+<guid isPermaLink="false">http://www.cookislandsnews.com/internal/national/environment/economy/tourism/new-eco-friendly-accommodation-development-proposed-for-aitutaki/</guid>
+<pubDate>Wed, 12 Aug 2026 18:44:07 +0000</pubDate>
+<description>Wednesday 12 August 2026 | Written by Losirene Dasalusalu | Published in Economy, Environment, National, Tourism.</description>
+</item>
+<item>
 <title>Hawaii Hasn't Had To Compete In 60 Years. That May Be Changing.</title>
 <link>https://beatofhawaii.com/hawaii-hasnt-had-to-compete-in-60-years-that-may-be-changing/</link>
 <guid isPermaLink="false">https://beatofhawaii.com/hawaii-hasnt-had-to-compete-in-60-years-that-may-be-changing/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.cookislandsnews.com/internal/opinion/editorials/te-ipukarea-society-deep-seabed-mining-discussion-highlights-need-for-caution-and-clarity/</guid>
 <pubDate>Sat, 25 Jul 2026 22:36:03 +0000</pubDate>
 <description>A presentation to the Cook Islands Tourism Industry Council (CITIC) on 21 July at the Muri Beach Club Hotel has highlighted the need for greater ...</description>
-</item>
-<item>
-<title>Unlocking ocean secrets: Voyage delivers critical baseline data for Cook Islands' future</title>
-<link>http://www.cookislandsnews.com/internal/national/local/environment/weather/unlocking-ocean-secrets-voyage-delivers-critical-baseline-data-for-cook-islands-future/</link>
-<guid isPermaLink="false">http://www.cookislandsnews.com/internal/national/local/environment/weather/unlocking-ocean-secrets-voyage-delivers-critical-baseline-data-for-cook-islands-future/</guid>
-<pubDate>Sat, 25 Jul 2026 19:54:59 +0000</pubDate>
-<description>A month-long scientific voyage aboard New Zealand's two-year-old research vessel Kaharoa II has provided the Cook Islands with its most ...</description>
 </item>
 </channel>
 </rss>

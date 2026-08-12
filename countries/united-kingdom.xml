@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/united-kingdom.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for United Kingdom. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 12 Aug 2026 10:08:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 22:08:51 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Walkers urged to 'stand up for' Scotland's right to roam as estate restricts access</title>
+<link>https://uk.news.yahoo.com/walkers-urged-stand-scotlands-roam-140000248.html</link>
+<guid isPermaLink="false">https://uk.news.yahoo.com/walkers-urged-stand-scotlands-roam-140000248.html</guid>
+<pubDate>Wed, 12 Aug 2026 14:33:09 +0000</pubDate>
+<description>Walkers urged to 'stand up for' Scotland's right to roam as estate restricts access. Jamie Calder. Wed, 12 August 2026 at 7:00 am GMT-7. 3 min read.</description>
+</item>
 <item>
 <title>From Overtourism Hotspot to Global Example: British Media Praises Dubrovnik's Tourism ...</title>
 <link>https://www.thedubrovniktimes.com/news/dubrovnik/item/20321-from-overtourism-hotspot-to-global-example-british-media-praises-dubrovnik-s-tourism-transformation</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.gbnews.com/news/world/majorca-spain-tourist-protests-violent-armed-police</guid>
 <pubDate>Mon, 27 Jul 2026 05:47:52 +0000</pubDate>
 <description>It marks the third year of summer protests against tourism led by Menys Turisme, Mes Vida. The organisation previously told GB News British ...</description>
-</item>
-<item>
-<title>Majorca's anti-tourism protests erupt in violence as locals fight with police - AOL UK</title>
-<link>https://www.aol.co.uk/articles/majorcas-anti-tourism-protests-erupt-215300000.html</link>
-<guid isPermaLink="false">https://www.aol.co.uk/articles/majorcas-anti-tourism-protests-erupt-215300000.html</guid>
-<pubDate>Sun, 26 Jul 2026 22:15:33 +0000</pubDate>
-<description>A protester holds an anti-tourism placard during one of the demonstrations in Barcelona against overtourism and the effects it has on residents. As ...</description>
 </item>
 </channel>
 </rss>

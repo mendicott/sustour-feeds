@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://uk.news.yahoo.com/walkers-urged-stand-scotlands-roam-140000248.html",
+      "url": "https://uk.news.yahoo.com/walkers-urged-stand-scotlands-roam-140000248.html",
+      "title": "Walkers urged to 'stand up for' Scotland's right to roam as estate restricts access",
+      "content_text": "Walkers urged to 'stand up for' Scotland's right to roam as estate restricts access. Jamie Calder. Wed, 12 August 2026 at 7:00 am GMT-7. 3 min read.",
+      "date_published": "2026-08-12T14:33:09+00:00"
+    },
+    {
       "id": "https://www.thedubrovniktimes.com/news/dubrovnik/item/20321-from-overtourism-hotspot-to-global-example-british-media-praises-dubrovnik-s-tourism-transformation",
       "url": "https://www.thedubrovniktimes.com/news/dubrovnik/item/20321-from-overtourism-hotspot-to-global-example-british-media-praises-dubrovnik-s-tourism-transformation",
       "title": "From Overtourism Hotspot to Global Example: British Media Praises Dubrovnik's Tourism ...",
@@ -68,13 +75,6 @@
       "title": "Tourist protests turn violent in Spain as armed police clash with anti-British demonstrators",
       "content_text": "It marks the third year of summer protests against tourism led by Menys Turisme, Mes Vida. The organisation previously told GB News British ...",
       "date_published": "2026-07-27T05:47:52+00:00"
-    },
-    {
-      "id": "https://www.aol.co.uk/articles/majorcas-anti-tourism-protests-erupt-215300000.html",
-      "url": "https://www.aol.co.uk/articles/majorcas-anti-tourism-protests-erupt-215300000.html",
-      "title": "Majorca's anti-tourism protests erupt in violence as locals fight with police - AOL UK",
-      "content_text": "A protester holds an anti-tourism placard during one of the demonstrations in Barcelona against overtourism and the effects it has on residents. As ...",
-      "date_published": "2026-07-26T22:15:33+00:00"
     }
   ]
 }

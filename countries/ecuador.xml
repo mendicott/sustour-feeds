@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ecuador.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ecuador. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 12 Aug 2026 10:08:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 22:08:51 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>The regenerative conservation strategy in Galapagos wins International Sustainable Tourism Award</title>
+<link>https://noticiasambientales.com/tourism/the-regenerative-conservation-strategy-in-galapagos-wins-international-sustainable-tourism-award/</link>
+<guid isPermaLink="false">https://noticiasambientales.com/tourism/the-regenerative-conservation-strategy-in-galapagos-wins-international-sustainable-tourism-award/</guid>
+<pubDate>Wed, 12 Aug 2026 15:03:33 +0000</pubDate>
+<description>... natural heritage sites. This has been achieved through an innovative ... The Regenerative Travel award is not only a recognition of current ...</description>
+</item>
 <item>
 <title>Ecuador Expands Digital Entry System for Galápagos Travel</title>
 <link>https://www.thetraveler.org/ecuador-expands-digital-entry-system-for-galapagos-travel/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.conservation.org/news/a-new-corridor-is-reconnecting-one-of-ecuadors-richest-rainforests</guid>
 <pubDate>Fri, 24 Jul 2026 14:36:22 +0000</pubDate>
 <description>Backed by Conservation International, Ecuador is pursuing an ambitious strategy to reconnect an Amazon fractured by deforestation.</description>
-</item>
-<item>
-<title>Community Tourism generates CAD $3.32m for local enterprises - Travel Daily News</title>
-<link>https://www.traveldailynews.com/special-interest-travel/community-tourism-generates-cad-3-32m-for-local-enterprises/</link>
-<guid isPermaLink="false">https://www.traveldailynews.com/special-interest-travel/community-tourism-generates-cad-3-32m-for-local-enterprises/</guid>
-<pubDate>Wed, 15 Jul 2026 22:21:10 +0000</pubDate>
-<description>In Ecuador, Quichua Native Travel supports Kichwa communities through locally managed cultural experiences. Revenue from tourism supports women ...</description>
 </item>
 </channel>
 </rss>

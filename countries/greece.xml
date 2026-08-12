@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 12 Aug 2026 10:08:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 22:08:51 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Greece's new tourism development rules: The five categories for destinations - Voria</title>
+<link>https://www.voria.gr/index.php/article/greeces-new-tourism-development-rules-five-categories-destinations</link>
+<guid isPermaLink="false">https://www.voria.gr/index.php/article/greeces-new-tourism-development-rules-five-categories-destinations</guid>
+<pubDate>Wed, 12 Aug 2026 14:48:10 +0000</pubDate>
+<description>Greece's new tourism planning framework introduces tougher limits in heavily developed areas, including caps of up to 100 beds on smaller islands.</description>
+</item>
 <item>
 <title>Italy, Greece and More Countries Are Cracking Down on Crowds With New Tourist Fees ...</title>
 <link>https://www.travelandtourworld.com/news/article/bj17xrhcrn32/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://greekreporter.com/2026/08/08/greece-tourism-development-regulations/</guid>
 <pubDate>Sun, 09 Aug 2026 01:49:42 +0000</pubDate>
 <description>Greece is implementing stricter planning regulations to curb overtourism by placing new limits on hotel construction and island capacity.</description>
-</item>
-<item>
-<title>Greece Unveils New Tourism Development Rules as Turkey Raises Aegean Claims</title>
-<link>https://greekreporter.com/2026/08/08/greece-tourism-development-rules/</link>
-<guid isPermaLink="false">https://greekreporter.com/2026/08/08/greece-tourism-development-rules/</guid>
-<pubDate>Sat, 08 Aug 2026 15:37:13 +0000</pubDate>
-<description>Greece is implementing stricter planning rules to curb overtourism by placing new limits on hotel construction, island capacity and rentals.</description>
 </item>
 </channel>
 </rss>

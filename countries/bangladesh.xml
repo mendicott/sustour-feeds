@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/bangladesh.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Bangladesh. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 12 Aug 2026 10:08:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 22:08:51 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Bangladesh Tourism Board seminar backs eco-tourism, public-private ties</title>
+<link>https://www.bangladeshmonitor.com.bd/en/bangladesh-tourism-board-seminar-backs-eco-tourism-public-private-ties</link>
+<guid isPermaLink="false">https://www.bangladeshmonitor.com.bd/en/bangladesh-tourism-board-seminar-backs-eco-tourism-public-private-ties</guid>
+<pubDate>Wed, 12 Aug 2026 15:39:56 +0000</pubDate>
+<description>The Bangladesh Tourism Board held a seminar on August 12 to promote eco-tourism through public-private partnerships and greater awareness among ...</description>
+</item>
 <item>
 <title>Bangladesh mangrove fruit project links women's work to conservation - The Climate Watch</title>
 <link>https://theclimatewatch.com/bangladesh-mangrove-fruit-project-links-womens-work-to-conservation/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://theclimatewatch.com/bangladesh-launches-wildlife-commission-to-protect-endangered-species-and-restore-critical-habitats/</guid>
 <pubDate>Sat, 25 Jul 2026 15:08:06 +0000</pubDate>
 <description>... climate change, and increasing human-wildlife conflict. The commission was formed at a Cabinet meeting on Thursday (July 23), with the Ministry of ...</description>
-</item>
-<item>
-<title>Meaningful tourism key to unlocking Bangladesh's tourism potential: DIU roundtable</title>
-<link>https://thefinancialexpress.com.bd/education/meaningful-tourism-key-to-unlocking-bangladeshs-tourism-potential-diu-roundtable</link>
-<guid isPermaLink="false">https://thefinancialexpress.com.bd/education/meaningful-tourism-key-to-unlocking-bangladeshs-tourism-potential-diu-roundtable</guid>
-<pubDate>Wed, 15 Jul 2026 12:14:53 +0000</pubDate>
-<description>A roundtable discussion on promoting sustainable and 'meaningful tourism' in Bangladesh brought together key stakeholders from the country's ...</description>
 </item>
 </channel>
 </rss>

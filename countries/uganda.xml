@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/uganda.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Uganda. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 12 Aug 2026 10:08:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 22:08:51 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>A Safari Built to Leave Its Money Behind - Ethos</title>
+<link>https://the-ethos.co/a-safari-built-to-leave-its-money-behind/</link>
+<guid isPermaLink="false">https://the-ethos.co/a-safari-built-to-leave-its-money-behind/</guid>
+<pubDate>Wed, 12 Aug 2026 07:48:26 +0000</pubDate>
+<description>The gorilla trek at the center of TerraFauna Journeys' Uganda itinerary climbs into Bwindi Impenetrable National Park, a steep tangle of montane ...</description>
+</item>
 <item>
 <title>Implications for Community Conservation Outcomes of Bwindi Impenetrable National Park</title>
 <link>https://journals.eanso.org/index.php/ajthm/article/view/5533</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/hwxr6tvtrk3a/</guid>
 <pubDate>Tue, 21 Jul 2026 10:01:53 +0000</pubDate>
 <description>... tourism with pristine trails, rich biodiversity, and the majestic ... Biodiversity, Revolutionizing Scientific Adventure Travel Across Africa.</description>
-</item>
-<item>
-<title>Uganda opens all national parks to public for free</title>
-<link>https://www.pulse.ug/story/uganda-opens-all-national-parks-to-public-for-free-2026071904511063391</link>
-<guid isPermaLink="false">https://www.pulse.ug/story/uganda-opens-all-national-parks-to-public-for-free-2026071904511063391</guid>
-<pubDate>Sun, 19 Jul 2026 08:11:33 +0000</pubDate>
-<description>She also inspected conservation projects at Ajai Wildlife Reserve as part of efforts to promote domestic tourism and assess the sector's readiness for ...</description>
 </item>
 </channel>
 </rss>
