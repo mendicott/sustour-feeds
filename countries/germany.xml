@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/germany.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Germany. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 12 Aug 2026 22:08:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 10:08:51 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Denmark Alongside France, Germany and More Turn Green Travel Into Tourist Rewards ...</title>
+<link>https://www.travelandtourworld.com/news/article/kpse7uzt0wv3/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/kpse7uzt0wv3/</guid>
+<pubDate>Wed, 12 Aug 2026 20:20:00 +0000</pubDate>
+<description>Copenhagen, Normandy, Exmoor, Berlin and Bremen are helping reshape sustainable tourism across Europe in 2026 by connecting responsible visitor ...</description>
+</item>
 <item>
 <title>In 1991, a German teacher invested her savings in an uninhabited island; her project has ...</title>
 <link>https://timesofindia.indiatimes.com/world/rest-of-world/in-1991-a-german-teacher-invested-her-savings-in-an-uninhabited-island-her-project-has-safeguarded-its-reef-for-30-years/amp_articleshow/133099368.cms</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.busplaner.de/en/news/dtv-publishes-new-practical-guide-sustainable-tourism-destinations-314281.html</guid>
 <pubDate>Mon, 13 Jul 2026 18:18:36 +0000</pubDate>
 <description>In September, the German Tourism Association, the Federal Ministry for the Environment, Climate Protection, Nature Conservation and Nuclear Safety, ...</description>
-</item>
-<item>
-<title>France Moves in Step With Germany, Belgium, Luxembourg and More Destinations as Eco ...</title>
-<link>https://www.travelandtourworld.com/news/article/rta5u46yhikn/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/rta5u46yhikn/</guid>
-<pubDate>Fri, 10 Jul 2026 10:14:49 +0000</pubDate>
-<description>France accelerates sustainable travel as sleeper rail networks connect Europe, offering eco-conscious travellers greener alternatives to ...</description>
 </item>
 </channel>
 </rss>

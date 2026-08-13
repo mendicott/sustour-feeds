@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/thailand.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Thailand. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 12 Aug 2026 22:08:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 10:08:51 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>WEF urges tourism to move beyond visitor numbers for sustainable growth - Nation Thailand</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://www.nationthailand.com/sustainability/esg/40068250</guid>
 <pubDate>Sat, 04 Jul 2026 13:39:29 +0000</pubDate>
 <description>The World Economic Forum says travel and tourism must redefine success beyond arrivals and spending, focusing instead on communities, ecosystems, ...</description>
+</item>
+<item>
+<title>Thailand Is Joining the Global Tourist Fee Wave: 5 Countries Already Charging Foreign ...</title>
+<link>https://www.travelandtourworld.com/news/article/7efhavbpu4dq/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/7efhavbpu4dq/</guid>
+<pubDate>Wed, 12 Aug 2026 23:53:12 +0000</pubDate>
+<description>The fee is currently US$100 per night for visitors and forms an important part of Bhutan's high-value, low-volume tourism strategy. Bhutan's ...</description>
 </item>
 <item>
 <title>Royal Cliff wins Ultimate Thailand Green Tourism Showcase - TTR Weekly</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://world.thaipbs.or.th/detail/park-rangers-rescue-100-marine-animals-from-illegal-fish-trap-near-phi-phi/62265</guid>
 <pubDate>Mon, 03 Aug 2026 15:59:20 +0000</pubDate>
 <description>Authorities warn that illegal fishing of any sort in protected zones severely threatens the marine ecosystem and harms Krabi's eco-tourism reputation.</description>
-</item>
-<item>
-<title>Thailand Tourism Hits 18.5m Arrivals Amid Flight and Safety Headwinds</title>
-<link>https://www.nationthailand.com/news/tourism/40069354</link>
-<guid isPermaLink="false">https://www.nationthailand.com/news/tourism/40069354</guid>
-<pubDate>Mon, 03 Aug 2026 11:02:11 +0000</pubDate>
-<description>Thailand launches 10 hiking schools for responsible forest tourism. August 02 ...</description>
 </item>
 </channel>
 </rss>

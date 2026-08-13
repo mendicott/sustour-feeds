@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/australia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Australia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 12 Aug 2026 22:08:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 10:08:51 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Eco-tourism Consulting Services Market Intelligence Report - openPR.com</title>
+<link>https://www.openpr.com/news/4602120/eco-tourism-consulting-services-market-intelligence-report</link>
+<guid isPermaLink="false">https://www.openpr.com/news/4602120/eco-tourism-consulting-services-market-intelligence-report</guid>
+<pubDate>Thu, 13 Aug 2026 01:00:54 +0000</pubDate>
+<description>... Sustainable Travel International, EcoTourism Australia, Green Globe, and The International Ecotourism Society - published on openPR.com.</description>
+</item>
 <item>
 <title>World Expeditions and Australian Walking Holidays back Indigenous youth exchange</title>
 <link>https://travelweekly.com.au/world-expeditions-and-australian-walking-holidays-back-indigenous-youth-exchange/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www2.fundsforngos.org/individuals/cfas-great-barrier-reef-marine-debris-management-and-mitigation-grant-round-2-australia/amp/</guid>
 <pubDate>Mon, 03 Aug 2026 07:21:37 +0000</pubDate>
 <description>... tourism, fisheries, and coastal communities. Reducing marine debris helps: Protect coral reef ecosystems. Reduce threats to marine wildlife ...</description>
-</item>
-<item>
-<title>On Australia's Norfolk Island, 1,000 snails thought extinct for decades get a new home</title>
-<link>https://www.yahoo.com/news/science/articles/australias-norfolk-island-1-000-060400922.html</link>
-<guid isPermaLink="false">https://www.yahoo.com/news/science/articles/australias-norfolk-island-1-000-060400922.html</guid>
-<pubDate>Sun, 02 Aug 2026 12:38:37 +0000</pubDate>
-<description>An unusual conservation recovery is underway on Australia's Norfolk Island, where a tiny snail once believed extinct is being given another chance ...</description>
 </item>
 </channel>
 </rss>
