@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/japan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Japan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 13 Aug 2026 10:08:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 22:08:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Japan Travel Undergoes Dramatic Shift As Visitor Patterns Evolve</title>
+<link>https://www.thetraveler.org/japan-travel-undergoes-dramatic-shift-as-visitor-patterns-evolve/</link>
+<guid isPermaLink="false">https://www.thetraveler.org/japan-travel-undergoes-dramatic-shift-as-visitor-patterns-evolve/</guid>
+<pubDate>Thu, 13 Aug 2026 13:11:52 +0000</pubDate>
+<description>Managing Overtourism While Encouraging Dispersal. The influx of visitors has created visible strain in some of Japan's most iconic neighborhoods ...</description>
+</item>
 <item>
 <title>Wild Boars Have Started Hunting Rabbits on Japan's Famous Bunny Island - ZME Science</title>
 <link>https://www.zmescience.com/ecology/animals-ecology/japan-rabbit-island-boars-tourists/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/jra88gkc3eyj/</guid>
 <pubDate>Fri, 31 Jul 2026 13:48:50 +0000</pubDate>
 <description>... biodiversity, minimise environmental impact and encourage a stronger connection between tourism and conservation. For the travel industry, Biei ...</description>
-</item>
-<item>
-<title>Tourist feeding helped push Japan's famous Rabbit Island beyond its natural limits</title>
-<link>https://timesofindia.indiatimes.com/world/rest-of-world/tourist-feeding-helped-push-japans-famous-rabbit-island-beyond-its-natural-limits-now-vegetation-is-stripped-and-wild-boars-are-attacking-rabbits/articleshow/132741603.cms</link>
-<guid isPermaLink="false">https://timesofindia.indiatimes.com/world/rest-of-world/tourist-feeding-helped-push-japans-famous-rabbit-island-beyond-its-natural-limits-now-vegetation-is-stripped-and-wild-boars-are-attacking-rabbits/articleshow/132741603.cms</guid>
-<pubDate>Thu, 30 Jul 2026 15:30:04 +0000</pubDate>
-<description>The researchers pointed out that their findings do not mean wildlife tourism should be banned. Instead, they argue that feeding needs clear rules ...</description>
 </item>
 </channel>
 </rss>

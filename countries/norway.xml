@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/norway.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Norway. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 13 Aug 2026 10:08:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 22:08:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Norway Travel Revolution As Remote Ytri Island Retreat Unveils A Breathtaking Arctic ...</title>
+<link>https://www.travelandtourworld.com/news/article/wya3yebs4v5w/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/wya3yebs4v5w/</guid>
+<pubDate>Thu, 13 Aug 2026 10:25:44 +0000</pubDate>
+<description>Beyond the popular coastal areas of Norway, luxury travel through remoteness and nature is coming to the world of community-based tourism. At Ytri ...</description>
+</item>
 <item>
 <title>Eidfjord (Norway) adopts new sustainability strategy for cruise tourism through 2030</title>
 <link>https://www.cruisemapper.com/news/16509-eidfjord-adopts-new-sustainability-strategy</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/o057vswn0fwi/</guid>
 <pubDate>Tue, 16 Jun 2026 18:42:09 +0000</pubDate>
 <description>Finland joins Belgium, Spain, Norway, UK in Europe's regenerative tourism shift, replacing mass tourism with cross-border living systems for ...</description>
-</item>
-<item>
-<title>Norway's New Oil - ABC Content Sales</title>
-<link>https://www.abc.net.au/contentsales/programsandgenres/norways-new-oil/107022948</link>
-<guid isPermaLink="false">https://www.abc.net.au/contentsales/programsandgenres/norways-new-oil/107022948</guid>
-<pubDate>Thu, 13 Aug 2026 06:09:57 +0000</pubDate>
-<description>Open-net farming, pollution, disease and the impacts of climate change are putting pressure on the pristine fjords that underpin Norway's sustainable ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 13 Aug 2026 10:08:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 22:08:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Greece Overtakes Eight European Nations to Claim the Crown as the World's Greatest ...</title>
+<link>https://www.travelandtourworld.com/news/article/kseyw83pjktd/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/kseyw83pjktd/</guid>
+<pubDate>Thu, 13 Aug 2026 19:46:29 +0000</pubDate>
+<description>Spain faces heavy overtourism pressure, with local beach rules and tourist taxes varying by destination. Italy uses Venice's access-fee system to ...</description>
+</item>
 <item>
 <title>Italy, Greece and More Countries Are Cracking Down on Crowds With New Tourist Fees ...</title>
 <link>https://www.travelandtourworld.com/news/article/bj17xrhcrn32/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.nomadlawyer.org/italy-heritage-tourism-boom-unesco-ancient-ruins-2026</guid>
 <pubDate>Sat, 25 Jul 2026 22:03:26 +0000</pubDate>
 <description>Risk and Impact: Carrying Capacity Strain and Overtourism Pressures. The sudden increase in cultural travel introduces several operational risks ...</description>
-</item>
-<item>
-<title>Italy enforces entry fee and new rules at beaches - Lifestyle Asia</title>
-<link>https://www.lifestyleasia.com/bk/travel/europe/italian-beach-rules-for-2026-entry-fee-booking-bans-and-other-details/</link>
-<guid isPermaLink="false">https://www.lifestyleasia.com/bk/travel/europe/italian-beach-rules-for-2026-entry-fee-booking-bans-and-other-details/</guid>
-<pubDate>Sat, 25 Jul 2026 09:03:09 +0000</pubDate>
-<description>Due to overtourism, new rules are being implemented on Italian beaches including charging an entrance fee. Here's what you need to know.</description>
 </item>
 </channel>
 </rss>

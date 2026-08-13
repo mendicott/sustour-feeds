@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/canada.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Canada. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 13 Aug 2026 10:08:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 22:08:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Reconciliation at the heart of Tourism Australia's plan - Canadian Travel Press</title>
+<link>https://www.travelpress.com/reconciliation-at-the-heart-of-tourism-australias-plan/</link>
+<guid isPermaLink="false">https://www.travelpress.com/reconciliation-at-the-heart-of-tourism-australias-plan/</guid>
+<pubDate>Thu, 13 Aug 2026 10:41:05 +0000</pubDate>
+<description>Tourism Australia has made clear its commitment to reconciliation and the significant value of First Nations tourism to the businesses, ...</description>
+</item>
 <item>
 <title>Canada's Torngat Travel Window Nears Final 2026 Access</title>
 <link>https://www.travelandtourworld.com/news/article/konmgno14qhb/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.fodors.com/world/north-america/canada/experiences/news/going-off-the-grid-in-canada-helped-save-me</guid>
 <pubDate>Thu, 30 Jul 2026 20:18:08 +0000</pubDate>
 <description>Between the UNESCO Biosphere Reserve designation of Clayoquot Sound, the First Nations cultural partnerships woven into every detail of the experience ...</description>
-</item>
-<item>
-<title>First Nations lead the return of salmon to Canada's Upper Columbia River - Mongabay</title>
-<link>https://news.mongabay.com/2026/07/first-nations-lead-the-return-of-salmon-to-canadas-upper-columbia-river/</link>
-<guid isPermaLink="false">https://news.mongabay.com/2026/07/first-nations-lead-the-return-of-salmon-to-canadas-upper-columbia-river/</guid>
-<pubDate>Wed, 29 Jul 2026 15:57:21 +0000</pubDate>
-<description>First Nations in British Columbia, western Canada, are working to restore salmon to the Upper Columbia Basin and leading ceremonial salmon fry ...</description>
 </item>
 </channel>
 </rss>

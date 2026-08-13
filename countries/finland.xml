@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/finland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Finland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 13 Aug 2026 10:08:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 22:08:27 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Spain Teams Up With France, Finland, Germany, Netherlands, UK and Italy to Drive a New ...</title>
@@ -51,6 +51,13 @@
 <description>Finland joins Belgium, Spain, Norway, UK in Europe's regenerative tourism shift, replacing mass tourism with cross-border living systems for ...</description>
 </item>
 <item>
+<title>Finland's first International Dark Sky Park - DarkSky.org</title>
+<link>https://darksky.org/news/syrjavaara-becomes-finlands-first-international-dark-sky-park/</link>
+<guid isPermaLink="false">https://darksky.org/news/syrjavaara-becomes-finlands-first-international-dark-sky-park/</guid>
+<pubDate>Wed, 12 Aug 2026 16:00:25 +0000</pubDate>
+<description>"Syrjävaara has inspired municipalities and companies in Eastern Finland to embark on dark sky protection and tourism development projects.</description>
+</item>
+<item>
 <title>Lithuania Pairs Up Forest Wellness With Award-Winning Design as Latvia, Estonia, Finland ...</title>
 <link>https://www.travelandtourworld.com/news/article/kum0x3yiojot/</link>
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/kum0x3yiojot/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/rv3qejf16pp9/</guid>
 <pubDate>Tue, 14 Jul 2026 07:18:06 +0000</pubDate>
 <description>Pioneered by Wonderful Copenhagen and backed by the European Commission as a validated pathway for future tourism development, the deployment of state ...</description>
-</item>
-<item>
-<title>Norway Partners With Sweden, Denmark, Finland and More Nordic Nations Boosting ...</title>
-<link>https://www.travelandtourworld.com/news/article/4aj517z9auqh/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/4aj517z9auqh/</guid>
-<pubDate>Fri, 10 Jul 2026 07:34:59 +0000</pubDate>
-<description>Norway transforms Nordic travel with zero-emission ferries, green maritime policies and Sustainable Tourism growth.</description>
 </item>
 </channel>
 </rss>
