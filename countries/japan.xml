@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/japan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Japan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 13 Aug 2026 22:08:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 10:05:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Sado Island Tourism Enters a Cultural Renaissance as Japan's Exile Island Beckons Slow Travellers</title>
+<link>https://www.travelandtourworld.com/news/article/on614ah9w4vv/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/on614ah9w4vv/</guid>
+<pubDate>Fri, 14 Aug 2026 04:33:59 +0000</pubDate>
+<description>Sado Island tourism is entering a cultural renaissance as heritage, art, taiko, nature and slow travel attract new visitors.</description>
+</item>
 <item>
 <title>Japan Travel Undergoes Dramatic Shift As Visitor Patterns Evolve</title>
 <link>https://www.thetraveler.org/japan-travel-undergoes-dramatic-shift-as-visitor-patterns-evolve/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/xyfttg6f31vb/</guid>
 <pubDate>Sun, 02 Aug 2026 04:44:14 +0000</pubDate>
 <description>Discover how Setouchi Triennale sustainable tourism is transforming Japan's hidden art islands as new research reveals the future of responsible ...</description>
-</item>
-<item>
-<title>Biei Ignites a New Era with Niseko as Japan Strengthens Its Zero-Carbon Park Programme ...</title>
-<link>https://www.travelandtourworld.com/news/article/jra88gkc3eyj/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/jra88gkc3eyj/</guid>
-<pubDate>Fri, 31 Jul 2026 13:48:50 +0000</pubDate>
-<description>... biodiversity, minimise environmental impact and encourage a stronger connection between tourism and conservation. For the travel industry, Biei ...</description>
 </item>
 </channel>
 </rss>

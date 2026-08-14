@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/kenya.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Kenya. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 13 Aug 2026 22:08:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 10:05:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>An Assessment of the Role of County Government and Stakeholders in Promoting ...</title>
+<link>https://journals.eanso.org/index.php/ajthm/article/view/5552</link>
+<guid isPermaLink="false">https://journals.eanso.org/index.php/ajthm/article/view/5552</guid>
+<pubDate>Thu, 13 Aug 2026 09:43:07 +0000</pubDate>
+<description>An Assessment of the Role of County Government and Stakeholders in Promoting Geotourism in Baringo County, Kenya ... Modelling the impact of geo-tourism ...</description>
+</item>
 <item>
 <title>View of An Assessment of the Role of County Government and Stakeholders in ... - EANSO Journals</title>
 <link>https://journals.eanso.org/index.php/ajthm/article/view/5552/5901</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.aljazeera.com/features/2026/8/3/the-battle-for-the-maasai-mara-can-kenyas-most-iconic-ecosystem-be-saved</guid>
 <pubDate>Mon, 03 Aug 2026 02:07:46 +0000</pubDate>
 <description>"When the interests of wildlife and nature conflict with tourism, the rights of nature are supreme. Any interaction between tourists, wild animals ...</description>
-</item>
-<item>
-<title>Rangers take part in a procession through Nanyuki Town to mark World Rangers Day. This ...</title>
-<link>https://www.facebook.com/kenyanewsagency/posts/rangers-take-part-in-a-procession-through-nanyuki-town-to-mark-world-rangers-day/1350778297237813/</link>
-<guid isPermaLink="false">https://www.facebook.com/kenyanewsagency/posts/rangers-take-part-in-a-procession-through-nanyuki-town-to-mark-world-rangers-day/1350778297237813/</guid>
-<pubDate>Sat, 01 Aug 2026 14:17:28 +0000</pubDate>
-<description>Wildlife Tourism College, Maasai MaraMara North ConservacyOloisukut conservancy Maasai MaraKenya Wildlife Conservancies AssociationNature Kenya ...</description>
 </item>
 </channel>
 </rss>
