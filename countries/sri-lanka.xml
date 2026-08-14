@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/sri-lanka.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Sri Lanka. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 14 Aug 2026 10:05:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 22:08:02 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Sri Lanka charts low carbon future for Delft Island - A Global Hub of Travel Knowledge</title>
+<link>https://www.thetraveler.org/sri-lanka-charts-low-carbon-future-for-delft-island/</link>
+<guid isPermaLink="false">https://www.thetraveler.org/sri-lanka-charts-low-carbon-future-for-delft-island/</guid>
+<pubDate>Fri, 14 Aug 2026 12:59:11 +0000</pubDate>
+<description>The government's wider push to brand Sri Lanka as a sustainable tourism destination provides the national policy backdrop for Delft's evolving role.</description>
+</item>
 <item>
 <title>Sri Lanka Ignites A Green Travel Boom By Transforming Its Northern Island Sector Into A ...</title>
 <link>https://www.travelandtourworld.com/news/article/o8rjd8p8e1pj/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.themorning.lk/articles/bySp67Cv8ZYwvphtlYf8</guid>
 <pubDate>Wed, 05 Aug 2026 00:54:40 +0000</pubDate>
 <description>The Government of Sri Lanka has initiated plans to develop Delft Island into the country's first Zero Emission eco-tourism destination, ...</description>
-</item>
-<item>
-<title>Govt. unveils plan to transform Delft into Sri Lanka's first zero-emission eco-tourism destination</title>
-<link>https://dailynews.lk/2026/08/05/business/1031876/govt-unveils-plan-to-transform-delft-into-sri-lankas-first-zero-emission-eco-tourism-destination/</link>
-<guid isPermaLink="false">https://dailynews.lk/2026/08/05/business/1031876/govt-unveils-plan-to-transform-delft-into-sri-lankas-first-zero-emission-eco-tourism-destination/</guid>
-<pubDate>Tue, 04 Aug 2026 20:00:33 +0000</pubDate>
-<description>The Government has launched an ambitious initiative to develop Delft Island into Sri Lanka's first Zero-Emission Eco-Tourism Destination, marking a ...</description>
 </item>
 </channel>
 </rss>

@@ -7,6 +7,20 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.vietnam.vn/en/ky-vi-di-san-bazan-tren-cao-nguyen-mnong",
+      "url": "https://www.vietnam.vn/en/ky-vi-di-san-bazan-tren-cao-nguyen-mnong",
+      "title": "Magnificent basalt heritage on the M'nong plateau - Vietnam.vn",
+      "content_text": "Recognized by UNESCO as a Global Geopark for the second time in 2024, the UNESCO Dak Nong Global Geopark, located in the western part of Lam Dong ...",
+      "date_published": "2026-08-14T13:30:40+00:00"
+    },
+    {
+      "id": "https://www.vietnam.vn/en/tang-cuong-quan-ly-bao-ve-ben-vung-gia-tri-di-san",
+      "url": "https://www.vietnam.vn/en/tang-cuong-quan-ly-bao-ve-ben-vung-gia-tri-di-san",
+      "title": "Strengthening management and sustainable protection of heritage values. - Vietnam.vn",
+      "content_text": "... Natural Heritage Site. Rapid tourism development has led to increased land values, creating a growing demand for housing, accommodation ...",
+      "date_published": "2026-08-14T13:10:20+00:00"
+    },
+    {
       "id": "https://www.vietnam.vn/en/danh-thuc-tiem-nang-du-lich-tu-cong-vien-dia-chat-dak-nong",
       "url": "https://www.vietnam.vn/en/danh-thuc-tiem-nang-du-lich-tu-cong-vien-dia-chat-dak-nong",
       "title": "Unlocking the tourism potential of Dak Nong Geopark - Vietnam.vn",
@@ -61,20 +75,6 @@
       "title": "Vietnam's Lang Son Geopark, along with 15 other geoparks worldwide, has been ... - Vietnam.vn",
       "content_text": "... Geopark as a UNESCO Global Geopark is of great significance. This milestone opens up many new opportunities for the sustainable development of ...",
       "date_published": "2026-08-08T03:38:03+00:00"
-    },
-    {
-      "id": "https://www.vietnam.vn/en/ho-dong-do-kim-anh-ha-noi-cong-an-phoi-hop-kiem-tra-vi-pham",
-      "url": "https://www.vietnam.vn/en/ho-dong-do-kim-anh-ha-noi-cong-an-phoi-hop-kiem-tra-vi-pham",
-      "title": "Dong Do Lake, Kim Anh, Hanoi: Police cooperate in checking for violations. - Vietnam.vn",
-      "content_text": "(Inspection) - Tourism businesses, camping, canoe rentals, kayaking, and encroachment on the protected area of ​​Dong Do Lake irrigation works are ...",
-      "date_published": "2026-08-07T18:17:17+00:00"
-    },
-    {
-      "id": "https://vietnamnews.vn/environment/1797095/viet-nam-receives-23-million-boost-for-sustainable-forest-management.html",
-      "url": "https://vietnamnews.vn/environment/1797095/viet-nam-receives-23-million-boost-for-sustainable-forest-management.html",
-      "title": "Việt Nam receives $23 million boost for sustainable forest management - Vietnam News",
-      "content_text": "The EU and Germany have launched a US$23 million programme to restore Việt Nam's natural forests, strengthen climate resilience and improve ...",
-      "date_published": "2026-08-07T12:52:03+00:00"
     }
   ]
 }

@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://news.mongabay.com/custom-story/2026/08/among-the-sacred-hills-of-colombias-guainia/",
+      "url": "https://news.mongabay.com/custom-story/2026/08/among-the-sacred-hills-of-colombias-guainia/",
+      "title": "Among the sacred hills of Colombia's Guainía - Mongabay",
+      "content_text": "Travel by water makes clear how closely life here is organized around ... BiodiversityCommunity ForestsCommunity-based ConservationConservation ...",
+      "date_published": "2026-08-14T21:04:54+00:00"
+    },
+    {
       "id": "https://colombiaone.com/2026/08/06/colombian-appointed-executive-director-gef/",
       "url": "https://colombiaone.com/2026/08/06/colombian-appointed-executive-director-gef/",
       "title": "Colombian Appointed as Executive Director of the World's Largest Environmental Fund",
@@ -68,13 +75,6 @@
       "title": "The Colombian Pacific Prepares to Welcome More Than 8,000 Humpback Whales",
       "content_text": "Beyond creating seasonal employment, whale-watching tourism supports environmental conservation initiatives and strengthens sustainable ...",
       "date_published": "2026-06-18T19:06:31+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/dvui0xikjgl4/",
-      "url": "https://www.travelandtourworld.com/news/article/dvui0xikjgl4/",
-      "title": "Mexico Joins Brazil, Peru, Colombia, Jamaica, Argentina, Dominican Republic and More in ...",
-      "content_text": "UNESCO expands sustainable tourism and heritage safeguarding across Latin America & Caribbean to build climate resilience and community growth.",
-      "date_published": "2026-06-15T16:07:31+00:00"
     }
   ]
 }

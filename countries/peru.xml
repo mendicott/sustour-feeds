@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/peru.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Peru. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 14 Aug 2026 10:05:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 22:08:02 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Peru's wild five.</title>
+<link>https://www.peru.travel/yourperfectperu/Articulo?n=perus-wild-five</link>
+<guid isPermaLink="false">https://www.peru.travel/yourperfectperu/Articulo?n=perus-wild-five</guid>
+<pubDate>Fri, 14 Aug 2026 12:16:36 +0000</pubDate>
+<description>Don't miss the chance to learn how one small turtle has become a big symbol of sustainable tourism. ... Youtube · peru.travel. 2022 - All rights ...</description>
+</item>
 <item>
 <title>Batancito de Ñoma becomes the first OECM reported in Piura | WWF</title>
 <link>https://www.wwf.org.pe/en/?401190/Batancito-de-oma-becomes-the-first-OECM-reported-in-Piura</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/llyroouqxiak/</guid>
 <pubDate>Tue, 14 Jul 2026 02:29:09 +0000</pubDate>
 <description>The final ranking reinforces Peru's growing reputation as a global leader in wildlife tourism, with Manú National Park and Tambopata National Reserve ...</description>
-</item>
-<item>
-<title>Peru to Strengthen the Arequipa–Colca Tourism Corridor and Promote Private Investment ...</title>
-<link>https://www.worldbank.org/en/news/press-release/2026/07/10/peru-to-strengthen-the-arequipa-colca-tourism-corridor-and-promote-private-investment-and-job-creation-with-world-bank-s</link>
-<guid isPermaLink="false">https://www.worldbank.org/en/news/press-release/2026/07/10/peru-to-strengthen-the-arequipa-colca-tourism-corridor-and-promote-private-investment-and-job-creation-with-world-bank-s</guid>
-<pubDate>Fri, 10 Jul 2026 12:10:38 +0000</pubDate>
-<description>World Bank supports Peru's Arequipa–Colca corridor with a US$77.2 million project to boost sustainable tourism, attract investment, ...</description>
 </item>
 </channel>
 </rss>

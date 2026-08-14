@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/colombia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Colombia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 14 Aug 2026 10:05:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 22:08:02 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Among the sacred hills of Colombia's Guainía - Mongabay</title>
+<link>https://news.mongabay.com/custom-story/2026/08/among-the-sacred-hills-of-colombias-guainia/</link>
+<guid isPermaLink="false">https://news.mongabay.com/custom-story/2026/08/among-the-sacred-hills-of-colombias-guainia/</guid>
+<pubDate>Fri, 14 Aug 2026 21:04:54 +0000</pubDate>
+<description>Travel by water makes clear how closely life here is organized around ... BiodiversityCommunity ForestsCommunity-based ConservationConservation ...</description>
+</item>
 <item>
 <title>Colombian Appointed as Executive Director of the World's Largest Environmental Fund</title>
 <link>https://colombiaone.com/2026/08/06/colombian-appointed-executive-director-gef/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://colombiaone.com/2026/06/18/colombian-pacific-whales/</guid>
 <pubDate>Thu, 18 Jun 2026 19:06:31 +0000</pubDate>
 <description>Beyond creating seasonal employment, whale-watching tourism supports environmental conservation initiatives and strengthens sustainable ...</description>
-</item>
-<item>
-<title>Mexico Joins Brazil, Peru, Colombia, Jamaica, Argentina, Dominican Republic and More in ...</title>
-<link>https://www.travelandtourworld.com/news/article/dvui0xikjgl4/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/dvui0xikjgl4/</guid>
-<pubDate>Mon, 15 Jun 2026 16:07:31 +0000</pubDate>
-<description>UNESCO expands sustainable tourism and heritage safeguarding across Latin America &amp; Caribbean to build climate resilience and community growth.</description>
 </item>
 </channel>
 </rss>

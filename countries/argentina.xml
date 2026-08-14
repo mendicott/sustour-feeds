@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/argentina.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Argentina. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 14 Aug 2026 10:05:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 22:08:02 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Argentina Travel Redefined, Crafting Soul-Stirring Routes For The Chronically Curious Will ...</title>
@@ -44,6 +44,13 @@
 <description>Verra has approved its first government-led provincial forest carbon program under the VCS Jurisdictional and Nested REDD+ Framework.</description>
 </item>
 <item>
+<title>Argentina restricts access to an Andean plain after damage caused by a pickup truck</title>
+<link>https://en.mercopress.com/2026/08/14/argentina-restricts-access-to-an-andean-plain-after-damage-caused-by-a-pickup-truck</link>
+<guid isPermaLink="false">https://en.mercopress.com/2026/08/14/argentina-restricts-access-to-an-andean-plain-after-damage-caused-by-a-pickup-truck</guid>
+<pubDate>Fri, 14 Aug 2026 09:49:53 +0000</pubDate>
+<description>Authorities in the Argentine province of San Juan will keep access to Pampa del Leoncito restricted until the end of the month, after a vehicle ...</description>
+</item>
+<item>
 <title>Argentina's Hidden Andean Gem Gets A Historic Tourism Boost As World's Eyes Turn To ...</title>
 <link>https://www.travelandtourworld.com/news/article/fn6p48sxrsqp/</link>
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/fn6p48sxrsqp/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.bbc.com/travel/article/20260710-ride-argentinas-first-solar-train-through-10000-years-of-indigenous-history</guid>
 <pubDate>Mon, 13 Jul 2026 12:52:52 +0000</pubDate>
 <description>The zero-emissions luxury train is taking travellers through rainbow mountains, Indigenous villages and a 10000-year-old cultural corridor.</description>
-</item>
-<item>
-<title>Mapped: Colombia and Argentina's energy transition copper boom - Dialogue Earth</title>
-<link>https://dialogue.earth/en/energy/mapped-colombia-and-argentinas-energy-transition-copper-boom/</link>
-<guid isPermaLink="false">https://dialogue.earth/en/energy/mapped-colombia-and-argentinas-energy-transition-copper-boom/</guid>
-<pubDate>Wed, 08 Jul 2026 16:49:31 +0000</pubDate>
-<description>Demand for copper has soared but further extraction threatens a range of environments and Indigenous reserves.</description>
 </item>
 </channel>
 </rss>

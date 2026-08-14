@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/northern-mariana-islands.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Northern Mariana Islands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 14 Aug 2026 10:05:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 22:08:02 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Typhoon turns Saipan's tourism map upside down — for the better - The Herald Business</title>
+<link>https://mbiz.heraldcorp.com/article/10841417</link>
+<guid isPermaLink="false">https://mbiz.heraldcorp.com/article/10841417</guid>
+<pubDate>Fri, 14 Aug 2026 02:21:24 +0000</pubDate>
+<description>A typhoon left Saipan with serious damage, but paradoxically handed the island's tourism ecosystem a chance to reinvent itself.</description>
+</item>
 <item>
 <title>Saipan Awaodori Team continues 19-year cultural bridge with Japan - Marianas Variety</title>
 <link>https://www.mvariety.com/news/local/local-news-saipan-awaodori-team-continues-19-year-cultural-bridge-with-japan/article_4cd4df52-1247-4dfe-ac84-ca3ff21e61df.html/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.mvariety.com/news/local/local-news-mva-may-arrivals-down-82/article_a8ed9946-65f8-49f6-be99-07c72a80631e.html/</guid>
 <pubDate>Wed, 24 Jun 2026 22:06:51 +0000</pubDate>
 <description>... Saipan Travel Association and Northern Marianas Diving Operators Association — on tourism recovery. The strategy includes targeted travel trade ...</description>
-</item>
-<item>
-<title>Northern Mariana Islands Seek Visa-Free Access for Filipinos to Revive Tourism - eTurboNews</title>
-<link>https://eturbonews.com/northern-mariana-islands-philippines-visa-free-travel-tourism/</link>
-<guid isPermaLink="false">https://eturbonews.com/northern-mariana-islands-philippines-visa-free-travel-tourism/</guid>
-<pubDate>Mon, 08 Jun 2026 23:50:36 +0000</pubDate>
-<description>The Northern Mariana Islands, a U.S. territory closer to Manila than Washington, are urging federal officials to allow visa-free travel for ...</description>
 </item>
 </channel>
 </rss>
