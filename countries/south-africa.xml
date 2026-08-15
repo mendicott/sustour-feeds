@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/south-africa.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for South Africa. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 15 Aug 2026 10:04:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 22:06:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>What does 'sustainable travel' actually mean in SA? | The Independent on Saturday</title>
+<link>https://www.pressreader.com/south-africa/the-independent-on-saturday/20260815/282239492455405</link>
+<guid isPermaLink="false">https://www.pressreader.com/south-africa/the-independent-on-saturday/20260815/282239492455405</guid>
+<pubDate>Sat, 15 Aug 2026 01:06:46 +0000</pubDate>
+<description>What does 'sustainable travel' actually mean in SA? 2026-08-15 - LUTHO PASIYA Tourism · South Africa News · Animals · Ecology · Travel · Wildlife · ...</description>
+</item>
 <item>
 <title>South Africa Tourism Reclaims Global Spotlight With Over 12% Growth In Foreign Travel Demand</title>
 <link>https://www.travelandtourworld.com/news/article/nk38pacll76i/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://independentonsaturday.co.za/ios/news/6476834811150336/</guid>
 <pubDate>Tue, 14 Jul 2026 08:46:42 +0000</pubDate>
 <description>"It recognises that pilgrimage routes and sacred heritage sites can foster sustainable tourism, local economic growth, and community empowerment.</description>
-</item>
-<item>
-<title>South Africa's Kruger National Park Leads the Rise of Slow Safaris in Africa as Conservation ...</title>
-<link>https://www.travelandtourworld.com/news/article/n9meuei4f8qo/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/n9meuei4f8qo/</guid>
-<pubDate>Sat, 11 Jul 2026 05:52:53 +0000</pubDate>
-<description>As Kruger National Park celebrates its centenary, conservation, ecological restoration and sustainable tourism are becoming central to the safari ...</description>
 </item>
 </channel>
 </rss>

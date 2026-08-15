@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/united-kingdom.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for United Kingdom. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 15 Aug 2026 10:04:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 22:06:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>On the waterfront at Britain's first (very polite) overtourism protest - The Times</title>
+<link>https://www.thetimes.co.uk/travel/destinations/uk-travel/england/bourton-cotswolds-overtourism-protest-d39wzstpb</link>
+<guid isPermaLink="false">https://www.thetimes.co.uk/travel/destinations/uk-travel/england/bourton-cotswolds-overtourism-protest-d39wzstpb</guid>
+<pubDate>Sat, 15 Aug 2026 18:12:42 +0000</pubDate>
+<description>On the waterfront at Britain's first (very polite) overtourism protest · Norma Shepherd, a resident of Bournton-on-the-Water, sitting in · Tourists ...</description>
+</item>
 <item>
 <title>UK Tourism Revolution Begins as Cities Tackle Overtourism Through Regenerative Travel ...</title>
 <link>https://www.travelandtourworld.com/news/article/rr1z1ld0g2ou/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www2.fundsforngos.org/community-development-2/open-call-education-and-relationship-building-stream-canada/</guid>
 <pubDate>Tue, 28 Jul 2026 06:39:33 +0000</pubDate>
 <description>Eligible applicants include Aboriginal communities and Aboriginal organizations located in Ontario. ... Tourism Growth Program in British ...</description>
-</item>
-<item>
-<title>Wales Expands Sustainable Tourism Across Eryri and Bannau Brycheiniog with Greener ...</title>
-<link>https://www.travelandtourworld.com/news/article/mkxw69ueuqyi/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/mkxw69ueuqyi/</guid>
-<pubDate>Mon, 27 Jul 2026 09:07:19 +0000</pubDate>
-<description>Wales strengthens eco-tourism with sustainable transport, dark-sky stargazing and conservation initiatives across Eryri and Bannau Brycheiniog.</description>
 </item>
 </channel>
 </rss>

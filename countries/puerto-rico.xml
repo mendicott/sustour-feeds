@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/puerto-rico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Puerto Rico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 15 Aug 2026 10:04:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 22:06:15 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Puerto Rico Spirals Into Dominican Republic, Trinidad and Tobago and Beyond In ...</title>
@@ -51,6 +51,13 @@
 <description>Caribbean Tourism 2030 Takes Shape as Industry Leaders Plan a Smarter, Greener, and More Connected Travel Future. The Caribbean is preparing for a new ...</description>
 </item>
 <item>
+<title>Shark diving in Puerto Rico faces scrutiny over unlicensed tour operators - El Nuevo Día</title>
+<link>https://www.elnuevodia.com/english/news/story/shark-diving-in-puerto-rico-faces-scrutiny-over-unlicensed-tour-operators/</link>
+<guid isPermaLink="false">https://www.elnuevodia.com/english/news/story/shark-diving-in-puerto-rico-faces-scrutiny-over-unlicensed-tour-operators/</guid>
+<pubDate>Sat, 15 Aug 2026 13:08:45 +0000</pubDate>
+<description>Tourism officials say two operators lack required certifications, while environmental authorities acknowledge they have limited legal tools to ...</description>
+</item>
+<item>
 <title>Puerto Rico authorizes $2 billion coastal luxury development that activists oppose</title>
 <link>https://apnews.com/article/puerto-rico-esencia-cabo-rojo-developers-44d13fdafa22d9ec394ff222426db331</link>
 <guid isPermaLink="false">https://apnews.com/article/puerto-rico-esencia-cabo-rojo-developers-44d13fdafa22d9ec394ff222426db331</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.lincolnjournal.com/online_features/press_releases/robert-hoffecker-highlights-puerto-ricos-record-tourism-growth-and-commitment-to-sustainability/article_bc33b0fc-005c-524c-a1a9-2cb913aeaf08.html</guid>
 <pubDate>Thu, 09 Jul 2026 22:30:27 +0000</pubDate>
 <description>Hospitality leader Robert Hoffecker emphasizes the importance of balancing visitor growth with cultural preservation,</description>
-</item>
-<item>
-<title>Solar Project Brings More Clean Energy to Culebra Residents in Puerto Rico | EDF</title>
-<link>https://www.edf.org/media/solar-project-brings-more-clean-energy-culebra-residents-puerto-rico</link>
-<guid isPermaLink="false">https://www.edf.org/media/solar-project-brings-more-clean-energy-culebra-residents-puerto-rico</guid>
-<pubDate>Thu, 02 Jul 2026 13:31:13 +0000</pubDate>
-<description>... Puerto Rico while meeting the everyday needs of families and strengthening the island's resilience to climate change. In Puerto Rico, EDF's work ...</description>
 </item>
 </channel>
 </rss>

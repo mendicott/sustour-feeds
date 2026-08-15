@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 15 Aug 2026 10:04:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 22:06:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Crowds at Mont Blanc: will hiking soon require reservations? - Euronews.com</title>
+<link>https://www.euronews.com/travel/2026/08/15/crowds-at-mont-blanc-will-hiking-soon-require-reservations</link>
+<guid isPermaLink="false">https://www.euronews.com/travel/2026/08/15/crowds-at-mont-blanc-will-hiking-soon-require-reservations</guid>
+<pubDate>Sat, 15 Aug 2026 16:05:04 +0000</pubDate>
+<description>The Tour du Mont-Blanc is one of Europe's most popular long-distance hiking routes, a 170-kilometre circuit through France, Italy and Switzerland ...</description>
+</item>
 <item>
 <title>Greece Overtakes Eight European Nations to Claim the Crown as the World's Greatest ...</title>
 <link>https://www.travelandtourworld.com/news/article/kseyw83pjktd/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.initaly.it/en/articolo/italia-nostra-e-icom-italia-rinnovano-il-protocollo-per-la-tutela-e-la-29816</guid>
 <pubDate>Tue, 28 Jul 2026 12:38:31 +0000</pubDate>
 <description>Key aims include spreading a culture of preservation and enhancing museum and site-based heritage across the country. Areas of cooperation ...</description>
-</item>
-<item>
-<title>Ministry of Tourism Reports Record Interest as Heritage Tourism in Italy Surges ... - Nomad Lawyer</title>
-<link>https://www.nomadlawyer.org/italy-heritage-tourism-boom-unesco-ancient-ruins-2026</link>
-<guid isPermaLink="false">https://www.nomadlawyer.org/italy-heritage-tourism-boom-unesco-ancient-ruins-2026</guid>
-<pubDate>Sat, 25 Jul 2026 22:03:26 +0000</pubDate>
-<description>Risk and Impact: Carrying Capacity Strain and Overtourism Pressures. The sudden increase in cultural travel introduces several operational risks ...</description>
 </item>
 </channel>
 </rss>

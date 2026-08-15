@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.thenationalnews.com/news/uae/2026/08/15/abu-dhabi-expands-habitat-protection-for-native-species-beyond-nature-reserves/",
+      "url": "https://www.thenationalnews.com/news/uae/2026/08/15/abu-dhabi-expands-habitat-protection-for-native-species-beyond-nature-reserves/",
+      "title": "Abu Dhabi expands protection for native species and habitats beyond nature reserves",
+      "content_text": "Abu Dhabi's Environment Agency has extended the protection it offers to species on its protected list as part of efforts to conserve biodiversity ...",
+      "date_published": "2026-08-15T13:39:31+00:00"
+    },
+    {
       "id": "https://qna.org.qa/en/News-Area/News/2026-8/13/moecc-spots-seahorse-inside-khor-al-adaid-reserve",
       "url": "https://qna.org.qa/en/News-Area/News/2026-8/13/moecc-spots-seahorse-inside-khor-al-adaid-reserve",
       "title": "MOECC Spots Seahorse Inside Khor Al Adaid Reserve - Qatar news agency",
@@ -68,13 +75,6 @@
       "title": "Dhofar opens licensing route for green tourism - Oman Observer",
       "content_text": "SALALAH: Dhofar has a licensing framework for green tourism, including agricultural tourism, while proposals to integrate the governorate's ...",
       "date_published": "2026-08-10T16:45:37+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/7aknokoux5wm/",
-      "url": "https://www.travelandtourworld.com/news/article/7aknokoux5wm/",
-      "title": "Najran's Badr Al-Janoub Emerges as a Sustainable Mountain Ecotourism Model for Saudi Arabia",
-      "content_text": "Explore how mountain ecotourism in Saudi Arabia transforms Badr Al-Janoub with native trees, honey trails, and eco-farms.",
-      "date_published": "2026-08-10T08:58:19+00:00"
     }
   ]
 }

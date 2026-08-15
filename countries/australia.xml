@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/australia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Australia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 15 Aug 2026 10:04:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 22:06:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Canada Leads Australia, and Guatemala Lead Indigenous-Led Eco-Tourism Models ...</title>
+<link>https://www.travelandtourworld.com/news/article/l6bhxg5hdh35/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/l6bhxg5hdh35/</guid>
+<pubDate>Sat, 15 Aug 2026 20:11:17 +0000</pubDate>
+<description>Discover how Canada, Australia, Kenya, and Guatemala lead Indigenous-led eco-tourism models protecting ancestral lands, biodiversity, and culture.</description>
+</item>
 <item>
 <title>This Australian city is creating a new national park | The Independent</title>
 <link>https://www.independent.co.uk/travel/news-and-advice/sydney-gulguer-national-park-b3033093.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/a9yfiqolht34/</guid>
 <pubDate>Mon, 03 Aug 2026 20:36:24 +0000</pubDate>
 <description>Under the EPBC Act 1999, commercial cruise operations within the 74,469 square kilometre Kimberley Marine Park require explicit commercial tourism ...</description>
-</item>
-<item>
-<title>Australia's Phillip Island Demonstrates How Wildlife Conservation Can Fuel a Thriving ...</title>
-<link>https://www.travelandtourworld.com/news/article/195bu6cbnof9/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/195bu6cbnof9/</guid>
-<pubDate>Mon, 03 Aug 2026 11:49:54 +0000</pubDate>
-<description>Discover how Phillip Island penguin tourism has become a global benchmark for conservation-led travel, sustainable visitor experiences and ...</description>
 </item>
 </channel>
 </rss>

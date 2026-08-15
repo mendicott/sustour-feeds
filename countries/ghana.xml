@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ghana.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ghana. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 15 Aug 2026 10:04:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 22:06:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Atewa Forest: Ghana's butterfly haven and a global biodiversity treasure - Asaase Radio</title>
+<link>https://asaaseradio.com/atewa-forest-ghanas-butterfly-haven-and-a-global-biodiversity-treasure/</link>
+<guid isPermaLink="false">https://asaaseradio.com/atewa-forest-ghanas-butterfly-haven-and-a-global-biodiversity-treasure/</guid>
+<pubDate>Sat, 15 Aug 2026 04:11:04 +0000</pubDate>
+<description>Atewa's potential for eco-tourism. Beyond conservation, Atewa's butterfly diversity presents opportunities for sustainable economic activities such as ...</description>
+</item>
 <item>
 <title>Tourism Minister Orders Action Against Illegal Structures Near Ghana's Heritage Sites</title>
 <link>https://www.modernghana.com/amp/videonews/699486</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://ghanaiantimes.com.gh/protecting-our-oceans-ghana-must-act-now/amp/</guid>
 <pubDate>Fri, 31 Jul 2026 07:33:34 +0000</pubDate>
 <description>Ghana's decision to launch a project to prepare for the ratification and implementation of the Agreement on Marine Biodiversity of Areas Beyond ...</description>
-</item>
-<item>
-<title>Stakeholders call for protection of Ghana's disappearing mangrove ecosystems</title>
-<link>https://gna.org.gh/2026/07/stakeholders-call-for-protection-of-ghanas-disappearing-mangrove-ecosystems/</link>
-<guid isPermaLink="false">https://gna.org.gh/2026/07/stakeholders-call-for-protection-of-ghanas-disappearing-mangrove-ecosystems/</guid>
-<pubDate>Fri, 31 Jul 2026 02:35:15 +0000</pubDate>
-<description>The activities included the launching of a large-scale mangrove restoration project at Wokumagbe by the ActionAid Ghana, in collaboration with Habitat ...</description>
 </item>
 </channel>
 </rss>

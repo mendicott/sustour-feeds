@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/canada.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Canada. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 15 Aug 2026 10:04:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 22:06:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Canada Leads Australia, and Guatemala Lead Indigenous-Led Eco-Tourism Models ...</title>
+<link>https://www.travelandtourworld.com/news/article/l6bhxg5hdh35/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/l6bhxg5hdh35/</guid>
+<pubDate>Sat, 15 Aug 2026 20:11:17 +0000</pubDate>
+<description>Discover how Canada, Australia, Kenya, and Guatemala lead Indigenous-led eco-tourism models protecting ancestral lands, biodiversity, and culture.</description>
+</item>
 <item>
 <title>Reconciliation at the heart of Tourism Australia's plan - Canadian Travel Press</title>
 <link>https://www.travelpress.com/reconciliation-at-the-heart-of-tourism-australias-plan/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-unesco-geopark-prehistoric-past-9.7276850</guid>
 <pubDate>Sat, 01 Aug 2026 13:03:24 +0000</pubDate>
 <description>One of five UNESCO Geoparks in Canada, Tumbler Ridge has been attracting people from around the world who are helping to uncover the region's ...</description>
-</item>
-<item>
-<title>The Canadian Wilderness Lodge You Can Only Reach by Seaplane - Fodors Travel Guide</title>
-<link>https://www.fodors.com/world/north-america/canada/experiences/news/going-off-the-grid-in-canada-helped-save-me</link>
-<guid isPermaLink="false">https://www.fodors.com/world/north-america/canada/experiences/news/going-off-the-grid-in-canada-helped-save-me</guid>
-<pubDate>Thu, 30 Jul 2026 20:18:08 +0000</pubDate>
-<description>Between the UNESCO Biosphere Reserve designation of Clayoquot Sound, the First Nations cultural partnerships woven into every detail of the experience ...</description>
 </item>
 </channel>
 </rss>
