@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/australia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Australia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 14 Aug 2026 22:08:02 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 10:04:49 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>This Australian city is creating a new national park | The Independent</title>
+<link>https://www.independent.co.uk/travel/news-and-advice/sydney-gulguer-national-park-b3033093.html</link>
+<guid isPermaLink="false">https://www.independent.co.uk/travel/news-and-advice/sydney-gulguer-national-park-b3033093.html</guid>
+<pubDate>Sat, 15 Aug 2026 00:09:52 +0000</pubDate>
+<description>Travel · News &amp; Advice. This Australian city is creating a new national ... Conservation Area with Burragorang State Conservation Area. While an ...</description>
+</item>
 <item>
 <title>Reconciliation at the heart of Tourism Australia's plan - Canadian Travel Press</title>
 <link>https://www.travelpress.com/reconciliation-at-the-heart-of-tourism-australias-plan/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/195bu6cbnof9/</guid>
 <pubDate>Mon, 03 Aug 2026 11:49:54 +0000</pubDate>
 <description>Discover how Phillip Island penguin tourism has become a global benchmark for conservation-led travel, sustainable visitor experiences and ...</description>
-</item>
-<item>
-<title>Discover the Fully Upgraded Mimbi Caves Campground in Australia's Ancient Kimberley Wilderness</title>
-<link>https://www.travelandtourworld.com/news/article/yfg8g9klq2ll/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/yfg8g9klq2ll/</guid>
-<pubDate>Mon, 03 Aug 2026 07:25:59 +0000</pubDate>
-<description>... geological and Indigenous heritage sites. Far into the untouched ... tourism directly benefits the local Indigenous community, fostering ...</description>
 </item>
 </channel>
 </rss>

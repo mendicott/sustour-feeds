@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/luxembourg.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Luxembourg. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 14 Aug 2026 22:08:02 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 10:04:49 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Earth Overshoot Day: Environmental organisations stage demonstration at Findel airport</title>
@@ -44,6 +44,13 @@
 <description>... Green Spaces as Luxembourg City Unveils Ambitious Climate Resilience Plan for Sustainable Tourism and Future-Ready Living. Published on July 9 ...</description>
 </item>
 <item>
+<title>Iceland glacier melting: Archie Williams slackline documentary | Luxembourg Times</title>
+<link>https://www.luxtimes.lu/yourluxembourg/leisureandtravel/climate-change-documentary/159750297.html</link>
+<guid isPermaLink="false">https://www.luxtimes.lu/yourluxembourg/leisureandtravel/climate-change-documentary/159750297.html</guid>
+<pubDate>Sat, 15 Aug 2026 05:10:02 +0000</pubDate>
+<description>Archie Williams crosses a melting Iceland glacier on a highline to expose climate change and mass tourism's impact.</description>
+</item>
+<item>
 <title>Would you give up flying to help the planet? These people already have | Luxembourg Times</title>
 <link>https://www.luxtimes.lu/yourluxembourg/leisureandtravel/would-you-give-up-flying-to-help-the-planet-these-people-already-have/4834977.html</link>
 <guid isPermaLink="false">https://www.luxtimes.lu/yourluxembourg/leisureandtravel/would-you-give-up-flying-to-help-the-planet-these-people-already-have/4834977.html</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.reuters.com/business/environment/greek-islands-face-drought-tourist-season-hits-2026-07-16/</guid>
 <pubDate>Thu, 16 Jul 2026 11:57:14 +0000</pubDate>
 <description>In June, he briefed other environment ministers in Luxembourg on water resilience. "For Greece, water isn't theoretical- it's about security, economic ...</description>
-</item>
-<item>
-<title>Climate change: High water temperatures threaten Luxembourg's aquatic life - RTL Today</title>
-<link>https://today.rtl.lu/news/luxembourg/high-water-temperatures-threaten-luxembourgs-aquatic-life-790526356</link>
-<guid isPermaLink="false">https://today.rtl.lu/news/luxembourg/high-water-temperatures-threaten-luxembourgs-aquatic-life-790526356</guid>
-<pubDate>Tue, 30 Jun 2026 06:31:38 +0000</pubDate>
-<description>Luxembourg and EU officials have warned that rising water temperatures are putting fish and aquatic ecosystems under growing pressure, ...</description>
 </item>
 </channel>
 </rss>
