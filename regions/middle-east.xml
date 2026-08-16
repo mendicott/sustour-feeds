@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/middle-east.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Middle East. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 16 Aug 2026 10:04:10 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 22:06:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Jordan invests $120 million to develop Jesus' Baptism site ahead of 2030 celebrations</title>
+<link>https://syriacpress.com/blog/2026/08/16/jordan-invests-120-million-to-develop-jesus-baptism-site-ahead-of-2030-celebrations/</link>
+<guid isPermaLink="false">https://syriacpress.com/blog/2026/08/16/jordan-invests-120-million-to-develop-jesus-baptism-site-ahead-of-2030-celebrations/</guid>
+<pubDate>Sun, 16 Aug 2026 14:19:44 +0000</pubDate>
+<description>... World Heritage Site, in an effort to combine tourism infrastructure development with the preservation of the site's religious and historical value.</description>
+</item>
 <item>
 <title>Abu Dhabi expands protection for native species and habitats beyond nature reserves</title>
 <link>https://www.thenationalnews.com/news/uae/2026/08/15/abu-dhabi-expands-habitat-protection-for-native-species-beyond-nature-reserves/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://kuwaittimes.com/article/47917/kuwait/other-news/beit-kofan-blends-dhofar-heritage-with-sustainable-tourism/amp</guid>
 <pubDate>Mon, 10 Aug 2026 18:42:44 +0000</pubDate>
 <description>Beit Kofan blends Dhofar heritage with sustainable tourism - Kuwait - TAQAH, Oman: At a time when historic sites around the world face growing ...</description>
-</item>
-<item>
-<title>Dhofar opens licensing route for green tourism - Oman Observer</title>
-<link>https://www.omanobserver.om/article/1194274/oman/dhofar-opens-licensing-route-for-green-tourism</link>
-<guid isPermaLink="false">https://www.omanobserver.om/article/1194274/oman/dhofar-opens-licensing-route-for-green-tourism</guid>
-<pubDate>Mon, 10 Aug 2026 16:45:37 +0000</pubDate>
-<description>SALALAH: Dhofar has a licensing framework for green tourism, including agricultural tourism, while proposals to integrate the governorate's ...</description>
 </item>
 </channel>
 </rss>

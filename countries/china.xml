@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for China. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 16 Aug 2026 10:04:10 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 22:06:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>UNESCO reps evaluate Mt. Apo's nomination for Global Geopark - MindaNews</title>
+<link>https://mindanews.com/top-stories/2026/08/unesco-reps-evaluate-mt-apos-nomination-for-global-geopark/</link>
+<guid isPermaLink="false">https://mindanews.com/top-stories/2026/08/unesco-reps-evaluate-mt-apos-nomination-for-global-geopark/</guid>
+<pubDate>Sun, 16 Aug 2026 15:55:17 +0000</pubDate>
+<description>... Geopark. UNESCO evaluators Gay Martin Martini of France and Chenggong Zhang of China, will verify first-hand the self-evaluation checklist ...</description>
+</item>
 <item>
 <title>(EcoChina) CHINA-SICHUAN-ZOIGE WETLAND-ECOLOGICAL RESTORATION (CN)</title>
 <link>https://www.bignewsnetwork.com/news/279243745/ecochina-china-sichuan-zoige-wetland-ecological-restoration-cn</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://english.news.cn/20260728/0a3b2e4627a446daa0d5590de0536504/c.html</guid>
 <pubDate>Tue, 28 Jul 2026 15:20:26 +0000</pubDate>
 <description>Fuzhou's jasmine tea industrial heritage fuels local cultural tourism growth ... GLOBALink | Traditional Chinese culture fuels immersive summer travel ...</description>
-</item>
-<item>
-<title>China shares its experiences at World Heritage Committee session</title>
-<link>https://www.chinadaily.com.cn/a/202607/26/WS6a65ed9aa310986e2b467545.html</link>
-<guid isPermaLink="false">https://www.chinadaily.com.cn/a/202607/26/WS6a65ed9aa310986e2b467545.html</guid>
-<pubDate>Sun, 26 Jul 2026 17:23:01 +0000</pubDate>
-<description>"Since 2024, the National Cultural Heritage Administration of China has been donating to ICOMOS to fund a joint research project to develop a ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 16 Aug 2026 10:04:10 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 22:06:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Restoring the ecosystem of Lap An Lagoon (Hue) in conjunction with tourism development.</title>
+<link>https://www.vietnam.vn/en/phuc-hoi-he-sinh-thai-dam-lap-an-hue-gan-voi-phat-trien-du-lich</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/phuc-hoi-he-sinh-thai-dam-lap-an-hue-gan-voi-phat-trien-du-lich</guid>
+<pubDate>Sun, 16 Aug 2026 10:24:19 +0000</pubDate>
+<description>... environmentally friendly materials, while simultaneously protecting the landscape and developing tourism . ... Travel · Happy Vietnam · Enterprise ...</description>
+</item>
 <item>
 <title>Efforts underway to keep Dao Thanh Y cultural heritage alive - Vietnam Plus</title>
 <link>https://en.vietnamplus.vn/efforts-underway-to-keep-dao-thanh-y-cultural-heritage-alive-post350095.vnp</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.vietnam.vn/en/tang-cuong-quan-ly-bao-ve-ben-vung-gia-tri-di-san</guid>
 <pubDate>Fri, 14 Aug 2026 13:10:20 +0000</pubDate>
 <description>... Natural Heritage Site. Rapid tourism development has led to increased land values, creating a growing demand for housing, accommodation ...</description>
-</item>
-<item>
-<title>Unlocking the tourism potential of Dak Nong Geopark - Vietnam.vn</title>
-<link>https://www.vietnam.vn/en/danh-thuc-tiem-nang-du-lich-tu-cong-vien-dia-chat-dak-nong</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/danh-thuc-tiem-nang-du-lich-tu-cong-vien-dia-chat-dak-nong</guid>
-<pubDate>Thu, 13 Aug 2026 00:06:53 +0000</pubDate>
-<description>The UNESCO Dak Nong Global Geopark brings together unique values ​​in geology, archaeology, nature, and indigenous culture.</description>
 </item>
 </channel>
 </rss>

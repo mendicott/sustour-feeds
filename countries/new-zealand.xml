@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/new-zealand.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for New Zealand. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 16 Aug 2026 10:04:10 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 22:06:15 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>The Real Price of Viral Fame: Why New Zealand's Taranaki Overtourism Crisis Is ...</title>
+<link>https://www.travelandtourworld.com/news/article/1td06gv1nk0e/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/1td06gv1nk0e/</guid>
+<pubDate>Sun, 16 Aug 2026 20:48:48 +0000</pubDate>
+<description>The Real Price of Viral Fame: Why New Zealand's Taranaki Overtourism Crisis Is Bankrupting Rural Infrastructure · The Financial Paradox of the Drive-By ...</description>
+</item>
 <item>
 <title>New Zealand Invests $500,000 to Promote Responsible Tourism | Law-Order</title>
 <link>https://www.devdiscourse.com/article/law-order/3962292-new-zealand-invests-500000-to-promote-responsible-tourism</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/s1zg1s0ip47d/</guid>
 <pubDate>Mon, 27 Jul 2026 16:31:11 +0000</pubDate>
 <description>New Zealand's sustainable tourism approach includes stronger visitor awareness campaigns, conservation funding and responsible travel expectations.</description>
-</item>
-<item>
-<title>Denmark's Copenhagen and New Zealand's Queenstown Put Regenerative Tourism to the ...</title>
-<link>https://www.travelandtourworld.com/news/article/arb7m8gdons5/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/arb7m8gdons5/</guid>
-<pubDate>Sat, 25 Jul 2026 08:27:15 +0000</pubDate>
-<description>Its Travel to a Thriving Future plan targets regenerative tourism and a carbon-zero visitor economy by 2030. Unlike many destination strategies, it ...</description>
 </item>
 </channel>
 </rss>
