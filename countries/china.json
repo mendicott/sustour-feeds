@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://english.news.cn/africa/20260817/af95cd5b81bd4157a9560c548f5bda7f/c.html",
+      "url": "https://english.news.cn/africa/20260817/af95cd5b81bd4157a9560c548f5bda7f/c.html",
+      "title": "Feature: Chinese conservationist explores community-based wildlife protection in Kenya",
+      "content_text": "Meanwhile, households participating in the scheme receive land-rental income and have access to jobs such as wildlife rangers and tourism workers.",
+      "date_published": "2026-08-17T15:22:20+00:00"
+    },
+    {
       "id": "https://mindanews.com/top-stories/2026/08/unesco-reps-evaluate-mt-apos-nomination-for-global-geopark/",
       "url": "https://mindanews.com/top-stories/2026/08/unesco-reps-evaluate-mt-apos-nomination-for-global-geopark/",
       "title": "UNESCO reps evaluate Mt. Apo's nomination for Global Geopark - MindaNews",
@@ -68,13 +75,6 @@
       "title": "Petra, China's Badaling Great Wall Forge Partnership to Advance Heritage Tourism",
       "content_text": "... preservation, sustainable tourism, and destination management. The agreement was signed on Sunday during an official ceremony in Beijing, marking ...",
       "date_published": "2026-07-30T07:16:41+00:00"
-    },
-    {
-      "id": "https://english.news.cn/20260728/0a3b2e4627a446daa0d5590de0536504/c.html",
-      "url": "https://english.news.cn/20260728/0a3b2e4627a446daa0d5590de0536504/c.html",
-      "title": "(Hello Africa) All-female rangers boost wildlife conservation efforts in Kenya's Amboseli",
-      "content_text": "Fuzhou's jasmine tea industrial heritage fuels local cultural tourism growth ... GLOBALink | Traditional Chinese culture fuels immersive summer travel ...",
-      "date_published": "2026-07-28T15:20:26+00:00"
     }
   ]
 }

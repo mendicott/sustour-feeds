@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/guam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Guam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 17 Aug 2026 10:04:47 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 22:08:18 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>More than 125 turn out in Guam to hunt the invasive snake blamed for bird losses and blackouts</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://www.yahoo.com/news/science/articles/more-125-turn-guam-hunt-232400542.html</guid>
 <pubDate>Mon, 22 Jun 2026 11:51:51 +0000</pubDate>
 <description>"Every species we protect is part of our island's identity, our stories, and our future."</description>
+</item>
+<item>
+<title>Community input to shape Guam Coral Reef Strategy - KUAM</title>
+<link>https://www.kuam.com/story/353372464/community-input-to-shape-guam-coral-reef-strategy</link>
+<guid isPermaLink="false">https://www.kuam.com/story/353372464/community-input-to-shape-guam-coral-reef-strategy</guid>
+<pubDate>Mon, 17 Aug 2026 17:23:38 +0000</pubDate>
+<description>The Guam Coral Reef Initiative is turning to the community to help shape the island's coral conservation efforts for the next five years.</description>
 </item>
 <item>
 <title>Guam Tourism Future Set for a Major Transformation as Island Leaders Reveal New Vision ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://pacific.scoop.co.nz/2026/07/pacific-voices-condemn-us-plan-for-offshore-mineral-extraction-off-american-samoa/</guid>
 <pubDate>Mon, 20 Jul 2026 18:03:59 +0000</pubDate>
 <description>"Our home is not for sale." Maria Hernandez of the Micronesia Climate Change Alliance in Guam said the proposal highlighted broader concerns over ...</description>
-</item>
-<item>
-<title>Super typhoon Bavi nears Pacific islands with huge wind gusts - BBC News</title>
-<link>https://www.bbc.co.uk/news/articles/cr7xpgx50jxo</link>
-<guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr7xpgx50jxo</guid>
-<pubDate>Sun, 05 Jul 2026 21:25:08 +0000</pubDate>
-<description>While storms of this strength are unusual for the US islands, scientists say climate change is making powerful typhoons more common. ... Guam - is ...</description>
 </item>
 </channel>
 </rss>

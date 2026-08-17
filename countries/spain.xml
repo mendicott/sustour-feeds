@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 17 Aug 2026 10:04:47 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 22:08:18 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Spain and Other Countries Tackles Overtourism By Banning Short-Term Holiday Rentals ...</title>
+<link>https://www.travelandtourworld.com/news/article/hshcs880gmyc/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/hshcs880gmyc/</guid>
+<pubDate>Mon, 17 Aug 2026 20:16:42 +0000</pubDate>
+<description>How Is Spain Balancing Mass Tourism With Resident Housing Rights? Spain has become the focal point of European anti-tourism activism, where local ...</description>
+</item>
 <item>
 <title>Greece Overtakes Eight European Nations to Claim the Crown as the World's Greatest ...</title>
 <link>https://www.travelandtourworld.com/news/article/kseyw83pjktd/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://niagaranow.com/opinion.phtml/letter-tourism-pushback-in-spain-an-omen-of-things-to-come/</guid>
 <pubDate>Thu, 06 Aug 2026 01:37:48 +0000</pubDate>
 <description>For the third year in a row, riot police have clashed with local tourist protesters in Majorca, Spain. In NOTL, for years, tourism has been at the ...</description>
-</item>
-<item>
-<title>Spain Aligns with Italy and Others to Witness a Major Travel Shift in 2026 as Overtourism ...</title>
-<link>https://www.travelandtourworld.com/news/article/qx4mjxuksrjd/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/qx4mjxuksrjd/</guid>
-<pubDate>Wed, 29 Jul 2026 10:00:50 +0000</pubDate>
-<description>Overtourism friction and climate change drive travelers away from crowded hubs toward secondary destinations and off-peak "hidden seasons", ensuring ...</description>
 </item>
 </channel>
 </rss>

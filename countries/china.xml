@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for China. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 17 Aug 2026 10:04:47 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 22:08:18 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Feature: Chinese conservationist explores community-based wildlife protection in Kenya</title>
+<link>https://english.news.cn/africa/20260817/af95cd5b81bd4157a9560c548f5bda7f/c.html</link>
+<guid isPermaLink="false">https://english.news.cn/africa/20260817/af95cd5b81bd4157a9560c548f5bda7f/c.html</guid>
+<pubDate>Mon, 17 Aug 2026 15:22:20 +0000</pubDate>
+<description>Meanwhile, households participating in the scheme receive land-rental income and have access to jobs such as wildlife rangers and tourism workers.</description>
+</item>
 <item>
 <title>UNESCO reps evaluate Mt. Apo's nomination for Global Geopark - MindaNews</title>
 <link>https://mindanews.com/top-stories/2026/08/unesco-reps-evaluate-mt-apos-nomination-for-global-geopark/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://petra.gov.jo/grades/index.php/en/news/petra-chinas-badaling-great-wall-forge-partnership-to-advance-heritage-tourism</guid>
 <pubDate>Thu, 30 Jul 2026 07:16:41 +0000</pubDate>
 <description>... preservation, sustainable tourism, and destination management. The agreement was signed on Sunday during an official ceremony in Beijing, marking ...</description>
-</item>
-<item>
-<title>(Hello Africa) All-female rangers boost wildlife conservation efforts in Kenya's Amboseli</title>
-<link>https://english.news.cn/20260728/0a3b2e4627a446daa0d5590de0536504/c.html</link>
-<guid isPermaLink="false">https://english.news.cn/20260728/0a3b2e4627a446daa0d5590de0536504/c.html</guid>
-<pubDate>Tue, 28 Jul 2026 15:20:26 +0000</pubDate>
-<description>Fuzhou's jasmine tea industrial heritage fuels local cultural tourism growth ... GLOBALink | Traditional Chinese culture fuels immersive summer travel ...</description>
 </item>
 </channel>
 </rss>
