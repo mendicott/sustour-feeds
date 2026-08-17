@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 16 Aug 2026 22:06:15 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 10:04:47 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Caribbean Travel Gains Sustainable Focus as Cozumel Protects Fragile Coral Ecosystems</title>
+<link>https://www.travelandtourworld.com/news/article/z1ba08u6iyzy/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/z1ba08u6iyzy/</guid>
+<pubDate>Sun, 16 Aug 2026 22:05:28 +0000</pubDate>
+<description>Cozumel travel adapts as Mexico closes reef sites temporarily to protect coral ecosystems and tourism future.</description>
+</item>
 <item>
 <title>Mexico Puts Guardrails on Orca Tourism in Baja - Marco Lopez</title>
 <link>https://www.marcolopez.com/post/mexico-puts-guardrails-on-orca-tourism-in-baja</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/mexico-launches-sustainable-tourism-investment-framework</guid>
 <pubDate>Tue, 04 Aug 2026 21:31:58 +0000</pubDate>
 <description>Destination stewardship succeeds when governments, local communities and the private sector work together with a shared vision for long-term success.</description>
-</item>
-<item>
-<title>Mexico, Ecuador and Other Countries Lead Sustainable Tourism Transformation as Global ...</title>
-<link>https://www.travelandtourworld.com/news/article/92nfkutxut2g/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/92nfkutxut2g/</guid>
-<pubDate>Mon, 03 Aug 2026 03:48:00 +0000</pubDate>
-<description>... Heritage conservation, Protects cultural identity. Environmental planning, Builds resilience. Responsible travel, Reduces negative impacts. Mexico ...</description>
 </item>
 </channel>
 </rss>

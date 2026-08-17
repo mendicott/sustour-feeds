@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/iraq.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Iraq. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 16 Aug 2026 22:06:15 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 10:04:47 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Iraq and Chibayish Revive Mesopotamian Marshes as Eco-Tourism Enters a New Era</title>
+<link>https://www.travelandtourworld.com/news/article/id0c0i0t4a0g/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/id0c0i0t4a0g/</guid>
+<pubDate>Mon, 17 Aug 2026 07:23:52 +0000</pubDate>
+<description>Three UNESCO elements: The site combines natural wetland ecosystems with archaeological remains associated with ancient Mesopotamia. Water Returns to ...</description>
+</item>
 <item>
 <title>Kurdistan Region Moves to Register 45 Protected Areas - Kurdistan24</title>
 <link>https://www.kurdistan24.net/en/story/931773/kurdistan-region-moves-to-register-45-protected-areas</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.taghribnews.com/en/news/731636/over-1-27-million-pilgrims-have-entered-iraq-since-the-beginning-of-muharram</guid>
 <pubDate>Sun, 26 Jul 2026 16:26:39 +0000</pubDate>
 <description>He added that this figure has been recorded within the framework of pilgrimage travel, and the process of pilgrim entry through all border ...</description>
-</item>
-<item>
-<title>Iraq pushes green initiatives for Arbaeen pilgrimage</title>
-<link>https://shafaq.com/amp/en/society/Iraq-pushes-green-initiatives-for-Arbaeen-pilgrimage</link>
-<guid isPermaLink="false">https://shafaq.com/amp/en/society/Iraq-pushes-green-initiatives-for-Arbaeen-pilgrimage</guid>
-<pubDate>Sat, 25 Jul 2026 10:16:56 +0000</pubDate>
-<description>Shafaq News- Baghdad The Iraq Green Observatory on Saturday called for greener practices during Iraq's Arbaeen pilgrimage, encouraging service ...</description>
 </item>
 </channel>
 </rss>

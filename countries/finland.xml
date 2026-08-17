@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/finland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Finland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 16 Aug 2026 22:06:15 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 10:04:47 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Spain Teams Up With France, Finland, Germany, Netherlands, UK and Italy to Drive a New ...</title>
@@ -51,6 +51,13 @@
 <description>Finland joins Belgium, Spain, Norway, UK in Europe's regenerative tourism shift, replacing mass tourism with cross-border living systems for ...</description>
 </item>
 <item>
+<title>Finland Wellbeing Tourism Goes Mainstream as Sauna and Digital Detox Reshape Lakeland Travel</title>
+<link>https://www.travelandtourworld.com/news/article/kl1g60twc1lq/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/kl1g60twc1lq/</guid>
+<pubDate>Mon, 17 Aug 2026 04:50:10 +0000</pubDate>
+<description>Finland wellbeing tourism is rising as sauna, silence and digital detox turn Lakeland into a fresh escape for slow, nature-led travel.</description>
+</item>
+<item>
 <title>Finland's first International Dark Sky Park - DarkSky.org</title>
 <link>https://darksky.org/news/syrjavaara-becomes-finlands-first-international-dark-sky-park/</link>
 <guid isPermaLink="false">https://darksky.org/news/syrjavaara-becomes-finlands-first-international-dark-sky-park/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/yeg9on2ewz72/</guid>
 <pubDate>Thu, 16 Jul 2026 08:41:56 +0000</pubDate>
 <description>Discover the world's greenest countries leading renewable energy, conservation and sustainable tourism with inspiring eco-friendly travel ...</description>
-</item>
-<item>
-<title>Denmark Aligns with UK, France, Finland and Others in Leading Sustainable Travel ...</title>
-<link>https://www.travelandtourworld.com/news/article/rv3qejf16pp9/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/rv3qejf16pp9/</guid>
-<pubDate>Tue, 14 Jul 2026 07:18:06 +0000</pubDate>
-<description>Pioneered by Wonderful Copenhagen and backed by the European Commission as a validated pathway for future tourism development, the deployment of state ...</description>
 </item>
 </channel>
 </rss>

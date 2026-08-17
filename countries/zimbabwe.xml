@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/zimbabwe.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Zimbabwe. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 16 Aug 2026 22:06:15 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 10:04:47 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Great Zimbabwe project complete, awaits commissioning - The Herald</title>
+<link>https://www.heraldonline.co.zw/great-zimbabwe-project-complete-awaits-commissioning/</link>
+<guid isPermaLink="false">https://www.heraldonline.co.zw/great-zimbabwe-project-complete-awaits-commissioning/</guid>
+<pubDate>Sun, 16 Aug 2026 22:20:54 +0000</pubDate>
+<description>... tourism destination. Obviously ... The initiative forms part of a broader programme to rehabilitate and develop the Great Zimbabwe World Heritage ...</description>
+</item>
 <item>
 <title>The extraordinary comeback of Zimbabwe's endangered black rhinos | National Geographic</title>
 <link>https://www.nationalgeographic.com/animals/article/black-rhino-reintroduction-matusadona</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://ftnnews.com/travel-news/aviation/emirates-skycargo-flies-specialist-dogs-to-zimbabwe-to-combat-poaching/</guid>
 <pubDate>Mon, 22 Jun 2026 09:22:50 +0000</pubDate>
 <description>Travel &amp; Tourism Associations ... These animals will play a vital role in protecting endangered species and strengthening conservation efforts on the ...</description>
-</item>
-<item>
-<title>Montclair embraces sustainable tourism as RTG invests in Eastern Highlands growth</title>
-<link>https://www.heraldonline.co.zw/montclair-embraces-sustainable-tourism-as-rtg-invests-in-eastern-highlands-growth/</link>
-<guid isPermaLink="false">https://www.heraldonline.co.zw/montclair-embraces-sustainable-tourism-as-rtg-invests-in-eastern-highlands-growth/</guid>
-<pubDate>Fri, 19 Jun 2026 09:18:44 +0000</pubDate>
-<description>"The Eastern Highlands is one of Zimbabwe's most spectacular tourism assets and we believe it has immense potential to become the country's next major ...</description>
 </item>
 </channel>
 </rss>
