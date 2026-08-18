@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/middle-east.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Middle East. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 18 Aug 2026 10:04:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 22:08:17 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Egypt, UNDP discuss new fund to protect Red Sea coral reefs</title>
+<link>https://www.egyptindependent.com/egypt-undp-discuss-new-fund-to-protect-red-sea-coral-reefs/</link>
+<guid isPermaLink="false">https://www.egyptindependent.com/egypt-undp-discuss-new-fund-to-protect-red-sea-coral-reefs/</guid>
+<pubDate>Tue, 18 Aug 2026 10:32:17 +0000</pubDate>
+<description>Local Development and Environment Minister Manal Awad had a meeting with Deputy Resident Representative of the United Nations Development Program ...</description>
+</item>
 <item>
 <title>Ayla Leverages Nature-Based Solutions to Enhance Biodiversity in Aqaba - Jordan News</title>
 <link>https://www.jordannews.jo/Section-120/All/Ayla-Leverages-Nature-Based-Solutions-to-Enhance-Biodiversity-in-Aqaba-54383</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.thetraveler.org/jordan-tourism-powers-cultural-revival-in-wadi-rum/</guid>
 <pubDate>Wed, 12 Aug 2026 18:17:07 +0000</pubDate>
 <description>Jordan strengthens community tourism in Wadi Rum, using Bedouin ... Several recent initiatives in and around Wadi Rum show how community-based tourism ...</description>
-</item>
-<item>
-<title>Jordan Tourism Leans On Wadi Rum's Living Bedouin Heritage</title>
-<link>https://www.thetraveler.org/jordan-tourism-leans-on-wadi-rums-living-bedouin-heritage/</link>
-<guid isPermaLink="false">https://www.thetraveler.org/jordan-tourism-leans-on-wadi-rums-living-bedouin-heritage/</guid>
-<pubDate>Wed, 12 Aug 2026 18:06:52 +0000</pubDate>
-<description>Jordan is doubling down on cultural tourism, with Wadi Rum's Bedouin-led experiences emerging as a showcase for heritage-focused travel and ...</description>
 </item>
 </channel>
 </rss>

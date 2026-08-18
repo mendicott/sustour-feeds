@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/egypt.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Egypt. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 18 Aug 2026 10:04:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 22:08:17 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Egypt, UNDP discuss new fund to protect Red Sea coral reefs</title>
+<link>https://www.egyptindependent.com/egypt-undp-discuss-new-fund-to-protect-red-sea-coral-reefs/</link>
+<guid isPermaLink="false">https://www.egyptindependent.com/egypt-undp-discuss-new-fund-to-protect-red-sea-coral-reefs/</guid>
+<pubDate>Tue, 18 Aug 2026 10:32:17 +0000</pubDate>
+<description>Local Development and Environment Minister Manal Awad had a meeting with Deputy Resident Representative of the United Nations Development Program ...</description>
+</item>
 <item>
 <title>Egypt Must Halt Actions Undermining St Catherine's Monastery and Rights of Monks</title>
 <link>https://eipr.org/en/press/2026/08/protecting-living-heritage-%E2%80%9Cdevelopment%E2%80%9D-egypt-must-halt-actions-undermining-st</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.dailynewsegypt.com/2026/07/25/egypt-reviews-41-ecotourism-investment-opportunities-in-nabq-nature-reserve/</guid>
 <pubDate>Sat, 25 Jul 2026 19:08:38 +0000</pubDate>
 <description>Egypt is reviewing around 41 investment opportunities in the Nabq Nature Reserve in South Sinai as part of plans to expand ecotourism while ...</description>
-</item>
-<item>
-<title>Egypt unveils 41 green investment projects in Nabq - Egyptian Gazette</title>
-<link>https://egyptian-gazette.com/egypt/egypt-unveils-41-green-investment-projects-in-nabq/</link>
-<guid isPermaLink="false">https://egyptian-gazette.com/egypt/egypt-unveils-41-green-investment-projects-in-nabq/</guid>
-<pubDate>Sat, 25 Jul 2026 13:33:04 +0000</pubDate>
-<description>... ecotourism destinations through environmentally responsible investment that safeguards biodiversity, preserves natural resources and supports the ...</description>
 </item>
 </channel>
 </rss>

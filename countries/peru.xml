@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/peru.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Peru. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 18 Aug 2026 10:04:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 22:08:17 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Peru's Machu Picchu: New visitor capacity study will help regulate tourism | News | ANDINA</title>
+<link>https://andina.pe/ingles/noticia-perus-machu-picchu-new-visitor-capacity-study-will-help-regulate-tourism-1088017.aspx</link>
+<guid isPermaLink="false">https://andina.pe/ingles/noticia-perus-machu-picchu-new-visitor-capacity-study-will-help-regulate-tourism-1088017.aspx</guid>
+<pubDate>Tue, 18 Aug 2026 14:39:54 +0000</pubDate>
+<description>09:30 | Lima, Aug. 18. The Ministry of Foreign Trade and Tourism (Mincetur) launched the preparation of the ...</description>
+</item>
 <item>
 <title>Peru's wild five.</title>
 <link>https://www.peru.travel/yourperfectperu/Articulo?n=perus-wild-five</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://andina.pe/ingles/noticia-peru-is-a-benchmark-for-nature-tourism-thanks-to-whalewatching-season-1083463.aspx</guid>
 <pubDate>Tue, 14 Jul 2026 06:25:34 +0000</pubDate>
 <description>Every year, thousands of humpback whales travel more than 8,000 kilometers from Antarctica to the waters off northern Peru to breed, turning the ...</description>
-</item>
-<item>
-<title>Peru's Manú National Park Beats Kenya, Brazil, Ecuador, India, Costa Rica and More to ...</title>
-<link>https://www.travelandtourworld.com/news/article/llyroouqxiak/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/llyroouqxiak/</guid>
-<pubDate>Tue, 14 Jul 2026 02:29:09 +0000</pubDate>
-<description>The final ranking reinforces Peru's growing reputation as a global leader in wildlife tourism, with Manú National Park and Tambopata National Reserve ...</description>
 </item>
 </channel>
 </rss>

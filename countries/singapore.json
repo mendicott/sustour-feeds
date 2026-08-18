@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.eurekalert.org/news-releases/1140460",
+      "url": "https://www.eurekalert.org/news-releases/1140460",
+      "title": "NTU Singapore study suggests that three-quarters of Indo-Pacific coral reefs could drown as ...",
+      "content_text": "The loss of complex reef structures could also reduce the habitats available to fish and other marine organisms, affecting fisheries, tourism and ...",
+      "date_published": "2026-08-18T16:59:56+00:00"
+    },
+    {
       "id": "https://english.kyodonews.net/articles/-/82276",
       "url": "https://english.kyodonews.net/articles/-/82276",
       "title": "PARKROYAL COLLECTION Marina Bay, Singapore Named Among Singapore's Top 10 ...",
@@ -68,13 +75,6 @@
       "title": "Sustainable Tourism Academy reaches a user milestone - TTR Weekly",
       "content_text": "SINGAPORE, 30 June 2026: Digital travel platform Agoda and the Global Sustainable Tourism Council (GSTC) celebrate the first anniversary of the ...",
       "date_published": "2026-06-30T05:03:04+00:00"
-    },
-    {
-      "id": "https://www.tradingview.com/news/prnewswire:07dff9435c506:0-sustainable-tourism-academy-celebrates-3-000-user-milestone-in-first-year-with-asean-expansion-and-new-language-support/",
-      "url": "https://www.tradingview.com/news/prnewswire:07dff9435c506:0-sustainable-tourism-academy-celebrates-3-000-user-milestone-in-first-year-with-asean-expansion-and-new-language-support/",
-      "title": "Sustainable Tourism Academy Celebrates 3000-User Milestone in First Year with ASEAN ...",
-      "content_text": "SINGAPORE, June 29, 2026 /PRNewswire/ -- Digital travel platform Agoda and the Global Sustainable Tourism Council (GSTC) celebrate the first ...",
-      "date_published": "2026-06-29T05:02:22+00:00"
     }
   ]
 }

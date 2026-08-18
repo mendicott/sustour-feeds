@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/singapore.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Singapore. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 18 Aug 2026 10:04:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 22:08:17 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>NTU Singapore study suggests that three-quarters of Indo-Pacific coral reefs could drown as ...</title>
+<link>https://www.eurekalert.org/news-releases/1140460</link>
+<guid isPermaLink="false">https://www.eurekalert.org/news-releases/1140460</guid>
+<pubDate>Tue, 18 Aug 2026 16:59:56 +0000</pubDate>
+<description>The loss of complex reef structures could also reduce the habitats available to fish and other marine organisms, affecting fisheries, tourism and ...</description>
+</item>
 <item>
 <title>PARKROYAL COLLECTION Marina Bay, Singapore Named Among Singapore's Top 10 ...</title>
 <link>https://english.kyodonews.net/articles/-/82276</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.ttrweekly.com/site/2026/06/sustainable-tourism-academy-reaches-a-user-milestone/</guid>
 <pubDate>Tue, 30 Jun 2026 05:03:04 +0000</pubDate>
 <description>SINGAPORE, 30 June 2026: Digital travel platform Agoda and the Global Sustainable Tourism Council (GSTC) celebrate the first anniversary of the ...</description>
-</item>
-<item>
-<title>Sustainable Tourism Academy Celebrates 3000-User Milestone in First Year with ASEAN ...</title>
-<link>https://www.tradingview.com/news/prnewswire:07dff9435c506:0-sustainable-tourism-academy-celebrates-3-000-user-milestone-in-first-year-with-asean-expansion-and-new-language-support/</link>
-<guid isPermaLink="false">https://www.tradingview.com/news/prnewswire:07dff9435c506:0-sustainable-tourism-academy-celebrates-3-000-user-milestone-in-first-year-with-asean-expansion-and-new-language-support/</guid>
-<pubDate>Mon, 29 Jun 2026 05:02:22 +0000</pubDate>
-<description>SINGAPORE, June 29, 2026 /PRNewswire/ -- Digital travel platform Agoda and the Global Sustainable Tourism Council (GSTC) celebrate the first ...</description>
 </item>
 </channel>
 </rss>

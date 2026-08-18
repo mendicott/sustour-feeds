@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 18 Aug 2026 10:04:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 22:08:17 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>"Only 3,000 Residents, Yet 50,000 Visitors a Day: Island Towns Abuzz After 'Odyssey ...</title>
+<link>https://www.asiae.co.kr/en/article/life-general/2026081810124964134</link>
+<guid isPermaLink="false">https://www.asiae.co.kr/en/article/life-general/2026081810124964134</guid>
+<pubDate>Tue, 18 Aug 2026 01:54:19 +0000</pubDate>
+<description>Population 3,000... Overtourism Measures Under Review. With the success of director Christopher Nolan's film "Odyssey," both Ithaca in Greece, known ...</description>
+</item>
 <item>
 <title>'Very unusual': Malta records no loggerhead turtle nests despite 11 nesting attempts</title>
 <link>https://www.independent.com.mt/articles/2026-08-17/local-news/Very-unusual-Malta-records-no-loggerhead-turtle-nests-despite-11-nesting-attempts-6736292162</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.thetraveler.org/greece-unveils-protection-plan-for-ancient-ramnous-site/</guid>
 <pubDate>Mon, 10 Aug 2026 17:08:41 +0000</pubDate>
 <description>... tourism and regional development goals. The Ramnous initiative ... Experts on heritage management note that coastal fortifications such as ...</description>
-</item>
-<item>
-<title>Greece Unveils New Preservation Drive at Ramnous Site</title>
-<link>https://www.thetraveler.org/greece-unveils-new-preservation-drive-at-ramnous-site/</link>
-<guid isPermaLink="false">https://www.thetraveler.org/greece-unveils-new-preservation-drive-at-ramnous-site/</guid>
-<pubDate>Mon, 10 Aug 2026 16:58:03 +0000</pubDate>
-<description>New tools, including low-cost environmental sensors and data platforms, are increasingly used in Greek heritage management to track temperature, ...</description>
 </item>
 </channel>
 </rss>
