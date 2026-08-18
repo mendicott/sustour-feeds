@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/iran.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Iran. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 17 Aug 2026 22:08:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 10:04:31 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Genetic map for endangered species being developed - Tehran Times</title>
+<link>https://www.tehrantimes.com/news/529167/Genetic-map-for-endangered-species-being-developed</link>
+<guid isPermaLink="false">https://www.tehrantimes.com/news/529167/Genetic-map-for-endangered-species-being-developed</guid>
+<pubDate>Tue, 18 Aug 2026 05:46:40 +0000</pubDate>
+<description>Despite worrisome facts about the speed at which species are disappearing, there has been good news of endangered species ... Tourism. All Content ...</description>
+</item>
 <item>
 <title>Over 1.7 Million Pilgrims Leave Iran for Arbaeen Commemorations - Society/Culture news</title>
 <link>https://www.tasnimnews.ir/en/news/2026/07/30/3659925/over-1-7-million-pilgrims-leave-iran-for-arbaeen-commemorations</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://mymodernmet.com/unesco-sites-lebanon-palestine-iran/?adt_ei={{%20subscriber.email_address%20}}</guid>
 <pubDate>Mon, 03 Aug 2026 19:33:36 +0000</pubDate>
 <description>UNESCO added 25 new sites to its World Heritage List, including ancient sites in Lebanon, Palestine, and Iran.</description>
-</item>
-<item>
-<title>Iran, Italy to cooperate on restoring ancient gateway near Persepolis for site museum</title>
-<link>https://www.tehrantimes.com/news/528767/Iran-Italy-to-cooperate-on-restoring-ancient-gateway-near-Persepolis</link>
-<guid isPermaLink="false">https://www.tehrantimes.com/news/528767/Iran-Italy-to-cooperate-on-restoring-ancient-gateway-near-Persepolis</guid>
-<pubDate>Sun, 02 Aug 2026 11:12:30 +0000</pubDate>
-<description>... tourism planning and lighting for the archaeological site. He said the project aims to strengthen sustainable tourism infrastructure while ...</description>
 </item>
 </channel>
 </rss>

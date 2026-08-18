@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ecuador.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ecuador. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 17 Aug 2026 22:08:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 10:04:31 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Swimming with Galápagos penguins made my wildlife dreams come true | National Post</title>
+<link>https://nationalpost.com/travel/swimming-with-penguins-galapagos-islands</link>
+<guid isPermaLink="false">https://nationalpost.com/travel/swimming-with-penguins-galapagos-islands</guid>
+<pubDate>Mon, 17 Aug 2026 22:27:23 +0000</pubDate>
+<description>The company has been working across Ecuador and the Galápagos to promote sustainable tourism, support local communities and fund conservation projects ...</description>
+</item>
 <item>
 <title>The regenerative conservation strategy in Galapagos wins International Sustainable Tourism Award</title>
 <link>https://noticiasambientales.com/tourism/the-regenerative-conservation-strategy-in-galapagos-wins-international-sustainable-tourism-award/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.galapagos.org/newsroom/galapagos-students-join-new-hands-on-conservation-education-program/</guid>
 <pubDate>Fri, 24 Jul 2026 20:39:49 +0000</pubDate>
 <description>"People travel thousands of miles to experience the unforgettable wildlife in Galapagos," said Hugo Mogollón, chief executive officer of Galápagos ...</description>
-</item>
-<item>
-<title>A new corridor is reconnecting one of Ecuador's richest rainforests</title>
-<link>https://www.conservation.org/news/a-new-corridor-is-reconnecting-one-of-ecuadors-richest-rainforests</link>
-<guid isPermaLink="false">https://www.conservation.org/news/a-new-corridor-is-reconnecting-one-of-ecuadors-richest-rainforests</guid>
-<pubDate>Fri, 24 Jul 2026 14:36:22 +0000</pubDate>
-<description>Backed by Conservation International, Ecuador is pursuing an ambitious strategy to reconnect an Amazon fractured by deforestation.</description>
 </item>
 </channel>
 </rss>

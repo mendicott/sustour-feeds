@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/europe.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Europe. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 17 Aug 2026 22:08:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 10:04:31 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Turkey escalates with marine park decrees | eKathimerini.com</title>
+<link>https://www.ekathimerini.com/politics/foreign-policy/1312651/turkey-escalates-with-marine-park-decrees/</link>
+<guid isPermaLink="false">https://www.ekathimerini.com/politics/foreign-policy/1312651/turkey-escalates-with-marine-park-decrees/</guid>
+<pubDate>Tue, 18 Aug 2026 05:07:55 +0000</pubDate>
+<description>Presidential decrees published in Turkey's Official Gazette establish one marine park ... reimagine tourism · About us · Company Profile · Privacy ...</description>
+</item>
 <item>
 <title>Spain and Other Countries Tackles Overtourism By Banning Short-Term Holiday Rentals ...</title>
 <link>https://www.travelandtourworld.com/news/article/hshcs880gmyc/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.hurriyetdailynews.com/turkiye-designates-two-new-marine-national-parks-225683</guid>
 <pubDate>Mon, 17 Aug 2026 07:58:10 +0000</pubDate>
 <description>Türkiye is also preparing to assess the climate risks and greenhouse gas emissions of all 81 provinces under a regulation published Aug. 4 to advance ...</description>
-</item>
-<item>
-<title>Responsible tourism: how to travel differently from Nice? - Nice Premium EN</title>
-<link>https://www.nice-premium.com/responsible-tourism-how-to-travel-differently-from-nice/</link>
-<guid isPermaLink="false">https://www.nice-premium.com/responsible-tourism-how-to-travel-differently-from-nice/</guid>
-<pubDate>Sun, 16 Aug 2026 16:25:02 +0000</pubDate>
-<description>In Nice, responsible tourism also becomes a local policy. The reflection does not come solely from travelers. In July 2026, the Nice French Riviera ...</description>
 </item>
 </channel>
 </rss>

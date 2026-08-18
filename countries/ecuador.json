@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://nationalpost.com/travel/swimming-with-penguins-galapagos-islands",
+      "url": "https://nationalpost.com/travel/swimming-with-penguins-galapagos-islands",
+      "title": "Swimming with Galápagos penguins made my wildlife dreams come true | National Post",
+      "content_text": "The company has been working across Ecuador and the Galápagos to promote sustainable tourism, support local communities and fund conservation projects ...",
+      "date_published": "2026-08-17T22:27:23+00:00"
+    },
+    {
       "id": "https://noticiasambientales.com/tourism/the-regenerative-conservation-strategy-in-galapagos-wins-international-sustainable-tourism-award/",
       "url": "https://noticiasambientales.com/tourism/the-regenerative-conservation-strategy-in-galapagos-wins-international-sustainable-tourism-award/",
       "title": "The regenerative conservation strategy in Galapagos wins International Sustainable Tourism Award",
@@ -68,13 +75,6 @@
       "title": "Galápagos Students Join New Hands-On Conservation Education Program",
       "content_text": "\"People travel thousands of miles to experience the unforgettable wildlife in Galapagos,\" said Hugo Mogollón, chief executive officer of Galápagos ...",
       "date_published": "2026-07-24T20:39:49+00:00"
-    },
-    {
-      "id": "https://www.conservation.org/news/a-new-corridor-is-reconnecting-one-of-ecuadors-richest-rainforests",
-      "url": "https://www.conservation.org/news/a-new-corridor-is-reconnecting-one-of-ecuadors-richest-rainforests",
-      "title": "A new corridor is reconnecting one of Ecuador's richest rainforests",
-      "content_text": "Backed by Conservation International, Ecuador is pursuing an ambitious strategy to reconnect an Amazon fractured by deforestation.",
-      "date_published": "2026-07-24T14:36:22+00:00"
     }
   ]
 }
