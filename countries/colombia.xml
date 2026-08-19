@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/colombia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Colombia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 19 Aug 2026 10:04:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 22:08:02 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Colombia Is Advancing Community-Based Tourism as Cusco and Beyond Emphasize ...</title>
+<link>https://www.travelandtourworld.com/news/article/9zg99mu0h33t/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/9zg99mu0h33t/</guid>
+<pubDate>Wed, 19 Aug 2026 11:46:28 +0000</pubDate>
+<description>The legal fortification of community tourism and the strict enforcement of accommodation standards fundamentally create a highly dynamic, incredibly ...</description>
+</item>
 <item>
 <title>Among the sacred hills of Colombia's Guainía - Mongabay</title>
 <link>https://news.mongabay.com/custom-story/2026/08/among-the-sacred-hills-of-colombias-guainia/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://cw39.com/international/ap-international/ap-colombias-vote-may-reshape-the-amazons-future-as-political-winds-shift-across-latin-america/</guid>
 <pubDate>Thu, 25 Jun 2026 11:26:08 +0000</pubDate>
 <description>... Ecuador's Amazon walk near a support beam for an oil pipeline as they travel through the region on what activists call a toxitour visiting oil ...</description>
-</item>
-<item>
-<title>The Colombian Pacific Prepares to Welcome More Than 8,000 Humpback Whales</title>
-<link>https://colombiaone.com/2026/06/18/colombian-pacific-whales/</link>
-<guid isPermaLink="false">https://colombiaone.com/2026/06/18/colombian-pacific-whales/</guid>
-<pubDate>Thu, 18 Jun 2026 19:06:31 +0000</pubDate>
-<description>Beyond creating seasonal employment, whale-watching tourism supports environmental conservation initiatives and strengthens sustainable ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/canada.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Canada. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 19 Aug 2026 10:04:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 22:08:02 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Intrepid Travel Answers Strong Canadian Interest with More Indigenous-Led Experiences</title>
+<link>https://www.travelmarketreport.com/canada/destinations/articles/intrepid-travel-answers-strong-canadian-interest-with-more-indigenous-led-experiences</link>
+<guid isPermaLink="false">https://www.travelmarketreport.com/canada/destinations/articles/intrepid-travel-answers-strong-canadian-interest-with-more-indigenous-led-experiences</guid>
+<pubDate>Wed, 19 Aug 2026 17:00:31 +0000</pubDate>
+<description>Intrepid Travel is reinforcing its commitment to Indigenous-led tourism with a new partnership with Talaysay Tours.</description>
+</item>
 <item>
 <title>MISSED OPPORTUNITY: Why Canadians aren't participating in Indigenous-led tourism</title>
 <link>https://travelindustrytoday.com/missed-opportunity-why-canadians-arent-participating-in-indigenous-led-tourism/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/4h8y0637st08/</guid>
 <pubDate>Sat, 08 Aug 2026 21:24:13 +0000</pubDate>
 <description>For the travel industry, Nahanni represents a different model of tourism in which high-value, low-volume travel can be more appropriate than ...</description>
-</item>
-<item>
-<title>Canada Tackles Overtourism As Global Travel Shifts Away From Summer Peaks Into ...</title>
-<link>https://www.travelandtourworld.com/news/article/6fxd8loo5h1g/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/6fxd8loo5h1g/</guid>
-<pubDate>Fri, 07 Aug 2026 17:53:32 +0000</pubDate>
-<description>Discover how Canada is beating overtourism with off-peak travel. Official data reveals a massive shift to autumn, winter, and spring across Banff ...</description>
 </item>
 </channel>
 </rss>

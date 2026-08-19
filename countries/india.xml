@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/india.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for India. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 19 Aug 2026 10:04:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 22:08:02 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Ecotourism in India: From Conservation to Commercialisation - Frontline - The Hindu</title>
+<link>https://frontline.thehindu.com/environment/conservation/ecotourism-india-commercialisation/article71365440.ece</link>
+<guid isPermaLink="false">https://frontline.thehindu.com/environment/conservation/ecotourism-india-commercialisation/article71365440.ece</guid>
+<pubDate>Wed, 19 Aug 2026 17:14:21 +0000</pubDate>
+<description>Ecotourism, minus the eco. India has turned ecotourism from a conservation-oriented model into a rapidly commercialised tourism industry, and in doing ...</description>
+</item>
 <item>
 <title>The writing is on the wall for Amer Fort's elephant rides - The Times of India</title>
 <link>https://timesofindia.indiatimes.com/life-style/spotlight/the-writing-is-on-the-wall-for-amer-forts-elephant-rides/articleshow/133314819.cms</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.newindianexpress.com/amp/story/states/kerala/2026/Aug/15/idukki-gears-up-to-welcome-visitors-for-neelakurinji-season</guid>
 <pubDate>Sat, 15 Aug 2026 02:14:13 +0000</pubDate>
 <description>Officials said the number of visitors permitted at each location would be determined based on carrying-capacity studies, ensuring that tourism does ...</description>
-</item>
-<item>
-<title>TGFDC to host nature camp on August 15 - Metro India</title>
-<link>https://www.metroindia.net/news/articlenews/tgfdc-to-host-nature-camp-on-august-43943</link>
-<guid isPermaLink="false">https://www.metroindia.net/news/articlenews/tgfdc-to-host-nature-camp-on-august-43943</guid>
-<pubDate>Thu, 13 Aug 2026 18:30:38 +0000</pubDate>
-<description>Metro India News | Hyderabad. The Telangana Forest Development Corporation (TGFDC), under its ecotourism brand "Deccan Woods and Trails" is ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/middle-east.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Middle East. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 19 Aug 2026 10:04:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 22:08:02 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Jabal Samhan Nature Reserve protects Dhofar's rich biodiversity - Times of Oman</title>
+<link>https://timesofoman.com/article/175780-jabal-samhan-nature-reserve-protects-dhofars-rich-biodiversity</link>
+<guid isPermaLink="false">https://timesofoman.com/article/175780-jabal-samhan-nature-reserve-protects-dhofars-rich-biodiversity</guid>
+<pubDate>Wed, 19 Aug 2026 10:52:08 +0000</pubDate>
+<description>Its dramatic cliffs, mountain landscapes and diverse wildlife offer opportunities to promote responsible tourism while maintaining the protection of ...</description>
+</item>
 <item>
 <title>Egypt, UNDP discuss new fund to protect Red Sea coral reefs</title>
 <link>https://www.egyptindependent.com/egypt-undp-discuss-new-fund-to-protect-red-sea-coral-reefs/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://qna.org.qa/en/News-Area/News/2026-8/13/moecc-spots-seahorse-inside-khor-al-adaid-reserve</guid>
 <pubDate>Fri, 14 Aug 2026 01:47:49 +0000</pubDate>
 <description>Doha, August 13 (QNA) - The Marine Protection Department of the Ministry of Environment and Climate Change (MOECC) spotted a seahorse, ...</description>
-</item>
-<item>
-<title>Jordan Tourism Powers Cultural Revival In Wadi Rum - A Global Hub of Travel Knowledge</title>
-<link>https://www.thetraveler.org/jordan-tourism-powers-cultural-revival-in-wadi-rum/</link>
-<guid isPermaLink="false">https://www.thetraveler.org/jordan-tourism-powers-cultural-revival-in-wadi-rum/</guid>
-<pubDate>Wed, 12 Aug 2026 18:17:07 +0000</pubDate>
-<description>Jordan strengthens community tourism in Wadi Rum, using Bedouin ... Several recent initiatives in and around Wadi Rum show how community-based tourism ...</description>
 </item>
 </channel>
 </rss>

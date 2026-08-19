@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/slovenia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Slovenia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 19 Aug 2026 10:04:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 22:08:02 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>New info point of Karavanke Geopark opens in Ravne na Koroškem - STA</title>
+<link>https://english.sta.si/3589227/new-info-point-of-karavanke-geopark-opens-in-ravne-na-koroskem</link>
+<guid isPermaLink="false">https://english.sta.si/3589227/new-info-point-of-karavanke-geopark-opens-in-ravne-na-koroskem</guid>
+<pubDate>Wed, 19 Aug 2026 15:09:45 +0000</pubDate>
+<description>The Karavanke/Karawanken Geopark, a Slovenian-Austrian cross-border initiative, has opened a new information centre in Ravne na Koroškem.</description>
+</item>
 <item>
 <title>The 7 best sustainable travel destinations in the world - Quartz</title>
 <link>https://qz.com/best-sustainable-travel-destinations-world</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/wlg113litx2f/</guid>
 <pubDate>Fri, 24 Jul 2026 16:00:50 +0000</pubDate>
 <description>Slovenia's Ljubljana is redefining sustainable European tourism with green spaces, cultural heritage, pedestrian streets, and eco-friendly travel ...</description>
-</item>
-<item>
-<title>Spain, Portugal, Greece, Croatia and Slovenia Dominate Europe's Future Tourism Race as ...</title>
-<link>https://www.travelandtourworld.com/news/article/ux7f5fthw6bb/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ux7f5fthw6bb/</guid>
-<pubDate>Thu, 23 Jul 2026 04:57:39 +0000</pubDate>
-<description>The regenerative travel revolution is moving beyond traditional tourism and creating a new era where journeys deliver lasting benefits. Spain, ...</description>
 </item>
 </channel>
 </rss>
