@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/canada.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Canada. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 18 Aug 2026 22:08:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 10:04:54 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>MISSED OPPORTUNITY: Why Canadians aren't participating in Indigenous-led tourism</title>
+<link>https://travelindustrytoday.com/missed-opportunity-why-canadians-arent-participating-in-indigenous-led-tourism/</link>
+<guid isPermaLink="false">https://travelindustrytoday.com/missed-opportunity-why-canadians-arent-participating-in-indigenous-led-tourism/</guid>
+<pubDate>Tue, 18 Aug 2026 22:17:40 +0000</pubDate>
+<description>Yet Indigenous-led tourism remains outside the experience of most Canadian travellers. But according to Intrepid, the research suggests the challenge ...</description>
+</item>
 <item>
 <title>Canadians show interest in Indigenous-led tourism, but participation remains low, new ...</title>
 <link>https://finance.yahoo.com/small-business/articles/canadians-show-interest-indigenous-led-130000269.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/6fxd8loo5h1g/</guid>
 <pubDate>Fri, 07 Aug 2026 17:53:32 +0000</pubDate>
 <description>Discover how Canada is beating overtourism with off-peak travel. Official data reveals a massive shift to autumn, winter, and spring across Banff ...</description>
-</item>
-<item>
-<title>Montréal's First Nations Garden Gets a New Name as It Turns 25 - - Canadian Travel News</title>
-<link>https://canadiantravelnews.ca/montreal-indigenous-peoples-garden/</link>
-<guid isPermaLink="false">https://canadiantravelnews.ca/montreal-indigenous-peoples-garden/</guid>
-<pubDate>Wed, 05 Aug 2026 10:53:17 +0000</pubDate>
-<description>More than a botanical attraction, the Indigenous Peoples Garden serves as a gathering place for education, cultural exchange and community activities.</description>
 </item>
 </channel>
 </rss>

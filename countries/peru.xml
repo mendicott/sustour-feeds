@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/peru.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Peru. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 18 Aug 2026 22:08:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 10:04:54 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Peru's Machu Picchu: New carrying capacity study will help regulate tourism</title>
+<link>https://andina.pe/Ingles/noticia-perus-machu-picchu-new-carrying-capacity-study-will-help-regulate-tourism-1088017.aspx</link>
+<guid isPermaLink="false">https://andina.pe/Ingles/noticia-perus-machu-picchu-new-carrying-capacity-study-will-help-regulate-tourism-1088017.aspx</guid>
+<pubDate>Wed, 19 Aug 2026 00:56:50 +0000</pubDate>
+<description>The study will analyze visitor flows, territorial conditions, cultural and natural heritage conservation, and the provision of tourism services, in ...</description>
+</item>
 <item>
 <title>Peru's Machu Picchu: New visitor capacity study will help regulate tourism | News | ANDINA</title>
 <link>https://andina.pe/ingles/noticia-perus-machu-picchu-new-visitor-capacity-study-will-help-regulate-tourism-1088017.aspx</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/qadoffiurehg/</guid>
 <pubDate>Fri, 17 Jul 2026 13:27:57 +0000</pubDate>
 <description>The updated framework is designed to balance tourism with long-term conservation. Whether you're planning to climb Huayna Picchu, hike the legendary ...</description>
-</item>
-<item>
-<title>Peru is a benchmark for nature tourism thanks to whale-watching season | News | ANDINA</title>
-<link>https://andina.pe/ingles/noticia-peru-is-a-benchmark-for-nature-tourism-thanks-to-whalewatching-season-1083463.aspx</link>
-<guid isPermaLink="false">https://andina.pe/ingles/noticia-peru-is-a-benchmark-for-nature-tourism-thanks-to-whalewatching-season-1083463.aspx</guid>
-<pubDate>Tue, 14 Jul 2026 06:25:34 +0000</pubDate>
-<description>Every year, thousands of humpback whales travel more than 8,000 kilometers from Antarctica to the waters off northern Peru to breed, turning the ...</description>
 </item>
 </channel>
 </rss>

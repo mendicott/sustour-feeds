@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/fiji.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Fiji. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 18 Aug 2026 22:08:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 10:04:54 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Fiji's Hidden Northern Gem Advances A Game-Changing Floating Island Eco-Tourism ...</title>
+<link>https://www.travelandtourworld.com/news/article/gydrzo7jbcs1/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/gydrzo7jbcs1/</guid>
+<pubDate>Wed, 19 Aug 2026 07:53:38 +0000</pubDate>
+<description>Fiji's Macuata advances a Floating Island Eco-Tourism Project to drive sustainable growth and community benefits.</description>
+</item>
 <item>
 <title>The Breathtaking Rise of Circular Tourism in Fiji, Bhutan, and Costa Rica: A revolutionary shift</title>
 <link>https://www.travelandtourworld.com/news/article/zd1j1sfv1zxy/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.fijitimes.com.fj/tourism-talanoa-missing-framework-why-mangrove-protection-stalls/</guid>
 <pubDate>Thu, 16 Jul 2026 10:49:14 +0000</pubDate>
 <description>Yet despite the critical ecological role mangroves play in coastal protection, biodiversity, and climate resilience, not enough is being done to ...</description>
-</item>
-<item>
-<title>UK travel company enters liquidation as all trips cancelled - The Herald</title>
-<link>https://www.heraldscotland.com/news/national/uk-today/26256146.uk-travel-company-enters-liquidation-trips-cancelled/</link>
-<guid isPermaLink="false">https://www.heraldscotland.com/news/national/uk-today/26256146.uk-travel-company-enters-liquidation-trips-cancelled/</guid>
-<pubDate>Tue, 07 Jul 2026 06:45:38 +0000</pubDate>
-<description>Global Vision International (GVI) offered programmes including nature and conservation trips, including locations such as Costa Rica, Fiji and more.</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/united-kingdom.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for United Kingdom. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 18 Aug 2026 22:08:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 10:04:54 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>'We love tourists - just not this many': Britain's holiday hotspots at breaking point, with packed ...</title>
+<link>https://www.dailymail.com/travel/article-16058539/britain-holiday-hotspots-overtourism-tourists-crowds-alternatives.html</link>
+<guid isPermaLink="false">https://www.dailymail.com/travel/article-16058539/britain-holiday-hotspots-overtourism-tourists-crowds-alternatives.html</guid>
+<pubDate>Wed, 19 Aug 2026 07:55:15 +0000</pubDate>
+<description>In recent years, many beloved British destinations have fallen victim to the curse of overtourism – and the growing wave of local protests ...</description>
+</item>
 <item>
 <title>Costa Rica Tops the 2026 Green Travel Movement as World-Class Destinations Build the ...</title>
 <link>https://www.travelandtourworld.com/news/article/8q0s8dzao5cz/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://uk.news.yahoo.com/beach-why-jamaicas-beaches-off-182045263.html</guid>
 <pubDate>Wed, 29 Jul 2026 19:57:43 +0000</pubDate>
 <description>From the white sands of Montego Bay to Bob Marley Beach in Kingston, campaigners say ordinary Jamaicans are being priced out of their own ...</description>
-</item>
-<item>
-<title>First Nations lead the return of salmon to Canada's Upper Columbia River - Mongabay</title>
-<link>https://news.mongabay.com/2026/07/first-nations-lead-the-return-of-salmon-to-canadas-upper-columbia-river/</link>
-<guid isPermaLink="false">https://news.mongabay.com/2026/07/first-nations-lead-the-return-of-salmon-to-canadas-upper-columbia-river/</guid>
-<pubDate>Wed, 29 Jul 2026 15:57:21 +0000</pubDate>
-<description>First Nations in British Columbia, western Canada, are working to restore salmon to the Upper Columbia Basin and leading ceremonial salmon fry ...</description>
 </item>
 </channel>
 </rss>
