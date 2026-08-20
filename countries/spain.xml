@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 20 Aug 2026 10:04:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 22:08:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Ecosystem Restoration in Spain: From Doñana to Madrid - Plant-for-the-Planet Blog</title>
+<link>https://blog.plant-for-the-planet.org/2026/ecosystem-restoration-spain-donana-madrid/</link>
+<guid isPermaLink="false">https://blog.plant-for-the-planet.org/2026/ecosystem-restoration-spain-donana-madrid/</guid>
+<pubDate>Thu, 20 Aug 2026 15:01:24 +0000</pubDate>
+<description>Spain is one of the European countries most vulnerable to desertification and the impacts of the climate crisis. Soil degradation, increasingly ...</description>
+</item>
 <item>
 <title>El Hierro Slow Travel Puts Spain's Volcanic Island at the Heart of Europe's Low-Impact Tourism Shift</title>
 <link>https://www.travelandtourworld.com/news/article/6pqfepk2byjs/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.youtube.com/shorts/s1anKBWc3hY</guid>
 <pubDate>Sat, 08 Aug 2026 18:20:50 +0000</pubDate>
 <description>... overtourism and protect their quality of life. Protesters are calling for action on housing affordability, tourism limits and the wider economic ...</description>
-</item>
-<item>
-<title>Spain's Mallorca Protests Mass Tourism - YouTube</title>
-<link>https://www.youtube.com/shorts/8YZqwJpRg5k</link>
-<guid isPermaLink="false">https://www.youtube.com/shorts/8YZqwJpRg5k</guid>
-<pubDate>Sat, 08 Aug 2026 17:26:26 +0000</pubDate>
-<description>Hundreds of people took to the streets in Mallorca, Spain, on Saturday to protest mass tourism and its impact on housing costs and the cost of ...</description>
 </item>
 </channel>
 </rss>

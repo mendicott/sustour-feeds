@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/united-kingdom.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for United Kingdom. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 20 Aug 2026 10:04:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 22:08:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Bath, Brighton and Many Others Witness Rising Overtourism Pressure as England's Iconic ...</title>
+<link>https://www.travelandtourworld.com/news/article/b992qymt5bwu/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/b992qymt5bwu/</guid>
+<pubDate>Thu, 20 Aug 2026 19:03:35 +0000</pubDate>
+<description>Bath, Brighton and More Face Overtourism Surge as England's Iconic Hiking Trails Battle Record Visitor Pressure as rising travel demand transforms ...</description>
+</item>
 <item>
 <title>This Breathtaking Highland Landscape is Britain's Newest Nature Reserve - Time Out</title>
 <link>https://www.timeout.com/uk/news/scotland-national-nature-reserve-torridon-082026</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/zzuqsb3mt7gd/</guid>
 <pubDate>Mon, 10 Aug 2026 04:06:08 +0000</pubDate>
 <description>In response to the high demand for nature-based travel and tourism that is responsible, Thompson-Okanagan is working on destination stewardship to ...</description>
-</item>
-<item>
-<title>Golf Tourism's Expansion Faces a Nature Fight in Scotland's Highlands - Bloomberg.com</title>
-<link>https://www.bloomberg.com/news/newsletters/2026-08-07/golf-tourism-s-expansion-faces-a-nature-fight-in-scotland-s-highlands</link>
-<guid isPermaLink="false">https://www.bloomberg.com/news/newsletters/2026-08-07/golf-tourism-s-expansion-faces-a-nature-fight-in-scotland-s-highlands</guid>
-<pubDate>Fri, 07 Aug 2026 15:02:17 +0000</pubDate>
-<description>Golf Tourism's Expansion Faces a Nature Fight in Scotland's Highlands. Ministers must choose between a new golf course in the Highlands or ...</description>
 </item>
 </channel>
 </rss>

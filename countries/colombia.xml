@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/colombia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Colombia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 20 Aug 2026 10:04:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 22:08:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Colombia Leads Other Countries In Sustainable Travel Wave As Eco-Conscious Tourists ...</title>
+<link>https://www.travelandtourworld.com/news/article/koxvyabv1qmu/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/koxvyabv1qmu/</guid>
+<pubDate>Thu, 20 Aug 2026 18:39:26 +0000</pubDate>
+<description>Colombia leads global sustainable travel as eco-conscious tourists explore rainforests and coffee regions to support green community projects.</description>
+</item>
 <item>
 <title>Colombia Is Advancing Community-Based Tourism as Cusco and Beyond Emphasize ...</title>
 <link>https://www.travelandtourworld.com/news/article/9zg99mu0h33t/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.audubon.org/news/ambalema-colombian-town-building-its-future-around-birds</guid>
 <pubDate>Tue, 07 Jul 2026 03:57:45 +0000</pubDate>
 <description>Birdwatching tourism is transforming the biodiversity of the Magdalena River into economic opportunities for local communities.</description>
-</item>
-<item>
-<title>Colombia's vote may reshape the Amazon's future as political winds shift across Latin America</title>
-<link>https://cw39.com/international/ap-international/ap-colombias-vote-may-reshape-the-amazons-future-as-political-winds-shift-across-latin-america/</link>
-<guid isPermaLink="false">https://cw39.com/international/ap-international/ap-colombias-vote-may-reshape-the-amazons-future-as-political-winds-shift-across-latin-america/</guid>
-<pubDate>Thu, 25 Jun 2026 11:26:08 +0000</pubDate>
-<description>... Ecuador's Amazon walk near a support beam for an oil pipeline as they travel through the region on what activists call a toxitour visiting oil ...</description>
 </item>
 </channel>
 </rss>
