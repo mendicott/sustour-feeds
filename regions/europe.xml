@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/europe.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Europe. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 19 Aug 2026 22:08:02 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 10:04:57 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>This Breathtaking Highland Landscape is Britain's Newest Nature Reserve - Time Out</title>
+<link>https://www.timeout.com/uk/news/scotland-national-nature-reserve-torridon-082026</link>
+<guid isPermaLink="false">https://www.timeout.com/uk/news/scotland-national-nature-reserve-torridon-082026</guid>
+<pubDate>Thu, 20 Aug 2026 06:07:28 +0000</pubDate>
+<description>NatureScot, the government body which looks after the country's natural heritage ... Unlike some National Trust sites, it's also completely free to ...</description>
+</item>
 <item>
 <title>New info point of Karavanke Geopark opens in Ravne na Koroškem - STA</title>
 <link>https://english.sta.si/3589227/new-info-point-of-karavanke-geopark-opens-in-ravne-na-koroskem</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.ekathimerini.com/politics/foreign-policy/1312651/turkey-escalates-with-marine-park-decrees/</guid>
 <pubDate>Tue, 18 Aug 2026 05:07:55 +0000</pubDate>
 <description>Presidential decrees published in Turkey's Official Gazette establish one marine park ... reimagine tourism · About us · Company Profile · Privacy ...</description>
-</item>
-<item>
-<title>"Only 3,000 Residents, Yet 50,000 Visitors a Day: Island Towns Abuzz After 'Odyssey ...</title>
-<link>https://www.asiae.co.kr/en/article/life-general/2026081810124964134</link>
-<guid isPermaLink="false">https://www.asiae.co.kr/en/article/life-general/2026081810124964134</guid>
-<pubDate>Tue, 18 Aug 2026 01:54:19 +0000</pubDate>
-<description>Population 3,000... Overtourism Measures Under Review. With the success of director Christopher Nolan's film "Odyssey," both Ithaca in Greece, known ...</description>
 </item>
 </channel>
 </rss>
