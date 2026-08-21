@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 21 Aug 2026 10:05:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 22:07:55 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Da Nang sets 219 criteria for green tourism accommodations - Tuoi tre news</title>
+<link>https://news.tuoitre.vn/da-nang-sets-219-criteria-for-green-tourism-accommodations-103260821151531107.htm</link>
+<guid isPermaLink="false">https://news.tuoitre.vn/da-nang-sets-219-criteria-for-green-tourism-accommodations-103260821151531107.htm</guid>
+<pubDate>Fri, 21 Aug 2026 14:47:15 +0000</pubDate>
+<description>... Sustainable Development in Vietnam (ST4SD) project, unveiled Da Nang ... 60 major Myanmar travel agents visit Da Nang to explore tourism opportunities.</description>
+</item>
 <item>
 <title>Phú Yên Geopark seeks UNESCO Global Geopark status - Vietnam News</title>
 <link>https://vietnamnews.vn/life-style/1797905/phu-yen-geopark-seeks-unesco-global-geopark-status.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.vietnam.vn/en/lam-dong-kien-tao-khong-gian-phat-trien-du-lich-xanh</guid>
 <pubDate>Tue, 18 Aug 2026 12:21:08 +0000</pubDate>
 <description>VHO - On August 25th, Lam Dong province will organize the Forum "Lam Dong Tourism - Green Development, Linkage, Sustainability and International ...</description>
-</item>
-<item>
-<title>Dong Khanh Son Commune: Developing green and sustainable tourism. - Vietnam.vn</title>
-<link>https://www.vietnam.vn/en/xa-dong-khanh-son-phat-trien-du-lich-xanh-ben-vung</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/xa-dong-khanh-son-phat-trien-du-lich-xanh-ben-vung</guid>
-<pubDate>Mon, 17 Aug 2026 22:24:07 +0000</pubDate>
-<description>Currently, the locality is striving to maximize its potential and attract investment in developing green tourism in a sustainable direction. Báo Khánh ...</description>
 </item>
 </channel>
 </rss>

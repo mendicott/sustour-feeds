@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/myanmar.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Myanmar. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 21 Aug 2026 10:05:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 22:07:55 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Da Nang sets 219 criteria for green tourism accommodations - Tuoi tre news</title>
+<link>https://news.tuoitre.vn/da-nang-sets-219-criteria-for-green-tourism-accommodations-103260821151531107.htm</link>
+<guid isPermaLink="false">https://news.tuoitre.vn/da-nang-sets-219-criteria-for-green-tourism-accommodations-103260821151531107.htm</guid>
+<pubDate>Fri, 21 Aug 2026 14:47:15 +0000</pubDate>
+<description>... Sustainable Development in Vietnam (ST4SD) project, unveiled Da Nang ... 60 major Myanmar travel agents visit Da Nang to explore tourism opportunities.</description>
+</item>
 <item>
 <title>Geological Conservation: Myanmar National Geopark Committee meeting</title>
 <link>https://www.myanmaritv.com/news/geological-conservation-myanmar-national-geopark-committee-meeting</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://news.fundsforngos.org/2026/07/28/local-communities-strengthen-mangrove-protection-through-new-forestry-associations-in-myanmar/</guid>
 <pubDate>Tue, 28 Jul 2026 13:54:12 +0000</pubDate>
 <description>As climate risks continue to increase, community-led conservation is becoming an important tool for protecting coastal ecosystems. The experience ...</description>
-</item>
-<item>
-<title>Thailand celebrates 9th UNESCO World Heritage Site inscription | Myanmar International TV</title>
-<link>https://www.myanmaritv.com/news/thailand-celebrates-9th-unesco-world-heritage-site-inscription</link>
-<guid isPermaLink="false">https://www.myanmaritv.com/news/thailand-celebrates-9th-unesco-world-heritage-site-inscription</guid>
-<pubDate>Mon, 27 Jul 2026 15:23:57 +0000</pubDate>
-<description>The Tourism Authority of Thailand joined hands with southern Thailand's Nakhon Si Thammarat Province and other public and private agencies in ...</description>
 </item>
 </channel>
 </rss>

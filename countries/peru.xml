@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/peru.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Peru. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 21 Aug 2026 10:05:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 22:07:55 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Peru Shuts the Inca Trail as Storm-Driven Landslides Threaten the Road to Machu Picchu</title>
+<link>https://www.latintimes.com/peru-shuts-inca-trail-storm-driven-landslides-threaten-road-machu-picchu-598707</link>
+<guid isPermaLink="false">https://www.latintimes.com/peru-shuts-inca-trail-storm-driven-landslides-threaten-road-machu-picchu-598707</guid>
+<pubDate>Fri, 21 Aug 2026 12:02:24 +0000</pubDate>
+<description>According to Mincetur, Peru's tourism ministry, the shutdown covers Routes 1, 2 and 3 of the trail system and is scheduled to run from August 18 ...</description>
+</item>
 <item>
 <title>Baboo Travel Champions the Solocation Era with Custom, Regenerative Independent Travel</title>
 <link>https://www.desmoinesregister.com/press-release/story/115027/baboo-travel-champions-the-solocation-era-with-custom-regenerative-independent-travel/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.smithsonianmag.com/travel/before-cultural-and-natural-wonders-earn-unesco-world-heritage-status-they-are-put-on-a-tentative-list-here-are-five-nominees-worth-visiting-now-180989155/</guid>
 <pubDate>Thu, 23 Jul 2026 12:14:34 +0000</pubDate>
 <description>"Even World Heritage Sites that work hard to manage tourism, such as Machu Picchu in Peru, must remain vigilant about visitor impacts," he explains.</description>
-</item>
-<item>
-<title>IDB Invest and American Bird Conservancy Partner to Boost Bird Tourism in Peru</title>
-<link>https://abcbirds.org/news/idb-invest-bird-tourism-peru/</link>
-<guid isPermaLink="false">https://abcbirds.org/news/idb-invest-bird-tourism-peru/</guid>
-<pubDate>Wed, 22 Jul 2026 13:15:04 +0000</pubDate>
-<description>With support from the Conserva Aves Initiative and the Government of Canada, ABC's implementing partner, ECOAN, has built local capacity for bird ...</description>
 </item>
 </channel>
 </rss>
