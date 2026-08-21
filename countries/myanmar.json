@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.myanmaritv.com/news/geological-conservation-myanmar-national-geopark-committee-meeting",
+      "url": "https://www.myanmaritv.com/news/geological-conservation-myanmar-national-geopark-committee-meeting",
+      "title": "Geological Conservation: Myanmar National Geopark Committee meeting",
+      "content_text": "The National Geopark Committee held its meeting at the Forest Department headquarters in Nay Pyi Taw on Thursday. Chairman of the Committee Union ...",
+      "date_published": "2026-08-21T03:47:38+00:00"
+    },
+    {
       "id": "https://www.myanmaritv.com/news/culture-tourism-efforts-development-cultural-tourism",
       "url": "https://www.myanmaritv.com/news/culture-tourism-efforts-development-cultural-tourism",
       "title": "Culture &Tourism : Efforts for development of cultural tourism | Myanmar International TV",
@@ -68,13 +75,6 @@
       "title": "Thailand celebrates 9th UNESCO World Heritage Site inscription | Myanmar International TV",
       "content_text": "The Tourism Authority of Thailand joined hands with southern Thailand's Nakhon Si Thammarat Province and other public and private agencies in ...",
       "date_published": "2026-07-27T15:23:57+00:00"
-    },
-    {
-      "id": "https://www.myanmaritv.com/news/ancient-comoros-medinas-join-unescos-heritage-list",
-      "url": "https://www.myanmaritv.com/news/ancient-comoros-medinas-join-unescos-heritage-list",
-      "title": "Ancient Comoros medinas join UNESCO's heritage list | Myanmar International TV",
-      "content_text": "Ancient Comoros medinas join ... tourism, preserve heritage sites and promote local craftsmanship through a national preservation strategy.",
-      "date_published": "2026-07-26T11:33:49+00:00"
     }
   ]
 }
