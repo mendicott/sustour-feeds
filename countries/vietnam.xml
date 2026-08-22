@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 22 Aug 2026 10:05:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 22:06:47 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Da Nang unveils green stay criteria for tourist accommodation facilities - VOV</title>
+<link>https://english.vov.vn/en/travel/da-nang-unveils-green-stay-criteria-for-tourist-accommodation-facilities-post1326358.vov</link>
+<guid isPermaLink="false">https://english.vov.vn/en/travel/da-nang-unveils-green-stay-criteria-for-tourist-accommodation-facilities-post1326358.vov</guid>
+<pubDate>Sat, 22 Aug 2026 15:24:19 +0000</pubDate>
+<description>The Da Nang Department of Culture, Sports and Tourism, in collaboration with the Swiss Tourism for Sustainable Development in Vietnam project, ...</description>
+</item>
 <item>
 <title>Đà Nẵng launches Green Stay criteria for sustainable tourism - Vietnam News</title>
 <link>https://vietnamnews.vn/life-style/1798035/da-nang-launches-green-stay-criteria-for-sustainable-tourism.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.vietnam.vn/en/dua-9-nhom-tieu-chi-du-lich-cong-dong-vao-doi-song-qua-phim-hoat-hinh</guid>
 <pubDate>Wed, 19 Aug 2026 10:25:28 +0000</pubDate>
 <description>Guidelines for managing and developing sustainable community-based tourism destinations according to the UN Tourism Best Village standards. This ...</description>
-</item>
-<item>
-<title>Proposal to establish the Ta Kou Nature Reserve, covering 8,408 hectares. - Vietnam.vn</title>
-<link>https://www.vietnam.vn/en/de-xuat-thanh-lap-khu-du-tru-thien-nhien-ta-kou-rong-8-408-ha</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/de-xuat-thanh-lap-khu-du-tru-thien-nhien-ta-kou-rong-8-408-ha</guid>
-<pubDate>Wed, 19 Aug 2026 09:54:49 +0000</pubDate>
-<description>... to improve forest management and protection, conserve ecological values, and gradually develop its ecotourism potential.</description>
 </item>
 </channel>
 </rss>

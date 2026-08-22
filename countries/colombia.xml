@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/colombia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Colombia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 22 Aug 2026 10:05:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 22:06:47 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Colombia: 97000 trees and 190 beehives restore a high Andean forest in Sesquilé and Guatavita</title>
+<link>https://noticiasambientales.com/environment-en/colombia-97000-trees-and-190-beehives-restore-a-high-andean-forest-in-sesquile-and-guatavita/</link>
+<guid isPermaLink="false">https://noticiasambientales.com/environment-en/colombia-97000-trees-and-190-beehives-restore-a-high-andean-forest-in-sesquile-and-guatavita/</guid>
+<pubDate>Sat, 22 Aug 2026 19:03:39 +0000</pubDate>
+<description>Paramo landscapes and encenillo forests. Tominé reservoir, an imposing body of water that enhances ecological tourism. Sustainable rural tourism: ...</description>
+</item>
 <item>
 <title>Colombia Leads Other Countries In Sustainable Travel Wave As Eco-Conscious Tourists ...</title>
 <link>https://www.travelandtourworld.com/news/article/koxvyabv1qmu/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://waateanews.com/2026/07/08/from-the-andes-to-aotearoa-dale-stephens-says-maori-tourism-can-help-shape-the-future/</guid>
 <pubDate>Wed, 08 Jul 2026 11:01:27 +0000</pubDate>
 <description>After time travelling through Colombia and Ecuador, Māori tourism leader Dale Stephens is back with fresh insights into how indigenous-led tourism ...</description>
-</item>
-<item>
-<title>Ambalema: The Colombian Town Building Its Future Around Birds | Audubon</title>
-<link>https://www.audubon.org/news/ambalema-colombian-town-building-its-future-around-birds</link>
-<guid isPermaLink="false">https://www.audubon.org/news/ambalema-colombian-town-building-its-future-around-birds</guid>
-<pubDate>Tue, 07 Jul 2026 03:57:45 +0000</pubDate>
-<description>Birdwatching tourism is transforming the biodiversity of the Magdalena River into economic opportunities for local communities.</description>
 </item>
 </channel>
 </rss>

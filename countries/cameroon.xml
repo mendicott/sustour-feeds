@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/cameroon.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Cameroon. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 22 Aug 2026 10:05:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 22:06:47 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>The 2030 Countdown: Rainforest Alliance, Partners Reshape Congo Basin Land Use</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.philstar.com/nation/2026/06/11/2534339/mindoros-sablayan-town-named-unesco-biosphere-reserve</guid>
 <pubDate>Wed, 10 Jun 2026 23:30:38 +0000</pubDate>
 <description>... Tourism said as it welcomed the designation yesterday. Sablayan joined other biosphere reserves in Albania, Algeria, Aruba, Azerbaijan, Cameroon ...</description>
+</item>
+<item>
+<title>Waza National Park, a Sahelian wildlife reserve on Cameroon's northern frontier</title>
+<link>https://www.ad-hoc-news.de/unterhaltung/reisen/waza-national-park-a-sahelian-wildlife-reserve-on-cameroon-s-northern/69985517</link>
+<guid isPermaLink="false">https://www.ad-hoc-news.de/unterhaltung/reisen/waza-national-park-a-sahelian-wildlife-reserve-on-cameroon-s-northern/69985517</guid>
+<pubDate>Sat, 22 Aug 2026 10:19:18 +0000</pubDate>
+<description>Waza National Park near Waza in northern Cameroon anchors a vast Sahelian savanna where acacia woodland, floodplains and wildlife share the Chad ...</description>
 </item>
 <item>
 <title>UNESCO Supports FESTIBABA 2026 and Strengthens the Transmission of</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.cameroon-tribune.cm/article.html/78221/fr.html/regeneration-takes-roots-cameroon-unveils-bold-shift-in-green</guid>
 <pubDate>Tue, 30 Jun 2026 19:16:44 +0000</pubDate>
 <description>... Cameroon's export earnings. As global agriculture drives nearly 80 percent of tropical deforestation and climate change threatens to slash global ...</description>
-</item>
-<item>
-<title>Cameroon, FAO Launch CFAF1.5bn Climate Early-Warning Project in the Far North</title>
-<link>https://www.businessincameroon.com/environment/2707-16524-cameroon-fao-launch-cfaf1-5bn-climate-early-warning-project-in-the-far-north</link>
-<guid isPermaLink="false">https://www.businessincameroon.com/environment/2707-16524-cameroon-fao-launch-cfaf1-5bn-climate-early-warning-project-in-the-far-north</guid>
-<pubDate>Mon, 27 Jul 2026 12:19:35 +0000</pubDate>
-<description>... Climate Change, among other partners. The current allocation marks a significant increase in donor commitment to climate resilience in the region ...</description>
 </item>
 </channel>
 </rss>
