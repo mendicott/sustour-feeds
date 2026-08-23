@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/luxembourg.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Luxembourg. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 23 Aug 2026 10:04:56 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 22:06:09 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Earth Overshoot Day: Environmental organisations stage demonstration at Findel airport</title>
@@ -51,6 +51,13 @@
 <description>... Green Spaces as Luxembourg City Unveils Ambitious Climate Resilience Plan for Sustainable Tourism and Future-Ready Living. Published on July 9 ...</description>
 </item>
 <item>
+<title>Former teacher transforms old farmhouse into rural Moselle retreat - Luxembourg Times</title>
+<link>https://www.luxtimes.lu/luxembourg/former-teacher-transforms-old-farmhouse-into-rural-moselle-retreat/160182814.html</link>
+<guid isPermaLink="false">https://www.luxtimes.lu/luxembourg/former-teacher-transforms-old-farmhouse-into-rural-moselle-retreat/160182814.html</guid>
+<pubDate>Sun, 23 Aug 2026 12:16:29 +0000</pubDate>
+<description>Stefanie Hildebrand's holiday let combines nature and tourism, with flower workshops and sustainable cuisine in the heart of the countryside.</description>
+</item>
+<item>
 <title>Luxembourg, Moselle and Remich Turn Wine Roads Into A Luxury Slow-Travel Escape</title>
 <link>https://www.travelandtourworld.com/news/article/0821eqlnlzvt/</link>
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/0821eqlnlzvt/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.luxtimes.lu/yourluxembourg/leisureandtravel/would-you-give-up-flying-to-help-the-planet-these-people-already-have/4834977.html</guid>
 <pubDate>Thu, 13 Aug 2026 07:06:47 +0000</pubDate>
 <description>Nadia Piccotti, 36, used to travel by plane and has visited several countries. But reading about climate change made her tweak her habits and she now ...</description>
-</item>
-<item>
-<title>Portugal's Porto Santo Complements Funchal with Direct Luxembourg City Flights, a New ...</title>
-<link>https://www.travelandtourworld.com/news/article/xy5ckhqg2o7a/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/xy5ckhqg2o7a/</guid>
-<pubDate>Sat, 01 Aug 2026 12:42:46 +0000</pubDate>
-<description>Porto Santo links Luxembourg flights, a terminal tender and island buses as Portugal tests year-round car-light tourism.</description>
 </item>
 </channel>
 </rss>

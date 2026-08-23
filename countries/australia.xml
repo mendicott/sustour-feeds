@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/australia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Australia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 23 Aug 2026 10:04:56 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 22:06:09 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Karlu Karlu becomes Northern Territory's first International Dark Sky Sanctuary</title>
+<link>https://www.ausleisure.com.au/news/karlu-karlu-becomes-northern-territorys-first-international-dark-sky-sanctuary</link>
+<guid isPermaLink="false">https://www.ausleisure.com.au/news/karlu-karlu-becomes-northern-territorys-first-international-dark-sky-sanctuary</guid>
+<pubDate>Sun, 23 Aug 2026 11:29:33 +0000</pubDate>
+<description>Images: Karlu Karlu Conservation Reserve at night. Images supplied by Tourism and Events NT, @domandjesso, and Wild Australia Photography.</description>
+</item>
 <item>
 <title>Australia Whale Watching Rules 2026: Legal Distances, Fines, and Safety Guidelines</title>
 <link>https://www.travelandtourworld.com/news/article/u7vpbvnu4l9l/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelpress.com/reconciliation-at-the-heart-of-tourism-australias-plan/</guid>
 <pubDate>Thu, 13 Aug 2026 10:41:05 +0000</pubDate>
 <description>Tourism Australia has made clear its commitment to reconciliation and the significant value of First Nations tourism to the businesses, ...</description>
-</item>
-<item>
-<title>Eco-tourism Consulting Services Market Intelligence Report - openPR.com</title>
-<link>https://www.openpr.com/news/4602120/eco-tourism-consulting-services-market-intelligence-report</link>
-<guid isPermaLink="false">https://www.openpr.com/news/4602120/eco-tourism-consulting-services-market-intelligence-report</guid>
-<pubDate>Thu, 13 Aug 2026 01:00:54 +0000</pubDate>
-<description>... Sustainable Travel International, EcoTourism Australia, Green Globe, and The International Ecotourism Society - published on openPR.com.</description>
 </item>
 </channel>
 </rss>
