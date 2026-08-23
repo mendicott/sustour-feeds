@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 22 Aug 2026 22:06:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 10:04:56 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Unlocking the potential of ecotourism in La Dạ - Vietnam.vn</title>
+<link>https://www.vietnam.vn/en/danh-thuc-tiem-nang-du-lich-sinh-thai-o-la-da</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/danh-thuc-tiem-nang-du-lich-sinh-thai-o-la-da</guid>
+<pubDate>Sun, 23 Aug 2026 01:31:24 +0000</pubDate>
+<description>Dang Thi Kim Oanh stands beside her durian orchard laden with fruit, located near the lake, an area being developed into an eco-tourism destination in ...</description>
+</item>
 <item>
 <title>Da Nang unveils green stay criteria for tourist accommodation facilities - VOV</title>
 <link>https://english.vov.vn/en/travel/da-nang-unveils-green-stay-criteria-for-tourist-accommodation-facilities-post1326358.vov</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.vietnam.vn/en/chuyen-gia-icomos-bat-dau-danh-gia-thuc-dia-di-san-oc-eo-ba-the</guid>
 <pubDate>Wed, 19 Aug 2026 14:19:18 +0000</pubDate>
 <description>From August 17 to 24, experts from the International Council on Monuments and Sites (ICOMOS) conducted a field assessment of the Oc Eo - Ba The ...</description>
-</item>
-<item>
-<title>Bringing the 9 criteria for community tourism to life through animation. - Vietnam.vn</title>
-<link>https://www.vietnam.vn/en/dua-9-nhom-tieu-chi-du-lich-cong-dong-vao-doi-song-qua-phim-hoat-hinh</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/dua-9-nhom-tieu-chi-du-lich-cong-dong-vao-doi-song-qua-phim-hoat-hinh</guid>
-<pubDate>Wed, 19 Aug 2026 10:25:28 +0000</pubDate>
-<description>Guidelines for managing and developing sustainable community-based tourism destinations according to the UN Tourism Best Village standards. This ...</description>
 </item>
 </channel>
 </rss>

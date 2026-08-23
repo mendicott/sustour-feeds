@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/finland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Finland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 22 Aug 2026 22:06:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 10:04:56 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Spain Teams Up With France, Finland, Germany, Netherlands, UK and Italy to Drive a New ...</title>
@@ -51,6 +51,13 @@
 <description>Finland joins Belgium, Spain, Norway, UK in Europe's regenerative tourism shift, replacing mass tourism with cross-border living systems for ...</description>
 </item>
 <item>
+<title>ExperiencePlus Expands E-Bike Adventure Tours Across Finland and Tanzania With New ...</title>
+<link>https://www.travelandtourworld.com/news/article/rb44tzqc6x0z/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/rb44tzqc6x0z/</guid>
+<pubDate>Sun, 23 Aug 2026 01:46:28 +0000</pubDate>
+<description>More meaningful travel: Cycling encourages slower exploration and stronger connections with destinations. Alternative tourism experiences: New ...</description>
+</item>
+<item>
 <title>Finland Creates a Powerful Volunteer Tourism Movement as Culture Sustainability and ...</title>
 <link>https://www.travelandtourworld.com/news/article/cet52pmv03ws/</link>
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/cet52pmv03ws/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://darksky.org/news/syrjavaara-becomes-finlands-first-international-dark-sky-park/</guid>
 <pubDate>Wed, 12 Aug 2026 16:00:25 +0000</pubDate>
 <description>"Syrjävaara has inspired municipalities and companies in Eastern Finland to embark on dark sky protection and tourism development projects.</description>
-</item>
-<item>
-<title>Lithuania Pairs Up Forest Wellness With Award-Winning Design as Latvia, Estonia, Finland ...</title>
-<link>https://www.travelandtourworld.com/news/article/kum0x3yiojot/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/kum0x3yiojot/</guid>
-<pubDate>Thu, 16 Jul 2026 12:58:40 +0000</pubDate>
-<description>Lithuania's Sanctum forest retreat near Vilnius blends wellness, timber design, private cabins and nature-led travel in a Baltic escape.</description>
 </item>
 </channel>
 </rss>
