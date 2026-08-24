@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/hong-kong-china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Hong Kong (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 24 Aug 2026 10:05:18 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 22:08:41 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Trial booking system for Sai Kung geopark trail launches in bid to curb overtourism</title>
+<link>https://hongkongfp.com/2026/08/24/trial-booking-system-for-sai-kung-geopark-trail-launches-in-bid-to-curb-overtourism/</link>
+<guid isPermaLink="false">https://hongkongfp.com/2026/08/24/trial-booking-system-for-sai-kung-geopark-trail-launches-in-bid-to-curb-overtourism/</guid>
+<pubDate>Mon, 24 Aug 2026 11:23:32 +0000</pubDate>
+<description>Overcrowding. Hong Kong's popular nature spots have been grappling with overtourism, especially during peak travel seasons for mainland Chinese ...</description>
+</item>
 <item>
 <title>Hong Kong's first 5-year plan should take sustainability seriously</title>
 <link>https://amp.scmp.com/opinion/letters/article/3361671/hong-kongs-first-5-year-plan-should-take-sustainability-seriously</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://hongkongfp.com/2026/06/09/hong-kong-considers-real-name-booking-for-sai-kung-geopark-hotspot-to-curb-overtourism/</guid>
 <pubDate>Tue, 09 Jun 2026 05:35:17 +0000</pubDate>
 <description>HK authorities are exploring the introduction of a real-name reservation system for a popular hiking trail in Sai Kung to curb overtourism.</description>
-</item>
-<item>
-<title>Real-name booking planned for Hong Kong geopark trail to curb scalping, no-shows</title>
-<link>https://www.scmp.com/news/hong-kong/health-environment/article/3356322/real-name-booking-planned-hong-kong-geopark-trail-curb-scalping-no-shows</link>
-<guid isPermaLink="false">https://www.scmp.com/news/hong-kong/health-environment/article/3356322/real-name-booking-planned-hong-kong-geopark-trail-curb-scalping-no-shows</guid>
-<pubDate>Mon, 08 Jun 2026 08:45:49 +0000</pubDate>
-<description>Undersecretary for Environment and Ecology Diane Wong Shuk-han told the Legislative Council subcommittee on ecology and tourism on Monday that ...</description>
 </item>
 </channel>
 </rss>

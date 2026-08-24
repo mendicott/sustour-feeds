@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/oman.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Oman. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 24 Aug 2026 10:05:18 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 22:08:41 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>New conservation, ecotourism plans to protect Jabal Akhdar - Muscat Daily</title>
+<link>https://www.muscatdaily.com/2026/08/24/new-conservation-ecotourism-plans-to-protect-jabal-akhdar/</link>
+<guid isPermaLink="false">https://www.muscatdaily.com/2026/08/24/new-conservation-ecotourism-plans-to-protect-jabal-akhdar/</guid>
+<pubDate>Mon, 24 Aug 2026 13:34:20 +0000</pubDate>
+<description>Oman plans new Jabal Akhdar conservation and ecotourism measures to protect biodiversity and promote sustainable tourism.</description>
+</item>
 <item>
 <title>Frankincense film could give Dhofar lasting tourism value - Oman Observer</title>
 <link>https://www.omanobserver.om/ampArticle/1194965</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.omanobserver.om/article/1194207/oman/rummana-season-showcases-jabal-akhdhars-farm-heritage</guid>
 <pubDate>Sun, 09 Aug 2026 15:56:18 +0000</pubDate>
 <description>... agricultural tourism experience centred on fruit picking and local farm products. The season will continue until September, allowing visitors to ...</description>
-</item>
-<item>
-<title>Youth-led projects breathe new life into Al Hamra's vibrant tourism scene - Oman Observer</title>
-<link>https://www.omanobserver.om/ampArticle/1194208</link>
-<guid isPermaLink="false">https://www.omanobserver.om/ampArticle/1194208</guid>
-<pubDate>Sun, 09 Aug 2026 15:55:43 +0000</pubDate>
-<description>AL HAMRA: The Wilayat of Al Hamra is witnessing a surge in investment driven by Omani youths who are transforming cultural and historical heritage ...</description>
 </item>
 </channel>
 </rss>

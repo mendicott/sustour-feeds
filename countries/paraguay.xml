@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/paraguay.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Paraguay. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 24 Aug 2026 10:05:18 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 22:08:41 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>International Day Of National Parks And The People Protecting Paraguay's Wild Places</title>
+<link>https://asunciontimes.com/lifestyle/exploring-paraguay/international-day-of-national-parks-and-the-people-protecting-paraguays-wild-places/</link>
+<guid isPermaLink="false">https://asunciontimes.com/lifestyle/exploring-paraguay/international-day-of-national-parks-and-the-people-protecting-paraguays-wild-places/</guid>
+<pubDate>Mon, 24 Aug 2026 15:55:09 +0000</pubDate>
+<description>Habitat fragmentation, infrastructure expansion, forest fires, invasive species, illegal wildlife trafficking and climate change are placing ...</description>
+</item>
 <item>
 <title>Paraguay Aligns with Peru, Ecuador and Chile Spark South America's Biggest Eco-Luxury ...</title>
 <link>https://www.travelandtourworld.com/news/article/zo74rrsmfxey/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://asunciontimes.com/paraguay-news/national-news/colossi-of-the-earth-2026-competition-15-years-of-protecting-paraguays-trees/</guid>
 <pubDate>Tue, 14 Jul 2026 21:57:56 +0000</pubDate>
 <description>Register for the Colossi Of The Earth competition by A Todo Pulmón Paraguay Respira to honour Paraguay's natural heritage.</description>
-</item>
-<item>
-<title>People Of Asunción #23, Ryan Aranda From The U.S: "Paraguay Gave Me A Sense Of Belonging"</title>
-<link>https://asunciontimes.com/people/local-celebrities/people-of-asuncion-23-ryan-aranda-from-the-u-s-paraguay-gave-me-a-sense-of-belonging/</link>
-<guid isPermaLink="false">https://asunciontimes.com/people/local-celebrities/people-of-asuncion-23-ryan-aranda-from-the-u-s-paraguay-gave-me-a-sense-of-belonging/</guid>
-<pubDate>Tue, 23 Jun 2026 09:54:06 +0000</pubDate>
-<description>Visit places like Areguá, San Bernardino, Caacupé, and, if you have the opportunity, travel even farther to Encarnación or the Triple Frontier region.</description>
 </item>
 </channel>
 </rss>

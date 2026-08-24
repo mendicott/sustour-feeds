@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/croatia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Croatia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 24 Aug 2026 10:05:18 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 22:08:41 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Dubrovnik and Split Face Peak Demand as Croatia Records 59.1 Million Nights</title>
+<link>https://www.travelandtourworld.com/news/article/v0a3ya0dg14a/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/v0a3ya0dg14a/</guid>
+<pubDate>Mon, 24 Aug 2026 16:47:10 +0000</pubDate>
+<description>One of the most important findings comes from a carrying-capacity study for the historic centre. ... tourism 2026, Croatia Travel news.</description>
+</item>
 <item>
 <title>Spain and Other Destinations Boost Green Tourism as €8 Million EU Projects Reshape ...</title>
 <link>https://www.travelandtourworld.com/news/article/cq5ss6sflvlc/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/rwe2toyh92mv/</guid>
 <pubDate>Sat, 25 Jul 2026 22:35:11 +0000</pubDate>
 <description>Important Note: For official updates regarding visitor guidelines, real-time crowd trackers, and heritage conservation rules, consult public ...</description>
-</item>
-<item>
-<title>Croatia Unleashes a Mighty Adriatic Tourism Reset as Dubrovnik Tackles Crushing Crowds ...</title>
-<link>https://www.travelandtourworld.com/news/article/3wn1jwq6otmo/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/3wn1jwq6otmo/</guid>
-<pubDate>Sat, 25 Jul 2026 08:46:29 +0000</pubDate>
-<description>Through these measures, the city's appeal is not being diminished. Its atmosphere, heritage and travel value are being defended from the very ...</description>
 </item>
 </channel>
 </rss>

@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://news.mongabay.com/2026/08/in-spain-south-africa-communities-use-restoration-to-grow-fire-insurance-commentary/",
+      "url": "https://news.mongabay.com/2026/08/in-spain-south-africa-communities-use-restoration-to-grow-fire-insurance-commentary/",
+      "title": "In Spain & South Africa, communities use restoration to 'grow' fire insurance (commentary)",
+      "content_text": "Two hours north of Barcelona, the Muga Valley is verdant but increasingly vulnerable to fire after years of rural abandonment and climate-driven ...",
+      "date_published": "2026-08-24T19:25:28+00:00"
+    },
+    {
       "id": "https://www.wanderlustmagazine.com/news/former-hunting-reserve-reborn-as-conservation-destination-in-south-africa/",
       "url": "https://www.wanderlustmagazine.com/news/former-hunting-reserve-reborn-as-conservation-destination-in-south-africa/",
       "title": "Former hunting reserve reborn as conservation destination in South Africa - Wanderlust",
@@ -68,13 +75,6 @@
       "title": "South Africa: Do Tourists Stress Out Safari Animals? We Tested Their Dung to Find Out",
       "content_text": "Our data supports a message of cautious optimism: when tourism is thoughtfully managed, it need not come at the cost of the wildlife. If tourist ...",
       "date_published": "2026-07-24T16:32:00+00:00"
-    },
-    {
-      "id": "https://www.bignewsnetwork.com/news/279206601/south-africa-relocates-six-cheetahs-to-zambia-to-restore-species",
-      "url": "https://www.bignewsnetwork.com/news/279206601/south-africa-relocates-six-cheetahs-to-zambia-to-restore-species",
-      "title": "South Africa relocates six cheetahs to Zambia to restore species - Big News Network.com",
-      "content_text": "South Africa has relocated six cheetahs to Zambia's greater Luangwa ecosystem, where the species has been absent for nearly three decades, ...",
-      "date_published": "2026-07-24T03:50:09+00:00"
     }
   ]
 }

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/south-africa.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for South Africa. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 24 Aug 2026 10:05:18 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 22:08:41 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>In Spain &amp; South Africa, communities use restoration to 'grow' fire insurance (commentary)</title>
+<link>https://news.mongabay.com/2026/08/in-spain-south-africa-communities-use-restoration-to-grow-fire-insurance-commentary/</link>
+<guid isPermaLink="false">https://news.mongabay.com/2026/08/in-spain-south-africa-communities-use-restoration-to-grow-fire-insurance-commentary/</guid>
+<pubDate>Mon, 24 Aug 2026 19:25:28 +0000</pubDate>
+<description>Two hours north of Barcelona, the Muga Valley is verdant but increasingly vulnerable to fire after years of rural abandonment and climate-driven ...</description>
+</item>
 <item>
 <title>Former hunting reserve reborn as conservation destination in South Africa - Wanderlust</title>
 <link>https://www.wanderlustmagazine.com/news/former-hunting-reserve-reborn-as-conservation-destination-in-south-africa/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://allafrica.com/stories/202607240002.html</guid>
 <pubDate>Fri, 24 Jul 2026 16:32:00 +0000</pubDate>
 <description>Our data supports a message of cautious optimism: when tourism is thoughtfully managed, it need not come at the cost of the wildlife. If tourist ...</description>
-</item>
-<item>
-<title>South Africa relocates six cheetahs to Zambia to restore species - Big News Network.com</title>
-<link>https://www.bignewsnetwork.com/news/279206601/south-africa-relocates-six-cheetahs-to-zambia-to-restore-species</link>
-<guid isPermaLink="false">https://www.bignewsnetwork.com/news/279206601/south-africa-relocates-six-cheetahs-to-zambia-to-restore-species</guid>
-<pubDate>Fri, 24 Jul 2026 03:50:09 +0000</pubDate>
-<description>South Africa has relocated six cheetahs to Zambia's greater Luangwa ecosystem, where the species has been absent for nearly three decades, ...</description>
 </item>
 </channel>
 </rss>

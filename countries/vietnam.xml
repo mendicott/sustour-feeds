@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 24 Aug 2026 10:05:18 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 22:08:41 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Aiming to build a community-based educational tourism model on Hon Yen Island.</title>
+<link>https://www.vietnam.vn/en/huong-den-xay-dung-mo-hinh-du-lich-hoc-tap-cong-dong-tai-hon-yen</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/huong-den-xay-dung-mo-hinh-du-lich-hoc-tap-cong-dong-tai-hon-yen</guid>
+<pubDate>Mon, 24 Aug 2026 12:42:15 +0000</pubDate>
+<description>... coral reef ecosystems, and conservation efforts; coastal village ... Travel · Happy Vietnam · Enterprise · Product · Heritage · Museum · Figure ...</description>
+</item>
 <item>
 <title>Lesson 3: Towards a Sustainable Tourism Ecosystem in Can Tho - Vietnam.vn</title>
 <link>https://www.vietnam.vn/en/bai-3-huong-den-he-sinh-thai-du-lich-can-tho-ben-vung</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://vietnamnews.vn/life-style/1797905/phu-yen-geopark-seeks-unesco-global-geopark-status.html</guid>
 <pubDate>Thu, 20 Aug 2026 22:57:50 +0000</pubDate>
 <description>... UNESCO recognition could provide fresh momentum for tourism development. ... Brandinfo Sunday/Weekend Travel Politics &amp; Law Society Economy ...</description>
-</item>
-<item>
-<title>Phu Yen Geopark seeks UNESCO Global Geopark status - Vietnam+ (VietnamPlus)</title>
-<link>https://en.vietnamplus.vn/phu-yen-geopark-seeks-unesco-global-geopark-status-post350433.vnp</link>
-<guid isPermaLink="false">https://en.vietnamplus.vn/phu-yen-geopark-seeks-unesco-global-geopark-status-post350433.vnp</guid>
-<pubDate>Thu, 20 Aug 2026 09:21:43 +0000</pubDate>
-<description>... tourism to create livelihoods and raise public awareness of heritage conservation. To meet UNESCO Global Geopark criteria, Dak Lak aims to develop ...</description>
 </item>
 </channel>
 </rss>
