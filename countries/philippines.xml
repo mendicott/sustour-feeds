@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/philippines.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Philippines. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 23 Aug 2026 22:06:09 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 10:05:18 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Pasil trains tour guides to boost community-based tourism - Philippine Information Agency</title>
+<link>https://pia.gov.ph/news/pasil-trains-tour-guides-to-boost-community-based-tourism/</link>
+<guid isPermaLink="false">https://pia.gov.ph/news/pasil-trains-tour-guides-to-boost-community-based-tourism/</guid>
+<pubDate>Mon, 24 Aug 2026 07:45:08 +0000</pubDate>
+<description>... community-based tourism program. The August 3–9 Community Guiding Seminar trained residents with the skills needed to guide visitors safely and ...</description>
+</item>
 <item>
 <title>A 700-year-old banyan towers over ancient temple in Nghe An - VietNamNet</title>
 <link>https://vietnamnet.vn/en/a-700-year-old-banyan-towers-over-ancient-temple-in-nghe-an-2547026.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.thetraveler.org/philippines-backs-bohol-tourism-with-new-planning-drive/</guid>
 <pubDate>Sun, 09 Aug 2026 08:27:52 +0000</pubDate>
 <description>Recent forums for municipal tourism officers have concentrated on aligning local tourism plans with the geopark's conservation objectives and the ...</description>
-</item>
-<item>
-<title>Philippines Backs New Local Tourism Plan for Bohol - A Global Hub of Travel Knowledge</title>
-<link>https://www.thetraveler.org/philippines-backs-new-local-tourism-plan-for-bohol/</link>
-<guid isPermaLink="false">https://www.thetraveler.org/philippines-backs-new-local-tourism-plan-for-bohol/</guid>
-<pubDate>Sun, 09 Aug 2026 08:27:50 +0000</pubDate>
-<description>The code formalizes principles such as environmental protection, heritage conservation, and community participation as the foundation for tourism ...</description>
 </item>
 </channel>
 </rss>

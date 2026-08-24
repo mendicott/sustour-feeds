@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 23 Aug 2026 22:06:09 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 10:05:18 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Lesson 3: Towards a Sustainable Tourism Ecosystem in Can Tho - Vietnam.vn</title>
+<link>https://www.vietnam.vn/en/bai-3-huong-den-he-sinh-thai-du-lich-can-tho-ben-vung</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/bai-3-huong-den-he-sinh-thai-du-lich-can-tho-ben-vung</guid>
+<pubDate>Mon, 24 Aug 2026 02:44:21 +0000</pubDate>
+<description>Lesson 3: Towards a Sustainable Tourism Ecosystem in Can Tho. (Chinhphu.vn) - To retain tourists for longer periods, a single business or ...</description>
+</item>
 <item>
 <title>Stimulating demand, innovating products, and attracting tourists to Vinh Long. - Vietnam.vn</title>
 <link>https://www.vietnam.vn/en/kich-cau-lam-moi-san-pham-hut-khach-den-vinh-long</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://en.vietnamplus.vn/phu-yen-geopark-seeks-unesco-global-geopark-status-post350433.vnp</guid>
 <pubDate>Thu, 20 Aug 2026 09:21:43 +0000</pubDate>
 <description>... tourism to create livelihoods and raise public awareness of heritage conservation. To meet UNESCO Global Geopark criteria, Dak Lak aims to develop ...</description>
-</item>
-<item>
-<title>Unleashing the tourism potential of Dak Nong Geopark - Vietnam.vn</title>
-<link>https://www.vietnam.vn/en/phat-huy-tiem-nang-du-lich-tu-cong-vien-dia-chat-dak-nong</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/phat-huy-tiem-nang-du-lich-tu-cong-vien-dia-chat-dak-nong</guid>
-<pubDate>Thu, 20 Aug 2026 02:06:12 +0000</pubDate>
-<description>The UNESCO Dak Nong Global Geopark is rich in unique geological, archaeological, natural, and indigenous cultural values, promising to expand ...</description>
 </item>
 </channel>
 </rss>

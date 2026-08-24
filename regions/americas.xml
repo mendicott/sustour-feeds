@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/americas.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Americas. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 23 Aug 2026 22:06:09 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 10:05:18 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Costa Rica and Other Countries Pioneers Regenerative Eco-Tourism Through Protected ...</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/xayeuiebdu17/</guid>
 <pubDate>Wed, 24 Jun 2026 18:42:55 +0000</pubDate>
 <description>Brazil Rota dos Corais tourism lets visitors join coral reef restoration through regenerative travel led by Biofábrica de Corais in Pernambuco.</description>
+</item>
+<item>
+<title>Finding Capuchin Monkeys in Costa Rican Mangroves - VPM</title>
+<link>https://www.vpm.org/episodes/finding-capuchin-monkeys-costa-rican-mangroves/</link>
+<guid isPermaLink="false">https://www.vpm.org/episodes/finding-capuchin-monkeys-costa-rican-mangroves/</guid>
+<pubDate>Sun, 23 Aug 2026 23:11:55 +0000</pubDate>
+<description>Ecotourism guide Diego Arauz Chaves leads filmmakers into the mangroves to Capuchins.</description>
 </item>
 <item>
 <title>15 Restricted Places Tourists Cannot Simply Enter, From Area 51 to North Sentinel Island</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/hztnwm20ihlb/</guid>
 <pubDate>Fri, 21 Aug 2026 13:20:34 +0000</pubDate>
 <description>And here Argentina's tourism map becomes quite confusing because on the same visit tourists will be able to experience subtropical rainforests, ...</description>
-</item>
-<item>
-<title>Brazil's Amazon, Pantanal and Iguaçu Lead a New Ecotourism and Culture Boom</title>
-<link>https://www.travelandtourworld.com/news/article/u123x7ui6dtp/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/u123x7ui6dtp/</guid>
-<pubDate>Fri, 21 Aug 2026 12:28:29 +0000</pubDate>
-<description>Ecotourism Takes A Bigger Share Of Brazil's Travel Demand. Nature tourism is becoming one of the most important elements of Brazil's visitor economy.</description>
 </item>
 </channel>
 </rss>
