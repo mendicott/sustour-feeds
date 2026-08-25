@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.lagazette-mag.io/en/the-chamarel-geopark-a-jewel-of-the-earth/",
+      "url": "https://www.lagazette-mag.io/en/the-chamarel-geopark-a-jewel-of-the-earth/",
+      "title": "The Chamarel Geopark, a jewel of the earth",
+      "content_text": "Located in the lush highlands of southwestern Mauritius, the Chamarel Geopark is a truly unique place! A veritable living color palette, shifting ...",
+      "date_published": "2026-08-25T05:43:30+00:00"
+    },
+    {
       "id": "https://www.pressreader.com/india/the-hindu-kochi-9ww8/20260712/282772068324827",
       "url": "https://www.pressreader.com/india/the-hindu-kochi-9ww8/20260712/282772068324827",
       "title": "Mauritius and the conservation concierge | The Hindu (Kochi) - PressReader",
@@ -19,6 +26,13 @@
       "title": "Ile aux Aigrettes emerges as Mauritius eco-tourism hotspot - MSN",
       "content_text": "Eco-tourism appeal: The reserve offers guided walks through rare coastal forest, showcasing endangered species and conservation in action.",
       "date_published": "2026-06-14T13:31:58+00:00"
+    },
+    {
+      "id": "https://www.travelnews.co.za/article/constance-expands-and-restores",
+      "url": "https://www.travelnews.co.za/article/constance-expands-and-restores",
+      "title": "Constance expands and restores | Travelnews",
+      "content_text": "CONSTANCE Hotels & Resorts has already made waves in 2026, with new developments in Mauritius, consolidated environmental certifications across ...",
+      "date_published": "2026-08-25T16:16:24+00:00"
     },
     {
       "id": "https://www.travelandtourworld.com/news/article/0ab71e6zu03v/",
@@ -61,20 +75,6 @@
       "title": "Seychelles Launches Landmark Blue and Green Economy Project to Drive Nature-Positive ...",
       "content_text": "... tourism, food systems and urban development. Jean-Yan Norbert / UNDP Mauritius and Seychelles. Strengthening coordination mechanisms. Throughout the ...",
       "date_published": "2026-08-22T17:01:02+00:00"
-    },
-    {
-      "id": "https://allafrica.com/stories/202607140686.html",
-      "url": "https://allafrica.com/stories/202607140686.html",
-      "title": "Africa: Luxury Tourism Is a Risky Strategy for African Economies! - allAfrica.com",
-      "content_text": "However, tourism has also been symbolic of the inequality that has characterised Mauritius' growth. ... travel needs themselves - has meant that ...",
-      "date_published": "2026-07-14T23:48:07+00:00"
-    },
-    {
-      "id": "https://www.timeout.com/travel/worlds-best-surfing-destinations",
-      "url": "https://www.timeout.com/travel/worlds-best-surfing-destinations",
-      "title": "I've surfed everywhere from Mauritius to Bristol – these are the world's best surfing destinations",
-      "content_text": "Like much of Costa Rica, Nosara is big into eco-tourism – so pay a visit to the wildlife sanctuary or take a day off with some naturally-sourced spa ...",
-      "date_published": "2026-07-13T18:03:39+00:00"
     }
   ]
 }

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 25 Aug 2026 10:05:48 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 22:07:38 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Italy Leading Greece and More Mediterranean Nations in Cracking Down on Overtourism by ...</title>
+<link>https://www.travelandtourworld.com/news/article/99kzq4pypinb/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/99kzq4pypinb/</guid>
+<pubDate>Tue, 25 Aug 2026 14:51:12 +0000</pubDate>
+<description>Italy leads Greece and more Mediterranean nations in tightening beach access in 2026 as overtourism drives reservations, fees, visitor caps and ...</description>
+</item>
 <item>
 <title>Rome Joins Venice and Other Cities as Italy Battles Overtourism with New Measures Amid ...</title>
 <link>https://www.travelandtourworld.com/news/article/c8fcuxbepf3o/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.thetimes.com/world/europe/article/varenna-lake-como-italy-overtourism-v9gvfr0pf</guid>
 <pubDate>Fri, 07 Aug 2026 12:50:18 +0000</pubDate>
 <description>The Lake Como village on front line in Italy's battle with overtourism · Varenna is grappling with the price of popularity — and cracking down on bad ...</description>
-</item>
-<item>
-<title>Italy and Greece Rethink Tourism Access as Historic Site Crowding Across Rome, Vatican ...</title>
-<link>https://www.travelandtourworld.com/news/article/w0cn50lc0777/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/w0cn50lc0777/</guid>
-<pubDate>Sun, 02 Aug 2026 15:04:38 +0000</pubDate>
-<description>It records travel-document information, facial images, fingerprints and entry or exit details for most covered non-EU short-stay travellers crossing ...</description>
 </item>
 </channel>
 </rss>

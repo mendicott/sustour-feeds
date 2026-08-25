@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/romania.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Romania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 25 Aug 2026 10:05:48 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 22:07:38 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Romania Tourism Is Putting The Danube Delta On A Tighter Eco-Travel Leash</title>
+<link>https://www.travelandtourworld.com/news/article/lsg3ie0b1rpr/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lsg3ie0b1rpr/</guid>
+<pubDate>Tue, 25 Aug 2026 09:07:58 +0000</pubDate>
+<description>Romania tourism is strengthening Danube Delta protections with boat speed limits, zoning rules, electric safaris and community fisheries tourism.</description>
+</item>
 <item>
 <title>Romania and Other European Nations Unlock Thrilling Wolf Tourism Across Wild Trails and Forests</title>
 <link>https://www.travelandtourworld.com/news/article/yjtl5p8h8o6w/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://streamlinefeed.co.ke/news/inside-romanias-1400-kilometre-via-transilvanica-eco-tourism-revolution</guid>
 <pubDate>Mon, 29 Jun 2026 07:21:00 +0000</pubDate>
 <description>Romania's new 1400-kilometre Via Transilvanica hiking trail is transforming rural economies while preserving ancient UNESCO heritage sites.</description>
-</item>
-<item>
-<title>Romania Joins China, Switzerland, Norway, Turkey and France in a High-Altitude ...</title>
-<link>https://www.travelandtourworld.com/news/article/7cfde4ax9uzt/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/7cfde4ax9uzt/</guid>
-<pubDate>Wed, 17 Jun 2026 17:27:52 +0000</pubDate>
-<description>Travel planners expect the bridge to be integrated into broader tourism circuits. These may include forest trails, heritage towns, and protected ...</description>
 </item>
 </channel>
 </rss>

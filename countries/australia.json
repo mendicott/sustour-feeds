@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.ausleisure.com.au/news/whale-recovery-creates-new-era-of-coexistence-on-great-barrier-reef",
+      "url": "https://www.ausleisure.com.au/news/whale-recovery-creates-new-era-of-coexistence-on-great-barrier-reef",
+      "title": "Whale recovery creates new era of coexistence on Great Barrier Reef",
+      "content_text": "A further 310,000 international visitors participated in whale watching across Australia. Beyond the coral reef. The return of the humpback also ...",
+      "date_published": "2026-08-25T15:16:33+00:00"
+    },
+    {
       "id": "https://news.mongabay.com/2026/08/rescue-networks-built-by-fire-saving-animals-from-australias-bushfires/",
       "url": "https://news.mongabay.com/2026/08/rescue-networks-built-by-fire-saving-animals-from-australias-bushfires/",
       "title": "Rescue networks built by fire: Saving animals from Australia's bushfires - Mongabay",
@@ -68,13 +75,6 @@
       "title": "Canada Leads Australia, and Guatemala Lead Indigenous-Led Eco-Tourism Models ...",
       "content_text": "Discover how Canada, Australia, Kenya, and Guatemala lead Indigenous-led eco-tourism models protecting ancestral lands, biodiversity, and culture.",
       "date_published": "2026-08-15T20:11:17+00:00"
-    },
-    {
-      "id": "https://www.independent.co.uk/travel/news-and-advice/sydney-gulguer-national-park-b3033093.html",
-      "url": "https://www.independent.co.uk/travel/news-and-advice/sydney-gulguer-national-park-b3033093.html",
-      "title": "This Australian city is creating a new national park | The Independent",
-      "content_text": "Travel · News & Advice. This Australian city is creating a new national ... Conservation Area with Burragorang State Conservation Area. While an ...",
-      "date_published": "2026-08-15T00:09:52+00:00"
     }
   ]
 }
