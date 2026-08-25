@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/hong-kong-china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Hong Kong (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 24 Aug 2026 22:08:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 10:05:48 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Hong Kong trials Geopark booking system to curb overtourism</title>
+<link>https://www.lifestyleasia.com/hk/whats-on/news-whats-on/sai-kung-geopark-booking-system-hong-kong-details/</link>
+<guid isPermaLink="false">https://www.lifestyleasia.com/hk/whats-on/news-whats-on/sai-kung-geopark-booking-system-hong-kong-details/</guid>
+<pubDate>Tue, 25 Aug 2026 03:21:41 +0000</pubDate>
+<description>Local authorities are rolling out a temporary booking system for parts of the Sai Kung Geopark to better curb overtourism.</description>
+</item>
 <item>
 <title>Trial booking system for Sai Kung geopark trail launches in bid to curb overtourism</title>
 <link>https://hongkongfp.com/2026/08/24/trial-booking-system-for-sai-kung-geopark-trail-launches-in-bid-to-curb-overtourism/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://amp.scmp.com/news/hong-kong/health-environment/article/3356660/proposed-sai-kung-marine-park-cover-most-coral-reefs-hong-kong-authorities</guid>
 <pubDate>Wed, 10 Jun 2026 12:59:36 +0000</pubDate>
 <description>... marine park on the western and eastern sides of Sharp Island in Sai Kung. ... Tourism. Discover more stories on. Hong Kong environmental issues. now ...</description>
-</item>
-<item>
-<title>Hong Kong considers real-name booking for Sai Kung geopark hotspot to curb overtourism</title>
-<link>https://hongkongfp.com/2026/06/09/hong-kong-considers-real-name-booking-for-sai-kung-geopark-hotspot-to-curb-overtourism/</link>
-<guid isPermaLink="false">https://hongkongfp.com/2026/06/09/hong-kong-considers-real-name-booking-for-sai-kung-geopark-hotspot-to-curb-overtourism/</guid>
-<pubDate>Tue, 09 Jun 2026 05:35:17 +0000</pubDate>
-<description>HK authorities are exploring the introduction of a real-name reservation system for a popular hiking trail in Sai Kung to curb overtourism.</description>
 </item>
 </channel>
 </rss>

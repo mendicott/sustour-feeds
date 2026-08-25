@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://news.mongabay.com/2026/08/rescue-networks-built-by-fire-saving-animals-from-australias-bushfires/",
+      "url": "https://news.mongabay.com/2026/08/rescue-networks-built-by-fire-saving-animals-from-australias-bushfires/",
+      "title": "Rescue networks built by fire: Saving animals from Australia's bushfires - Mongabay",
+      "content_text": "NEW SOUTH WALES, Australia — A wallaby with a joey tucked into her pouch grazes beneath towering eucalyptus trees. Black cockatoos wheel overhead, ...",
+      "date_published": "2026-08-24T21:31:52+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/b992qymt5bwu/",
       "url": "https://www.travelandtourworld.com/news/article/b992qymt5bwu/",
       "title": "Bath, Brighton and Many Others Witness Rising Overtourism Pressure as England's Iconic ...",
@@ -68,13 +75,6 @@
       "title": "From Overtourism Hotspot to Global Example: British Media Praises Dubrovnik's Tourism ...",
       "content_text": "Dubrovnik has once again found itself in the international spotlight – but this time the headlines aren't about crowds, cruise ships or Game...",
       "date_published": "2026-08-10T16:07:20+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/zzuqsb3mt7gd/",
-      "url": "https://www.travelandtourworld.com/news/article/zzuqsb3mt7gd/",
-      "title": "British Columbia Tourism Enters New Era As Thompson-Okanagan Drives Sustainable ...",
-      "content_text": "In response to the high demand for nature-based travel and tourism that is responsible, Thompson-Okanagan is working on destination stewardship to ...",
-      "date_published": "2026-08-10T04:06:08+00:00"
     }
   ]
 }

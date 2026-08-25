@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/australia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Australia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 24 Aug 2026 22:08:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 10:05:48 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Rescue networks built by fire: Saving animals from Australia's bushfires - Mongabay</title>
+<link>https://news.mongabay.com/2026/08/rescue-networks-built-by-fire-saving-animals-from-australias-bushfires/</link>
+<guid isPermaLink="false">https://news.mongabay.com/2026/08/rescue-networks-built-by-fire-saving-animals-from-australias-bushfires/</guid>
+<pubDate>Mon, 24 Aug 2026 21:31:52 +0000</pubDate>
+<description>NEW SOUTH WALES, Australia — A wallaby with a joey tucked into her pouch grazes beneath towering eucalyptus trees. Black cockatoos wheel overhead, ...</description>
+</item>
 <item>
 <title>Karlu Karlu becomes Northern Territory's first International Dark Sky Sanctuary</title>
 <link>https://www.ausleisure.com.au/news/karlu-karlu-becomes-northern-territorys-first-international-dark-sky-sanctuary</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.independent.co.uk/travel/news-and-advice/sydney-gulguer-national-park-b3033093.html</guid>
 <pubDate>Sat, 15 Aug 2026 00:09:52 +0000</pubDate>
 <description>Travel · News &amp; Advice. This Australian city is creating a new national ... Conservation Area with Burragorang State Conservation Area. While an ...</description>
-</item>
-<item>
-<title>Reconciliation at the heart of Tourism Australia's plan - Canadian Travel Press</title>
-<link>https://www.travelpress.com/reconciliation-at-the-heart-of-tourism-australias-plan/</link>
-<guid isPermaLink="false">https://www.travelpress.com/reconciliation-at-the-heart-of-tourism-australias-plan/</guid>
-<pubDate>Thu, 13 Aug 2026 10:41:05 +0000</pubDate>
-<description>Tourism Australia has made clear its commitment to reconciliation and the significant value of First Nations tourism to the businesses, ...</description>
 </item>
 </channel>
 </rss>

@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://news.mongabay.com/2026/08/rescue-networks-built-by-fire-saving-animals-from-australias-bushfires/",
+      "url": "https://news.mongabay.com/2026/08/rescue-networks-built-by-fire-saving-animals-from-australias-bushfires/",
+      "title": "Rescue networks built by fire: Saving animals from Australia's bushfires - Mongabay",
+      "content_text": "NEW SOUTH WALES, Australia — A wallaby with a joey tucked into her pouch grazes beneath towering eucalyptus trees. Black cockatoos wheel overhead, ...",
+      "date_published": "2026-08-24T21:31:52+00:00"
+    },
+    {
       "id": "https://www.ausleisure.com.au/news/karlu-karlu-becomes-northern-territorys-first-international-dark-sky-sanctuary",
       "url": "https://www.ausleisure.com.au/news/karlu-karlu-becomes-northern-territorys-first-international-dark-sky-sanctuary",
       "title": "Karlu Karlu becomes Northern Territory's first International Dark Sky Sanctuary",
@@ -68,13 +75,6 @@
       "title": "This Australian city is creating a new national park | The Independent",
       "content_text": "Travel · News & Advice. This Australian city is creating a new national ... Conservation Area with Burragorang State Conservation Area. While an ...",
       "date_published": "2026-08-15T00:09:52+00:00"
-    },
-    {
-      "id": "https://www.travelpress.com/reconciliation-at-the-heart-of-tourism-australias-plan/",
-      "url": "https://www.travelpress.com/reconciliation-at-the-heart-of-tourism-australias-plan/",
-      "title": "Reconciliation at the heart of Tourism Australia's plan - Canadian Travel Press",
-      "content_text": "Tourism Australia has made clear its commitment to reconciliation and the significant value of First Nations tourism to the businesses, ...",
-      "date_published": "2026-08-13T10:41:05+00:00"
     }
   ]
 }

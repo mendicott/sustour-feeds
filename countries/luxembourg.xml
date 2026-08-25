@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/luxembourg.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Luxembourg. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 24 Aug 2026 22:08:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 10:05:48 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Earth Overshoot Day: Environmental organisations stage demonstration at Findel airport</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://iucn.org/press-release/202607/luxembourg-and-iucn-launch-third-phase-pioneering-blue-natural-capital</guid>
 <pubDate>Thu, 09 Jul 2026 15:11:55 +0000</pubDate>
 <description>... tourism in Indonesia's Nusa Penida. BNCFF was also one of the earliest initiatives to be closely aligned with the IUCN Global Standard for Nature ...</description>
+</item>
+<item>
+<title>Belgium Shows How Simple Rail Journeys Can Make Travel Across Europe Greener and Easier</title>
+<link>https://www.travelandtourworld.com/news/article/w79f1htciqat/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/w79f1htciqat/</guid>
+<pubDate>Tue, 25 Aug 2026 06:23:59 +0000</pubDate>
+<description>Luxembourg, Belgium and Czechia lead Europe's rail tourism shift as cross-border trains challenge cars and flights in 2026.</description>
 </item>
 <item>
 <title>Luxembourg City Turns Free Public Transport Into a Tourism Superpower</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.luxtimes.lu/yourluxembourg/leisureandtravel/climate-change-documentary/159750297.html</guid>
 <pubDate>Sat, 15 Aug 2026 05:10:02 +0000</pubDate>
 <description>Archie Williams crosses a melting Iceland glacier on a highline to expose climate change and mass tourism's impact.</description>
-</item>
-<item>
-<title>Would you give up flying to help the planet? These people already have | Luxembourg Times</title>
-<link>https://www.luxtimes.lu/yourluxembourg/leisureandtravel/would-you-give-up-flying-to-help-the-planet-these-people-already-have/4834977.html</link>
-<guid isPermaLink="false">https://www.luxtimes.lu/yourluxembourg/leisureandtravel/would-you-give-up-flying-to-help-the-planet-these-people-already-have/4834977.html</guid>
-<pubDate>Thu, 13 Aug 2026 07:06:47 +0000</pubDate>
-<description>Nadia Piccotti, 36, used to travel by plane and has visited several countries. But reading about climate change made her tweak her habits and she now ...</description>
 </item>
 </channel>
 </rss>

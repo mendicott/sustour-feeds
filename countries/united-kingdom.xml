@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/united-kingdom.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for United Kingdom. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 24 Aug 2026 22:08:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 10:05:48 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Rescue networks built by fire: Saving animals from Australia's bushfires - Mongabay</title>
+<link>https://news.mongabay.com/2026/08/rescue-networks-built-by-fire-saving-animals-from-australias-bushfires/</link>
+<guid isPermaLink="false">https://news.mongabay.com/2026/08/rescue-networks-built-by-fire-saving-animals-from-australias-bushfires/</guid>
+<pubDate>Mon, 24 Aug 2026 21:31:52 +0000</pubDate>
+<description>NEW SOUTH WALES, Australia — A wallaby with a joey tucked into her pouch grazes beneath towering eucalyptus trees. Black cockatoos wheel overhead, ...</description>
+</item>
 <item>
 <title>Bath, Brighton and Many Others Witness Rising Overtourism Pressure as England's Iconic ...</title>
 <link>https://www.travelandtourworld.com/news/article/b992qymt5bwu/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.thedubrovniktimes.com/news/dubrovnik/item/20321-from-overtourism-hotspot-to-global-example-british-media-praises-dubrovnik-s-tourism-transformation</guid>
 <pubDate>Mon, 10 Aug 2026 16:07:20 +0000</pubDate>
 <description>Dubrovnik has once again found itself in the international spotlight – but this time the headlines aren't about crowds, cruise ships or Game...</description>
-</item>
-<item>
-<title>British Columbia Tourism Enters New Era As Thompson-Okanagan Drives Sustainable ...</title>
-<link>https://www.travelandtourworld.com/news/article/zzuqsb3mt7gd/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/zzuqsb3mt7gd/</guid>
-<pubDate>Mon, 10 Aug 2026 04:06:08 +0000</pubDate>
-<description>In response to the high demand for nature-based travel and tourism that is responsible, Thompson-Okanagan is working on destination stewardship to ...</description>
 </item>
 </channel>
 </rss>
