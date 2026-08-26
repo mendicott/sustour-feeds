@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3365216/hong-kong-jewellery-shop-slapped-30-day-tour-group-ban-over-coerced-sales",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3365216/hong-kong-jewellery-shop-slapped-30-day-tour-group-ban-over-coerced-sales",
+      "title": "Hong Kong jewellery shop slapped with 30-day tour group ban over coerced sales",
+      "content_text": "Hong Kong's Travel Industry Authority has suspended Kaiser Jewellery International from receiving tour groups for 30 days over coerced sales.",
+      "date_published": "2026-08-26T03:59:45+00:00"
+    },
+    {
       "id": "https://www.lifestyleasia.com/hk/whats-on/news-whats-on/sai-kung-geopark-booking-system-hong-kong-details/",
       "url": "https://www.lifestyleasia.com/hk/whats-on/news-whats-on/sai-kung-geopark-booking-system-hong-kong-details/",
       "title": "Hong Kong trials Geopark booking system to curb overtourism",
@@ -68,13 +75,6 @@
       "title": "Hong Kong's Ecotourism Boom at Breaking Point: Tourist Surges From China, Japan ...",
       "content_text": "Hong Kong ecotourism challenges rise as visitor surges from China, Japan, and Korea strain parks and beaches. Discover impacts and travel tips.",
       "date_published": "2026-06-12T01:31:42+00:00"
-    },
-    {
-      "id": "https://amp.scmp.com/news/hong-kong/health-environment/article/3356660/proposed-sai-kung-marine-park-cover-most-coral-reefs-hong-kong-authorities",
-      "url": "https://amp.scmp.com/news/hong-kong/health-environment/article/3356660/proposed-sai-kung-marine-park-cover-most-coral-reefs-hong-kong-authorities",
-      "title": "Proposed Sai Kung marine park to cover most coral reefs: Hong Kong authorities",
-      "content_text": "... marine park on the western and eastern sides of Sharp Island in Sai Kung. ... Tourism. Discover more stories on. Hong Kong environmental issues. now ...",
-      "date_published": "2026-06-10T12:59:36+00:00"
     }
   ]
 }

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/hong-kong-china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Hong Kong (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 25 Aug 2026 22:07:38 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 10:05:34 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Hong Kong jewellery shop slapped with 30-day tour group ban over coerced sales</title>
+<link>https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3365216/hong-kong-jewellery-shop-slapped-30-day-tour-group-ban-over-coerced-sales</link>
+<guid isPermaLink="false">https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3365216/hong-kong-jewellery-shop-slapped-30-day-tour-group-ban-over-coerced-sales</guid>
+<pubDate>Wed, 26 Aug 2026 03:59:45 +0000</pubDate>
+<description>Hong Kong's Travel Industry Authority has suspended Kaiser Jewellery International from receiving tour groups for 30 days over coerced sales.</description>
+</item>
 <item>
 <title>Hong Kong trials Geopark booking system to curb overtourism</title>
 <link>https://www.lifestyleasia.com/hk/whats-on/news-whats-on/sai-kung-geopark-booking-system-hong-kong-details/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ay2hrx4fq93f/</guid>
 <pubDate>Fri, 12 Jun 2026 01:31:42 +0000</pubDate>
 <description>Hong Kong ecotourism challenges rise as visitor surges from China, Japan, and Korea strain parks and beaches. Discover impacts and travel tips.</description>
-</item>
-<item>
-<title>Proposed Sai Kung marine park to cover most coral reefs: Hong Kong authorities</title>
-<link>https://amp.scmp.com/news/hong-kong/health-environment/article/3356660/proposed-sai-kung-marine-park-cover-most-coral-reefs-hong-kong-authorities</link>
-<guid isPermaLink="false">https://amp.scmp.com/news/hong-kong/health-environment/article/3356660/proposed-sai-kung-marine-park-cover-most-coral-reefs-hong-kong-authorities</guid>
-<pubDate>Wed, 10 Jun 2026 12:59:36 +0000</pubDate>
-<description>... marine park on the western and eastern sides of Sharp Island in Sai Kung. ... Tourism. Discover more stories on. Hong Kong environmental issues. now ...</description>
 </item>
 </channel>
 </rss>
