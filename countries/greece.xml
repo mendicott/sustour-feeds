@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 26 Aug 2026 10:05:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 22:07:44 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Santorini Faces Overtourism Challenge as Europe's Popular Destinations From Greece to ...</title>
+<link>https://www.travelandtourworld.com/news/article/6susep9sos0k/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/6susep9sos0k/</guid>
+<pubDate>Wed, 26 Aug 2026 13:03:24 +0000</pubDate>
+<description>This is why tourism intensity has become an important measurement for understanding overtourism. The latest rankings show that island destinations ...</description>
+</item>
 <item>
 <title>Italy Leading Greece and More Mediterranean Nations in Cracking Down on Overtourism by ...</title>
 <link>https://www.travelandtourworld.com/news/article/99kzq4pypinb/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.hurriyetdailynews.com/greece-irked-by-turkiyes-marine-park-declaration-225728</guid>
 <pubDate>Mon, 17 Aug 2026 12:33:34 +0000</pubDate>
 <description>One decree designates an area between Muğla's Fethiye district and Antalya's Kaş district in the southern Aegean as a national marine park, according ...</description>
-</item>
-<item>
-<title>Greece Overtakes Eight European Nations to Claim the Crown as the World's Greatest ...</title>
-<link>https://www.travelandtourworld.com/news/article/kseyw83pjktd/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/kseyw83pjktd/</guid>
-<pubDate>Thu, 13 Aug 2026 19:46:29 +0000</pubDate>
-<description>Spain faces heavy overtourism pressure, with local beach rules and tourist taxes varying by destination. Italy uses Venice's access-fee system to ...</description>
 </item>
 </channel>
 </rss>
