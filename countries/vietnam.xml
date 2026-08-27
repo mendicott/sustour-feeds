@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 26 Aug 2026 22:07:44 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 10:05:08 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Nghia Do receives the "Leading Community Tourism Village of 2025" award. - Vietnam.vn</title>
+<link>https://www.vietnam.vn/en/nghia-do-don-nhan-giai-thuong-lang-du-lich-cong-dong-hang-dau-nam-2025</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/nghia-do-don-nhan-giai-thuong-lang-du-lich-cong-dong-hang-dau-nam-2025</guid>
+<pubDate>Wed, 26 Aug 2026 23:40:14 +0000</pubDate>
+<description>On this occasion, the locality received the VITA Awards 2026 in the category of "Leading Community Tourism Village of 2025," recognizing its efforts ...</description>
+</item>
 <item>
 <title>Nghia Do is honored to receive the Vietnam Tourism Award with the title "Leading ... - Vietnam.vn</title>
 <link>https://www.vietnam.vn/en/nghia-do-vinh-du-don-nhan-giai-thuong-du-lich-viet-nam-voi-danh-hieu-lang-du-lich-hang-dau-nam-2025</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://vietnamnews.vn/life-style/1798035/da-nang-launches-green-stay-criteria-for-sustainable-tourism.html</guid>
 <pubDate>Sat, 22 Aug 2026 03:44:50 +0000</pubDate>
 <description>The central city's Culture, Sports and Tourism Department, in co-operation with the Swiss Tourism for Sustainable Development (ST4SD) project, ...</description>
-</item>
-<item>
-<title>Connecting geological heritage with culture, cuisine, and traditional crafts. - Vietnam.vn</title>
-<link>https://www.vietnam.vn/en/ket-noi-di-san-dia-chat-voi-van-hoa-am-thuc-lang-nghe</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/ket-noi-di-san-dia-chat-voi-van-hoa-am-thuc-lang-nghe</guid>
-<pubDate>Sat, 22 Aug 2026 02:28:45 +0000</pubDate>
-<description>Dak Lak province is implementing a project to develop the Phu Yen Geopark with the aim of achieving UNESCO Global Geopark status.</description>
 </item>
 </channel>
 </rss>

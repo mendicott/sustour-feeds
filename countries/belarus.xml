@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/belarus.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Belarus. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 26 Aug 2026 22:07:44 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 10:05:08 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>For confidence in peace</title>
+<link>https://www.sb.by/en/for-confidence-in-peace.html</link>
+<guid isPermaLink="false">https://www.sb.by/en/for-confidence-in-peace.html</guid>
+<pubDate>Thu, 27 Aug 2026 07:26:23 +0000</pubDate>
+<description>DECREE TO PROMOTE DEVELOPMENT OF AGRO-ECOTOURISM. President of Belarus Aleksandr Lukashenko signed Decree No. 275 On the Development of Agro- ...</description>
+</item>
 <item>
 <title>Sporovsky scything festival celebrates 19 years of tradition, nature, and community</title>
 <link>https://eng.belta.by/society/view/sporovsky-scything-festival-celebrates-19-years-of-tradition-nature-and-community-184350-2026/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://eng.belta.by/photonews/view/berezinsky-biosphere-reserve-13009/</guid>
 <pubDate>Fri, 24 Jul 2026 12:29:01 +0000</pubDate>
 <description>Strict conservation rules apply here, Director of the reserve Andrei Prokoshin noted during a press tour for Belarusian media. All tourist trails are ...</description>
-</item>
-<item>
-<title>Belarus launches a specialized web portal on tourism in protected areas - Беларусь 24</title>
-<link>https://belarus24.by/en/news/society/belarus-launches-a-specialized-web-portal-on-tourism-in-protected-areas/</link>
-<guid isPermaLink="false">https://belarus24.by/en/news/society/belarus-launches-a-specialized-web-portal-on-tourism-in-protected-areas/</guid>
-<pubDate>Fri, 24 Jul 2026 08:40:43 +0000</pubDate>
-<description>The guide will include national parks, the Berezinsky Nature Reserve, farmsteads, and eco-trails. 3D tours of museums, hotels, and dining options are ...</description>
 </item>
 </channel>
 </rss>

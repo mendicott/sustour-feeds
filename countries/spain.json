@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.wsj.com/lifestyle/travel/camino-de-santiago-pilgrimage-walk-6f611461",
+      "url": "https://www.wsj.com/lifestyle/travel/camino-de-santiago-pilgrimage-walk-6f611461",
+      "title": "I Walked 500 Miles on the Camino de Santiago to Find What Comes Next - WSJ",
+      "content_text": "After losing my job to AI-era job cutting, I joined the pilgrimage across Spain and found singing nuns, ruined feet and a road full of people ...",
+      "date_published": "2026-08-26T19:31:59+00:00"
+    },
+    {
       "id": "https://news.mongabay.com/2026/08/in-spain-south-africa-communities-use-restoration-to-grow-fire-insurance-commentary/",
       "url": "https://news.mongabay.com/2026/08/in-spain-south-africa-communities-use-restoration-to-grow-fire-insurance-commentary/",
       "title": "In Spain & South Africa, communities use restoration to 'grow' fire insurance (commentary)",
@@ -68,13 +75,6 @@
       "title": "Hundreds of anti-tourism Spanish protesters march in Mallorca's Soller | AJ #shorts",
       "content_text": "Hundreds of anti-tourism Spanish protesters march in Mallorca's Soller | AJ #shorts. BBC CNN DW CGTN NBC ABC ALJazeera. France24 JoyNews CitiTV",
       "date_published": "2026-08-09T19:57:34+00:00"
-    },
-    {
-      "id": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller",
-      "title": "Hundreds of anti-tourism Spanish protesters march in Mallorca's Soller - Al Jazeera",
-      "content_text": "Hundreds of anti-tourism Spanish protesters march in Mallorca's Soller. Hundreds of people marched on Saturday in the town of Soller, in the island of ...",
-      "date_published": "2026-08-09T19:03:35+00:00"
     }
   ]
 }

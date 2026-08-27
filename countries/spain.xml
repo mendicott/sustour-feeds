@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 26 Aug 2026 22:07:44 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 10:05:08 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>I Walked 500 Miles on the Camino de Santiago to Find What Comes Next - WSJ</title>
+<link>https://www.wsj.com/lifestyle/travel/camino-de-santiago-pilgrimage-walk-6f611461</link>
+<guid isPermaLink="false">https://www.wsj.com/lifestyle/travel/camino-de-santiago-pilgrimage-walk-6f611461</guid>
+<pubDate>Wed, 26 Aug 2026 19:31:59 +0000</pubDate>
+<description>After losing my job to AI-era job cutting, I joined the pilgrimage across Spain and found singing nuns, ruined feet and a road full of people ...</description>
+</item>
 <item>
 <title>In Spain &amp; South Africa, communities use restoration to 'grow' fire insurance (commentary)</title>
 <link>https://news.mongabay.com/2026/08/in-spain-south-africa-communities-use-restoration-to-grow-fire-insurance-commentary/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.modernghana.com/videonews/aljazeera/1/696400</guid>
 <pubDate>Sun, 09 Aug 2026 19:57:34 +0000</pubDate>
 <description>Hundreds of anti-tourism Spanish protesters march in Mallorca's Soller | AJ #shorts. BBC CNN DW CGTN NBC ABC ALJazeera. France24 JoyNews CitiTV</description>
-</item>
-<item>
-<title>Hundreds of anti-tourism Spanish protesters march in Mallorca's Soller - Al Jazeera</title>
-<link>https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller</link>
-<guid isPermaLink="false">https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller</guid>
-<pubDate>Sun, 09 Aug 2026 19:03:35 +0000</pubDate>
-<description>Hundreds of anti-tourism Spanish protesters march in Mallorca's Soller. Hundreds of people marched on Saturday in the town of Soller, in the island of ...</description>
 </item>
 </channel>
 </rss>

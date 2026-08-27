@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.sb.by/en/for-confidence-in-peace.html",
+      "url": "https://www.sb.by/en/for-confidence-in-peace.html",
+      "title": "For confidence in peace",
+      "content_text": "DECREE TO PROMOTE DEVELOPMENT OF AGRO-ECOTOURISM. President of Belarus Aleksandr Lukashenko signed Decree No. 275 On the Development of Agro- ...",
+      "date_published": "2026-08-27T07:26:23+00:00"
+    },
+    {
       "id": "https://eng.belta.by/society/view/sporovsky-scything-festival-celebrates-19-years-of-tradition-nature-and-community-184350-2026/",
       "url": "https://eng.belta.by/society/view/sporovsky-scything-festival-celebrates-19-years-of-tradition-nature-and-community-184350-2026/",
       "title": "Sporovsky scything festival celebrates 19 years of tradition, nature, and community",
@@ -68,13 +75,6 @@
       "title": "Berezinsky Biosphere Reserve | Belarus News",
       "content_text": "Strict conservation rules apply here, Director of the reserve Andrei Prokoshin noted during a press tour for Belarusian media. All tourist trails are ...",
       "date_published": "2026-07-24T12:29:01+00:00"
-    },
-    {
-      "id": "https://belarus24.by/en/news/society/belarus-launches-a-specialized-web-portal-on-tourism-in-protected-areas/",
-      "url": "https://belarus24.by/en/news/society/belarus-launches-a-specialized-web-portal-on-tourism-in-protected-areas/",
-      "title": "Belarus launches a specialized web portal on tourism in protected areas - Беларусь 24",
-      "content_text": "The guide will include national parks, the Berezinsky Nature Reserve, farmsteads, and eco-trails. 3D tours of museums, hotels, and dining options are ...",
-      "date_published": "2026-07-24T08:40:43+00:00"
     }
   ]
 }
