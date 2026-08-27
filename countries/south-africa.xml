@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/south-africa.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for South Africa. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 27 Aug 2026 10:05:08 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 22:08:33 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Bushmeat poaching: when the wildlife disappears, tourists will too - TimesLIVE</title>
+<link>https://www.timeslive.co.za/news/south-africa/2026-08-27-bushmeat-poaching-when-the-wildlife-disappears-tourists-will-too/</link>
+<guid isPermaLink="false">https://www.timeslive.co.za/news/south-africa/2026-08-27-bushmeat-poaching-when-the-wildlife-disappears-tourists-will-too/</guid>
+<pubDate>Thu, 27 Aug 2026 15:40:08 +0000</pubDate>
+<description>South African parks and reserves are being stripped of the wildlife on which its tourism industry depends, North West University researchers warn.</description>
+</item>
 <item>
 <title>In Spain &amp; South Africa, communities use restoration to 'grow' fire insurance (commentary)</title>
 <link>https://news.mongabay.com/2026/08/in-spain-south-africa-communities-use-restoration-to-grow-fire-insurance-commentary/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.mayonews.ie/news/long-reads/caring-beyond-borders-from-mayo-to-south-africa-two-young-nurses-are-ready-to-make-a-difference-8818755</guid>
 <pubDate>Sat, 25 Jul 2026 15:05:22 +0000</pubDate>
 <description>Emma Jennings and Edwina O'Brien are travelling to Gqeberha, South Africa today (Saturday, July 25) to volunteer with local schools and ...</description>
-</item>
-<item>
-<title>South Africa: Do Tourists Stress Out Safari Animals? We Tested Their Dung to Find Out</title>
-<link>https://allafrica.com/stories/202607240002.html</link>
-<guid isPermaLink="false">https://allafrica.com/stories/202607240002.html</guid>
-<pubDate>Fri, 24 Jul 2026 16:32:00 +0000</pubDate>
-<description>Our data supports a message of cautious optimism: when tourism is thoughtfully managed, it need not come at the cost of the wildlife. If tourist ...</description>
 </item>
 </channel>
 </rss>

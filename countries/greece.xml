@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 27 Aug 2026 10:05:08 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 22:08:33 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Vietnam, Greece step up subnational cooperation - VOV</title>
+<link>https://english.vov.vn/en/economy/vietnam-greece-step-up-subnational-cooperation-post1327803.vov</link>
+<guid isPermaLink="false">https://english.vov.vn/en/economy/vietnam-greece-step-up-subnational-cooperation-post1327803.vov</guid>
+<pubDate>Thu, 27 Aug 2026 08:41:11 +0000</pubDate>
+<description>The delegation also worked with the management board of the Chelmos-Vouraikos Global Geopark, one of 10 UNESCO Global Geoparks in Greece, to exchange ...</description>
+</item>
 <item>
 <title>Santorini Faces Overtourism Challenge as Europe's Popular Destinations From Greece to ...</title>
 <link>https://www.travelandtourworld.com/news/article/6susep9sos0k/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.independent.com.mt/articles/2026-08-17/local-news/Very-unusual-Malta-records-no-loggerhead-turtle-nests-despite-11-nesting-attempts-6736292162</guid>
 <pubDate>Mon, 17 Aug 2026 15:16:16 +0000</pubDate>
 <description>He said Greece, Turkey and Cyprus continued to attract eco-tourists who travel to volunteer in nest monitoring, describing this as a growing form of ...</description>
-</item>
-<item>
-<title>Greece irked by Türkiye's marine park declaration - Hurriyet Daily News</title>
-<link>https://www.hurriyetdailynews.com/greece-irked-by-turkiyes-marine-park-declaration-225728</link>
-<guid isPermaLink="false">https://www.hurriyetdailynews.com/greece-irked-by-turkiyes-marine-park-declaration-225728</guid>
-<pubDate>Mon, 17 Aug 2026 12:33:34 +0000</pubDate>
-<description>One decree designates an area between Muğla's Fethiye district and Antalya's Kaş district in the southern Aegean as a national marine park, according ...</description>
 </item>
 </channel>
 </rss>

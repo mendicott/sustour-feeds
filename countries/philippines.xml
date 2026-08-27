@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/philippines.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Philippines. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 27 Aug 2026 10:05:08 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 22:08:33 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>How long can Pintuyan's whale shark tourism remain ethical? - Oceanographic Magazine</title>
+<link>https://oceanographicmagazine.com/features/holding-the-line-how-long-can-pintuyan-s-whale-shark-tourism-remain-ethical/</link>
+<guid isPermaLink="false">https://oceanographicmagazine.com/features/holding-the-line-how-long-can-pintuyan-s-whale-shark-tourism-remain-ethical/</guid>
+<pubDate>Wed, 26 Aug 2026 17:55:07 +0000</pubDate>
+<description>In Pintuyan, Philippines, a small fishing community has built an ethical whale shark tourism model that prioritises animal welfare over profit ...</description>
+</item>
 <item>
 <title>Pasil trains tour guides to boost community-based tourism - Philippine Information Agency</title>
 <link>https://pia.gov.ph/news/pasil-trains-tour-guides-to-boost-community-based-tourism/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.thetraveler.org/philippines-backs-bohol-with-new-tourism-planning-program/</guid>
 <pubDate>Sun, 09 Aug 2026 14:43:19 +0000</pubDate>
 <description>... Geopark. The code harmonizes rules and standards for tourism stakeholders, from local government units to private enterprises and community groups ...</description>
-</item>
-<item>
-<title>Philippines Backs Bohol Tourism With New Planning Drive</title>
-<link>https://www.thetraveler.org/philippines-backs-bohol-tourism-with-new-planning-drive/</link>
-<guid isPermaLink="false">https://www.thetraveler.org/philippines-backs-bohol-tourism-with-new-planning-drive/</guid>
-<pubDate>Sun, 09 Aug 2026 08:27:52 +0000</pubDate>
-<description>Recent forums for municipal tourism officers have concentrated on aligning local tourism plans with the geopark's conservation objectives and the ...</description>
 </item>
 </channel>
 </rss>

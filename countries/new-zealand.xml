@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/new-zealand.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for New Zealand. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 27 Aug 2026 10:05:08 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 22:08:33 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Government welcomes Tourism 2050 strategy | Beehive.govt.nz</title>
+<link>https://www.beehive.govt.nz/release/government-welcomes-tourism-2050-strategy</link>
+<guid isPermaLink="false">https://www.beehive.govt.nz/release/government-welcomes-tourism-2050-strategy</guid>
+<pubDate>Thu, 27 Aug 2026 10:33:35 +0000</pubDate>
+<description>"It sets a clear long-term direction to grow tourism in a way that delivers more value for New Zealand while ensuring both visitors and communities ...</description>
+</item>
 <item>
 <title>The Real Price of Viral Fame: Why New Zealand's Taranaki Overtourism Crisis Is ...</title>
 <link>https://www.travelandtourworld.com/news/article/1td06gv1nk0e/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://research.uga.edu/news/tracking-plastic-an-all-women-exxpedition-across-new-zealands-waters/</guid>
 <pubDate>Thu, 30 Jul 2026 15:13:32 +0000</pubDate>
 <description>Earlier this summer, the all-female crew of the 70-foot sailing vessel eXXpedition completed the first leg of a voyage from Auckland to the Bay of ...</description>
-</item>
-<item>
-<title>New Zealand Goes Hand In Hand With Australia, Thailand And More Nations, Save Tourism</title>
-<link>https://www.travelandtourworld.com/news/article/s1zg1s0ip47d/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/s1zg1s0ip47d/</guid>
-<pubDate>Mon, 27 Jul 2026 16:31:11 +0000</pubDate>
-<description>New Zealand's sustainable tourism approach includes stronger visitor awareness campaigns, conservation funding and responsible travel expectations.</description>
 </item>
 </channel>
 </rss>

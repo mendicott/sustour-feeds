@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.timeslive.co.za/news/south-africa/2026-08-27-bushmeat-poaching-when-the-wildlife-disappears-tourists-will-too/",
+      "url": "https://www.timeslive.co.za/news/south-africa/2026-08-27-bushmeat-poaching-when-the-wildlife-disappears-tourists-will-too/",
+      "title": "Bushmeat poaching: when the wildlife disappears, tourists will too - TimesLIVE",
+      "content_text": "South African parks and reserves are being stripped of the wildlife on which its tourism industry depends, North West University researchers warn.",
+      "date_published": "2026-08-27T15:40:08+00:00"
+    },
+    {
       "id": "https://news.mongabay.com/2026/08/in-spain-south-africa-communities-use-restoration-to-grow-fire-insurance-commentary/",
       "url": "https://news.mongabay.com/2026/08/in-spain-south-africa-communities-use-restoration-to-grow-fire-insurance-commentary/",
       "title": "In Spain & South Africa, communities use restoration to 'grow' fire insurance (commentary)",
@@ -68,13 +75,6 @@
       "title": "Caring beyond borders: From Mayo to South Africa, two young nurses are ready to make a difference",
       "content_text": "Emma Jennings and Edwina O'Brien are travelling to Gqeberha, South Africa today (Saturday, July 25) to volunteer with local schools and ...",
       "date_published": "2026-07-25T15:05:22+00:00"
-    },
-    {
-      "id": "https://allafrica.com/stories/202607240002.html",
-      "url": "https://allafrica.com/stories/202607240002.html",
-      "title": "South Africa: Do Tourists Stress Out Safari Animals? We Tested Their Dung to Find Out",
-      "content_text": "Our data supports a message of cautious optimism: when tourism is thoughtfully managed, it need not come at the cost of the wildlife. If tourist ...",
-      "date_published": "2026-07-24T16:32:00+00:00"
     }
   ]
 }
