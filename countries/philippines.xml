@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/philippines.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Philippines. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 28 Aug 2026 01:13:44 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Aug 2026 10:11:01 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Pasil trains tour guides to boost community-based tourism - Philippine Information Agency</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://pia.gov.ph/news/pasil-trains-tour-guides-to-boost-community-based-tourism/</guid>
 <pubDate>Mon, 24 Aug 2026 07:45:08 +0000</pubDate>
 <description>... community-based tourism program. The August 3–9 Community Guiding Seminar trained residents with the skills needed to guide visitors safely and ...</description>
+</item>
+<item>
+<title>Int'l evaluators assess Mt. Apo for Geopark status - Philippine Information Agency</title>
+<link>https://pia.gov.ph/news/intl-evaluators-assess-mt-apo-for-geopark-status/</link>
+<guid isPermaLink="false">https://pia.gov.ph/news/intl-evaluators-assess-mt-apo-for-geopark-status/</guid>
+<pubDate>Fri, 28 Aug 2026 04:52:14 +0000</pubDate>
+<description>Currently, there are 241 recognized geoparks in 51 countries. The Philippines presently has one recognized geopark, the Bohol Island UNESCO Global ...</description>
 </item>
 <item>
 <title>How long can Pintuyan's whale shark tourism remain ethical? - Oceanographic Magazine</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.manilatimes.net/2026/08/10/opinion/bohols-war-on-plastic-waste/2401625</guid>
 <pubDate>Sun, 09 Aug 2026 16:07:12 +0000</pubDate>
 <description>The local government of the Philippines' first Unesco Global Geopark is partnering with the University of the Philippines Marine Science Institute and ...</description>
-</item>
-<item>
-<title>Philippines Backs Bohol With New Tourism Planning Program</title>
-<link>https://www.thetraveler.org/philippines-backs-bohol-with-new-tourism-planning-program/</link>
-<guid isPermaLink="false">https://www.thetraveler.org/philippines-backs-bohol-with-new-tourism-planning-program/</guid>
-<pubDate>Sun, 09 Aug 2026 14:43:19 +0000</pubDate>
-<description>... Geopark. The code harmonizes rules and standards for tourism stakeholders, from local government units to private enterprises and community groups ...</description>
 </item>
 </channel>
 </rss>

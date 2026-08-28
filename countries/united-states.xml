@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/united-states.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for United States. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 28 Aug 2026 01:13:44 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Aug 2026 10:11:01 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Historic Vermont National Park Implemented Multi-Trail Closures - Travel Host</title>
+<link>https://travelhost.com/attractions/marsh-billings-rockefeller-national-historical-park-multi-trail-closures-august</link>
+<guid isPermaLink="false">https://travelhost.com/attractions/marsh-billings-rockefeller-national-historical-park-multi-trail-closures-august</guid>
+<pubDate>Fri, 28 Aug 2026 04:53:05 +0000</pubDate>
+<description>Conservation Heritage and Visitor Operations. The property features one of the oldest continuously managed forests in the United States, established ...</description>
+</item>
 <item>
 <title>United States Puts Medora–Dickinson Geotourism in Focus - Travel And Tour World</title>
 <link>https://www.travelandtourworld.com/news/article/qhfio3q1br90/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/c1u4g3gkk71g/</guid>
 <pubDate>Sun, 05 Jul 2026 14:24:24 +0000</pubDate>
 <description>Maldives launches a $100 million electric hydrofoil network, advancing sustainable tourism, cleaner maritime transport, luxury travel, ...</description>
-</item>
-<item>
-<title>Constance Sakoa Boutik Supports Long-term Sustainable Development of Mauritius</title>
-<link>https://www.einpresswire.com/article/923755238/constance-sakoa-boutik-supports-long-term-sustainable-development-of-mauritius</link>
-<guid isPermaLink="false">https://www.einpresswire.com/article/923755238/constance-sakoa-boutik-supports-long-term-sustainable-development-of-mauritius</guid>
-<pubDate>Thu, 02 Jul 2026 07:06:20 +0000</pubDate>
-<description>... travel and tourism businesses. Operating under a worldwide license, Green Globe Certification is based in California, USA and is represented in ...</description>
 </item>
 </channel>
 </rss>
