@@ -7,18 +7,18 @@
   "language": "en",
   "items": [
     {
-      "id": "https://english.sta.si/3589227/new-info-point-of-karavanke-geopark-opens-in-ravne-na-koroskem",
-      "url": "https://english.sta.si/3589227/new-info-point-of-karavanke-geopark-opens-in-ravne-na-koroskem",
-      "title": "New info point of Karavanke Geopark opens in Ravne na Koroškem - STA",
-      "content_text": "The Karavanke/Karawanken Geopark, a Slovenian-Austrian cross-border initiative, has opened a new information centre in Ravne na Koroškem.",
-      "date_published": "2026-08-19T15:09:45+00:00"
-    },
-    {
       "id": "https://qz.com/best-sustainable-travel-destinations-world",
       "url": "https://qz.com/best-sustainable-travel-destinations-world",
       "title": "The 7 best sustainable travel destinations in the world - Quartz",
       "content_text": "From Slovenia's government-certified green tourism to Costa Rica's nationwide land protection, destinations leading the way on sustainable travel.",
       "date_published": "2026-08-17T16:07:11+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/ux7f5fthw6bb/",
+      "url": "https://www.travelandtourworld.com/news/article/ux7f5fthw6bb/",
+      "title": "Spain, Portugal, Greece, Croatia and Slovenia Dominate Europe's Future Tourism Race as ...",
+      "content_text": "The regenerative travel revolution is moving beyond traditional tourism and creating a new era where journeys deliver lasting benefits. Spain, ...",
+      "date_published": "2026-07-23T04:57:39+00:00"
     },
     {
       "id": "https://www.travelandtourworld.com/news/article/8q0s8dzao5cz/",
@@ -42,6 +42,20 @@
       "date_published": "2026-08-02T09:55:20+00:00"
     },
     {
+      "id": "https://www.travelandtourworld.com/news/article/wlg113litx2f/",
+      "url": "https://www.travelandtourworld.com/news/article/wlg113litx2f/",
+      "title": "Slovenia Aligns with France and More European Countries as Ljubljana Emerges as a ...",
+      "content_text": "Slovenia's Ljubljana is redefining sustainable European tourism with green spaces, cultural heritage, pedestrian streets, and eco-friendly travel ...",
+      "date_published": "2026-07-24T16:00:50+00:00"
+    },
+    {
+      "id": "https://english.sta.si/3589227/new-info-point-of-karavanke-geopark-opens-in-ravne-na-koroskem",
+      "url": "https://english.sta.si/3589227/new-info-point-of-karavanke-geopark-opens-in-ravne-na-koroskem",
+      "title": "New info point of Karavanke Geopark opens in Ravne na Koroškem - STA",
+      "content_text": "The Karavanke/Karawanken Geopark, a Slovenian-Austrian cross-border initiative, has opened a new information centre in Ravne na Koroškem.",
+      "date_published": "2026-08-19T15:09:45+00:00"
+    },
+    {
       "id": "https://www.greenprophet.com/2026/08/how-slow-travel-is-changing-the-way-we-explore/",
       "url": "https://www.greenprophet.com/2026/08/how-slow-travel-is-changing-the-way-we-explore/",
       "title": "How Slow Travel Is Changing the Way We Explore | Green Prophet",
@@ -56,25 +70,11 @@
       "date_published": "2026-08-07T19:19:03+00:00"
     },
     {
-      "id": "https://m.economictimes.com/nri/visit/planning-a-slow-holidaythese-7-countries-are-best-explored-at-your-own-pace/slovenia/slideshow/132827362.cms",
-      "url": "https://m.economictimes.com/nri/visit/planning-a-slow-holidaythese-7-countries-are-best-explored-at-your-own-pace/slovenia/slideshow/132827362.cms",
-      "title": "Slovenia - Planning a slow holiday? These 7 countries are best explored at your own pace",
-      "content_text": "Whether exploring the South Island's fjords or the North Island's geothermal landscapes, slow travel allows visitors to enjoy hiking trails, wildlife ...",
-      "date_published": "2026-08-03T16:25:20+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/60x83239m98u/",
-      "url": "https://www.travelandtourworld.com/news/article/60x83239m98u/",
-      "title": "Ljubljana, Sarajevo and More Emerging European Destinations Begin a Hidden City Break ...",
-      "content_text": "These destinations also support sustainable tourism trends by encouraging slower travel, longer stays and exploration of less congested urban areas.",
-      "date_published": "2026-07-28T16:45:44+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/wlg113litx2f/",
-      "url": "https://www.travelandtourworld.com/news/article/wlg113litx2f/",
-      "title": "Slovenia Aligns with France and More European Countries as Ljubljana Emerges as a ...",
-      "content_text": "Slovenia's Ljubljana is redefining sustainable European tourism with green spaces, cultural heritage, pedestrian streets, and eco-friendly travel ...",
-      "date_published": "2026-07-24T16:00:50+00:00"
+      "id": "https://www.travelandtourworld.com/news/article/y1y3wkbtmys2/",
+      "url": "https://www.travelandtourworld.com/news/article/y1y3wkbtmys2/",
+      "title": "Slovenia Proves The Future Of Travel Is Here, Analyzing The Grand Redirection Of ...",
+      "content_text": "Therefore, tourism operators experience balanced visitation patterns. Advertisement. Unveiling the Micro-Gastronomy and Culinary Food Heritage Journey ...",
+      "date_published": "2026-07-18T10:03:23+00:00"
     }
   ]
 }

@@ -21,6 +21,13 @@
       "date_published": "2026-08-24T11:07:07+00:00"
     },
     {
+      "id": "https://bernama.com/en/world/news.php?id=2598225",
+      "url": "https://bernama.com/en/world/news.php?id=2598225",
+      "title": "Top News Headlines In Indonesia, Myanmar, Philippines, Singapore & Vietnam: Aug 24, 2026",
+      "content_text": "Da Nang launched green tourism criteria for accommodation facilities to promote sustainable tourism. Local authorities are collaborating with Swiss ...",
+      "date_published": "2026-08-24T05:38:25+00:00"
+    },
+    {
       "id": "https://news.tuoitre.vn/da-nang-sets-219-criteria-for-green-tourism-accommodations-103260821151531107.htm",
       "url": "https://news.tuoitre.vn/da-nang-sets-219-criteria-for-green-tourism-accommodations-103260821151531107.htm",
       "title": "Da Nang sets 219 criteria for green tourism accommodations - Tuoi tre news",
@@ -33,13 +40,6 @@
       "title": "Geological Conservation: Myanmar National Geopark Committee meeting",
       "content_text": "The National Geopark Committee held its meeting at the Forest Department headquarters in Nay Pyi Taw on Thursday. Chairman of the Committee Union ...",
       "date_published": "2026-08-21T03:47:38+00:00"
-    },
-    {
-      "id": "https://www.myanmaritv.com/news/culture-tourism-efforts-development-cultural-tourism",
-      "url": "https://www.myanmaritv.com/news/culture-tourism-efforts-development-cultural-tourism",
-      "title": "Culture &Tourism : Efforts for development of cultural tourism | Myanmar International TV",
-      "content_text": "Aiming for the long-term resilience of ancient heritage in Kengtung District, Shan State (South) and systematic maintenance measures, ...",
-      "date_published": "2026-08-09T06:10:59+00:00"
     },
     {
       "id": "https://www.pressreader.com/malaysia/the-star-malaysia-star2/20260714/281629607027396",
@@ -63,18 +63,18 @@
       "date_published": "2026-08-24T17:02:03+00:00"
     },
     {
-      "id": "https://bernama.com/en/world/news.php?id=2598225",
-      "url": "https://bernama.com/en/world/news.php?id=2598225",
-      "title": "Top News Headlines In Indonesia, Myanmar, Philippines, Singapore & Vietnam: Aug 24, 2026",
-      "content_text": "Da Nang launched green tourism criteria for accommodation facilities to promote sustainable tourism. Local authorities are collaborating with Swiss ...",
-      "date_published": "2026-08-24T05:38:25+00:00"
+      "id": "https://www.travelandtourworld.com/news/article/mahclhlyo7gd/",
+      "url": "https://www.travelandtourworld.com/news/article/mahclhlyo7gd/",
+      "title": "Discover the Vibrant Heritage of Myanmar: Inside the Akha Traditional Swing Festival and Ur ...",
+      "content_text": "Festival tourism is a strategic government initiative by the Ministry of Hotels, Tourism and Culture designed to showcase indigenous ethnic traditions ...",
+      "date_published": "2026-08-10T12:57:48+00:00"
     },
     {
-      "id": "https://www.bignewsnetwork.com/news/279245093/myanmar-steps-up-tree-planting-forest-conservation-to-mitigate-climate-change",
-      "url": "https://www.bignewsnetwork.com/news/279245093/myanmar-steps-up-tree-planting-forest-conservation-to-mitigate-climate-change",
-      "title": "Myanmar steps up tree planting, forest conservation to mitigate climate change",
-      "content_text": "YANGON, Aug. 16 (Xinhua) -- Myanmar is stepping up efforts to conserve forests and expand tree cover as part of measures to mitigate climate ...",
-      "date_published": "2026-08-16T17:19:18+00:00"
+      "id": "https://www.myanmaritv.com/news/festival-tourism-akha-traditional-swing-festival",
+      "url": "https://www.myanmaritv.com/news/festival-tourism-akha-traditional-swing-festival",
+      "title": "Festival Tourism: Akha traditional Swing Festival | Myanmar International TV",
+      "content_text": "The Ministry of Hotels, Tourism and Culture is implementing the Festival Tourism in Myanmar to promote the customs of Ethinic peoples and to ...",
+      "date_published": "2026-08-10T03:44:15+00:00"
     }
   ]
 }

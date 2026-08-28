@@ -7,11 +7,18 @@
   "language": "en",
   "items": [
     {
-      "id": "https://businessamlive.com/us-awards-125000-grant-to-preserve-nigerias-4000-year-old-lejja-heritage-site/",
-      "url": "https://businessamlive.com/us-awards-125000-grant-to-preserve-nigerias-4000-year-old-lejja-heritage-site/",
-      "title": "US awards $125,000 grant to preserve Nigeria's 4,000-year-old Lejja heritage site",
-      "content_text": "The US government's framing of the grant as an economic intervention highlights the growing link between cultural heritage, tourism, local economic ...",
-      "date_published": "2026-08-25T07:56:04+00:00"
+      "id": "https://allafrica.com/stories/202608240113.html",
+      "url": "https://allafrica.com/stories/202608240113.html",
+      "title": "Nigeria: From Nigeria to Asian Steppes - Stories of Survival, Soil and Hope in Mongolia",
+      "content_text": "The park demonstrates how biodiversity conservation, community engagement, sustainable pasture management and eco-tourism can work together to restore ...",
+      "date_published": "2026-08-24T11:52:31+00:00"
+    },
+    {
+      "id": "https://guardian.ng/tv/voodoo-helps-protect-endangered-mangroves-in-benin/",
+      "url": "https://guardian.ng/tv/voodoo-helps-protect-endangered-mangroves-in-benin/",
+      "title": "Voodoo helps protect endangered mangroves in Benin - The Guardian Nigeria News",
+      "content_text": "... safeguarding vital mangroves. Where laws failed, belief in Zangbeto — a night watchman spirit — is helping the fight against climate change.",
+      "date_published": "2026-08-27T17:22:27+00:00"
     },
     {
       "id": "https://www.environewsnigeria.com/batn-foundation-launches-22000-tree-afforestation-project-to-boost-climate-resilience-rural-livelihoods-in-northern-nigeria/",
@@ -63,18 +70,11 @@
       "date_published": "2026-07-15T11:04:38+00:00"
     },
     {
-      "id": "https://allafrica.com/stories/202608240113.html",
-      "url": "https://allafrica.com/stories/202608240113.html",
-      "title": "Nigeria: From Nigeria to Asian Steppes - Stories of Survival, Soil and Hope in Mongolia",
-      "content_text": "The park demonstrates how biodiversity conservation, community engagement, sustainable pasture management and eco-tourism can work together to restore ...",
-      "date_published": "2026-08-24T11:52:31+00:00"
-    },
-    {
-      "id": "https://guardian.ng/property/illegal-black-market-trade-threatening-nigerias-400-elephants/",
-      "url": "https://guardian.ng/property/illegal-black-market-trade-threatening-nigerias-400-elephants/",
-      "title": "Illegal black-market trade threatening Nigeria's 400 elephants",
-      "content_text": "... wildlife tourism as a source of jobs and economic opportunities for local communities. Ofua urged greater private-sector investment in ...",
-      "date_published": "2026-08-24T03:29:38+00:00"
+      "id": "https://businessamlive.com/us-awards-125000-grant-to-preserve-nigerias-4000-year-old-lejja-heritage-site/",
+      "url": "https://businessamlive.com/us-awards-125000-grant-to-preserve-nigerias-4000-year-old-lejja-heritage-site/",
+      "title": "US awards $125,000 grant to preserve Nigeria's 4,000-year-old Lejja heritage site",
+      "content_text": "The US government's framing of the grant as an economic intervention highlights the growing link between cultural heritage, tourism, local economic ...",
+      "date_published": "2026-08-25T07:56:04+00:00"
     }
   ]
 }

@@ -21,34 +21,6 @@
       "date_published": "2026-07-15T23:59:50+00:00"
     },
     {
-      "id": "https://www.undp.org/serbia/news/restoration-gradac-river-strengthens-local-ecosystem-and-climate-resilience",
-      "url": "https://www.undp.org/serbia/news/restoration-gradac-river-strengthens-local-ecosystem-and-climate-resilience",
-      "title": "Restoration of the Gradac River Strengthens the Local Ecosystem and Climate Resilience",
-      "content_text": "Charlotte Sammelin, Ambassador of Sweden to Serbia, and Fabrizio Andreuzzi, UNDP Serbia ... climate change while protecting biodiversity and ...",
-      "date_published": "2026-06-30T14:58:19+00:00"
-    },
-    {
-      "id": "https://roastbrief.us/mobile-and-satellite-data-tackles-over-tourism-in-sweden/",
-      "url": "https://roastbrief.us/mobile-and-satellite-data-tackles-over-tourism-in-sweden/",
-      "title": "Mobile and satellite data tackles over tourism in Sweden - Roastbrief US",
-      "content_text": "To ease the pressure on nature and inspire tourists to bring out the explorer within, the Swedish outdoor brand Haglöfs, is now launching Unvisited ...",
-      "date_published": "2026-06-24T15:57:58+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/28vngk55pwr3/",
-      "url": "https://www.travelandtourworld.com/news/article/28vngk55pwr3/",
-      "title": "Gotland Summer Road Trip: Sweden's Dreamy Island Turns Farm Stays and Wild Coasts ...",
-      "content_text": "Discover Gotland's summer road trip appeal, from medieval Visby and farm stays to wild coastlines and sustainable travel ... What is a farm stay in ...",
-      "date_published": "2026-08-21T11:12:19+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/yeg9on2ewz72/",
-      "url": "https://www.travelandtourworld.com/news/article/yeg9on2ewz72/",
-      "title": "Denmark Alongside Sweden, Finland, Switzerland and More Lead the Worlds Greenest ...",
-      "content_text": "Discover the world's greenest countries leading renewable energy, conservation and sustainable tourism with inspiring eco-friendly travel ...",
-      "date_published": "2026-07-16T08:41:56+00:00"
-    },
-    {
       "id": "https://www.travelandtourworld.com/news/article/4aj517z9auqh/",
       "url": "https://www.travelandtourworld.com/news/article/4aj517z9auqh/",
       "title": "Norway Partners With Sweden, Denmark, Finland and More Nordic Nations Boosting ...",
@@ -63,11 +35,32 @@
       "date_published": "2026-07-09T12:40:23+00:00"
     },
     {
-      "id": "https://www.travelandtourworld.com/news/article/45jq5rpxece3/",
-      "url": "https://www.travelandtourworld.com/news/article/45jq5rpxece3/",
-      "title": "Sweden unites with Norway, Iceland, Finland and more countries emerging as the leading ...",
-      "content_text": "Europe's Summer Travel Pattern Is Breaking Under Climate Pressure. Europe's summer tourism system is undergoing a noticeable structural change as ...",
-      "date_published": "2026-07-02T18:01:23+00:00"
+      "id": "https://roastbrief.us/mobile-and-satellite-data-tackles-over-tourism-in-sweden/",
+      "url": "https://roastbrief.us/mobile-and-satellite-data-tackles-over-tourism-in-sweden/",
+      "title": "Mobile and satellite data tackles over tourism in Sweden - Roastbrief US",
+      "content_text": "To ease the pressure on nature and inspire tourists to bring out the explorer within, the Swedish outdoor brand Haglöfs, is now launching Unvisited ...",
+      "date_published": "2026-06-24T15:57:58+00:00"
+    },
+    {
+      "id": "https://www.mynewsdesk.com/haglofs/pressreleases/mobile-and-satellite-data-tackles-overtourism-in-sweden-3456058",
+      "url": "https://www.mynewsdesk.com/haglofs/pressreleases/mobile-and-satellite-data-tackles-overtourism-in-sweden-3456058",
+      "title": "Mobile and satellite data tackles overtourism in Sweden | Haglöfs - Mynewsdesk",
+      "content_text": "Sweden is known for its vast forests and untouched wilderness. But growing tourism and increasing pressure on some of the most popular natural ...",
+      "date_published": "2026-06-24T11:44:46+00:00"
+    },
+    {
+      "id": "https://www.afar.com/magazine/how-to-take-a-road-trip-in-gotland-sweden",
+      "url": "https://www.afar.com/magazine/how-to-take-a-road-trip-in-gotland-sweden",
+      "title": "This Dreamy Swedish Island Has Perfected the Art of Summer",
+      "content_text": "Hike in nature reserves, cycle along the coast, and explore sustainable farm stays on a tour around Sweden's sunniest island.",
+      "date_published": "2026-08-17T16:32:47+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/yeg9on2ewz72/",
+      "url": "https://www.travelandtourworld.com/news/article/yeg9on2ewz72/",
+      "title": "Denmark Alongside Sweden, Finland, Switzerland and More Lead the Worlds Greenest ...",
+      "content_text": "Discover the world's greenest countries leading renewable energy, conservation and sustainable tourism with inspiring eco-friendly travel ...",
+      "date_published": "2026-07-16T08:41:56+00:00"
     },
     {
       "id": "https://rewildingeurope.com/blog/rivers-rafts-rewilding-in-swedens-nordic-taiga/",
@@ -75,6 +68,13 @@
       "title": "Rivers, rafts & rewilding in Sweden's Nordic Taiga",
       "content_text": "Did it change how I think about travel? Without question. This trip was what rewilding tourism should be about. Exploring new places, learning new ...",
       "date_published": "2026-06-25T14:56:48+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/y9ormputc7da/",
+      "url": "https://www.travelandtourworld.com/news/article/y9ormputc7da/",
+      "title": "Stockholm, Visby and Several Famous Swedish Towns Remain Overrated Destinations for Travellers",
+      "content_text": "Scandinavian travel demand is increasingly expanding beyond traditional city tourism toward nature-based escapes, smaller communities and regional ...",
+      "date_published": "2026-08-27T18:21:54+00:00"
     }
   ]
 }

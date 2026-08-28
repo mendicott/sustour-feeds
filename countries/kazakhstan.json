@@ -7,20 +7,6 @@
   "language": "en",
   "items": [
     {
-      "id": "https://open.kg/en/news/local-news/115326-v-kyrgyzstane-nashli-sledy-pozharov-bushevavshih-bolee-200-millionov-let-nazad.html",
-      "url": "https://open.kg/en/news/local-news/115326-v-kyrgyzstane-nashli-sledy-pozharov-bushevavshih-bolee-200-millionov-let-nazad.html",
-      "title": "In Kyrgyzstan, traces of fires that raged more than 200 million years ago have been found",
-      "content_text": "Photo from the internet. Madygen Geopark in Batken An international geological-paleontological... Без изображения · How Kazakhstan is Becoming a New ...",
-      "date_published": "2026-08-12T12:29:22+00:00"
-    },
-    {
-      "id": "https://www.yahoo.com/news/science/articles/amur-tigress-umit-brings-wild-205200103.html",
-      "url": "https://www.yahoo.com/news/science/articles/amur-tigress-umit-brings-wild-205200103.html",
-      "title": "Amur tigress Umit brings wild tigers back to Kazakhstan for the first time in 70 years - Yahoo",
-      "content_text": "An Amur tigress named Umit walked through Kazakhstan's Ile-Balkhash State Nature Reserve on July 31, marking the first return of a wild tiger to ...",
-      "date_published": "2026-08-09T21:28:36+00:00"
-    },
-    {
       "id": "https://theclimatewatch.com/kazakhstan-releases-first-tiger-into-wild-in-landmark-rewilding-effort/",
       "url": "https://theclimatewatch.com/kazakhstan-releases-first-tiger-into-wild-in-landmark-rewilding-effort/",
       "title": "Kazakhstan releases first tiger into wild in landmark rewilding effort - The Climate Watch",
@@ -56,25 +42,39 @@
       "date_published": "2026-08-06T10:06:45+00:00"
     },
     {
-      "id": "https://www.news.com.au/national/historic-moment-tiger-released-into-the-wild-as-kazakhstan-takes-steps-to-restore-species/video/a813db4cf216f5cd120e2ed89ce76c5c",
-      "url": "https://www.news.com.au/national/historic-moment-tiger-released-into-the-wild-as-kazakhstan-takes-steps-to-restore-species/video/a813db4cf216f5cd120e2ed89ce76c5c",
-      "title": "'Historic' Moment Tiger Released Into the Wild as Kazakhstan Takes Steps to Restore Species",
-      "content_text": "Kazakhstan released a female tiger into the wild on July 31, marking a historic attempt to bring back the big cats, which disappeared from the ...",
-      "date_published": "2026-08-04T19:57:55+00:00"
-    },
-    {
-      "id": "https://www.aljazeera.com/video/newsfeed/2026/8/4/kazakhstan-releases-first-tiger-to-restore-extinct-species",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/kazakhstan-releases-first-tiger-to-restore-extinct-species",
-      "title": "Kazakhstan releases first tiger to restore extinct species | Tourism - Al Jazeera",
-      "content_text": "Kazakhstan has released the first Amur tiger in the wild in more than 70 years to help restore the extinct Caspian tiger.",
-      "date_published": "2026-08-04T19:21:41+00:00"
-    },
-    {
       "id": "https://www.aa.com.tr/en/pg/photo-gallery/first-amur-tiger-given-by-russia-to-kazakhstan-released-into-its-natural-habitat/165640",
       "url": "https://www.aa.com.tr/en/pg/photo-gallery/first-amur-tiger-given-by-russia-to-kazakhstan-released-into-its-natural-habitat/165640",
       "title": "First Amur tiger given by Russia to Kazakhstan released into its natural habitat",
       "content_text": "Kazakh Ministry of Environment • 03 August 2026 • Update: 03 August 2026. NSosyal. First Amur tiger given by Russia to Kazakhstan released into its ...",
       "date_published": "2026-08-03T14:58:43+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/8gw29p0im55s/",
+      "url": "https://www.travelandtourworld.com/news/article/8gw29p0im55s/",
+      "title": "Japan, Mongolia, Nepal, South Korea, Indonesia, Kazakhstan and Bhutan Lead Asia's New ...",
+      "content_text": "This new travel revolution highlights how Asia is moving towards responsible tourism where nature, heritage and local communities remain at the heart ...",
+      "date_published": "2026-07-23T01:45:26+00:00"
+    },
+    {
+      "id": "https://timesca.com/aral-geopark-under-review-for-unesco-global-status/",
+      "url": "https://timesca.com/aral-geopark-under-review-for-unesco-global-status/",
+      "title": "Kazakhstan's Aral Geopark Under Review for UNESCO Global Status",
+      "content_text": "Kazakhstan sent the official application for the Aral Geopark's inclusion in the UNESCO Global Geoparks Network to the organization's headquarters in ...",
+      "date_published": "2026-07-08T13:06:49+00:00"
+    },
+    {
+      "id": "https://qazinform.com/amp/japan-pledges-usd-3-mln-to-support-caspian-sea-sustainability-e604d6/",
+      "url": "https://qazinform.com/amp/japan-pledges-usd-3-mln-to-support-caspian-sea-sustainability-e604d6/",
+      "title": "Japan pledges USD 3 mln to support Caspian Sea sustainability - Qazinform",
+      "content_text": "Japan has committed 465 million yen (3 million US dollars) in partnership with the U.N. Development Program to help Kazakhstan tackle the ...",
+      "date_published": "2026-07-04T12:34:23+00:00"
+    },
+    {
+      "id": "https://astanatimes.com/2026/06/kazakhstans-saiga-population-surpasses-4-6-million/",
+      "url": "https://astanatimes.com/2026/06/kazakhstans-saiga-population-surpasses-4-6-million/",
+      "title": "Kazakhstan's Saiga Population Surpasses 4.6 Million - The Astana Times",
+      "content_text": "ASTANA — Kazakhstan's saiga population has exceeded 4.6 million animals, marking a historic recovery for the critically endangered antelope and ...",
+      "date_published": "2026-06-27T05:02:35+00:00"
     }
   ]
 }

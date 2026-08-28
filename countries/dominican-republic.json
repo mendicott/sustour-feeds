@@ -7,18 +7,18 @@
   "language": "en",
   "items": [
     {
-      "id": "https://dominicantoday.com/dominican-republic-holds-first-national-oceans-forum-to-strengthen-marine-conservation/",
-      "url": "https://dominicantoday.com/dominican-republic-holds-first-national-oceans-forum-to-strengthen-marine-conservation/",
-      "title": "Dominican Republic holds first National Oceans Forum to strengthen marine conservation",
-      "content_text": "Discussions focused on key challenges facing marine ecosystems, including climate change, marine pollution, coastal erosion and overfishing, while ...",
-      "date_published": "2026-08-03T15:22:10+00:00"
+      "id": "https://www.worldbank.org/en/news/feature/2026/06/24/cuidar-el-bosque-ecoturismo-fuente-empleo-republica-dominicana",
+      "url": "https://www.worldbank.org/en/news/feature/2026/06/24/cuidar-el-bosque-ecoturismo-fuente-empleo-republica-dominicana",
+      "title": "Protecting the forest: ecotourism generates jobs in the Dominican Republic - World Bank",
+      "content_text": "Sustainable tourism can be part of the answer. Through jobs like tourist guides, young people earn income that opens up opportunities without ...",
+      "date_published": "2026-06-25T06:34:42+00:00"
     },
     {
-      "id": "https://www.travelandtourworld.com/news/article/cthg99e4uyzr/",
-      "url": "https://www.travelandtourworld.com/news/article/cthg99e4uyzr/",
-      "title": "Puerto Rico Spirals Into Dominican Republic, Trinidad and Tobago and Beyond In ...",
-      "content_text": "Caribbean destinations including Puerto Rico transform stargazing tourism through astronomy, indigenous heritage and community experiences, ...",
-      "date_published": "2026-07-30T18:44:43+00:00"
+      "id": "https://dominicantoday.com/iberostar-advances-coral-reef-conservation-with-research-lab-in-bavaro/",
+      "url": "https://dominicantoday.com/iberostar-advances-coral-reef-conservation-with-research-lab-in-bavaro/",
+      "title": "Iberostar advances coral reef conservation with research lab in Bávaro - Dominican Today",
+      "content_text": "Iberostar Hotels & Resorts is strengthening its coral reef conservation efforts in the Dominican Republic through research, restoration and ...",
+      "date_published": "2026-08-13T12:26:07+00:00"
     },
     {
       "id": "https://www.wanderlustmagazine.com/news/this-new-dominican-republic-conservation-experience-brings-travellers-face-to-face-with-baby-sea-turtles/",
@@ -35,11 +35,11 @@
       "date_published": "2026-07-12T05:25:54+00:00"
     },
     {
-      "id": "https://www.worldbank.org/en/news/feature/2026/06/24/cuidar-el-bosque-ecoturismo-fuente-empleo-republica-dominicana",
-      "url": "https://www.worldbank.org/en/news/feature/2026/06/24/cuidar-el-bosque-ecoturismo-fuente-empleo-republica-dominicana",
-      "title": "Protecting the forest: ecotourism generates jobs in the Dominican Republic - World Bank",
-      "content_text": "Sustainable tourism can be part of the answer. Through jobs like tourist guides, young people earn income that opens up opportunities without ...",
-      "date_published": "2026-06-25T06:34:42+00:00"
+      "id": "https://www.travelandtourworld.com/news/article/0gotyq3hd3ia/",
+      "url": "https://www.travelandtourworld.com/news/article/0gotyq3hd3ia/",
+      "title": "Aruba Unites With Barbados, Jamaica, Dominican Republic And More ... - Travel And Tour World",
+      "content_text": "This transformation is being driven by regional collaboration and national policies that shift focus from mass tourism to regenerative tourism ...",
+      "date_published": "2026-07-03T15:44:10+00:00"
     },
     {
       "id": "https://www.travelandtourworld.com/news/article/dvui0xikjgl4/",
@@ -56,18 +56,11 @@
       "date_published": "2026-06-12T22:41:15+00:00"
     },
     {
-      "id": "https://dominicantoday.com/iberostar-advances-coral-reef-conservation-with-research-lab-in-bavaro/",
-      "url": "https://dominicantoday.com/iberostar-advances-coral-reef-conservation-with-research-lab-in-bavaro/",
-      "title": "Iberostar advances coral reef conservation with research lab in Bávaro - Dominican Today",
-      "content_text": "Iberostar Hotels & Resorts is strengthening its coral reef conservation efforts in the Dominican Republic through research, restoration and ...",
-      "date_published": "2026-08-13T12:26:07+00:00"
-    },
-    {
-      "id": "https://dominicantoday.com/intec-study-warns-mangrove-loss-could-cost-dominican-republic-us75-million-annually/",
-      "url": "https://dominicantoday.com/intec-study-warns-mangrove-loss-could-cost-dominican-republic-us75-million-annually/",
-      "title": "INTEC study warns mangrove loss could cost Dominican Republic US$75 million annually",
-      "content_text": "Santo Domingo.- A study by researchers at the Technological Institute of Santo Domingo (INTEC) estimates that mangrove degradation could expose ...",
-      "date_published": "2026-08-03T12:11:27+00:00"
+      "id": "https://www.travelandtourworld.com/news/article/cthg99e4uyzr/",
+      "url": "https://www.travelandtourworld.com/news/article/cthg99e4uyzr/",
+      "title": "Puerto Rico Spirals Into Dominican Republic, Trinidad and Tobago and Beyond In ...",
+      "content_text": "Caribbean destinations including Puerto Rico transform stargazing tourism through astronomy, indigenous heritage and community experiences, ...",
+      "date_published": "2026-07-30T18:44:43+00:00"
     },
     {
       "id": "https://ca.travelpulse.com/news/destinations/dominican-republic-showcases-samanas-ecotourism-appeal",
@@ -75,6 +68,13 @@
       "title": "Dominican Republic Showcases Samaná's Ecotourism Appeal - TravelPulse Canada",
       "content_text": "The Dominican Republic Ministry of Tourism hosted Canadian media on a tour of Samaná to promote its ecotourism, highlighting sustainable and ...",
       "date_published": "2026-07-08T14:53:49+00:00"
+    },
+    {
+      "id": "https://dominicantoday.com/dominican-republic-launches-initiative-to-mobilize-us100-million-for-blue-economy/",
+      "url": "https://dominicantoday.com/dominican-republic-launches-initiative-to-mobilize-us100-million-for-blue-economy/",
+      "title": "Dominican Republic launches initiative to mobilize US$100 million for blue economy",
+      "content_text": "He emphasized that protecting watersheds is essential to water security and sectors such as agriculture, industry and tourism. The Dominican Republic ...",
+      "date_published": "2026-08-27T14:08:04+00:00"
     }
   ]
 }

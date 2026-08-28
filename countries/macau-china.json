@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.macaupostdaily.com/news/29099",
+      "url": "https://www.macaupostdaily.com/news/29099",
+      "title": "How flutters of great little birds weave together Asia-Pacific community - The Macau Post Daily",
+      "content_text": "... travel between breeding and wintering grounds. Stretching from Alaska and the Russian Far East to Southeast Asia and Australia, the EAAF is ...",
+      "date_published": "2026-08-16T18:41:45+00:00"
+    },
+    {
       "id": "https://www.tdm.com.mo/en/news-detail/1212870?lang=en&isvideo=true&category=all&shortvideo=0",
       "url": "https://www.tdm.com.mo/en/news-detail/1212870?lang=en&isvideo=true&category=all&shortvideo=0",
       "title": "Macau confirms first intangible cultural heritage transmitters - 澳門廣播電視",
@@ -35,20 +42,6 @@
       "date_published": "2026-06-23T19:02:32+00:00"
     },
     {
-      "id": "https://unu.edu/macau/news/unu-macau-and-blue-institute-sign-mou-digital-innovation-sustainable-development",
-      "url": "https://unu.edu/macau/news/unu-macau-and-blue-institute-sign-mou-digital-innovation-sustainable-development",
-      "title": "UNU Macau and the Blue Institute Sign MOU on Digital Innovation for Sustainable Development",
-      "content_text": "The partnership brings digital technologies and marine conservation together to advance the Blue Economy.",
-      "date_published": "2026-08-24T06:58:28+00:00"
-    },
-    {
-      "id": "https://macaubusiness.com/indonesia-closes-national-park-as-wildfire-spreads/",
-      "url": "https://macaubusiness.com/indonesia-closes-national-park-as-wildfire-spreads/",
-      "title": "Indonesia closes national park as wildfire spreads | Macau Business",
-      "content_text": "International, MNA | Indonesian authorities have closed access to a national park on Java Island as firefighters battle a wildfire raging there ...",
-      "date_published": "2026-08-09T21:29:43+00:00"
-    },
-    {
       "id": "https://macaudailytimes.com.mo/cross-border-botanical-garden-planned.html",
       "url": "https://macaudailytimes.com.mo/cross-border-botanical-garden-planned.html",
       "title": "Cross-border botanical garden planned | MACAU DAILY TIMES 澳門每日時報",
@@ -56,25 +49,32 @@
       "date_published": "2026-08-07T00:32:35+00:00"
     },
     {
-      "id": "https://macaubusiness.com/chief-executive-explores-ecological-tourism-and-history-on-fujian-visit/",
-      "url": "https://macaubusiness.com/chief-executive-explores-ecological-tourism-and-history-on-fujian-visit/",
-      "title": "Chief Executive explores ecological tourism and history on Fujian visit | Macau Business",
-      "content_text": "China, Macau, MNA | Macau Chief Executive Sam Hou Fai visited Fujian province on Monday to examine ecological tourism and patriotic education ...",
-      "date_published": "2026-08-03T16:25:50+00:00"
-    },
-    {
-      "id": "https://www.gov.mo/en/news/ce-visits-xiamen-and-longyan-in-fujian-province/",
-      "url": "https://www.gov.mo/en/news/ce-visits-xiamen-and-longyan-in-fujian-province/",
-      "title": "CE visits Xiamen and Longyan in Fujian province – Macao SAR Government Portal",
-      "content_text": "He also saw the latest developments in ecological conservation and cultural tourism. Mr Sam pointed out that work at Wuyuan Bay has expanded public ...",
-      "date_published": "2026-08-03T16:22:52+00:00"
-    },
-    {
       "id": "https://macaubusiness.com/six-ancient-comoros-medinas-join-unescos-heritage-list/",
       "url": "https://macaubusiness.com/six-ancient-comoros-medinas-join-unescos-heritage-list/",
       "title": "Six ancient Comoros medinas join UNESCO's heritage list | Macau Business",
       "content_text": "... tourism, and the preservation of heritage,\" said Faniya Abbas, of the Medina Wiratha cultural association. The medinas have preserved their old ...",
       "date_published": "2026-07-25T20:46:40+00:00"
+    },
+    {
+      "id": "https://www.macaupostdaily.com/news/28807",
+      "url": "https://www.macaupostdaily.com/news/28807",
+      "title": "Macao's cultural heritage can drive sustainable tourism - The Macau Post Daily",
+      "content_text": "Macao's cultural heritage can drive sustainable tourism. 2026-07-16 15:42. BY Harald Brüning. Comment:0. The 13th APEC Tourism Ministerial Meeting in ...",
+      "date_published": "2026-07-16T13:52:28+00:00"
+    },
+    {
+      "id": "https://www.chinadaily.com.cn/a/202607/15/WS6a57412aa310986e2b465673.html",
+      "url": "https://www.chinadaily.com.cn/a/202607/15/WS6a57412aa310986e2b465673.html",
+      "title": "Macao's cultural heritage can drive sustainable tourism - Opinion - Chinadaily.com.cn",
+      "content_text": "The 13th APEC Tourism Ministerial Meeting in late June was the first time in 12 years that the event had been held in China's Macao Special ...",
+      "date_published": "2026-07-15T08:18:53+00:00"
+    },
+    {
+      "id": "https://macaudailytimes.com.mo/macaus-obsession-with-visitor-numbers-is-holding-it-back.html",
+      "url": "https://macaudailytimes.com.mo/macaus-obsession-with-visitor-numbers-is-holding-it-back.html",
+      "title": "Macau's obsession with visitor numbers is holding it back | MACAU DAILY TIMES 澳門每日時報",
+      "content_text": "The tourism industry should not be asking how to attract another 5 or 10 million visitors. It should ask how to persuade 500,000 travelers willing to ...",
+      "date_published": "2026-07-13T00:29:10+00:00"
     }
   ]
 }

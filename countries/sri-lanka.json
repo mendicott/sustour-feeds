@@ -7,20 +7,6 @@
   "language": "en",
   "items": [
     {
-      "id": "https://www.thetraveler.org/sri-lanka-charts-low-carbon-future-for-delft-island/",
-      "url": "https://www.thetraveler.org/sri-lanka-charts-low-carbon-future-for-delft-island/",
-      "title": "Sri Lanka charts low carbon future for Delft Island - A Global Hub of Travel Knowledge",
-      "content_text": "The government's wider push to brand Sri Lanka as a sustainable tourism destination provides the national policy backdrop for Delft's evolving role.",
-      "date_published": "2026-08-14T12:59:11+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/o8rjd8p8e1pj/",
-      "url": "https://www.travelandtourworld.com/news/article/o8rjd8p8e1pj/",
-      "title": "Sri Lanka Ignites A Green Travel Boom By Transforming Its Northern Island Sector Into A ...",
-      "content_text": "Discover how Sri Lanka's Delft Island is becoming a major zero-emission eco-tourism destination, protecting heritage and reshaping global travel ...",
-      "date_published": "2026-08-11T05:54:51+00:00"
-    },
-    {
       "id": "https://www.sundaytimes.lk/260809/business-times/delft-island-to-be-developed-as-an-eco-tourism-destination-651355.html",
       "url": "https://www.sundaytimes.lk/260809/business-times/delft-island-to-be-developed-as-an-eco-tourism-destination-651355.html",
       "title": "Delft Island to be developed as an Eco Tourism destination - The Sunday Times, Sri Lanka",
@@ -28,32 +14,11 @@
       "date_published": "2026-08-09T05:15:47+00:00"
     },
     {
-      "id": "https://www.sundaytimes.lk/260809/education/gateway-media-club-hosts-nature-photography-workshop-with-chitral-jayatilake-651638.html",
-      "url": "https://www.sundaytimes.lk/260809/education/gateway-media-club-hosts-nature-photography-workshop-with-chitral-jayatilake-651638.html",
-      "title": "Gateway Media Club Hosts Nature Photography Workshop with Chitral Jayatilake",
-      "content_text": "... eco-tourism pioneers. The workshop, held at Gateway College Colombo, brought together more than 80 students from the Colombo, Kandy, Negombo, and ...",
-      "date_published": "2026-08-09T01:23:11+00:00"
-    },
-    {
-      "id": "https://island.lk/promoting-sustainable-tourism-in-delft/",
-      "url": "https://island.lk/promoting-sustainable-tourism-in-delft/",
-      "title": "Promoting Sustainable tourism in Delft – The Island",
-      "content_text": "Delft Islands has become a signature destination in Sri Lanka tourism map, offering travellers a journey into a world where time appears to stand ...",
-      "date_published": "2026-08-09T00:02:27+00:00"
-    },
-    {
       "id": "https://www.themorning.lk/articles/p1Ag2YRUf1HRgR2prhnI",
       "url": "https://www.themorning.lk/articles/p1Ag2YRUf1HRgR2prhnI",
       "title": "Delft Island to be developed as zero-emission eco-tourism destination - TheMorning.lk",
       "content_text": "Despite its extraordinary attractions, the island has so far made only a limited contribution to Sri Lanka's tourism industry. He emphasised the ...",
       "date_published": "2026-08-08T18:53:51+00:00"
-    },
-    {
-      "id": "https://www.thetraveler.org/sri-lankas-mountain-sanctuaries-draw-wellness-focused-travelers/",
-      "url": "https://www.thetraveler.org/sri-lankas-mountain-sanctuaries-draw-wellness-focused-travelers/",
-      "title": "Sri Lanka's Mountain Sanctuaries Draw Wellness-Focused Travelers",
-      "content_text": "... carrying capacity, recommending limits on daily visitor numbers, the ... travel, boosting domestic tourism and redirecting demand to new global ...",
-      "date_published": "2026-08-08T12:25:11+00:00"
     },
     {
       "id": "https://www.newswire.lk/2026/08/05/delft-island-to-become-sri-lankas-first-zero-emission-eco%E2%80%91tourism-destination/",
@@ -75,6 +40,41 @@
       "title": "ECO-TOURISM: Delft Island to be SL's first zero emission destination - TheMorning.lk",
       "content_text": "The Government of Sri Lanka has initiated plans to develop Delft Island into the country's first Zero Emission eco-tourism destination, ...",
       "date_published": "2026-08-05T00:54:40+00:00"
+    },
+    {
+      "id": "https://www.dailymirror.lk/news-features/Srilal-A-Lifetime-Journey-Championing-Sustainability-in-Sri-Lanka-Tourism/131-347307",
+      "url": "https://www.dailymirror.lk/news-features/Srilal-A-Lifetime-Journey-Championing-Sustainability-in-Sri-Lanka-Tourism/131-347307",
+      "title": "Srilal: A Lifetime Journey Championing Sustainability in Sri Lanka Tourism - Daily Mirror",
+      "content_text": "His recent work on tourism carrying capacity can also be found on many websites. ... Travel, Work, and Future · Sri Lankan Passport Ranked 94th in ...",
+      "date_published": "2026-08-04T06:05:30+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/o8rjd8p8e1pj/",
+      "url": "https://www.travelandtourworld.com/news/article/o8rjd8p8e1pj/",
+      "title": "Sri Lanka Ignites A Green Travel Boom By Transforming Its Northern Island Sector Into A ...",
+      "content_text": "Discover how Sri Lanka's Delft Island is becoming a major zero-emission eco-tourism destination, protecting heritage and reshaping global travel ...",
+      "date_published": "2026-08-11T05:54:51+00:00"
+    },
+    {
+      "id": "https://island.lk/promoting-sustainable-tourism-in-delft/",
+      "url": "https://island.lk/promoting-sustainable-tourism-in-delft/",
+      "title": "Promoting Sustainable tourism in Delft – The Island",
+      "content_text": "Delft Islands has become a signature destination in Sri Lanka tourism map, offering travellers a journey into a world where time appears to stand ...",
+      "date_published": "2026-08-09T00:02:27+00:00"
+    },
+    {
+      "id": "https://dailynews.lk/2026/08/05/business/1031876/govt-unveils-plan-to-transform-delft-into-sri-lankas-first-zero-emission-eco-tourism-destination/",
+      "url": "https://dailynews.lk/2026/08/05/business/1031876/govt-unveils-plan-to-transform-delft-into-sri-lankas-first-zero-emission-eco-tourism-destination/",
+      "title": "Govt. unveils plan to transform Delft into Sri Lanka's first zero-emission eco-tourism destination",
+      "content_text": "The Government has launched an ambitious initiative to develop Delft Island into Sri Lanka's first Zero-Emission Eco-Tourism Destination, marking a ...",
+      "date_published": "2026-08-04T20:00:33+00:00"
+    },
+    {
+      "id": "https://bizenglish.adaderana.lk/delft-island-to-be-developed-as-sri-lankas-first-zero-emission-eco-tourism-destination/",
+      "url": "https://bizenglish.adaderana.lk/delft-island-to-be-developed-as-sri-lankas-first-zero-emission-eco-tourism-destination/",
+      "title": "Delft Island to be developed as Sri Lanka's First Zero Emission Eco-Tourism Destination",
+      "content_text": "Officials from the Sri Lanka Tourism Development Authority (SLTDA) and the Sri Lanka Tourism Promotion Bureau (SLTPB) also participated in the visit ...",
+      "date_published": "2026-08-04T16:03:08+00:00"
     }
   ]
 }
