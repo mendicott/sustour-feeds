@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/dr-congo.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for DR Congo. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 28 Aug 2026 10:11:01 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Aug 2026 22:22:36 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Kinshasa Aligns with Kahuzi-Biega and Yangambi to Shape DRC's New Tourism Landscape</title>
+<link>https://www.travelandtourworld.com/news/article/ay7vmuxyo4ns/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ay7vmuxyo4ns/</guid>
+<pubDate>Fri, 28 Aug 2026 07:53:21 +0000</pubDate>
+<description>DRC tourism is expanding through Kinshasa, Yangambi and Kahuzi-Biega, linking rainforest conservation, wildlife and Congolese culture.</description>
+</item>
 <item>
 <title>Mountain Gorilla Conservation and Poverty Reduction - The Borgen Project</title>
 <link>https://borgenproject.org/mountain-gorilla-conservation/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/j3i9o9q824ye/</guid>
 <pubDate>Wed, 26 Aug 2026 08:01:08 +0000</pubDate>
 <description>Ethiopian Airlines increases Addis Ababa-Kinshasa connectivity to 21 weekly flights, strengthening travel, tourism and business links with the ...</description>
-</item>
-<item>
-<title>World's Oldest Ship, MV Liemba, sets sail again in Lake Tanganyika after nearly 114 years</title>
-<link>https://tanzaniatimes.net/the-worlds-oldest-ship-mv-liemba-is-setting-sail-again-in-lake-tanganyika-after-nearly-114-years/</link>
-<guid isPermaLink="false">https://tanzaniatimes.net/the-worlds-oldest-ship-mv-liemba-is-setting-sail-again-in-lake-tanganyika-after-nearly-114-years/</guid>
-<pubDate>Sun, 23 Aug 2026 18:51:51 +0000</pubDate>
-<description>It takes two days to travel by Liemba from Tanzania to Zambia. Later, it will also cover Kalemie in the Democratic Republic of Congo, Nyanza and ...</description>
 </item>
 </channel>
 </rss>

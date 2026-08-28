@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.travelandtourworld.com/news/article/ay7vmuxyo4ns/",
+      "url": "https://www.travelandtourworld.com/news/article/ay7vmuxyo4ns/",
+      "title": "Kinshasa Aligns with Kahuzi-Biega and Yangambi to Shape DRC's New Tourism Landscape",
+      "content_text": "DRC tourism is expanding through Kinshasa, Yangambi and Kahuzi-Biega, linking rainforest conservation, wildlife and Congolese culture.",
+      "date_published": "2026-08-28T07:53:21+00:00"
+    },
+    {
       "id": "https://borgenproject.org/mountain-gorilla-conservation/",
       "url": "https://borgenproject.org/mountain-gorilla-conservation/",
       "title": "Mountain Gorilla Conservation and Poverty Reduction - The Borgen Project",
@@ -68,13 +75,6 @@
       "title": "Addis Ababa and Kinshasa Travel Connectivity Expands as Ethiopian Airlines Boosts DRC ...",
       "content_text": "Ethiopian Airlines increases Addis Ababa-Kinshasa connectivity to 21 weekly flights, strengthening travel, tourism and business links with the ...",
       "date_published": "2026-08-26T08:01:08+00:00"
-    },
-    {
-      "id": "https://tanzaniatimes.net/the-worlds-oldest-ship-mv-liemba-is-setting-sail-again-in-lake-tanganyika-after-nearly-114-years/",
-      "url": "https://tanzaniatimes.net/the-worlds-oldest-ship-mv-liemba-is-setting-sail-again-in-lake-tanganyika-after-nearly-114-years/",
-      "title": "World's Oldest Ship, MV Liemba, sets sail again in Lake Tanganyika after nearly 114 years",
-      "content_text": "It takes two days to travel by Liemba from Tanzania to Zambia. Later, it will also cover Kalemie in the Democratic Republic of Congo, Nyanza and ...",
-      "date_published": "2026-08-23T18:51:51+00:00"
     }
   ]
 }

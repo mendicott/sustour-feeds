@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/angola.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Angola. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 28 Aug 2026 10:11:01 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Aug 2026 22:22:36 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Angola: A Letter from Our CEO - Rainforest Trust</title>
+<link>https://www.rainforesttrust.org/our-impact/rainforest-news/angola-a-letter-from-our-ceo/</link>
+<guid isPermaLink="false">https://www.rainforesttrust.org/our-impact/rainforest-news/angola-a-letter-from-our-ceo/</guid>
+<pubDate>Fri, 28 Aug 2026 14:56:31 +0000</pubDate>
+<description>... tourism potential, but from the highlands of neighboring ... climate change, plans for commercial agriculture, and deforestation in Angola.</description>
+</item>
 <item>
 <title>Angola, when Kissama Park tells the story of a flourishing Africa - Ecofin Agency</title>
 <link>https://www.ecofinagency.com/news-tourism/2708-58384-angola-when-kissama-park-tells-the-story-of-a-flourishing-africa</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis</guid>
 <pubDate>Fri, 21 Aug 2026 11:45:46 +0000</pubDate>
 <description>Ornithologist Péter Palatitz raises an antenna near Mungo, Angola, to collect data from GPS trackers he and his team have put on red-footed falcons.</description>
-</item>
-<item>
-<title>Angola: The Next Big Travel Destination? - Falstaff</title>
-<link>https://www.falstaff.com/en/news/angola-the-next-big-travel-destination</link>
-<guid isPermaLink="false">https://www.falstaff.com/en/news/angola-the-next-big-travel-destination</guid>
-<pubDate>Fri, 10 Jul 2026 13:02:20 +0000</pubDate>
-<description>With investments in nature conservation and tourism, the country is increasingly opening up to international visitors 24 years after the end of the ...</description>
 </item>
 </channel>
 </rss>

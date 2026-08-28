@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/argentina.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Argentina. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 28 Aug 2026 10:11:01 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Aug 2026 22:22:36 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Argentina restricts access to an Andean plain after damage caused by a pickup truck</title>
@@ -51,6 +51,13 @@
 <description>Verra has approved its first government-led provincial forest carbon program under the VCS Jurisdictional and Nested REDD+ Framework.</description>
 </item>
 <item>
+<title>What It's Like to Sleep in a Rainforest Retreat in Argentina's Iguazú Falls</title>
+<link>https://www.nationalgeographic.com/travel/article/where-to-stay-awasi-iguazu-falls</link>
+<guid isPermaLink="false">https://www.nationalgeographic.com/travel/article/where-to-stay-awasi-iguazu-falls</guid>
+<pubDate>Fri, 28 Aug 2026 14:17:36 +0000</pubDate>
+<description>Green Travel · Travel with Nat Geo · View All Travel. Latest—. Where to Find ... ➤ Transit time: As the second largest country in South America, ...</description>
+</item>
+<item>
 <title>Argentina's solar train brings zero-emission travel to an ancient trade route - Electrek</title>
 <link>https://electrek.co/2026/08/03/argentinas-solar-train-brings-zero-emission-travel-to-an-ancient-trade-route/</link>
 <guid isPermaLink="false">https://electrek.co/2026/08/03/argentinas-solar-train-brings-zero-emission-travel-to-an-ancient-trade-route/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.bbc.com/travel/article/20260710-ride-argentinas-first-solar-train-through-10000-years-of-indigenous-history</guid>
 <pubDate>Mon, 13 Jul 2026 12:52:52 +0000</pubDate>
 <description>The zero-emissions luxury train is taking travellers through rainbow mountains, Indigenous villages and a 10000-year-old cultural corridor.</description>
-</item>
-<item>
-<title>Costa Rica Supercharges United States, Canada, Mexico and Colombia to Lead the ...</title>
-<link>https://www.travelandtourworld.com/news/article/9x5tmqte5b67/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/9x5tmqte5b67/</guid>
-<pubDate>Wed, 01 Jul 2026 11:30:16 +0000</pubDate>
-<description>Costa Rica supercharges the United States, Canada, Mexico, Argentina, Brazil and Colombia to lead the Americas' explosive agritourism revolution.</description>
 </item>
 </channel>
 </rss>

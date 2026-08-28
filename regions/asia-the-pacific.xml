@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/asia-the-pacific.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Asia &amp; the Pacific. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 28 Aug 2026 10:11:01 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Aug 2026 22:22:36 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Why travellers still pay Bhutan's US$100 nightly fee - Nation Thailand</title>
+<link>https://www.nationthailand.com/news/tourism/40070380</link>
+<guid isPermaLink="false">https://www.nationthailand.com/news/tourism/40070380</guid>
+<pubDate>Fri, 28 Aug 2026 16:07:57 +0000</pubDate>
+<description>Bhutan charges most foreign visitors US$100 a night, using the levy to support public services, conservation and its low-volume tourism model.</description>
+</item>
 <item>
 <title>Hong Kong trials Geopark booking system to curb overtourism</title>
 <link>https://www.lifestyleasia.com/hk/whats-on/news-whats-on/sai-kung-geopark-booking-system-hong-kong-details/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.newswire.lk/2026/08/05/delft-island-to-become-sri-lankas-first-zero-emission-eco%E2%80%91tourism-destination/</guid>
 <pubDate>Wed, 05 Aug 2026 07:07:43 +0000</pubDate>
 <description>The Government of Sri Lanka has unveiled plans to transform Delft Island into the country's first Zero Emission eco‑tourism destination, ...</description>
-</item>
-<item>
-<title>Govt. to make Delft Island SL's first zero-emission tourism destination | Daily FT</title>
-<link>https://www.ft.lk/front-page/Govt-to-make-Delft-Island-SL-s-first-zero-emission-tourism-destination/44-795606</link>
-<guid isPermaLink="false">https://www.ft.lk/front-page/Govt-to-make-Delft-Island-SL-s-first-zero-emission-tourism-destination/44-795606</guid>
-<pubDate>Wed, 05 Aug 2026 02:15:15 +0000</pubDate>
-<description>... sustainable tourism destination while preserving its natural, historical and cultural assets. Sri Lanka Tourism said Delft Island, known for its ...</description>
 </item>
 </channel>
 </rss>

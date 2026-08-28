@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.nationthailand.com/news/tourism/40070380",
+      "url": "https://www.nationthailand.com/news/tourism/40070380",
+      "title": "Why travellers still pay Bhutan's US$100 nightly fee - Nation Thailand",
+      "content_text": "Bhutan charges most foreign visitors US$100 a night, using the levy to support public services, conservation and its low-volume tourism model.",
+      "date_published": "2026-08-28T16:07:57+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/s1zg1s0ip47d/",
       "url": "https://www.travelandtourworld.com/news/article/s1zg1s0ip47d/",
       "title": "New Zealand Goes Hand In Hand With Australia, Thailand And More Nations, Save Tourism",
@@ -19,6 +26,20 @@
       "title": "WEF urges tourism to move beyond visitor numbers for sustainable growth - Nation Thailand",
       "content_text": "The World Economic Forum says travel and tourism must redefine success beyond arrivals and spending, focusing instead on communities, ecosystems, ...",
       "date_published": "2026-07-04T13:39:29+00:00"
+    },
+    {
+      "id": "https://www.nationthailand.com/sustaination/40070396",
+      "url": "https://www.nationthailand.com/sustaination/40070396",
+      "title": "TGO advances local net-zero planning and low-carbon tourism - Nation Thailand",
+      "content_text": "A digital campaign, \"Carbon-Free Journeys\", has been launched to promote low-carbon tourism and encourage more sustainable travel behaviours among ...",
+      "date_published": "2026-08-28T16:14:11+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/svhi6ksegjcg/",
+      "url": "https://www.travelandtourworld.com/news/article/svhi6ksegjcg/",
+      "title": "Chiang Mai and More Destinations in Thailand Putting Stress on Green Travel and ...",
+      "content_text": "Chiang Mai and more destinations in Thailand are putting stress on green travel and responsible tourism, as the country reshapes tourism around ...",
+      "date_published": "2026-08-28T11:51:55+00:00"
     },
     {
       "id": "https://traveltomorrow.com/thailand-shifts-away-from-mass-tourism-with-new-2027-strategy/",
@@ -54,27 +75,6 @@
       "title": "Thai Nguyen takes action to address encroachment on the protected area of ​​the Cau River.",
       "content_text": "Thai Nguyen takes action to address encroachment on the protected area of ​​the Cau River. Recently, the authorities and local government of Thai ...",
       "date_published": "2026-08-18T18:20:50+00:00"
-    },
-    {
-      "id": "https://www.thetraveler.org/thailands-elephant-tourism-shifts-toward-responsible-travel/",
-      "url": "https://www.thetraveler.org/thailands-elephant-tourism-shifts-toward-responsible-travel/",
-      "title": "Thailand's Elephant Tourism Shifts Toward Responsible Travel",
-      "content_text": "New research and campaigns in Thailand highlight a growing move away from elephant riding and shows, as travelers seek ethical, observation-only ...",
-      "date_published": "2026-08-16T00:17:06+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/hbcepngr8pvi/",
-      "url": "https://www.travelandtourworld.com/news/article/hbcepngr8pvi/",
-      "title": "Thailand Travel Spotlight Grows as Responsible Tourism Protects Iconic Asian Elephants",
-      "content_text": "Thailand travel is entering a more responsible tourism era as luxury hospitality operators strengthen wildlife conservation efforts to protect one ...",
-      "date_published": "2026-08-16T00:08:38+00:00"
-    },
-    {
-      "id": "https://dailyhive.com/canada/thailand-canada-proposed-tourist-fee",
-      "url": "https://dailyhive.com/canada/thailand-canada-proposed-tourist-fee",
-      "title": "Canadians travelling to Thailand could be on the hook for more fees | Daily Hive | National",
-      "content_text": "Funds raised through this scheme would also help to maintain and restore parts of the country and tourist spots struggling with overtourism. It ...",
-      "date_published": "2026-08-13T19:38:29+00:00"
     }
   ]
 }

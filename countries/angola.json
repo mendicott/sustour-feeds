@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.rainforesttrust.org/our-impact/rainforest-news/angola-a-letter-from-our-ceo/",
+      "url": "https://www.rainforesttrust.org/our-impact/rainforest-news/angola-a-letter-from-our-ceo/",
+      "title": "Angola: A Letter from Our CEO - Rainforest Trust",
+      "content_text": "... tourism potential, but from the highlands of neighboring ... climate change, plans for commercial agriculture, and deforestation in Angola.",
+      "date_published": "2026-08-28T14:56:31+00:00"
+    },
+    {
       "id": "https://www.ecofinagency.com/news-tourism/2708-58384-angola-when-kissama-park-tells-the-story-of-a-flourishing-africa",
       "url": "https://www.ecofinagency.com/news-tourism/2708-58384-angola-when-kissama-park-tells-the-story-of-a-flourishing-africa",
       "title": "Angola, when Kissama Park tells the story of a flourishing Africa - Ecofin Agency",
@@ -68,13 +75,6 @@
       "title": "A Million Falcons Went Missing. Here's How They Were Found - National Geographic",
       "content_text": "Ornithologist Péter Palatitz raises an antenna near Mungo, Angola, to collect data from GPS trackers he and his team have put on red-footed falcons.",
       "date_published": "2026-08-21T11:45:46+00:00"
-    },
-    {
-      "id": "https://www.falstaff.com/en/news/angola-the-next-big-travel-destination",
-      "url": "https://www.falstaff.com/en/news/angola-the-next-big-travel-destination",
-      "title": "Angola: The Next Big Travel Destination? - Falstaff",
-      "content_text": "With investments in nature conservation and tourism, the country is increasingly opening up to international visitors 24 years after the end of the ...",
-      "date_published": "2026-07-10T13:02:20+00:00"
     }
   ]
 }

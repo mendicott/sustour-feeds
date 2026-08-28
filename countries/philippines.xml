@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/philippines.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Philippines. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 28 Aug 2026 10:11:01 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Aug 2026 22:22:36 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Pasil trains tour guides to boost community-based tourism - Philippine Information Agency</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://pia.gov.ph/news/pasil-trains-tour-guides-to-boost-community-based-tourism/</guid>
 <pubDate>Mon, 24 Aug 2026 07:45:08 +0000</pubDate>
 <description>... community-based tourism program. The August 3–9 Community Guiding Seminar trained residents with the skills needed to guide visitors safely and ...</description>
+</item>
+<item>
+<title>P350-M Mt. Isarog project to balance tourism, conservation in Naga - Philippines</title>
+<link>https://newsinfo.inquirer.net/2294340/p350-m-mt-isarog-project-to-balance-tourism-conservation-in-naga</link>
+<guid isPermaLink="false">https://newsinfo.inquirer.net/2294340/p350-m-mt-isarog-project-to-balance-tourism-conservation-in-naga</guid>
+<pubDate>Fri, 28 Aug 2026 10:04:54 +0000</pubDate>
+<description>The TIEZA plans to develop a forest park on Mt. Isarog in Naga City, with the P350-million project aimed at promoting tourism.</description>
 </item>
 <item>
 <title>Int'l evaluators assess Mt. Apo for Geopark status - Philippine Information Agency</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.thetraveler.org/philippines-backs-new-local-plan-to-steer-bohol-tourism/</guid>
 <pubDate>Mon, 10 Aug 2026 00:07:38 +0000</pubDate>
 <description>Bohol is moving to sharpen its tourism planning through a new local development programme that links climate resilience, geopark conservation and ...</description>
-</item>
-<item>
-<title>Bohol's war on plastic waste | The Manila Times</title>
-<link>https://www.manilatimes.net/2026/08/10/opinion/bohols-war-on-plastic-waste/2401625</link>
-<guid isPermaLink="false">https://www.manilatimes.net/2026/08/10/opinion/bohols-war-on-plastic-waste/2401625</guid>
-<pubDate>Sun, 09 Aug 2026 16:07:12 +0000</pubDate>
-<description>The local government of the Philippines' first Unesco Global Geopark is partnering with the University of the Philippines Marine Science Institute and ...</description>
 </item>
 </channel>
 </rss>
