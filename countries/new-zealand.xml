@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/new-zealand.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for New Zealand. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 28 Aug 2026 22:22:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 10:15:34 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Indonesia and New Zealand Advance Blue Economy Tourism Plan to Protect Islands and ...</title>
+<link>https://www.travelandtourworld.com/news/article/iukumc1x12en/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/iukumc1x12en/</guid>
+<pubDate>Sat, 29 Aug 2026 03:45:05 +0000</pubDate>
+<description>... tourism models and focusing on responsible travel experiences that preserve ecosystems for future generations. ... Coral reef restoration workers ...</description>
+</item>
 <item>
 <title>The Cathedral Cove Kayak Tour That Lands You Where No One Else Can - Travel Dudes</title>
 <link>https://traveldudes.com/cathedral-cove-kayak-tour/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.beehive.govt.nz/release/protecting-new-zealand%E2%80%99s-tourism-appeal</guid>
 <pubDate>Mon, 10 Aug 2026 22:44:20 +0000</pubDate>
 <description>The funding comes from the International Conservation and Tourism Visitor Levy (IVL). Tourism Industry Aotearoa and Tourism New Zealand will lead ...</description>
-</item>
-<item>
-<title>New Zealand's tourism industry faces complex path to sustainability</title>
-<link>https://www.ausleisure.com.au/news/new-zealands-tourism-industry-faces-complex-path-to-sustainability</link>
-<guid isPermaLink="false">https://www.ausleisure.com.au/news/new-zealands-tourism-industry-faces-complex-path-to-sustainability</guid>
-<pubDate>Sun, 09 Aug 2026 21:19:39 +0000</pubDate>
-<description>Inspired by a lifelong love of travel and a ... We thought carbon neutral was it, then carbon zero, then regenerative, and now nature positive.</description>
 </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/peru.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Peru. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 28 Aug 2026 22:22:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 10:15:34 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Peru's Machu Picchu: New carrying capacity study will help regulate tourism</title>
@@ -44,6 +44,13 @@
 <description>Costa Rica, Belize, Peru, Chile and Ecuador drive global ecotourism growth with biodiversity travel, conservation tourism and sustainable travel ...</description>
 </item>
 <item>
+<title>Humboldt Penguin faces renewed threats from El Niño and bird flu - BirdGuides</title>
+<link>https://www.birdguides.com/news/humboldt-penguin-faces-renewed-threats-from-el-nino-and-bird-flu/</link>
+<guid isPermaLink="false">https://www.birdguides.com/news/humboldt-penguin-faces-renewed-threats-from-el-nino-and-bird-flu/</guid>
+<pubDate>Fri, 28 Aug 2026 11:34:12 +0000</pubDate>
+<description>Peru's only breeding penguin has lost two thirds of its population since 2022, with another major El Niño likely to bring further breeding ...</description>
+</item>
+<item>
 <title>Peru Shuts the Inca Trail as Storm-Driven Landslides Threaten the Road to Machu Picchu</title>
 <link>https://www.latintimes.com/peru-shuts-inca-trail-storm-driven-landslides-threaten-road-machu-picchu-598707</link>
 <guid isPermaLink="false">https://www.latintimes.com/peru-shuts-inca-trail-storm-driven-landslides-threaten-road-machu-picchu-598707</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://abcbirds.org/news/idb-invest-bird-tourism-peru/</guid>
 <pubDate>Wed, 22 Jul 2026 13:15:04 +0000</pubDate>
 <description>With support from the Conserva Aves Initiative and the Government of Canada, ABC's implementing partner, ECOAN, has built local capacity for bird ...</description>
-</item>
-<item>
-<title>Peru to Strengthen the Arequipa–Colca Tourism Corridor and Promote Private Investment ...</title>
-<link>https://www.worldbank.org/en/news/press-release/2026/07/10/peru-to-strengthen-the-arequipa-colca-tourism-corridor-and-promote-private-investment-and-job-creation-with-world-bank-s</link>
-<guid isPermaLink="false">https://www.worldbank.org/en/news/press-release/2026/07/10/peru-to-strengthen-the-arequipa-colca-tourism-corridor-and-promote-private-investment-and-job-creation-with-world-bank-s</guid>
-<pubDate>Fri, 10 Jul 2026 12:10:38 +0000</pubDate>
-<description>World Bank supports Peru's Arequipa–Colca corridor with a US$77.2 million project to boost sustainable tourism, attract investment, ...</description>
 </item>
 </channel>
 </rss>

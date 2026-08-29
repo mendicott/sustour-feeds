@@ -7,11 +7,25 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.travelandtourworld.com/news/article/iukumc1x12en/",
+      "url": "https://www.travelandtourworld.com/news/article/iukumc1x12en/",
+      "title": "Indonesia and New Zealand Advance Blue Economy Tourism Plan to Protect Islands and ...",
+      "content_text": "... tourism models and focusing on responsible travel experiences that preserve ecosystems for future generations. ... Coral reef restoration workers ...",
+      "date_published": "2026-08-29T03:45:05+00:00"
+    },
+    {
       "id": "https://www.nationthailand.com/news/tourism/40070380",
       "url": "https://www.nationthailand.com/news/tourism/40070380",
       "title": "Why travellers still pay Bhutan's US$100 nightly fee - Nation Thailand",
       "content_text": "Bhutan charges most foreign visitors US$100 a night, using the levy to support public services, conservation and its low-volume tourism model.",
       "date_published": "2026-08-28T16:07:57+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/019y278h2pfs/",
+      "url": "https://www.travelandtourworld.com/news/article/019y278h2pfs/",
+      "title": "Cook Islands, Rarotonga and Aitutaki Lead a New Era of Regenerative Tourism",
+      "content_text": "Cook Islands tourism is expanding beyond Rarotonga and Aitutaki as arrivals rise and the Pa Enua gains regenerative travel focus.",
+      "date_published": "2026-08-28T07:59:20+00:00"
     },
     {
       "id": "https://www.lifestyleasia.com/hk/whats-on/news-whats-on/sai-kung-geopark-booking-system-hong-kong-details/",
@@ -61,20 +75,6 @@
       "title": "Delft Island to be developed as an Eco Tourism destination - The Sunday Times, Sri Lanka",
       "content_text": "... tourism destinations, where environmental conservation, cultural heritage preservation, and community-based tourism development work together to ...",
       "date_published": "2026-08-09T05:15:47+00:00"
-    },
-    {
-      "id": "https://www.themorning.lk/articles/p1Ag2YRUf1HRgR2prhnI",
-      "url": "https://www.themorning.lk/articles/p1Ag2YRUf1HRgR2prhnI",
-      "title": "Delft Island to be developed as zero-emission eco-tourism destination - TheMorning.lk",
-      "content_text": "Despite its extraordinary attractions, the island has so far made only a limited contribution to Sri Lanka's tourism industry. He emphasised the ...",
-      "date_published": "2026-08-08T18:53:51+00:00"
-    },
-    {
-      "id": "https://www.newswire.lk/2026/08/05/delft-island-to-become-sri-lankas-first-zero-emission-eco%E2%80%91tourism-destination/",
-      "url": "https://www.newswire.lk/2026/08/05/delft-island-to-become-sri-lankas-first-zero-emission-eco%E2%80%91tourism-destination/",
-      "title": "Delft Island to become Sri Lanka's first zero emission eco‑tourism destination - Newswire",
-      "content_text": "The Government of Sri Lanka has unveiled plans to transform Delft Island into the country's first Zero Emission eco‑tourism destination, ...",
-      "date_published": "2026-08-05T07:07:43+00:00"
     }
   ]
 }
