@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/luxembourg.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Luxembourg. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 29 Aug 2026 10:15:34 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 22:18:20 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>CIFOR-ICRAF at UNFCCC COP29 - Landscape Alliance</title>
@@ -44,6 +44,13 @@
 <description>... Green Spaces as Luxembourg City Unveils Ambitious Climate Resilience Plan for Sustainable Tourism and Future-Ready Living. Published on July 9 ...</description>
 </item>
 <item>
+<title>Woods, war history and wandering rivers deep in the Ardennes | The Daily Telegraph - Travel</title>
+<link>https://www.pressreader.com/uk/the-daily-telegraph-travel/20260829/281998974316266</link>
+<guid isPermaLink="false">https://www.pressreader.com/uk/the-daily-telegraph-travel/20260829/281998974316266</guid>
+<pubDate>Sat, 29 Aug 2026 02:16:02 +0000</pubDate>
+<description>2026-08-29 - City Guides · Recreation · Travel · Culture · History · Social Sciences · William Shakespeare · France · Belgium · Luxembourg (city) ...</description>
+</item>
+<item>
 <title>Former teacher transforms old farmhouse into rural Moselle retreat - Luxembourg Times</title>
 <link>https://www.luxtimes.lu/luxembourg/former-teacher-transforms-old-farmhouse-into-rural-moselle-retreat/160182814.html</link>
 <guid isPermaLink="false">https://www.luxtimes.lu/luxembourg/former-teacher-transforms-old-farmhouse-into-rural-moselle-retreat/160182814.html</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/xy5ckhqg2o7a/</guid>
 <pubDate>Sat, 01 Aug 2026 12:42:46 +0000</pubDate>
 <description>Porto Santo links Luxembourg flights, a terminal tender and island buses as Portugal tests year-round car-light tourism.</description>
-</item>
-<item>
-<title>Greek islands face drought as tourist season hits | Reuters</title>
-<link>https://www.reuters.com/business/environment/greek-islands-face-drought-tourist-season-hits-2026-07-16/</link>
-<guid isPermaLink="false">https://www.reuters.com/business/environment/greek-islands-face-drought-tourist-season-hits-2026-07-16/</guid>
-<pubDate>Thu, 16 Jul 2026 11:57:14 +0000</pubDate>
-<description>In June, he briefed other environment ministers in Luxembourg on water resilience. "For Greece, water isn't theoretical- it's about security, economic ...</description>
 </item>
 </channel>
 </rss>
