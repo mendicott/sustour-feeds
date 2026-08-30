@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/panama.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Panama. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 29 Aug 2026 22:18:20 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 10:13:41 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Panama Communities Race To Save Sea Turtles From Climate Change</title>
+<link>https://wakeup.sg/save-turtles-save-earth/</link>
+<guid isPermaLink="false">https://wakeup.sg/save-turtles-save-earth/</guid>
+<pubDate>Sun, 30 Aug 2026 01:04:32 +0000</pubDate>
+<description>Local communities are taking their fight to the beaches to protect sea turtles from a changing climate in Panama's Azuero Peninsula, ...</description>
+</item>
 <item>
 <title>Panama and UNESCO Strengthen Caribbean Heritage Tourism Through Underwater ...</title>
 <link>https://www.travelandtourworld.com/news/article/vhbsezqkrpj1/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://newsroompanama.com/2026/07/20/key-rules-for-whale-watching-during-whale-season-in-panama/</guid>
 <pubDate>Mon, 20 Jul 2026 21:00:41 +0000</pubDate>
 <description>The organization stressed the importance of strictly adhering to whale watching regulations and rules of conduct, in order to reduce incidents that ...</description>
-</item>
-<item>
-<title>From Belize to Panama, Caribbean Villages Create Powerful New Tourism Paths Beyond Beaches</title>
-<link>https://www.travelandtourworld.com/news/article/9khd3mkgs8er/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/9khd3mkgs8er/</guid>
-<pubDate>Mon, 24 Aug 2026 20:58:15 +0000</pubDate>
-<description>Belize, Jamaica, Dominica and Panama show how village food, heritage and nature are creating a fresh Caribbean tourism future.</description>
 </item>
 </channel>
 </rss>
