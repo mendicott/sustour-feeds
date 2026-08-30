@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 30 Aug 2026 10:13:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 22:19:12 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Rome Joins Venice and Other Cities as Italy Battles Overtourism with New Measures Amid ...</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lah8spefggvv/</guid>
 <pubDate>Mon, 06 Jul 2026 07:57:09 +0000</pubDate>
 <description>Calanques visitor caps return in France for 2026, limiting access to Mediterranean beaches to curb overtourism and protect fragile ecosystems.</description>
+</item>
+<item>
+<title>Netherlands and Other Leading Tourism Markets Track Spain's €15 Million Hospitality ...</title>
+<link>https://www.travelandtourworld.com/news/article/k6mzdzqn54nw/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/k6mzdzqn54nw/</guid>
+<pubDate>Sun, 30 Aug 2026 12:37:17 +0000</pubDate>
+<description>Netherlands, Italy and Poland track Spain's €15 Million Hospitality Energy Upgrade Plan boosting sustainable tourism, efficient hotels and greener ...</description>
 </item>
 <item>
 <title>The official list of Italian protected areas has been updated: there are 1.048</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.initaly.it/en/articolo/south-italy-greenways-i-parchi-del-sud-uniti-per-promuovere-itinerari-31305</guid>
 <pubDate>Tue, 11 Aug 2026 17:34:49 +0000</pubDate>
 <description>Activities are designed for nature lovers and sustainable tourism operators. Goals: promote sustainable routes, enhance walking and cycling ...</description>
-</item>
-<item>
-<title>Italy Tourism Spotlight: Florence Hosts ICSTM 2026 Conference Focused on Sustainable ...</title>
-<link>https://www.travelandtourworld.com/news/article/ut69dweewg5x/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ut69dweewg5x/</guid>
-<pubDate>Sat, 08 Aug 2026 03:44:32 +0000</pubDate>
-<description>ICSTM 2026 in Florence, Italy will bring global experts together to discuss sustainable tourism, climate action and responsible travel.</description>
 </item>
 </channel>
 </rss>

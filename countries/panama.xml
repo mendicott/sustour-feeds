@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/panama.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Panama. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 30 Aug 2026 10:13:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 22:19:12 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Panama Communities Race To Save Sea Turtles From Climate Change</title>
@@ -51,6 +51,13 @@
 <description>As global travelers increasingly seek meaningful and sustainable journeys, Indigenous communities are becoming central to the future of tourism.</description>
 </item>
 <item>
+<title>36 New Park Rangers Graduate to Reinforce Protected Areas of Panama, Reports MiAmbiente.</title>
+<link>https://newsroompanama.com/2026/08/29/36-new-park-rangers-graduate-to-reinforce-protected-areas-of-panama-reports-miambiente/</link>
+<guid isPermaLink="false">https://newsroompanama.com/2026/08/29/36-new-park-rangers-graduate-to-reinforce-protected-areas-of-panama-reports-miambiente/</guid>
+<pubDate>Sun, 30 Aug 2026 13:52:47 +0000</pubDate>
+<description>The new park rangers were trained in ecosystem and biodiversity conservation, protected area management, and monitoring and enforcement of ...</description>
+</item>
+<item>
 <title>Panama, Azuero and Guna Yala: New Tourism Infrastructure Takes Visitors Beyond the Capital</title>
 <link>https://www.travelandtourworld.com/news/article/eeaq50ggdc6s/</link>
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/eeaq50ggdc6s/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelawaits.com/3027504/new-artificial-reefs-to-be-sunk-in-panama-city-beach-florida/</guid>
 <pubDate>Fri, 31 Jul 2026 14:39:05 +0000</pubDate>
 <description>Tourism and conservation efforts don't always go hand-in-hand ... With Travel Awaits, Tay is demystifying the act of travel for fellow ...</description>
-</item>
-<item>
-<title>Key Rules for Whale Watching During Whale Season in Panama</title>
-<link>https://newsroompanama.com/2026/07/20/key-rules-for-whale-watching-during-whale-season-in-panama/</link>
-<guid isPermaLink="false">https://newsroompanama.com/2026/07/20/key-rules-for-whale-watching-during-whale-season-in-panama/</guid>
-<pubDate>Mon, 20 Jul 2026 21:00:41 +0000</pubDate>
-<description>The organization stressed the importance of strictly adhering to whale watching regulations and rules of conduct, in order to reduce incidents that ...</description>
 </item>
 </channel>
 </rss>

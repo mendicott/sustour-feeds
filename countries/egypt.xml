@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/egypt.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Egypt. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 30 Aug 2026 10:13:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 22:19:12 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Egypt unveils new model to balance conservation and tourism at Nabq Nature Reserve</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/egypt-travel-nabq-ecotourism-sustainable-sharm-el-sheikh/</guid>
 <pubDate>Wed, 05 Aug 2026 06:22:47 +0000</pubDate>
 <description>Nabq covers approximately 600 square kilometers, making it the largest coastal protected area on the Gulf of Aqaba. ... protected areas of Egypt.</description>
+</item>
+<item>
+<title>Tourism Ministry expands awareness efforts, reaching 38,000 citizens - Egyptian Gazette</title>
+<link>https://egyptian-gazette.com/egypt/tourism-ministry-expands-awareness-efforts-reaching-38000-citizens/</link>
+<guid isPermaLink="false">https://egyptian-gazette.com/egypt/tourism-ministry-expands-awareness-efforts-reaching-38000-citizens/</guid>
+<pubDate>Sun, 30 Aug 2026 09:22:31 +0000</pubDate>
+<description>These efforts have also extended to "Egypt Speaks Green," which promotes awareness of sustainable tourism, and the fourth season of "Tablia Masr," ...</description>
 </item>
 <item>
 <title>Egypt, UNDP discuss new fund to protect Red Sea coral reefs</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://english.ahram.org.eg/NewsContentMulti/571896/Multimedia.aspx</guid>
 <pubDate>Tue, 28 Jul 2026 20:46:32 +0000</pubDate>
 <description>Egypt has placed the project within a broader state push to develop South Sinai's protected areas as global ecotourism destinations, including ...</description>
-</item>
-<item>
-<title>Egypt reviews 41 ecotourism investment opportunities in Nabq Nature Reserve</title>
-<link>https://www.dailynewsegypt.com/2026/07/25/egypt-reviews-41-ecotourism-investment-opportunities-in-nabq-nature-reserve/</link>
-<guid isPermaLink="false">https://www.dailynewsegypt.com/2026/07/25/egypt-reviews-41-ecotourism-investment-opportunities-in-nabq-nature-reserve/</guid>
-<pubDate>Sat, 25 Jul 2026 19:08:38 +0000</pubDate>
-<description>Egypt is reviewing around 41 investment opportunities in the Nabq Nature Reserve in South Sinai as part of plans to expand ecotourism while ...</description>
 </item>
 </channel>
 </rss>

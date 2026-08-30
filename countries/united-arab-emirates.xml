@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/united-arab-emirates.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for United Arab Emirates. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 30 Aug 2026 10:13:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 22:19:12 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>EAD partners with Abu Dhabi Nature Academy to advance preservation of Sheikh Zayed ...</title>
+<link>https://www.wam.ae/en/article/c1ztlve-ead-partners-with-abu-dhabi-nature-academy-advance</link>
+<guid isPermaLink="false">https://www.wam.ae/en/article/c1ztlve-ead-partners-with-abu-dhabi-nature-academy-advance</guid>
+<pubDate>Sun, 30 Aug 2026 17:48:05 +0000</pubDate>
+<description>Areas of cooperation include the use of modern monitoring technologies, smart environmental conservation, eco-tourism management, and the development ...</description>
+</item>
 <item>
 <title>Abu Dhabi expands protection for native species and habitats beyond nature reserves</title>
 <link>https://www.thenationalnews.com/news/uae/2026/08/15/abu-dhabi-expands-habitat-protection-for-native-species-beyond-nature-reserves/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.bignewsnetwork.com/news/279209428/inscription-of-wadi-wurayah-on-unesco-world-heritage-list-affirms-uae-global-leadership-in-nature-conservation-biodiversity-protection-amna-al-dahak</guid>
 <pubDate>Sat, 25 Jul 2026 16:09:35 +0000</pubDate>
 <description>DUBAI, 25th July, 2026 (WAM) -- Dr. Amna bint Abdullah Al Dahak, Minister of Climate Change and Environment, affirmed that the inscription of Wadi ...</description>
-</item>
-<item>
-<title>UAE's Wadi Wurayah National Park inscribed on Unesco World Heritage List</title>
-<link>https://www.thenationalnews.com/news/uae/2026/07/25/uaes-wadi-wurayah-national-park-inscribed-on-unesco-world-heritage-list/</link>
-<guid isPermaLink="false">https://www.thenationalnews.com/news/uae/2026/07/25/uaes-wadi-wurayah-national-park-inscribed-on-unesco-world-heritage-list/</guid>
-<pubDate>Sat, 25 Jul 2026 10:13:54 +0000</pubDate>
-<description>Geological site in Fujairah is recognised for its outstanding natural value.</description>
 </item>
 </channel>
 </rss>

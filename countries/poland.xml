@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/poland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Poland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 30 Aug 2026 10:13:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 22:19:12 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Netherlands and Other Leading Tourism Markets Track Spain's €15 Million Hospitality ...</title>
+<link>https://www.travelandtourworld.com/news/article/k6mzdzqn54nw/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/k6mzdzqn54nw/</guid>
+<pubDate>Sun, 30 Aug 2026 12:37:17 +0000</pubDate>
+<description>Netherlands, Italy and Poland track Spain's €15 Million Hospitality Energy Upgrade Plan boosting sustainable tourism, efficient hotels and greener ...</description>
+</item>
 <item>
 <title>UNESCO backs Poland's plan to protect ancient Białowieża Forest - TVP World</title>
 <link>https://tvpworld.com/94527125/unesco-backs-polands-25-year-protection-plan-for-bialowieza-forest</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://dolnyslask.travel/en/atrakcje/via-sacra-lower-silesia-in-the-rhythm-of-silence-and-nature</guid>
 <pubDate>Wed, 29 Jul 2026 20:28:00 +0000</pubDate>
 <description>The Via Sacra is a unique route that runs through three countries – Poland, Germany, and the Czech Republic. Its route connects the most beautiful ...</description>
-</item>
-<item>
-<title>Cyprus and Poland Reveal the Future of Dark Industrial Tourism as Engineers Secure ...</title>
-<link>https://www.travelandtourworld.com/news/article/lh08j979xjmw/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lh08j979xjmw/</guid>
-<pubDate>Sat, 29 Aug 2026 07:52:30 +0000</pubDate>
-<description>Evaluating subterranean heritage conversions across Europe reveals diverse engineering strategies adapted to local geology, extraction history, and ...</description>
 </item>
 </channel>
 </rss>
