@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/australia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Australia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 30 Aug 2026 22:19:12 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 10:16:52 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Canada Leads Other Countries In Indigenous-Led Eco-Tourism Models Protecting Lands ...</title>
@@ -51,6 +51,13 @@
 <description>... meaningful travel beyond the world's crowded tourist hotspots, while waging a determined crusade against overtourism through sustainable tourism ...</description>
 </item>
 <item>
+<title>Carbon Neutral Quad Tour Operator Confirms Kangaroo Island Spring Season</title>
+<link>https://www.northjersey.com/press-release/story/232613/carbon-neutral-quad-tour-operator-confirms-kangaroo-island-spring-season/</link>
+<guid isPermaLink="false">https://www.northjersey.com/press-release/story/232613/carbon-neutral-quad-tour-operator-confirms-kangaroo-island-spring-season/</guid>
+<pubDate>Mon, 31 Aug 2026 05:32:49 +0000</pubDate>
+<description>Kangaroo Island Outdoor Action is a guided adventure tourism operator at 188 Jetty Road, Vivonne Bay, South Australia, established in 1993 under the ...</description>
+</item>
+<item>
 <title>Karlu Karlu Conservation Reserve Becomes the Northern Territory's first Dark Sky Sanctuary</title>
 <link>https://www.breakingtravelnews.com/news/article/karlu-karlu-conservation-reserve-becomes-the-northern-territorys-first-dark/</link>
 <guid isPermaLink="false">https://www.breakingtravelnews.com/news/article/karlu-karlu-conservation-reserve-becomes-the-northern-territorys-first-dark/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/fyejrhr84bl0/</guid>
 <pubDate>Thu, 27 Aug 2026 03:46:56 +0000</pubDate>
 <description>Discover how bio-resilience eco-tourism funds endangered fauna recovery in crisis-affected ecosystems.</description>
-</item>
-<item>
-<title>Whale recovery creates new era of coexistence on Great Barrier Reef</title>
-<link>https://www.ausleisure.com.au/news/whale-recovery-creates-new-era-of-coexistence-on-great-barrier-reef</link>
-<guid isPermaLink="false">https://www.ausleisure.com.au/news/whale-recovery-creates-new-era-of-coexistence-on-great-barrier-reef</guid>
-<pubDate>Tue, 25 Aug 2026 15:16:33 +0000</pubDate>
-<description>A further 310,000 international visitors participated in whale watching across Australia. Beyond the coral reef. The return of the humpback also ...</description>
 </item>
 </channel>
 </rss>

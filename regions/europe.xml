@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/europe.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Europe. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 30 Aug 2026 22:19:12 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 10:16:52 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Lithuania Maps Curonian Spit Visitor Pressure with ArcGIS - Travel And Tour World</title>
+<link>https://www.travelandtourworld.com/news/article/v0uervc86a1v/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/v0uervc86a1v/</guid>
+<pubDate>Mon, 31 Aug 2026 08:27:45 +0000</pubDate>
+<description>The timing matters because authorities are reviewing tourism and infrastructure pressures across the UNESCO landscape administered through Neringa and ...</description>
+</item>
 <item>
 <title>Unlock Sustainable Travel: Annandale's Solway Coast Event in Eastriggs, Scotland</title>
 <link>https://www.travelandtourworld.com/news/article/5zoixkxyqdsn/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://news.gtp.gr/2026/08/05/op-ed-beyond-passenger-numbers-redefining-cruise-tourism-in-the-mediterranean-theodora-riga-medcruise/</guid>
 <pubDate>Wed, 05 Aug 2026 19:27:38 +0000</pubDate>
 <description>MedCruise President Theodora Riga talks to GTP on carrying capacity, shore power and the governance frameworks Mediterranean ports need to keep ...</description>
-</item>
-<item>
-<title>BBC Highlights Dubrovnik as a Model for Tackling Overtourism</title>
-<link>https://www.thedubrovniktimes.com/news/dubrovnik/item/20289-bbc-highlights-dubrovnik-as-a-model-for-tackling-overtourism</link>
-<guid isPermaLink="false">https://www.thedubrovniktimes.com/news/dubrovnik/item/20289-bbc-highlights-dubrovnik-as-a-model-for-tackling-overtourism</guid>
-<pubDate>Wed, 05 Aug 2026 05:30:54 +0000</pubDate>
-<description>... overtourism while protecting the quality of life for local residents. The city is the focus of a new episode of the BBC World Service podcast ...</description>
 </item>
 </channel>
 </rss>

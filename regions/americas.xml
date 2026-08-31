@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/americas.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Americas. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 30 Aug 2026 22:19:12 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 10:16:52 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mass Tourism Threatens the Galápagos Islands Ecosystem | .TR</title>
+<link>https://www.tourism-review.com/galapagos-islands-fight-mass-tourism-news15591</link>
+<guid isPermaLink="false">https://www.tourism-review.com/galapagos-islands-fight-mass-tourism-news15591</guid>
+<pubDate>Mon, 31 Aug 2026 06:39:38 +0000</pubDate>
+<description>In addition to regulating air travel and individual accommodations, the organization has asked Ecuador to consider a number of other restrictions.</description>
+</item>
 <item>
 <title>Empowering Community-Based Tourism and Craftsmanship in Guanacaste ⋆ The Costa Rica News</title>
 <link>https://thecostaricanews.com/empowering-community-based-tourism-and-craftsmanship-in-guanacaste/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/9xfbxwejim0u/</guid>
 <pubDate>Mon, 17 Aug 2026 17:15:29 +0000</pubDate>
 <description>From cloud forests and Indigenous communities to turtle nesting beaches and marine reserves, these destinations show how responsible tourism can ...</description>
-</item>
-<item>
-<title>The 7 best sustainable travel destinations in the world - Quartz</title>
-<link>https://qz.com/best-sustainable-travel-destinations-world</link>
-<guid isPermaLink="false">https://qz.com/best-sustainable-travel-destinations-world</guid>
-<pubDate>Mon, 17 Aug 2026 16:07:11 +0000</pubDate>
-<description>From Slovenia's government-certified green tourism to Costa Rica's nationwide land protection, destinations leading the way on sustainable travel.</description>
 </item>
 </channel>
 </rss>

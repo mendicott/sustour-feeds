@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ecuador.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ecuador. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 30 Aug 2026 22:19:12 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 10:16:52 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Mass Tourism Threatens the Galápagos Islands Ecosystem | .TR</title>
+<link>https://www.tourism-review.com/galapagos-islands-fight-mass-tourism-news15591</link>
+<guid isPermaLink="false">https://www.tourism-review.com/galapagos-islands-fight-mass-tourism-news15591</guid>
+<pubDate>Mon, 31 Aug 2026 06:39:38 +0000</pubDate>
+<description>In addition to regulating air travel and individual accommodations, the organization has asked Ecuador to consider a number of other restrictions.</description>
+</item>
 <item>
 <title>The regenerative conservation strategy in Galapagos wins International Sustainable Tourism Award</title>
 <link>https://noticiasambientales.com/tourism/the-regenerative-conservation-strategy-in-galapagos-wins-international-sustainable-tourism-award/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/92nfkutxut2g/</guid>
 <pubDate>Mon, 03 Aug 2026 03:48:00 +0000</pubDate>
 <description>... Heritage conservation, Protects cultural identity. Environmental planning, Builds resilience. Responsible travel, Reduces negative impacts. Mexico ...</description>
-</item>
-<item>
-<title>Researchers shed light on elusive sharks of Galapagos Islands | San Saba News &amp; Star</title>
-<link>https://www.sansabanews.com/news/researchers-shed-light-elusive-sharks-galapagos-islands</link>
-<guid isPermaLink="false">https://www.sansabanews.com/news/researchers-shed-light-elusive-sharks-galapagos-islands</guid>
-<pubDate>Fri, 31 Jul 2026 06:18:54 +0000</pubDate>
-<description>Understanding where these sharks travel is essential for their conservation. Smooth hammerheads, like other hammerhead species, are threatened by ...</description>
 </item>
 </channel>
 </rss>
