@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/belgium.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Belgium. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 31 Aug 2026 10:16:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 22:25:22 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Restored wetlands shield communities amid extreme weather across Europe - The Brussels Times</title>
+<link>https://www.brusselstimes.com/2296187/restored-wetlands-shield-communities-amid-extreme-weather-across-europe</link>
+<guid isPermaLink="false">https://www.brusselstimes.com/2296187/restored-wetlands-shield-communities-amid-extreme-weather-across-europe</guid>
+<pubDate>Mon, 31 Aug 2026 17:58:44 +0000</pubDate>
+<description>... climate change.. The Adaptation &amp; Nature Forum was held on 7–8 July 2026 and brought together practitioners and beneficiaries of the EU's LIFE ...</description>
+</item>
 <item>
 <title>Securing the Future": A Sustainable Approach to Cultural and Remembrance Heritage</title>
 <link>https://www.cor.europa.eu/cs/node/25861</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/w1zwgzfrof02/</guid>
 <pubDate>Thu, 18 Jun 2026 09:36:04 +0000</pubDate>
 <description>Greece joins Spain, Italy, Belgium, Netherlands, France, Portugal, and several other European nations in imposing strict overtourism rules due to ...</description>
-</item>
-<item>
-<title>Finland Joins Belgium, Spain, Norway, United Kingdom and More in Europe's Regenerative ...</title>
-<link>https://www.travelandtourworld.com/news/article/o057vswn0fwi/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/o057vswn0fwi/</guid>
-<pubDate>Tue, 16 Jun 2026 18:42:09 +0000</pubDate>
-<description>Finland joins Belgium, Spain, Norway, UK in Europe's regenerative tourism shift, replacing mass tourism with cross-border living systems for ...</description>
 </item>
 </channel>
 </rss>

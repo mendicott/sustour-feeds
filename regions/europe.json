@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.the-sun.com/news/16927513/ibiza-beach-floods-protest-against-tourists/",
+      "url": "https://www.the-sun.com/news/16927513/ibiza-beach-floods-protest-against-tourists/",
+      "title": "Hundreds flood popular Ibiza beach in protest against tourists - The Sun",
+      "content_text": "ANTI-TOURISM protests are flaring up in Spain with the latest stunt seeing more than 100 protestors flood an \"overcrowded\" beach in...",
+      "date_published": "2026-08-31T18:09:54+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/v0uervc86a1v/",
       "url": "https://www.travelandtourworld.com/news/article/v0uervc86a1v/",
       "title": "Lithuania Maps Curonian Spit Visitor Pressure with ArcGIS - Travel And Tour World",
@@ -68,13 +75,6 @@
       "title": "Copenhagen and More Tackle Overtourism Through Regenerative Travel and Community ...",
       "content_text": "According to the United Nations Tourism World Tourism Barometer, the first quarter of 2026 saw a staggering 307 million international tourists, an ...",
       "date_published": "2026-08-14T11:31:07+00:00"
-    },
-    {
-      "id": "https://news.gtp.gr/2026/08/05/op-ed-beyond-passenger-numbers-redefining-cruise-tourism-in-the-mediterranean-theodora-riga-medcruise/",
-      "url": "https://news.gtp.gr/2026/08/05/op-ed-beyond-passenger-numbers-redefining-cruise-tourism-in-the-mediterranean-theodora-riga-medcruise/",
-      "title": "Op-Ed: 'Beyond Passenger Numbers: Redefining Cruise Tourism in the Mediterranean'",
-      "content_text": "MedCruise President Theodora Riga talks to GTP on carrying capacity, shore power and the governance frameworks Mediterranean ports need to keep ...",
-      "date_published": "2026-08-05T19:27:38+00:00"
     }
   ]
 }

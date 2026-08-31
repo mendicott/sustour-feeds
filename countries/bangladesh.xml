@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/bangladesh.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Bangladesh. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 31 Aug 2026 10:16:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 22:25:22 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Bangladesh recovers 2,300 acres of forest in five months: minister - The Climate Watch</title>
+<link>https://theclimatewatch.com/bangladesh-recovers-2300-acres-of-forest-in-five-months-minister/</link>
+<guid isPermaLink="false">https://theclimatewatch.com/bangladesh-recovers-2300-acres-of-forest-in-five-months-minister/</guid>
+<pubDate>Mon, 31 Aug 2026 13:03:08 +0000</pubDate>
+<description>State Minister for Environment, Forest and Climate Change, Sheikh Faridul Islam, Bangladesh. ... climate change, along with heat-related illnesses and ...</description>
+</item>
 <item>
 <title>Eco-tourism seminar stresses public-private partnership for sustainable growth</title>
 <link>https://dailycountrytodaybd.com/story/eco-tourism-seminar-stresses-public-private-partnership-for-sustainable-growth</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://theclimatewatch.com/tiger-day-dialogue-in-bangladesh-highlights-coexistence-with-wildlife/</guid>
 <pubDate>Thu, 30 Jul 2026 20:22:54 +0000</pubDate>
 <description>Speakers at the dialogue said climate change, deforestation, habitat loss and human-wildlife conflict had become major challenges to the survival of ...</description>
-</item>
-<item>
-<title>Government pledges stronger protection for Sundarbans tigers and habitat - The Climate Watch</title>
-<link>https://theclimatewatch.com/government-pledges-stronger-protection-for-sundarbans-tigers-and-habitat/</link>
-<guid isPermaLink="false">https://theclimatewatch.com/government-pledges-stronger-protection-for-sundarbans-tigers-and-habitat/</guid>
-<pubDate>Thu, 30 Jul 2026 06:07:30 +0000</pubDate>
-<description>Bangladesh says community participation, stronger wildlife enforcement and habitat restoration are helping tiger numbers recover while new ...</description>
 </item>
 </channel>
 </rss>

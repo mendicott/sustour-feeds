@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/europe.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Europe. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 31 Aug 2026 10:16:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 22:25:22 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Hundreds flood popular Ibiza beach in protest against tourists - The Sun</title>
+<link>https://www.the-sun.com/news/16927513/ibiza-beach-floods-protest-against-tourists/</link>
+<guid isPermaLink="false">https://www.the-sun.com/news/16927513/ibiza-beach-floods-protest-against-tourists/</guid>
+<pubDate>Mon, 31 Aug 2026 18:09:54 +0000</pubDate>
+<description>ANTI-TOURISM protests are flaring up in Spain with the latest stunt seeing more than 100 protestors flood an "overcrowded" beach in...</description>
+</item>
 <item>
 <title>Lithuania Maps Curonian Spit Visitor Pressure with ArcGIS - Travel And Tour World</title>
 <link>https://www.travelandtourworld.com/news/article/v0uervc86a1v/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/owdv20ep6lxj/</guid>
 <pubDate>Fri, 14 Aug 2026 11:31:07 +0000</pubDate>
 <description>According to the United Nations Tourism World Tourism Barometer, the first quarter of 2026 saw a staggering 307 million international tourists, an ...</description>
-</item>
-<item>
-<title>Op-Ed: 'Beyond Passenger Numbers: Redefining Cruise Tourism in the Mediterranean'</title>
-<link>https://news.gtp.gr/2026/08/05/op-ed-beyond-passenger-numbers-redefining-cruise-tourism-in-the-mediterranean-theodora-riga-medcruise/</link>
-<guid isPermaLink="false">https://news.gtp.gr/2026/08/05/op-ed-beyond-passenger-numbers-redefining-cruise-tourism-in-the-mediterranean-theodora-riga-medcruise/</guid>
-<pubDate>Wed, 05 Aug 2026 19:27:38 +0000</pubDate>
-<description>MedCruise President Theodora Riga talks to GTP on carrying capacity, shore power and the governance frameworks Mediterranean ports need to keep ...</description>
 </item>
 </channel>
 </rss>

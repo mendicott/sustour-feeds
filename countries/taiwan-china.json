@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863482",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863482",
+      "title": "Academic calls for protection amid coral bleaching - Taipei Times",
+      "content_text": "Although some coral recovered, global coral coverage decreased again during a heat wave, it said. The extent of coral decline varies across 10 ...",
+      "date_published": "2026-08-31T16:47:19+00:00"
+    },
+    {
       "id": "https://taiwaninsight.org/2026/08/21/teaching-maritime-culture-and-history-in-eastern-taiwan/",
       "url": "https://taiwaninsight.org/2026/08/21/teaching-maritime-culture-and-history-in-eastern-taiwan/",
       "title": "Teaching Maritime Culture and History in Eastern Taiwan - Taiwan Insight",
@@ -68,13 +75,6 @@
       "title": "Kinmen Tourism Gains New Momentum as Low-Carbon Cycling Unlocks Taiwan's Frontline Heritage",
       "content_text": "The route also supports heritage conservation by giving restored buildings and historic streets a practical tourism role. A protected house becomes ...",
       "date_published": "2026-08-22T08:27:20+00:00"
-    },
-    {
-      "id": "https://www.traveldailymedia.com/taiwan-and-hawaii-celebrate-indigenous-culture/",
-      "url": "https://www.traveldailymedia.com/taiwan-and-hawaii-celebrate-indigenous-culture/",
-      "title": "Taiwan and Hawaii celebrate indigenous culture - Travel Daily Media",
-      "content_text": "The Formosa-Hawaii Cultural Festival in New Taipei City celebrates the 30th anniversary of Taiwan's Council of Indigenous Peoples.",
-      "date_published": "2026-08-07T02:22:37+00:00"
     }
   ]
 }

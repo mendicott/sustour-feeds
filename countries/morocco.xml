@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/morocco.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Morocco. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 31 Aug 2026 10:16:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 22:25:22 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Morocco Launches First Sustainable Tourism Certification Programme - eTurboNews</title>
+<link>https://eturbonews.com/morocco-sustainable-tourism-certification-souss-massa/</link>
+<guid isPermaLink="false">https://eturbonews.com/morocco-sustainable-tourism-certification-souss-massa/</guid>
+<pubDate>Mon, 31 Aug 2026 19:59:30 +0000</pubDate>
+<description>Morocco's Souss-Massa Region launches the country's first sustainable tourism certification programme, with 55 tourism businesses certified and ...</description>
+</item>
 <item>
 <title>Dolomites overwhelmed: long queues to Tre Cime di Lavaredo - 112.ua</title>
 <link>https://112.ua/en/v-italii-dolomitovi-alpi-ne-vitrimuut-naplivu-turistiv-cergi-do-troh-versin-lavaredo-177255</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://en.hespress.com/139210-moroccos-12th-century-almohad-cisterns-take-center-stage-in-national-preservation-effort.html</guid>
 <pubDate>Wed, 03 Jun 2026 16:36:06 +0000</pubDate>
 <description>The initiative is also linked to the Rhamna Geopark project, which is seeking UNESCO Global Geopark status. Project leaders view cultural and ...</description>
-</item>
-<item>
-<title>Morocco's Sustainable Tourism Gains Support of UNESCO &amp; TUI Care Foundation</title>
-<link>https://northafricapost.com/97576-moroccos-sustainable-tourism-gains-support-of-unesco-tui-care-foundation.html</link>
-<guid isPermaLink="false">https://northafricapost.com/97576-moroccos-sustainable-tourism-gains-support-of-unesco-tui-care-foundation.html</guid>
-<pubDate>Wed, 03 Jun 2026 00:18:43 +0000</pubDate>
-<description>In Morocco, UNESCO and the TUI Care Foundation pledged to support sustainable tourism development around Ksar Aït Ben Haddou, one of the country's ...</description>
 </item>
 </channel>
 </rss>
