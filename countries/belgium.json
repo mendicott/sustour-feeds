@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.euractiv.com/news/over-half-of-eu-misses-nature-restoration-plan-deadline/",
+      "url": "https://www.euractiv.com/news/over-half-of-eu-misses-nature-restoration-plan-deadline/",
+      "title": "Over half of EU misses nature restoration plan deadline - Euractiv",
+      "content_text": "Brussels sets out guidelines on tourism in nature protection areas. 14.07.2026. Pro. Energy, Environment & Transport. Brussels sets out guidelines on ...",
+      "date_published": "2026-09-01T02:42:31+00:00"
+    },
+    {
       "id": "https://www.brusselstimes.com/2296187/restored-wetlands-shield-communities-amid-extreme-weather-across-europe",
       "url": "https://www.brusselstimes.com/2296187/restored-wetlands-shield-communities-amid-extreme-weather-across-europe",
       "title": "Restored wetlands shield communities amid extreme weather across Europe - The Brussels Times",
@@ -68,13 +75,6 @@
       "title": "ICRT Europe Responsible Tourism Awards 2026 announce winners at Brussels ceremony",
       "content_text": "Among the gold award winners, TUI Forest Mallorca won the Adapting to Climate Change category for its work restoring forests, dune systems and ...",
       "date_published": "2026-06-24T11:18:02+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/w1zwgzfrof02/",
-      "url": "https://www.travelandtourworld.com/news/article/w1zwgzfrof02/",
-      "title": "Greece Joins Spain, Italy, Belgium, Netherlands, France, Portugal, And ... - Travel And Tour World",
-      "content_text": "Greece joins Spain, Italy, Belgium, Netherlands, France, Portugal, and several other European nations in imposing strict overtourism rules due to ...",
-      "date_published": "2026-06-18T09:36:04+00:00"
     }
   ]
 }

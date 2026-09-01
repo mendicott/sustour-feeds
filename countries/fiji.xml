@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/fiji.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Fiji. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 31 Aug 2026 22:25:22 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 10:16:35 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Tourism industry looks to global standards to lift competitiveness - Fiji Sun</title>
+<link>https://fijisun.com.fj/news/tourism/tourism-industry-looks-to-global-standards-to-lift-competitiveness</link>
+<guid isPermaLink="false">https://fijisun.com.fj/news/tourism/tourism-industry-looks-to-global-standards-to-lift-competitiveness</guid>
+<pubDate>Mon, 31 Aug 2026 23:18:35 +0000</pubDate>
+<description>The Fiji Hotel and Tourism Association (FHTA) is working towards introducing stronger sustainability standards across every aspect of tourism ...</description>
+</item>
 <item>
 <title>Fiji Shapes Lau Tourism Through Savusavu Luxury Access - Travel And Tour World</title>
 <link>https://www.travelandtourworld.com/news/article/xe2jae0vei31/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.fijitimes.com.fj/tourism-talanoa-missing-framework-why-mangrove-protection-stalls/</guid>
 <pubDate>Thu, 16 Jul 2026 10:49:14 +0000</pubDate>
 <description>Yet despite the critical ecological role mangroves play in coastal protection, biodiversity, and climate resilience, not enough is being done to ...</description>
-</item>
-<item>
-<title>UK travel company enters liquidation as all trips cancelled - The Herald</title>
-<link>https://www.heraldscotland.com/news/national/uk-today/26256146.uk-travel-company-enters-liquidation-trips-cancelled/</link>
-<guid isPermaLink="false">https://www.heraldscotland.com/news/national/uk-today/26256146.uk-travel-company-enters-liquidation-trips-cancelled/</guid>
-<pubDate>Tue, 07 Jul 2026 06:45:38 +0000</pubDate>
-<description>Global Vision International (GVI) offered programmes including nature and conservation trips, including locations such as Costa Rica, Fiji and more.</description>
 </item>
 </channel>
 </rss>

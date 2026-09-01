@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/belgium.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Belgium. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 31 Aug 2026 22:25:22 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 10:16:35 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Over half of EU misses nature restoration plan deadline - Euractiv</title>
+<link>https://www.euractiv.com/news/over-half-of-eu-misses-nature-restoration-plan-deadline/</link>
+<guid isPermaLink="false">https://www.euractiv.com/news/over-half-of-eu-misses-nature-restoration-plan-deadline/</guid>
+<pubDate>Tue, 01 Sep 2026 02:42:31 +0000</pubDate>
+<description>Brussels sets out guidelines on tourism in nature protection areas. 14.07.2026. Pro. Energy, Environment &amp; Transport. Brussels sets out guidelines on ...</description>
+</item>
 <item>
 <title>Restored wetlands shield communities amid extreme weather across Europe - The Brussels Times</title>
 <link>https://www.brusselstimes.com/2296187/restored-wetlands-shield-communities-amid-extreme-weather-across-europe</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://traveltomorrow.com/icrt-europe-responsible-tourism-awards-2026-announce-winners-at-brussels-ceremony/</guid>
 <pubDate>Wed, 24 Jun 2026 11:18:02 +0000</pubDate>
 <description>Among the gold award winners, TUI Forest Mallorca won the Adapting to Climate Change category for its work restoring forests, dune systems and ...</description>
-</item>
-<item>
-<title>Greece Joins Spain, Italy, Belgium, Netherlands, France, Portugal, And ... - Travel And Tour World</title>
-<link>https://www.travelandtourworld.com/news/article/w1zwgzfrof02/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/w1zwgzfrof02/</guid>
-<pubDate>Thu, 18 Jun 2026 09:36:04 +0000</pubDate>
-<description>Greece joins Spain, Italy, Belgium, Netherlands, France, Portugal, and several other European nations in imposing strict overtourism rules due to ...</description>
 </item>
 </channel>
 </rss>

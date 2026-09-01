@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 31 Aug 2026 22:25:22 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 10:16:35 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Hundreds flood popular Ibiza beach in protest against tourists - The Sun</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ux7f5fthw6bb/</guid>
 <pubDate>Thu, 23 Jul 2026 04:57:39 +0000</pubDate>
 <description>The regenerative travel revolution is moving beyond traditional tourism and creating a new era where journeys deliver lasting benefits. Spain, ...</description>
+</item>
+<item>
+<title>Spain's smallest island seeks independence to slow tourism - The World from PRX</title>
+<link>https://theworld.org/segments/2026/08/31/spains-smallest-island-seeks-independence-to-slow-tourism</link>
+<guid isPermaLink="false">https://theworld.org/segments/2026/08/31/spains-smallest-island-seeks-independence-to-slow-tourism</guid>
+<pubDate>Mon, 31 Aug 2026 22:05:53 +0000</pubDate>
+<description>Spain's smallest island wants to quit the country so it can get rid of tourism. It's called Tabarca, and it has 59 official residents.</description>
 </item>
 <item>
 <title>Mallorca stages fresh tourism protest - Qatar Tribune</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://blog.plant-for-the-planet.org/2026/ecosystem-restoration-spain-donana-madrid/</guid>
 <pubDate>Thu, 20 Aug 2026 15:01:24 +0000</pubDate>
 <description>Spain is one of the European countries most vulnerable to desertification and the impacts of the climate crisis. Soil degradation, increasingly ...</description>
-</item>
-<item>
-<title>El Hierro Slow Travel Puts Spain's Volcanic Island at the Heart of Europe's Low-Impact Tourism Shift</title>
-<link>https://www.travelandtourworld.com/news/article/6pqfepk2byjs/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/6pqfepk2byjs/</guid>
-<pubDate>Wed, 19 Aug 2026 08:05:42 +0000</pubDate>
-<description>El Hierro combines its UNESCO Biosphere Reserve and UNESCO Global Geoparks status with protected landscapes and renewable energy as well as hiking and ...</description>
 </item>
 </channel>
 </rss>
