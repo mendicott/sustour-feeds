@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/south-africa.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for South Africa. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 01 Sep 2026 10:16:35 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 22:25:02 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>What does 'sustainable travel' actually mean in SA? | The Independent on Saturday</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://www.pressreader.com/south-africa/the-independent-on-saturday/20260815/282239492455405</guid>
 <pubDate>Sat, 15 Aug 2026 01:06:46 +0000</pubDate>
 <description>What does 'sustainable travel' actually mean in SA? 2026-08-15 - LUTHO PASIYA Tourism · South Africa News · Animals · Ecology · Travel · Wildlife · ...</description>
+</item>
+<item>
+<title>Global Supply Chains Keep Workers Poor. Three Case Studies Show How the Cycle Can Be Broken</title>
+<link>https://dailycoffeenews.com/2026/09/01/global-supply-chains-keep-workers-poor-three-case-studies-show-how-the-cycle-can-be-broken/</link>
+<guid isPermaLink="false">https://dailycoffeenews.com/2026/09/01/global-supply-chains-keep-workers-poor-three-case-studies-show-how-the-cycle-can-be-broken/</guid>
+<pubDate>Tue, 01 Sep 2026 14:23:58 +0000</pubDate>
+<description>In South Africa's tourism sector, the NGO Fair Trade in Tourism has developed a certification standard that goes beyond compliance. It combines ...</description>
 </item>
 <item>
 <title>Tourism: South Africa marks World Elephant Day with call for - New Vision</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://allafrica.com/stories/202607240002.html</guid>
 <pubDate>Fri, 24 Jul 2026 16:32:00 +0000</pubDate>
 <description>Our data supports a message of cautious optimism: when tourism is thoughtfully managed, it need not come at the cost of the wildlife. If tourist ...</description>
-</item>
-<item>
-<title>Unlocking the potential of South Africa's spiritual tourism</title>
-<link>https://independentonsaturday.co.za/ios/news/6476834811150336/</link>
-<guid isPermaLink="false">https://independentonsaturday.co.za/ios/news/6476834811150336/</guid>
-<pubDate>Tue, 14 Jul 2026 08:46:42 +0000</pubDate>
-<description>"It recognises that pilgrimage routes and sacred heritage sites can foster sustainable tourism, local economic growth, and community empowerment.</description>
 </item>
 </channel>
 </rss>

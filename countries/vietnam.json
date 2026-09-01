@@ -7,11 +7,25 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.tehrantimes.com/news/529574/From-oil-to-orchids-how-Vietnam-made-tourism-its-economic-engine",
+      "url": "https://www.tehrantimes.com/news/529574/From-oil-to-orchids-how-Vietnam-made-tourism-its-economic-engine",
+      "title": "From oil to orchids: how Vietnam made tourism its economic engine, what Iran must learn",
+      "content_text": "Simultaneously, Iran must invest in sustainable tourism—waste management, green transport, and heritage conservation—to protect its assets and ...",
+      "date_published": "2026-09-01T15:03:52+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/s88ysfxd1zpa/",
       "url": "https://www.travelandtourworld.com/news/article/s88ysfxd1zpa/",
       "title": "Vietnam Teams Up With New Zealand And More Countries In A Global Circular Tourism ...",
       "content_text": "Heritage conservation. Sustainable destination management. India's ... Tags: circular tourism, green tourism, Regenerative tourism, sustainable travel, ...",
       "date_published": "2026-08-02T03:58:04+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/3hiljj51of2x/",
+      "url": "https://www.travelandtourworld.com/news/article/3hiljj51of2x/",
+      "title": "Vietnam Joins Maldives and More Nations in Connecting Culture with Sustainable and ...",
+      "content_text": "The country's official tourism platform describes wellness as a broad travel experience encompassing resorts, yoga, meditation, healthy food, herbal ...",
+      "date_published": "2026-09-01T16:38:20+00:00"
     },
     {
       "id": "https://news.tuoitre.vn/river-life-garden-treats-chocolate-making-in-vietnams-can-tho-charm-local-intl-visitors-10326083120384544.htm",
@@ -61,20 +75,6 @@
       "title": "Ca Mau's U Minh Ha becomes next ecotourism frontier - Can Tho News - Báo Cần Thơ",
       "content_text": "Vast melaleuca forests, a typical peatland ecosystem and local folklore have long made U Minh Ha a draw in Vietnam's southernmost province of Ca ...",
       "date_published": "2026-08-30T04:09:54+00:00"
-    },
-    {
-      "id": "https://www.vietnam.vn/en/day-manh-quang-ba-nang-tam-du-lich-vung-cuc-nam-to-quoc",
-      "url": "https://www.vietnam.vn/en/day-manh-quang-ba-nang-tam-du-lich-vung-cuc-nam-to-quoc",
-      "title": "Boosting promotion and elevating tourism in the southernmost region of Vietnam.",
-      "content_text": "Ecotourism and community-based tourism products linked to local culture, cuisine, and lifestyle are receiving increasing attention. Ecotourism, ...",
-      "date_published": "2026-08-29T15:55:52+00:00"
-    },
-    {
-      "id": "https://news.tuoitre.vn/in-vietnam-villagers-enjoy-one-day-fishing-festival-after-preserving-wetland-year-round-103260829201854679.htm",
-      "url": "https://news.tuoitre.vn/in-vietnam-villagers-enjoy-one-day-fishing-festival-after-preserving-wetland-year-round-103260829201854679.htm",
-      "title": "In Vietnam, villagers enjoy one-day fishing festival after preserving wetland year-round",
-      "content_text": "... wetland closed to fishing for an entire year ... Fishing village in Vietnam's Dak Lak nominated for world's best tourism village award.",
-      "date_published": "2026-08-29T15:29:36+00:00"
     }
   ]
 }

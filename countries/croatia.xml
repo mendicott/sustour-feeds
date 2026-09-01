@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/croatia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Croatia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 01 Sep 2026 10:16:35 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 22:25:02 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>BBC Highlights Dubrovnik as a Model for Tackling Overtourism</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lah8spefggvv/</guid>
 <pubDate>Mon, 06 Jul 2026 07:57:09 +0000</pubDate>
 <description>Calanques visitor caps return in France for 2026, limiting access to Mediterranean beaches to curb overtourism and protect fragile ecosystems.</description>
+</item>
+<item>
+<title>Dubrovnik Pass Reaches Final of Prestigious European Sustainable Tourism Awards</title>
+<link>https://www.thedubrovniktimes.com/news/dubrovnik/item/20454-dubrovnik-pass-reaches-final-of-prestigious-european-sustainable-tourism-awards</link>
+<guid isPermaLink="false">https://www.thedubrovniktimes.com/news/dubrovnik/item/20454-dubrovnik-pass-reaches-final-of-prestigious-european-sustainable-tourism-awards</guid>
+<pubDate>Tue, 01 Sep 2026 15:04:14 +0000</pubDate>
+<description>The popular city pass has been shortlisted for the European Award for Sustainable Cultural Tourism Destination 2026, in the category "Digitalisation ...</description>
 </item>
 <item>
 <title>Croatia Tourism Pressure Extends Beyond Cape Kamenjak as These Destinations Showing ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.thedubrovniktimes.com/news/dubrovnik/item/20321-from-overtourism-hotspot-to-global-example-british-media-praises-dubrovnik-s-tourism-transformation</guid>
 <pubDate>Mon, 10 Aug 2026 16:07:20 +0000</pubDate>
 <description>Dubrovnik has once again found itself in the international spotlight – but this time the headlines aren't about crowds, cruise ships or Game...</description>
-</item>
-<item>
-<title>Take a Virtual Drive into Dubrovnik as Summer Sunshine Lights Up the Adriatic</title>
-<link>https://www.thedubrovniktimes.com/news/dubrovnik/item/20288-take-a-virtual-drive-into-dubrovnik-as-summer-sunshine-lights-up-the-adriatic</link>
-<guid isPermaLink="false">https://www.thedubrovniktimes.com/news/dubrovnik/item/20288-take-a-virtual-drive-into-dubrovnik-as-summer-sunshine-lights-up-the-adriatic</guid>
-<pubDate>Wed, 05 Aug 2026 10:16:24 +0000</pubDate>
-<description>BBC Highlights Dubrovnik as a Model for Tackling Overtourism. BBC Highlights Dubrovnik as a Model for … Aug 05, 2026 10 Dubrovnik · Take a Virtual ...</description>
 </item>
 </channel>
 </rss>
