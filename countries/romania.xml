@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/romania.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Romania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 02 Sep 2026 10:19:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 22:25:25 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Harghita, first region in Romania on Green Destinations map, following Green ... - Agerpres</title>
+<link>https://agerpres.ro/english/2026/09/02/harghita-first-region-in-romania-on-green-destinations-map-following-green-destinations-silver-award--1590009</link>
+<guid isPermaLink="false">https://agerpres.ro/english/2026/09/02/harghita-first-region-in-romania-on-green-destinations-map-following-green-destinations-silver-award--1590009</guid>
+<pubDate>Wed, 02 Sep 2026 11:32:26 +0000</pubDate>
+<description>'A new important milestone on the road towards sustainable tourism: Harghita County has obtained the internationally recognised Green Destinations ...</description>
+</item>
 <item>
 <title>Romania Tourism Is Putting The Danube Delta On A Tighter Eco-Travel Leash</title>
 <link>https://www.travelandtourworld.com/news/article/lsg3ie0b1rpr/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ye0c5ldiar9s/</guid>
 <pubDate>Sat, 18 Jul 2026 17:38:13 +0000</pubDate>
 <description>Romania's EU-backed Tourism in Balance initiative aims to reduce overtourism at Bran Castle by promoting sustainable travel across Transylvania.</description>
-</item>
-<item>
-<title>Romania Joins China, Switzerland, Norway, Turkey and France in a High-Altitude ...</title>
-<link>https://www.travelandtourworld.com/news/article/7cfde4ax9uzt/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/7cfde4ax9uzt/</guid>
-<pubDate>Wed, 17 Jun 2026 17:27:52 +0000</pubDate>
-<description>Travel planners expect the bridge to be integrated into broader tourism circuits. These may include forest trails, heritage towns, and protected ...</description>
 </item>
 </channel>
 </rss>

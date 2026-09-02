@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/latvia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Latvia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 02 Sep 2026 10:19:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 22:25:25 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Op-Ed: 'Beyond Passenger Numbers: Redefining Cruise Tourism in the Mediterranean'</title>
@@ -51,6 +51,13 @@
 <description>Alpaca farming has carved out a niche in Latvia's rural tourism sector. Although these animals are native to the Andes Mountains in South America, ...</description>
 </item>
 <item>
+<title>Vilnius, Riga, Tallinn by Train: A 7-Day Baltic Route</title>
+<link>https://www.baltictimes.com/vilnius__riga__tallinn_by_train__a_7-day_baltic_route/</link>
+<guid isPermaLink="false">https://www.baltictimes.com/vilnius__riga__tallinn_by_train__a_7-day_baltic_route/</guid>
+<pubDate>Wed, 02 Sep 2026 12:18:55 +0000</pubDate>
+<description>Two nights in each city, with the seventh day absorbed by travel or a stopover, is the sensible allocation. Travel south to north: Tallinn has the ...</description>
+</item>
+<item>
 <title>Latvia Makes a Spot Among Travelers as Riga and a Few Others Celebrate Dining Heritage</title>
 <link>https://www.travelandtourworld.com/news/article/o84yhdebfql2/</link>
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/o84yhdebfql2/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/36ycn2nxvxt9/</guid>
 <pubDate>Mon, 31 Aug 2026 05:31:16 +0000</pubDate>
 <description>Latvia reaches the Wanderlust Travel Awards European shortlist as interest grows in its Baltic coast, Art Nouveau heritage and peat bogs.</description>
-</item>
-<item>
-<title>New 'gastro tourism' route on the menu in northern Latvia</title>
-<link>https://eng.lsm.lv/article/culture/food-drink/30.08.2026-new-gastro-tourism-route-on-the-menu-in-northern-latvia.a660936/</link>
-<guid isPermaLink="false">https://eng.lsm.lv/article/culture/food-drink/30.08.2026-new-gastro-tourism-route-on-the-menu-in-northern-latvia.a660936/</guid>
-<pubDate>Sun, 30 Aug 2026 07:29:27 +0000</pubDate>
-<description>A newly created gastrotourism network called "Ziemeļzeme kods" (Code of the northern lands) now invites visitors to travel around Northern Vidzeme ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/argentina.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Argentina. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 02 Sep 2026 10:19:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 22:25:25 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Argentina reintroduced jaguars in 2021 after 70 years of local extinction - AS USA</title>
+<link>https://en.as.com/latest_news/argentina-reintroduced-jaguars-in-2021-after-70-years-of-local-extinction-5-years-later-the-rewilding-experiment-is-a-total-success-f202609-n/?outputType=amp</link>
+<guid isPermaLink="false">https://en.as.com/latest_news/argentina-reintroduced-jaguars-in-2021-after-70-years-of-local-extinction-5-years-later-the-rewilding-experiment-is-a-total-success-f202609-n/?outputType=amp</guid>
+<pubDate>Wed, 02 Sep 2026 11:53:48 +0000</pubDate>
+<description>A month after their visit, Doug's Conservation Land Trust purchased the San Alonso Ranch, a 28,170-acre island in the heart of the Iberá wetlands. It ...</description>
+</item>
 <item>
 <title>Argentina restricts access to an Andean plain after damage caused by a pickup truck</title>
 <link>https://en.mercopress.com/2026/08/14/argentina-restricts-access-to-an-andean-plain-after-damage-caused-by-a-pickup-truck</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/bgd2uwfiz6te/</guid>
 <pubDate>Wed, 15 Jul 2026 13:14:26 +0000</pubDate>
 <description>Discover how Argentina's first solar-powered train connects Indigenous heritage, Andean villages, and sustainable tourism across a 10000-year ...</description>
-</item>
-<item>
-<title>Ride Argentina's first solar train through 10,000 years of Indigenous history - BBC</title>
-<link>https://www.bbc.com/travel/article/20260710-ride-argentinas-first-solar-train-through-10000-years-of-indigenous-history</link>
-<guid isPermaLink="false">https://www.bbc.com/travel/article/20260710-ride-argentinas-first-solar-train-through-10000-years-of-indigenous-history</guid>
-<pubDate>Mon, 13 Jul 2026 12:52:52 +0000</pubDate>
-<description>The zero-emissions luxury train is taking travellers through rainbow mountains, Indigenous villages and a 10000-year-old cultural corridor.</description>
 </item>
 </channel>
 </rss>
