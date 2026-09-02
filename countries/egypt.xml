@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/egypt.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Egypt. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 01 Sep 2026 22:25:02 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 10:19:08 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Egypt unveils new model to balance conservation and tourism at Nabq Nature Reserve</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/egypt-travel-nabq-ecotourism-sustainable-sharm-el-sheikh/</guid>
 <pubDate>Wed, 05 Aug 2026 06:22:47 +0000</pubDate>
 <description>Nabq covers approximately 600 square kilometers, making it the largest coastal protected area on the Gulf of Aqaba. ... protected areas of Egypt.</description>
+</item>
+<item>
+<title>Local Development Minister discusses development of nature reserves - Egypt Independent</title>
+<link>https://www.egyptindependent.com/local-development-minister-discusses-development-of-nature-reserves/</link>
+<guid isPermaLink="false">https://www.egyptindependent.com/local-development-minister-discusses-development-of-nature-reserves/</guid>
+<pubDate>Tue, 01 Sep 2026 10:49:02 +0000</pubDate>
+<description>... projects and proposals for developing nature reserves in a manner that ensures the sustainable use of natural resources and supports ecotourism.</description>
 </item>
 <item>
 <title>Tourism Ministry expands awareness efforts, reaching 38,000 citizens - Egyptian Gazette</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://english.ahram.org.eg/NewsContentMulti/562354/Multimedia.aspx</guid>
 <pubDate>Sat, 01 Aug 2026 03:48:31 +0000</pubDate>
 <description>Minister of Foreign Affairs Badr Abdelatty discussed on Friday with the Director General of the United Nations Educational, Scientific and ...</description>
-</item>
-<item>
-<title>Egypt completes 50 Green Sharm projects, cuts emissions by 85,100 tons - Multimedia</title>
-<link>https://english.ahram.org.eg/NewsContentMulti/571896/Multimedia.aspx</link>
-<guid isPermaLink="false">https://english.ahram.org.eg/NewsContentMulti/571896/Multimedia.aspx</guid>
-<pubDate>Tue, 28 Jul 2026 20:46:32 +0000</pubDate>
-<description>Egypt has placed the project within a broader state push to develop South Sinai's protected areas as global ecotourism destinations, including ...</description>
 </item>
 </channel>
 </rss>
