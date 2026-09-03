@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.newsofbahrain.com/world/140392.html",
+      "url": "https://www.newsofbahrain.com/world/140392.html",
+      "title": "UAE unveils national ecotourism policy to balance tourism and conservation",
+      "content_text": "Email: online@newsofbahrain.com Dubai: The UAE Cabinet has approved a National Ecotourism Policy,...",
+      "date_published": "2026-09-03T07:31:53+00:00"
+    },
+    {
       "id": "https://www.khaleejtimes.com/uae/uae-adopts-national-ecotourism-policy-to-protect-nature-while-expanding-tourism-sector",
       "url": "https://www.khaleejtimes.com/uae/uae-adopts-national-ecotourism-policy-to-protect-nature-while-expanding-tourism-sector",
       "title": "UAE adopts national ecotourism policy to protect nature while expanding tourism sector",
@@ -49,6 +56,13 @@
       "date_published": "2026-07-21T10:43:25+00:00"
     },
     {
+      "id": "https://petra.gov.jo/en/news/petra-conservation-project-boosts-ecosystems-local-livelihoods",
+      "url": "https://petra.gov.jo/en/news/petra-conservation-project-boosts-ecosystems-local-livelihoods",
+      "title": "Petra Conservation Project Boosts Ecosystems, Local Livelihoods",
+      "content_text": "The Petra Development and Tourism Region Authority, in cooperation with the International Union for Conservation of Nature (IUCN), concluded the ...",
+      "date_published": "2026-09-02T13:48:28+00:00"
+    },
+    {
       "id": "https://kuwaittimes.com/article/49016/lifestyle/art-fashion/embera-culture-takes-center-stage-in-panama-citys-historic-district/amp",
       "url": "https://kuwaittimes.com/article/49016/lifestyle/art-fashion/embera-culture-takes-center-stage-in-panama-citys-historic-district/amp",
       "title": "Embera culture takes center stage in Panama Citys historic district - Kuwait Times",
@@ -61,20 +75,6 @@
       "title": "Embera culture takes center stage in Panama City's historic district - Kuwait Times",
       "content_text": "The sound of traditional music carried through the cobbled streets of Panama City's Casco Antiguo on Sunday as Embera Indigenous women performed a ...",
       "date_published": "2026-09-01T16:13:51+00:00"
-    },
-    {
-      "id": "https://www.egyptindependent.com/local-development-minister-discusses-development-of-nature-reserves/",
-      "url": "https://www.egyptindependent.com/local-development-minister-discusses-development-of-nature-reserves/",
-      "title": "Local Development Minister discusses development of nature reserves - Egypt Independent",
-      "content_text": "... projects and proposals for developing nature reserves in a manner that ensures the sustainable use of natural resources and supports ecotourism.",
-      "date_published": "2026-09-01T10:49:02+00:00"
-    },
-    {
-      "id": "https://petra.gov.jo/en/news/wild-jordan-house-reopens-after-renovation-as-expanded-ecotourism-destination",
-      "url": "https://petra.gov.jo/en/news/wild-jordan-house-reopens-after-renovation-as-expanded-ecotourism-destination",
-      "title": "Wild Jordan House Reopens After Renovation as Expanded Ecotourism Destination",
-      "content_text": "... Jordan's tourism offerings. The Jear restaurant features a menu inspired by Amman's cultural diversity and culinary heritage, presenting ...",
-      "date_published": "2026-09-01T10:36:41+00:00"
     }
   ]
 }

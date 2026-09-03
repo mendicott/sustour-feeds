@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/asia-the-pacific.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Asia &amp; the Pacific. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 02 Sep 2026 22:25:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 10:22:22 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>UAE unveils national ecotourism policy to balance tourism and conservation</title>
+<link>https://www.newsofbahrain.com/world/140392.html</link>
+<guid isPermaLink="false">https://www.newsofbahrain.com/world/140392.html</guid>
+<pubDate>Thu, 03 Sep 2026 07:31:53 +0000</pubDate>
+<description>Email: online@newsofbahrain.com Dubai: The UAE Cabinet has approved a National Ecotourism Policy,...</description>
+</item>
 <item>
 <title>UAE adopts national ecotourism policy to protect nature while expanding tourism sector</title>
 <link>https://www.khaleejtimes.com/uae/uae-adopts-national-ecotourism-policy-to-protect-nature-while-expanding-tourism-sector</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.nationthailand.com/news/tourism/40070380</guid>
 <pubDate>Fri, 28 Aug 2026 16:07:57 +0000</pubDate>
 <description>Bhutan charges most foreign visitors US$100 a night, using the levy to support public services, conservation and its low-volume tourism model.</description>
-</item>
-<item>
-<title>Cook Islands, Rarotonga and Aitutaki Lead a New Era of Regenerative Tourism</title>
-<link>https://www.travelandtourworld.com/news/article/019y278h2pfs/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/019y278h2pfs/</guid>
-<pubDate>Fri, 28 Aug 2026 07:59:20 +0000</pubDate>
-<description>Cook Islands tourism is expanding beyond Rarotonga and Aitutaki as arrivals rise and the Pa Enua gains regenerative travel focus.</description>
 </item>
 </channel>
 </rss>

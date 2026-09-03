@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/jordan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Jordan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 02 Sep 2026 22:25:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 10:22:22 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Petra Authority, UNESCO Explore Expanding Sustainable Tourism, Community Empowerment</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://petra.gov.jo/wp-contart/x/index.php/en/news/petra-authority-unesco-explore-expanding-sustainable-tourism-community-empowerment</guid>
 <pubDate>Tue, 21 Jul 2026 10:43:25 +0000</pubDate>
 <description>... sustainable tourism and empower local communities. The meeting was attended by Minister of Tourism and Antiquities Imad Hijazin, Chairperson of ...</description>
+</item>
+<item>
+<title>Petra Conservation Project Boosts Ecosystems, Local Livelihoods</title>
+<link>https://petra.gov.jo/en/news/petra-conservation-project-boosts-ecosystems-local-livelihoods</link>
+<guid isPermaLink="false">https://petra.gov.jo/en/news/petra-conservation-project-boosts-ecosystems-local-livelihoods</guid>
+<pubDate>Wed, 02 Sep 2026 13:48:28 +0000</pubDate>
+<description>The Petra Development and Tourism Region Authority, in cooperation with the International Union for Conservation of Nature (IUCN), concluded the ...</description>
 </item>
 <item>
 <title>Wild Jordan House Reopens After Renovation as Expanded Ecotourism Destination</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://travelindustrytoday.com/gx-summit-g-adventures-set-to-bring-the-beat-to-cambodia/</guid>
 <pubDate>Mon, 31 Aug 2026 23:14:15 +0000</pubDate>
 <description>Jordan Roseman) will party alongside 650 GX attendees at Labyrinth, Siem Reap, "celebrating the power of tourism to change the world" and G Adventures ...</description>
-</item>
-<item>
-<title>PDTRA, JICA Discuss Strategic Tourism Plan and Sustainable Development</title>
-<link>https://petra.gov.jo/gweb/index.php/en/news/pdtra-jica-discuss-strategic-tourism-plan-and-sustainable-development</link>
-<guid isPermaLink="false">https://petra.gov.jo/gweb/index.php/en/news/pdtra-jica-discuss-strategic-tourism-plan-and-sustainable-development</guid>
-<pubDate>Sun, 09 Aug 2026 00:45:38 +0000</pubDate>
-<description>For his part, Ueda reaffirmed JICA's commitment to supporting the Petra Authority's efforts to develop sustainable tourism, empower local communities, ...</description>
 </item>
 </channel>
 </rss>

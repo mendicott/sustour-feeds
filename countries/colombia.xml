@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/colombia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Colombia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 02 Sep 2026 22:25:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 10:22:22 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Colombia: 97000 trees and 190 beehives restore a high Andean forest in Sesquilé and Guatavita</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://www.audubon.org/news/ambalema-colombian-town-building-its-future-around-birds</guid>
 <pubDate>Tue, 07 Jul 2026 03:57:45 +0000</pubDate>
 <description>Birdwatching tourism is transforming the biodiversity of the Magdalena River into economic opportunities for local communities.</description>
+</item>
+<item>
+<title>Bogotá and Beyond Are Shining as the Most Sustainable Heritage Cities of Colombia ...</title>
+<link>https://www.travelandtourworld.com/news/article/1kmkm03lfx8m/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/1kmkm03lfx8m/</guid>
+<pubDate>Wed, 02 Sep 2026 23:19:32 +0000</pubDate>
+<description>... heritage conservation and slow tourism. Located along the Magdalena ... Tags: Bogotá travel, Colombia tourism, Heritage Cities, responsible travel.</description>
 </item>
 <item>
 <title>CFAs: Women's Economic Autonomy and Sustainable Livelihoods (Colombia)</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/9zg99mu0h33t/</guid>
 <pubDate>Wed, 19 Aug 2026 11:46:28 +0000</pubDate>
 <description>The legal fortification of community tourism and the strict enforcement of accommodation standards fundamentally create a highly dynamic, incredibly ...</description>
-</item>
-<item>
-<title>Among the sacred hills of Colombia's Guainía - Mongabay</title>
-<link>https://news.mongabay.com/custom-story/2026/08/among-the-sacred-hills-of-colombias-guainia/</link>
-<guid isPermaLink="false">https://news.mongabay.com/custom-story/2026/08/among-the-sacred-hills-of-colombias-guainia/</guid>
-<pubDate>Fri, 14 Aug 2026 21:04:54 +0000</pubDate>
-<description>Travel by water makes clear how closely life here is organized around ... BiodiversityCommunity ForestsCommunity-based ConservationConservation ...</description>
 </item>
 </channel>
 </rss>

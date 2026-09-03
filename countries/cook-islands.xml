@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/cook-islands.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Cook Islands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 02 Sep 2026 22:25:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 10:22:22 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Cook Islands, Rarotonga and Aitutaki Lead a New Era of Regenerative Tourism</title>
@@ -51,6 +51,13 @@
 <description>Manarangi Tutai Ariki of Aitutaki (left), general secretary for Te Ui Ariki Ngateitei o te Kuki Airani (UANKA) - Puna Rakanui, and Te Maeu O Te ...</description>
 </item>
 <item>
+<title>Tourism celebrates Te Marama o te Manava Tūroto - Cook Islands News</title>
+<link>https://www.cookislandsnews.com/internal/national/local/tourism-celebrates-te-marama-o-te-manava-turoto/</link>
+<guid isPermaLink="false">https://www.cookislandsnews.com/internal/national/local/tourism-celebrates-te-marama-o-te-manava-turoto/</guid>
+<pubDate>Wed, 02 Sep 2026 19:18:20 +0000</pubDate>
+<description>Tourism is more than the places we visit, it is shaped by the people who create meaningful experiences, pass on knowledge, protect what makes our ...</description>
+</item>
+<item>
 <title>Te Ipukarea Society: Deep seabed mining discussion highlights need for caution and clarity</title>
 <link>https://www.cookislandsnews.com/internal/opinion/editorials/te-ipukarea-society-deep-seabed-mining-discussion-highlights-need-for-caution-and-clarity/</link>
 <guid isPermaLink="false">https://www.cookislandsnews.com/internal/opinion/editorials/te-ipukarea-society-deep-seabed-mining-discussion-highlights-need-for-caution-and-clarity/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">http://www.cookislandsnews.com/internal/national/environment/te-ipukarea-society-turns-30/</guid>
 <pubDate>Fri, 19 Jun 2026 18:21:32 +0000</pubDate>
 <description>According to TIS, during the 1980s, rising tourism repeatedly sidelined environmental priorities, highlighting the need for proactive preservation. By ...</description>
-</item>
-<item>
-<title>Aitutaki forms committee to set guidelines for whale tourism - Cook Islands News</title>
-<link>http://www.cookislandsnews.com/internal/national/environment/outer-islands/tourism/aitutaki-forms-committee-to-set-guidelines-for-whale-tourism/</link>
-<guid isPermaLink="false">http://www.cookislandsnews.com/internal/national/environment/outer-islands/tourism/aitutaki-forms-committee-to-set-guidelines-for-whale-tourism/</guid>
-<pubDate>Tue, 25 Aug 2026 18:44:09 +0000</pubDate>
-<description>Aitutaki has established a first-response committee to set operational guidelines for its 'lucrative' whale-watching and swimming industry ...</description>
 </item>
 </channel>
 </rss>
