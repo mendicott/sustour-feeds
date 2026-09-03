@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://pia.gov.ph/news/indigenous-peoples-join-denr-xi-pef-in-new-drive-to-protect-philippine-eagle/",
+      "url": "https://pia.gov.ph/news/indigenous-peoples-join-denr-xi-pef-in-new-drive-to-protect-philippine-eagle/",
+      "title": "Indigenous Peoples join DENR-XI, PEF in new drive to protect Philippine Eagle",
+      "content_text": "... tourism destination, educational park, and Conservation Academy. By combining indigenous knowledge, ecosystem management, and community ...",
+      "date_published": "2026-09-03T15:32:53+00:00"
+    },
+    {
       "id": "https://pia.gov.ph/news/pasil-trains-tour-guides-to-boost-community-based-tourism/",
       "url": "https://pia.gov.ph/news/pasil-trains-tour-guides-to-boost-community-based-tourism/",
       "title": "Pasil trains tour guides to boost community-based tourism - Philippine Information Agency",
@@ -68,13 +75,6 @@
       "title": "Int'l evaluators assess Mt. Apo for Geopark status - Philippine Information Agency",
       "content_text": "Currently, there are 241 recognized geoparks in 51 countries. The Philippines presently has one recognized geopark, the Bohol Island UNESCO Global ...",
       "date_published": "2026-08-28T04:52:14+00:00"
-    },
-    {
-      "id": "https://oceanographicmagazine.com/features/holding-the-line-how-long-can-pintuyan-s-whale-shark-tourism-remain-ethical/",
-      "url": "https://oceanographicmagazine.com/features/holding-the-line-how-long-can-pintuyan-s-whale-shark-tourism-remain-ethical/",
-      "title": "How long can Pintuyan's whale shark tourism remain ethical? - Oceanographic Magazine",
-      "content_text": "In Pintuyan, Philippines, a small fishing community has built an ethical whale shark tourism model that prioritises animal welfare over profit ...",
-      "date_published": "2026-08-26T17:55:07+00:00"
     }
   ]
 }

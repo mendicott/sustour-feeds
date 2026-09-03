@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 03 Sep 2026 10:22:22 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 22:28:34 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Hundreds flood popular Ibiza beach in protest against tourists - The Sun</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ux7f5fthw6bb/</guid>
 <pubDate>Thu, 23 Jul 2026 04:57:39 +0000</pubDate>
 <description>The regenerative travel revolution is moving beyond traditional tourism and creating a new era where journeys deliver lasting benefits. Spain, ...</description>
+</item>
+<item>
+<title>Ibiza Travel Protest: Navigating Overtourism at Cala Saladeta</title>
+<link>https://www.travelandtourworld.com/news/article/kkppcn831atg/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/kkppcn831atg/</guid>
+<pubDate>Thu, 03 Sep 2026 01:34:58 +0000</pubDate>
+<description>Discover how Ibiza locals are protesting overtourism at Cala Saladeta, plus essential sustainable travel tips for visiting Spain.</description>
 </item>
 <item>
 <title>Spain's smallest island seeks independence to slow tourism - The World from PRX</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/cdtm59fz8tlu/</guid>
 <pubDate>Sun, 23 Aug 2026 14:42:18 +0000</pubDate>
 <description>Netherlands leads Europe's overtourism crackdown in 2026 as Amsterdam's highest tourist charges reshape travel costs and sustainable tourism ...</description>
-</item>
-<item>
-<title>Ecosystem Restoration in Spain: From Doñana to Madrid - Plant-for-the-Planet Blog</title>
-<link>https://blog.plant-for-the-planet.org/2026/ecosystem-restoration-spain-donana-madrid/</link>
-<guid isPermaLink="false">https://blog.plant-for-the-planet.org/2026/ecosystem-restoration-spain-donana-madrid/</guid>
-<pubDate>Thu, 20 Aug 2026 15:01:24 +0000</pubDate>
-<description>Spain is one of the European countries most vulnerable to desertification and the impacts of the climate crisis. Soil degradation, increasingly ...</description>
 </item>
 </channel>
 </rss>

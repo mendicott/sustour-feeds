@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 03 Sep 2026 10:22:22 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 22:28:34 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Vietnam nominates 5 candidates for World's Best Tourism Village - VnExpress International</title>
+<link>https://e.vnexpress.net/photo/places/vietnam-nominates-5-candidates-for-worlds-best-tourism-village-5103759.html</link>
+<guid isPermaLink="false">https://e.vnexpress.net/photo/places/vietnam-nominates-5-candidates-for-worlds-best-tourism-village-5103759.html</guid>
+<pubDate>Thu, 03 Sep 2026 16:02:56 +0000</pubDate>
+<description>The annual Best Tourism Villages award recognizes places that balance tourism with cultural preservation, environmental protection, community support, ...</description>
+</item>
 <item>
 <title>From oil to orchids: how Vietnam made tourism its economic engine, what Iran must learn</title>
 <link>https://www.tehrantimes.com/news/529574/From-oil-to-orchids-how-Vietnam-made-tourism-its-economic-engine</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/559pmrb7vp90/</guid>
 <pubDate>Mon, 31 Aug 2026 05:25:14 +0000</pubDate>
 <description>Vietnam expands sustainable tourism through community and agricultural experiences, creating new opportunities for rural destinations and global ...</description>
-</item>
-<item>
-<title>Leveraging local values ​​for sustainable tourism development. - Vietnam.vn</title>
-<link>https://www.vietnam.vn/en/phat-huy-gia-tri-ban-dia-phat-trien-du-lich-ben-vung</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/phat-huy-gia-tri-ban-dia-phat-trien-du-lich-ben-vung</guid>
-<pubDate>Mon, 31 Aug 2026 01:04:23 +0000</pubDate>
-<description>... community-based tourism destinations is how to transform the inherent ... Pa Vi Mong ethnic community tourism village was honored at the Vietnam Tourism ...</description>
 </item>
 </channel>
 </rss>

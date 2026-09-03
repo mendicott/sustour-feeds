@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://mexicobusiness.news/sustainability/news/mexico-presents-2026-2030-sustainable-tourism-policy",
+      "url": "https://mexicobusiness.news/sustainability/news/mexico-presents-2026-2030-sustainable-tourism-policy",
+      "title": "Mexico Presents 2026-2030 Sustainable Tourism Policy",
+      "content_text": "Mexico launched its 2026-2030 Sustainable Tourism Policy to strengthen sustainability and climate resilience nationwide.",
+      "date_published": "2026-09-03T21:25:25+00:00"
+    },
+    {
       "id": "https://ua.news/en/world/u-iukatani-prizupinili-liuksovii-proiekt-na-diunakh-mexico-news-daily",
       "url": "https://ua.news/en/world/u-iukatani-prizupinili-liuksovii-proiekt-na-diunakh-mexico-news-daily",
       "title": "Luxury project on Yucatán dunes suspended — Mexico News Daily",
@@ -68,13 +75,6 @@
       "title": "Mérida, Cancún and Others Are Advancing Sustainable Tourism in Mexico Focusing on ...",
       "content_text": "Mérida, Cancún and Mexican cities advance sustainable tourism through conservation, cultural protection, responsible hospitality and greener ...",
       "date_published": "2026-08-08T17:18:13+00:00"
-    },
-    {
-      "id": "https://mexicobusiness.news/sustainability/news/mexico-expands-protected-areas-strategy-toward-30x30-goal",
-      "url": "https://mexicobusiness.news/sustainability/news/mexico-expands-protected-areas-strategy-toward-30x30-goal",
-      "title": "Mexico Expands Protected Areas Strategy Toward 30x30 Goal",
-      "content_text": "... protected areas while aligning conservation policy with the global 30x30 biodiversity target. ... protected area so that interested parties can review ...",
-      "date_published": "2026-08-06T17:23:39+00:00"
     }
   ]
 }

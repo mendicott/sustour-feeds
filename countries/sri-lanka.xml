@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/sri-lanka.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Sri Lanka. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 03 Sep 2026 10:22:22 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 22:28:34 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>New conservation future for Hakgala and Sri Lanka's highlands - Island.lk</title>
+<link>http://island.lk/new-conservation-future-for-hakgala-and-sri-lankas-highlands/</link>
+<guid isPermaLink="false">http://island.lk/new-conservation-future-for-hakgala-and-sri-lankas-highlands/</guid>
+<pubDate>Thu, 03 Sep 2026 00:03:06 +0000</pubDate>
+<description>Plans have also been discussed for promoting environmentally responsible tourism and developing Hakgala as a zero-emission zone. ... climate change.</description>
+</item>
 <item>
 <title>Delft Island to be developed as an Eco Tourism destination - The Sunday Times, Sri Lanka</title>
 <link>https://www.sundaytimes.lk/260809/business-times/delft-island-to-be-developed-as-an-eco-tourism-destination-651355.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/o8rjd8p8e1pj/</guid>
 <pubDate>Tue, 11 Aug 2026 05:54:51 +0000</pubDate>
 <description>Discover how Sri Lanka's Delft Island is becoming a major zero-emission eco-tourism destination, protecting heritage and reshaping global travel ...</description>
-</item>
-<item>
-<title>Promoting Sustainable tourism in Delft – The Island</title>
-<link>https://island.lk/promoting-sustainable-tourism-in-delft/</link>
-<guid isPermaLink="false">https://island.lk/promoting-sustainable-tourism-in-delft/</guid>
-<pubDate>Sun, 09 Aug 2026 00:02:27 +0000</pubDate>
-<description>Delft Islands has become a signature destination in Sri Lanka tourism map, offering travellers a journey into a world where time appears to stand ...</description>
 </item>
 </channel>
 </rss>
