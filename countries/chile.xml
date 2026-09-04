@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/chile.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Chile. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 03 Sep 2026 22:28:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 10:22:24 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Introducing 'Tomorrow Beckons', a Global Regenerative Travel Program</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/hwigz1oagmnq/</guid>
 <pubDate>Sat, 27 Jun 2026 11:08:33 +0000</pubDate>
 <description>Costa Rica, Belize, Peru, Chile and Ecuador drive global ecotourism growth with biodiversity travel, conservation tourism and sustainable travel ...</description>
+</item>
+<item>
+<title>Chile and Some Other Nations Make Progress in the Hotel and Hospitality Industry</title>
+<link>https://www.travelandtourworld.com/news/article/m0gavglg1sam/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/m0gavglg1sam/</guid>
+<pubDate>Thu, 03 Sep 2026 23:36:50 +0000</pubDate>
+<description>In 2026, South America's hospitality industry is shifting from traditional eco-tourism to true regenerative travel, led by Chile, Peru, Brazil, ...</description>
 </item>
 <item>
 <title>According to a study, for every dollar invested in Chilean Patagonia national parks, six return ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/kpmsz1bj6uw8/</guid>
 <pubDate>Sun, 14 Jun 2026 20:42:14 +0000</pubDate>
 <description>Global astrotourism network expands in 2026 across Africa, Asia, Europe, Middle East and Latin America driving sustainable tourism and education ...</description>
-</item>
-<item>
-<title>Chile Tourism Now Puts Atacama Stars Centre Stage With Sustainable Spring Astrotourism Push</title>
-<link>https://www.travelandtourworld.com/news/article/o2w1pc38nq1l/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/o2w1pc38nq1l/</guid>
-<pubDate>Mon, 24 Aug 2026 12:42:53 +0000</pubDate>
-<description>Chile tourism promotes Atacama spring astrotourism with dark skies, observatories and luxury eco-lodges for sustainable travel.</description>
 </item>
 </channel>
 </rss>

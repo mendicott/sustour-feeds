@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/europe.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Europe. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 03 Sep 2026 22:28:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 10:22:24 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Slovenia Rethinks Tourism Growth as Mature Destinations Turn From More Visitors to Better ...</title>
+<link>https://www.travelandtourworld.com/news/article/askiee8v48na/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/askiee8v48na/</guid>
+<pubDate>Fri, 04 Sep 2026 06:34:37 +0000</pubDate>
+<description>Slovenia tourism growth enters a new era as the country manages rising visitors through sustainable policies, regional travel and smarter crowd ...</description>
+</item>
 <item>
 <title>Harghita becomes Romania's first region to receive Green Destinations Silver Award</title>
 <link>https://business-review.eu/lifestyle/travel/harghita-becomes-romanias-first-region-to-receive-green-destinations-silver-award-300007</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://caspianpost.com/uzbekistan/uzbekistan-hosts-international-ecotourism-summit-for-the-first-time</guid>
 <pubDate>Fri, 28 Aug 2026 05:13:16 +0000</pubDate>
 <description>The event, organized by Uzbekistan's Tourism Committee, the International Ecotourism Society and TGS Travel, brought together around 100 leading tour ...</description>
-</item>
-<item>
-<title>Uzbekistan hosts first international ecotourism summit - Qazinform</title>
-<link>https://qazinform.com/news/uzbekistan-hosts-first-international-ecotourism-summit-c89abe</link>
-<guid isPermaLink="false">https://qazinform.com/news/uzbekistan-hosts-first-international-ecotourism-summit-c89abe</guid>
-<pubDate>Fri, 28 Aug 2026 05:09:51 +0000</pubDate>
-<description>... Uzbekistan Photo credit: UzA. The event was organized by Uzbekistan's Tourism Committee, the International Ecotourism Society, and TGS Travel. The ...</description>
 </item>
 </channel>
 </rss>

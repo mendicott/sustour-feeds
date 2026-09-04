@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/south-korea.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for South Korea. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 03 Sep 2026 22:28:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 10:22:24 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>South Korea Begins Ramesseum Pylon Restoration</title>
+<link>https://www.chosun.com/english/travel-food-en/2026/09/04/KUQLVUSAH5DFRBYAWCYBXAHSOE/</link>
+<guid isPermaLink="false">https://www.chosun.com/english/travel-food-en/2026/09/04/KUQLVUSAH5DFRBYAWCYBXAHSOE/</guid>
+<pubDate>Fri, 04 Sep 2026 07:26:55 +0000</pubDate>
+<description>Egypt is a global hub for archaeological restoration, with 30 countries participating in heritage conservation projects. South Korea has conducted ...</description>
+</item>
 <item>
 <title>Korean forests gain global recognition in biodiversity push - The Korea Times</title>
 <link>https://www.koreatimes.co.kr/southkorea/20260902/korean-forests-gain-global-recognition-in-biodiversity-push</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://whc.unesco.org/en/news/2914</guid>
 <pubDate>Thu, 23 Jul 2026 14:21:13 +0000</pubDate>
 <description>The 48th session of the World Heritage Committee, currently taking place in Busan, Republic of Korea, marks a historic milestone for Small Island ...</description>
-</item>
-<item>
-<title>Japan, Mongolia, Nepal, South Korea, Indonesia, Kazakhstan and Bhutan Lead Asia's New ...</title>
-<link>https://www.travelandtourworld.com/news/article/8gw29p0im55s/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/8gw29p0im55s/</guid>
-<pubDate>Thu, 23 Jul 2026 01:45:26 +0000</pubDate>
-<description>This new travel revolution highlights how Asia is moving towards responsible tourism where nature, heritage and local communities remain at the heart ...</description>
 </item>
 </channel>
 </rss>

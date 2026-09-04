@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/saudi-arabia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Saudi Arabia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 03 Sep 2026 22:28:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 10:22:24 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Whale Shark Reflects Rich Marine Biodiversity in Red Sea</title>
+<link>https://www.spa.gov.sa/en/N2668928</link>
+<guid isPermaLink="false">https://www.spa.gov.sa/en/N2668928</guid>
+<pubDate>Fri, 04 Sep 2026 08:53:17 +0000</pubDate>
+<description>... sustainable marine research and eco-tourism. To safeguard this vulnerable species, the Saudi Red Sea Authority is actively championing responsible ...</description>
+</item>
 <item>
 <title>UAE Follows Saudi Arabia and More in Advancing National Ecotourism Policy for ...</title>
 <link>https://www.travelandtourworld.com/news/article/j3p40i4flhm0/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.arabnews.com/node/2652275/saudi-arabia</guid>
 <pubDate>Sat, 25 Jul 2026 13:25:23 +0000</pubDate>
 <description>Wildlife authority details conservation-led plans for protected areas.</description>
-</item>
-<item>
-<title>Saudi Arabia launches national parks investment opportunities | Arab News PK</title>
-<link>https://www.arabnews.pk/node/2651527/saudi-arabia</link>
-<guid isPermaLink="false">https://www.arabnews.pk/node/2651527/saudi-arabia</guid>
-<pubDate>Sun, 19 Jul 2026 19:25:22 +0000</pubDate>
-<description>Focus is on developing sustainable ecotourism destinations in partnership with the private sector, says official. Updated 7 ...</description>
 </item>
 </channel>
 </rss>
