@@ -7,11 +7,39 @@
   "language": "en",
   "items": [
     {
+      "id": "https://mexicobusiness.news/sustainability/news/mexico-advances-biodiversity-sustainable-development-plans",
+      "url": "https://mexicobusiness.news/sustainability/news/mexico-advances-biodiversity-sustainable-development-plans",
+      "title": "Mexico Advances Biodiversity, Sustainable Development Plans",
+      "content_text": "Coastal Restoration · sustainable tourism · marine conservation · Sustainable Resource Management · environmental policy · Semarnat · conanp · IUCN ...",
+      "date_published": "2026-09-04T18:55:21+00:00"
+    },
+    {
+      "id": "https://mexicobusiness.news/sustainability/news/mexico-advances-biodiversity-and-sustainable-development",
+      "url": "https://mexicobusiness.news/sustainability/news/mexico-advances-biodiversity-and-sustainable-development",
+      "title": "Mexico Advances Biodiversity and Sustainable Development",
+      "content_text": "... sustainable development across the Gran Selva Maya Biocultural Corridor. ... sustainable tourism · marine conservation · Sustainable Resource ...",
+      "date_published": "2026-09-04T18:25:22+00:00"
+    },
+    {
+      "id": "https://www.travelandtourworld.com/news/article/o4jpl83x1hn2/",
+      "url": "https://www.travelandtourworld.com/news/article/o4jpl83x1hn2/",
+      "title": "Mexico's 2026–2030 Sustainable Tourism Policy: A Definitive Guide to the Nation's Green ...",
+      "content_text": "Discover Mexico's 2026-2030 Sustainable Tourism Policy and its impact on green travel across all 32 states. Read the full guide here!",
+      "date_published": "2026-09-04T10:12:13+00:00"
+    },
+    {
       "id": "https://mexicobusiness.news/sustainability/news/mexico-presents-2026-2030-sustainable-tourism-policy",
       "url": "https://mexicobusiness.news/sustainability/news/mexico-presents-2026-2030-sustainable-tourism-policy",
       "title": "Mexico Presents 2026-2030 Sustainable Tourism Policy",
       "content_text": "Mexico launched its 2026-2030 Sustainable Tourism Policy to strengthen sustainability and climate resilience nationwide.",
       "date_published": "2026-09-03T21:25:25+00:00"
+    },
+    {
+      "id": "https://en.travel2latam.com/news-109475-sotic-2026-will-bring-together-caribbean-tourism-leaders-in-guyana.html",
+      "url": "https://en.travel2latam.com/news-109475-sotic-2026-will-bring-together-caribbean-tourism-leaders-in-guyana.html",
+      "title": "SOTIC 2026 will bring together Caribbean tourism leaders in Guyana - Travel2Latam",
+      "content_text": "... climate change and regenerative tourism. The agenda will also ... Travel & Tourism sector during 2025. Mexico ranked fourth globally in ...",
+      "date_published": "2026-09-04T15:10:15+00:00"
     },
     {
       "id": "https://ua.news/en/world/u-iukatani-prizupinili-liuksovii-proiekt-na-diunakh-mexico-news-daily",
@@ -47,34 +75,6 @@
       "title": "Mexico Suspended Swimming with Orcas. Here's What Actually Happened—and ... - Yahoo Creators",
       "content_text": "It was essentially an experimental management period designed to determine whether a rapidly growing wildlife tourism activity could be controlled ...",
       "date_published": "2026-08-12T12:25:17+00:00"
-    },
-    {
-      "id": "https://en.as.com/latest_news/goodbye-tourism-hello-seaweed-mexicos-invasive-species-sargassum-crisis-is-turning-tourists-away-can-its-beaches-recover-f202608-n/",
-      "url": "https://en.as.com/latest_news/goodbye-tourism-hello-seaweed-mexicos-invasive-species-sargassum-crisis-is-turning-tourists-away-can-its-beaches-recover-f202608-n/",
-      "title": "Goodbye tourism, hello seaweed: Mexico's invasive species sargassum crisis is turning tourists away",
-      "content_text": "The gigantic sargassum belt already reaches 8850 kilometers in length, and experts warn of its effects on coastal areas.",
-      "date_published": "2026-08-12T00:45:03+00:00"
-    },
-    {
-      "id": "https://www.archdaily.com/1120585/on-overtourism-in-the-valle-de-guadalupe-area-of-baja-california-mexico/5c92bee0284dd14c820007a7-on-overtourism-in-the-valle-de-guadalupe-area-of-baja-california-mexico-photo",
-      "url": "https://www.archdaily.com/1120585/on-overtourism-in-the-valle-de-guadalupe-area-of-baja-california-mexico/5c92bee0284dd14c820007a7-on-overtourism-in-the-valle-de-guadalupe-area-of-baja-california-mexico-photo",
-      "title": "On overtourism in the Valle de Guadalupe area of Baja California, Mexico - ArchDaily",
-      "content_text": "Image 3 of 5 from gallery of On overtourism in the Valle de Guadalupe area of Baja California, Mexico. Photograph by Marcos Betanzos.",
-      "date_published": "2026-08-09T23:14:45+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/wrru2iv8sy4c/",
-      "url": "https://www.travelandtourworld.com/news/article/wrru2iv8sy4c/",
-      "title": "Mazatlan Mexico Tourism Forum 2026 Unites Global Experts to Transform the Future of ...",
-      "content_text": "Mazatlan will host Tourism Forum 2026, bringing experts together to discuss sustainable tourism management and future travel trends.",
-      "date_published": "2026-08-09T05:07:13+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/l2y1ztvqvwos/",
-      "url": "https://www.travelandtourworld.com/news/article/l2y1ztvqvwos/",
-      "title": "Mérida, Cancún and Others Are Advancing Sustainable Tourism in Mexico Focusing on ...",
-      "content_text": "Mérida, Cancún and Mexican cities advance sustainable tourism through conservation, cultural protection, responsible hospitality and greener ...",
-      "date_published": "2026-08-08T17:18:13+00:00"
     }
   ]
 }

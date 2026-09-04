@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/portugal.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Portugal. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 04 Sep 2026 10:22:24 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 22:27:20 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Portugal archipelago renews sustainable tourism certification</title>
+<link>https://www.theportugalnews.com/news/2026-09-04/portugal-archipelago-renews-sustainable-tourism-certification/1081374</link>
+<guid isPermaLink="false">https://www.theportugalnews.com/news/2026-09-04/portugal-archipelago-renews-sustainable-tourism-certification/1081374</guid>
+<pubDate>Fri, 04 Sep 2026 19:17:29 +0000</pubDate>
+<description>Madeira has renewed its international recognition as a sustainable tourism destination, retaining its EarthCheck certification at Level IV of the ...</description>
+</item>
 <item>
 <title>Spain, Portugal, Greece, Croatia and Slovenia Dominate Europe's Future Tourism Race as ...</title>
 <link>https://www.travelandtourworld.com/news/article/ux7f5fthw6bb/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/xj46xwosbu9b/</guid>
 <pubDate>Fri, 03 Jul 2026 06:40:15 +0000</pubDate>
 <description>Europe overtourism crisis 2026 intensifies as Spain, Netherlands, Greece, Italy and Portugal restrict visitors in Barcelona, Amsterdam and ...</description>
-</item>
-<item>
-<title>Mexico Teams Up With Chile, Costa Rica, United States, Finland, Portugal, Kenya, Canada ...</title>
-<link>https://www.travelandtourworld.com/news/article/dg0orazylvsc/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/dg0orazylvsc/</guid>
-<pubDate>Thu, 02 Jul 2026 02:20:22 +0000</pubDate>
-<description>... tourism model with rainforest conservation and biodiversity protection. In Mexico, coastal and heritage tourism corridors are being modernised ...</description>
 </item>
 </channel>
 </rss>

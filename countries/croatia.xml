@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/croatia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Croatia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 04 Sep 2026 10:22:24 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 22:27:20 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Greece Considers Visitor Limits as Odyssey Tourism Overwhelms Sites</title>
+<link>https://www.chosun.com/english/world-en/2026/09/05/VOSE2KNLYBBNHDSR5SSBMO4V5Y/</link>
+<guid isPermaLink="false">https://www.chosun.com/english/world-en/2026/09/05/VOSE2KNLYBBNHDSR5SSBMO4V5Y/</guid>
+<pubDate>Fri, 04 Sep 2026 15:57:33 +0000</pubDate>
+<description>According to Greek authorities and the travel industry on September 4, tourism ... Some analysts compare the situation to Croatia's Dubrovnik ...</description>
+</item>
 <item>
 <title>BBC Highlights Dubrovnik as a Model for Tackling Overtourism</title>
 <link>https://www.thedubrovniktimes.com/news/dubrovnik/item/20289-bbc-highlights-dubrovnik-as-a-model-for-tackling-overtourism</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/v0a3ya0dg14a/</guid>
 <pubDate>Mon, 24 Aug 2026 16:47:10 +0000</pubDate>
 <description>One of the most important findings comes from a carrying-capacity study for the historic centre. ... tourism 2026, Croatia Travel news.</description>
-</item>
-<item>
-<title>From Overtourism Hotspot to Global Example: British Media Praises Dubrovnik's Tourism ...</title>
-<link>https://www.thedubrovniktimes.com/news/dubrovnik/item/20321-from-overtourism-hotspot-to-global-example-british-media-praises-dubrovnik-s-tourism-transformation</link>
-<guid isPermaLink="false">https://www.thedubrovniktimes.com/news/dubrovnik/item/20321-from-overtourism-hotspot-to-global-example-british-media-praises-dubrovnik-s-tourism-transformation</guid>
-<pubDate>Mon, 10 Aug 2026 16:07:20 +0000</pubDate>
-<description>Dubrovnik has once again found itself in the international spotlight – but this time the headlines aren't about crowds, cruise ships or Game...</description>
 </item>
 </channel>
 </rss>
