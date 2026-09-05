@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/fiji.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Fiji. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 05 Sep 2026 10:21:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 22:23:02 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>$90k boost - The Fiji Times</title>
+<link>https://www.fijitimes.com.fj/90k-boost/</link>
+<guid isPermaLink="false">https://www.fijitimes.com.fj/90k-boost/</guid>
+<pubDate>Sat, 05 Sep 2026 04:14:33 +0000</pubDate>
+<description>A $90000 investment from the iTaukei Land Trust Board (TLTB) is set to expand a $500000-plus tourism asset in Ra, as a locally-owned eco-tourism ...</description>
+</item>
 <item>
 <title>Visiting Taveuni? Leave the Tagimoucia untouched - Fiji Sun</title>
 <link>https://fijisun.com.fj/living/travel/visiting-taveuni-leave-the-tagimoucia-untouched</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://travel.economictimes.indiatimes.com/news/destination/global/castaway-island-fiji-marks-60-years-with-heritage-celebrations-and-sustainability-initiatives/132490250</guid>
 <pubDate>Sun, 19 Jul 2026 10:13:44 +0000</pubDate>
 <description>... Fiji to receive Green Key Certification for sustainable tourism practices. Advertisement. Steven Andrews, General Manager, Castaway Island, Fiji ...</description>
-</item>
-<item>
-<title>Restore 'Fiji Islander' to end cultural dispossession - FBC News</title>
-<link>https://www.fbcnews.com.fj/news/restore-fiji-islander-to-end-cultural-dispossession/</link>
-<guid isPermaLink="false">https://www.fbcnews.com.fj/news/restore-fiji-islander-to-end-cultural-dispossession/</guid>
-<pubDate>Thu, 16 Jul 2026 12:30:34 +0000</pubDate>
-<description>VITA constitution changes to support indigenous tourism growth · TNG appeals decision to reject Vuda project · PM clears up $1 million project · CRC's ...</description>
 </item>
 </channel>
 </rss>

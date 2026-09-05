@@ -6,14 +6,28 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for China. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 05 Sep 2026 10:21:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 22:23:02 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Visitors urge Hong Kong to ease restrictions as Sai Kung trail registration begins</title>
+<link>https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366463/visitors-urge-hong-kong-ease-restrictions-sai-kung-trail-registration-begins</link>
+<guid isPermaLink="false">https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366463/visitors-urge-hong-kong-ease-restrictions-sai-kung-trail-registration-begins</guid>
+<pubDate>Sat, 05 Sep 2026 15:03:12 +0000</pubDate>
+<description>The countryside reservation system is the city's first. It was implemented in response to overtourism concerns, largely driven by mainland Chinese ...</description>
+</item>
 <item>
 <title>Trial booking system for Sai Kung geopark trail launches in bid to curb overtourism</title>
 <link>https://hongkongfp.com/2026/08/24/trial-booking-system-for-sai-kung-geopark-trail-launches-in-bid-to-curb-overtourism/</link>
 <guid isPermaLink="false">https://hongkongfp.com/2026/08/24/trial-booking-system-for-sai-kung-geopark-trail-launches-in-bid-to-curb-overtourism/</guid>
 <pubDate>Mon, 24 Aug 2026 11:23:32 +0000</pubDate>
 <description>Overcrowding. Hong Kong's popular nature spots have been grappling with overtourism, especially during peak travel seasons for mainland Chinese ...</description>
+</item>
+<item>
+<title>Danxiashan advances conservation | China Daily (Hong Kong) - PressReader</title>
+<link>https://www.pressreader.com/china/china-daily-hong-kong/20260904/281668261847564</link>
+<guid isPermaLink="false">https://www.pressreader.com/china/china-daily-hong-kong/20260904/281668261847564</guid>
+<pubDate>Sat, 05 Sep 2026 06:56:41 +0000</pubDate>
+<description>Danxia landscapes, Mt. Danxiashan was designated as one of the world's first global geoparks in 2004 and recognized as a UNESCO Global Geopark in 2015 ...</description>
 </item>
 <item>
 <title>Conservation of wildlife should also benefit the people living alongside it | The Star</title>
@@ -63,20 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/3xd6plpau5jv/</guid>
 <pubDate>Mon, 24 Aug 2026 06:05:47 +0000</pubDate>
 <description>Wolong, Mountain ecology and conservation, Nature-based travel ; Ya'an, Breeding and research heritage, Regional tourism ; Baoxing, Panda history and ...</description>
-</item>
-<item>
-<title>Could China's Approach to Tourism Branding Ease Overtourism Tensions?</title>
-<link>https://www.brandinginasia.com/could-chinas-approach-to-tourism-branding-ease-overtourism-tensions/</link>
-<guid isPermaLink="false">https://www.brandinginasia.com/could-chinas-approach-to-tourism-branding-ease-overtourism-tensions/</guid>
-<pubDate>Sun, 23 Aug 2026 16:31:05 +0000</pubDate>
-<description>Xiaochen Su, Ph.D., examines whether China's top-down approach to tourism branding could offer a way to address public discontent with overtourism.</description>
-</item>
-<item>
-<title>China and Chongqing Win Major PATA Sustainability Honour for Protecting UNESCO Dazu ...</title>
-<link>https://www.travelandtourworld.com/news/article/rfrdlxp9qvrl/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/rfrdlxp9qvrl/</guid>
-<pubDate>Fri, 21 Aug 2026 03:01:36 +0000</pubDate>
-<description>The award places one of China's most important cultural heritage destinations in the international tourism spotlight. More importantly, it shows how ...</description>
 </item>
 </channel>
 </rss>

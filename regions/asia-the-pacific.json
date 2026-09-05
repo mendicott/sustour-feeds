@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366463/visitors-urge-hong-kong-ease-restrictions-sai-kung-trail-registration-begins",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366463/visitors-urge-hong-kong-ease-restrictions-sai-kung-trail-registration-begins",
+      "title": "Visitors urge Hong Kong to ease restrictions as Sai Kung trail registration begins",
+      "content_text": "The countryside reservation system is the city's first. It was implemented in response to overtourism concerns, largely driven by mainland Chinese ...",
+      "date_published": "2026-09-05T15:03:12+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/c8je5vgmci49/",
       "url": "https://www.travelandtourworld.com/news/article/c8je5vgmci49/",
       "title": "Japan Aligns With Greece And More Countries In Overtourism Fight On ... - Travel And Tour World",
@@ -68,13 +75,6 @@
       "title": "Australia's First Nations Tourism Transformation Is Giving Culture a Powerful Role in Every Journey",
       "content_text": "Australia's First Nations tourism grows through cultural leadership, regional journeys and record demand, creating richer, respectful visitor ...",
       "date_published": "2026-09-02T01:44:20+00:00"
-    },
-    {
-      "id": "https://www.tehrantimes.com/news/529574/From-oil-to-orchids-how-Vietnam-made-tourism-its-economic-engine",
-      "url": "https://www.tehrantimes.com/news/529574/From-oil-to-orchids-how-Vietnam-made-tourism-its-economic-engine",
-      "title": "From oil to orchids: how Vietnam made tourism its economic engine, what Iran must learn",
-      "content_text": "Simultaneously, Iran must invest in sustainable tourism—waste management, green transport, and heritage conservation—to protect its assets and ...",
-      "date_published": "2026-09-01T15:03:52+00:00"
     }
   ]
 }
