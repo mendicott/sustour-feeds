@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/united-arab-emirates.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for United Arab Emirates. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 04 Sep 2026 22:27:20 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 10:21:09 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>UAE unveils national ecotourism policy to balance tourism and conservation</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://gulfnews.com/uae/government/uae-launches-ai-cabinet-adviser-as-sheikh-mohammed-bin-rashid-sets-priorities-for-new-government-season-1.500661016</guid>
 <pubDate>Wed, 02 Sep 2026 14:38:56 +0000</pubDate>
 <description>National ecotourism policy. The Cabinet also approved the National Ecotourism Policy and reviewed progress in implementing the National Strategy to ...</description>
+</item>
+<item>
+<title>Dubai Desert Conservation Reserve safeguards biodiversity, natural heritage: Report</title>
+<link>https://www.wam.ae/en/article/17eqm7j-dubai-desert-conservation-reserve-safeguards</link>
+<guid isPermaLink="false">https://www.wam.ae/en/article/17eqm7j-dubai-desert-conservation-reserve-safeguards</guid>
+<pubDate>Fri, 04 Sep 2026 23:11:36 +0000</pubDate>
+<description>Ahmed Mohammed bin Thani, Director-General of the Dubai Environment and Climate Change Authority (DECCA) , told the Emirates News Agency (WAM) ...</description>
 </item>
 <item>
 <title>In the presence of Theyab bin Mohamed bin Zayed, International Fund for Houbara ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.wam.ae/en/article/c1ztlve-ead-partners-with-abu-dhabi-nature-academy-advance</guid>
 <pubDate>Sun, 30 Aug 2026 17:48:05 +0000</pubDate>
 <description>Areas of cooperation include the use of modern monitoring technologies, smart environmental conservation, eco-tourism management, and the development ...</description>
-</item>
-<item>
-<title>Abu Dhabi expands protection for native species and habitats beyond nature reserves</title>
-<link>https://www.thenationalnews.com/news/uae/2026/08/15/abu-dhabi-expands-habitat-protection-for-native-species-beyond-nature-reserves/</link>
-<guid isPermaLink="false">https://www.thenationalnews.com/news/uae/2026/08/15/abu-dhabi-expands-habitat-protection-for-native-species-beyond-nature-reserves/</guid>
-<pubDate>Sat, 15 Aug 2026 13:39:31 +0000</pubDate>
-<description>Abu Dhabi's Environment Agency has extended the protection it offers to species on its protected list as part of efforts to conserve biodiversity ...</description>
 </item>
 </channel>
 </rss>

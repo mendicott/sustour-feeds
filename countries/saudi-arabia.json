@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.hotelmanagement-network.com/news/rsg-opens-equinox-resort-amaala-in-saudi-arabia/",
+      "url": "https://www.hotelmanagement-network.com/news/rsg-opens-equinox-resort-amaala-in-saudi-arabia/",
+      "title": "RSG opens Equinox Resort AMAALA in Saudi Arabia - Hotel Management Network",
+      "content_text": "Red Sea Global (RSG), which focuses on developing regenerative tourism destinations, has opened Equinox Resort AMAALA in Saudi Arabia.",
+      "date_published": "2026-09-04T14:46:27+00:00"
+    },
+    {
       "id": "https://www.spa.gov.sa/en/N2668928",
       "url": "https://www.spa.gov.sa/en/N2668928",
       "title": "Whale Shark Reflects Rich Marine Biodiversity in Red Sea",
@@ -68,13 +75,6 @@
       "title": "World Ranger Day spotlights Saudi conservation drive across royal reserves | Arab News",
       "content_text": "... endangered species and promoting sustainable tourism. Rangers at the Imam Abdulaziz bin Mohammed Royal Reserve, in cooperation with the Special ...",
       "date_published": "2026-08-01T03:20:58+00:00"
-    },
-    {
-      "id": "https://www.arabnews.com/node/2652275/saudi-arabia",
-      "url": "https://www.arabnews.com/node/2652275/saudi-arabia",
-      "title": "Saudi reserves chart path for future of eco-tourism | Arab News",
-      "content_text": "Wildlife authority details conservation-led plans for protected areas.",
-      "date_published": "2026-07-25T13:25:23+00:00"
     }
   ]
 }

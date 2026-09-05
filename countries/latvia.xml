@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/latvia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Latvia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 04 Sep 2026 22:27:20 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 10:21:09 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Op-Ed: 'Beyond Passenger Numbers: Redefining Cruise Tourism in the Mediterranean'</title>
@@ -51,6 +51,13 @@
 <description>Alpaca farming has carved out a niche in Latvia's rural tourism sector. Although these animals are native to the Andes Mountains in South America, ...</description>
 </item>
 <item>
+<title>Departure Lounge: An eight-day Baltic adventure through Gothic castles and charming cities</title>
+<link>https://www.irishexaminer.com/lifestyle/travel/arid-41905894.html</link>
+<guid isPermaLink="false">https://www.irishexaminer.com/lifestyle/travel/arid-41905894.html</guid>
+<pubDate>Sat, 05 Sep 2026 00:57:53 +0000</pubDate>
+<description>Journeying through Estonia, Latvia and Lithuania, the 18-35s group travel specialist will take adventurous guests to discover medieval towns ...</description>
+</item>
+<item>
 <title>Vilnius, Riga, Tallinn by Train: A 7-Day Baltic Route</title>
 <link>https://www.baltictimes.com/vilnius__riga__tallinn_by_train__a_7-day_baltic_route/</link>
 <guid isPermaLink="false">https://www.baltictimes.com/vilnius__riga__tallinn_by_train__a_7-day_baltic_route/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://baltic-review.com/riga-white-night-2026-citywide-contemporary-culture/</guid>
 <pubDate>Mon, 31 Aug 2026 11:57:31 +0000</pubDate>
 <description>Culture and urban tourismLatvia. Riga's White Night opens a citywide ... With a passion for sustainable travel and a knack for uncovering ...</description>
-</item>
-<item>
-<title>Latvia Named Europe Travel Awards Finalist as Baltic Tourism Gains New Global Attention</title>
-<link>https://www.travelandtourworld.com/news/article/36ycn2nxvxt9/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/36ycn2nxvxt9/</guid>
-<pubDate>Mon, 31 Aug 2026 05:31:16 +0000</pubDate>
-<description>Latvia reaches the Wanderlust Travel Awards European shortlist as interest grows in its Baltic coast, Art Nouveau heritage and peat bogs.</description>
 </item>
 </channel>
 </rss>

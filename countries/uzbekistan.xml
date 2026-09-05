@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/uzbekistan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Uzbekistan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 04 Sep 2026 22:27:20 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 10:21:09 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Uzbekistan hosts first international ecotourism summit to expand sustainable tourism cooperation</title>
+<link>https://www.traveldailynews.asia/fairs-exhibitions/uzbekistan-ecotourism-summit-sustainable-tourism/</link>
+<guid isPermaLink="false">https://www.traveldailynews.asia/fairs-exhibitions/uzbekistan-ecotourism-summit-sustainable-tourism/</guid>
+<pubDate>Sat, 05 Sep 2026 05:14:28 +0000</pubDate>
+<description>Uzbekistan's Tourism Committee, the International Ecotourism Society and TGS Travel organised the event. Previous editions of the forum took place ...</description>
+</item>
 <item>
 <title>Uzbekistan Hosts International Ecotourism Summit for the First Time - Caspianpost.com</title>
 <link>https://caspianpost.com/uzbekistan/uzbekistan-hosts-international-ecotourism-summit-for-the-first-time</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.uzdaily.uz/en/tashkent-hosts-meeting-on-aral-sea-ecosystem-restoration/</guid>
 <pubDate>Tue, 25 Aug 2026 11:34:32 +0000</pubDate>
 <description>The joint initiative is implemented by the UNDP, the Global Environment Facility (GEF), and the National Committee on Ecology and Climate Change of ...</description>
-</item>
-<item>
-<title>Qovun Sayli in Khiva: Inside Uzbekistan's Melon Festival</title>
-<link>https://www.thetraveler.org/qovun-sayli-in-khiva-inside-uzbekistans-melon-festival/</link>
-<guid isPermaLink="false">https://www.thetraveler.org/qovun-sayli-in-khiva-inside-uzbekistans-melon-festival/</guid>
-<pubDate>Sun, 09 Aug 2026 19:37:28 +0000</pubDate>
-<description>Khiva's Qovun Sayli melon festival turns Khorezm's golden harvest into a multi day showcase of agritourism, heritage performances and fragrant ...</description>
 </item>
 </channel>
 </rss>

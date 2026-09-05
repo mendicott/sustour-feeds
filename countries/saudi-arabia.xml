@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/saudi-arabia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Saudi Arabia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 04 Sep 2026 22:27:20 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 10:21:09 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>RSG opens Equinox Resort AMAALA in Saudi Arabia - Hotel Management Network</title>
+<link>https://www.hotelmanagement-network.com/news/rsg-opens-equinox-resort-amaala-in-saudi-arabia/</link>
+<guid isPermaLink="false">https://www.hotelmanagement-network.com/news/rsg-opens-equinox-resort-amaala-in-saudi-arabia/</guid>
+<pubDate>Fri, 04 Sep 2026 14:46:27 +0000</pubDate>
+<description>Red Sea Global (RSG), which focuses on developing regenerative tourism destinations, has opened Equinox Resort AMAALA in Saudi Arabia.</description>
+</item>
 <item>
 <title>Whale Shark Reflects Rich Marine Biodiversity in Red Sea</title>
 <link>https://www.spa.gov.sa/en/N2668928</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.arabnews.com/node/2652980/amp</guid>
 <pubDate>Sat, 01 Aug 2026 03:20:58 +0000</pubDate>
 <description>... endangered species and promoting sustainable tourism. Rangers at the Imam Abdulaziz bin Mohammed Royal Reserve, in cooperation with the Special ...</description>
-</item>
-<item>
-<title>Saudi reserves chart path for future of eco-tourism | Arab News</title>
-<link>https://www.arabnews.com/node/2652275/saudi-arabia</link>
-<guid isPermaLink="false">https://www.arabnews.com/node/2652275/saudi-arabia</guid>
-<pubDate>Sat, 25 Jul 2026 13:25:23 +0000</pubDate>
-<description>Wildlife authority details conservation-led plans for protected areas.</description>
 </item>
 </channel>
 </rss>
