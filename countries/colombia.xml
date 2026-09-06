@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/colombia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Colombia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 06 Sep 2026 10:18:22 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 22:21:35 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Colombia: 97000 trees and 190 beehives restore a high Andean forest in Sesquilé and Guatavita</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://www.audubon.org/news/ambalema-colombian-town-building-its-future-around-birds</guid>
 <pubDate>Tue, 07 Jul 2026 03:57:45 +0000</pubDate>
 <description>Birdwatching tourism is transforming the biodiversity of the Magdalena River into economic opportunities for local communities.</description>
+</item>
+<item>
+<title>Want to See a Sloth? Here's How to Do it Responsibly | National Geographic</title>
+<link>https://www.nationalgeographic.com/travel/article/how-to-see-sloths-responsibly</link>
+<guid isPermaLink="false">https://www.nationalgeographic.com/travel/article/how-to-see-sloths-responsibly</guid>
+<pubDate>Sun, 06 Sep 2026 14:03:02 +0000</pubDate>
+<description>... Peru and Colombia each year. Some are sold as exotic pets. Others ... tourism, especially in areas like Latin America. "Animals are often ...</description>
 </item>
 <item>
 <title>Colombia's 'Miracle' Chick Offers Hope for a Bird on the Brink | The City Paper Bogotá</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lma8b250guhx/</guid>
 <pubDate>Mon, 24 Aug 2026 13:12:59 +0000</pubDate>
 <description>Discover Colombia's hidden rural heart in Murillo, Choachí, Filandia, Zapatoca, and Jardín through sustainable village tourism.</description>
-</item>
-<item>
-<title>Colombia Leads Other Countries In Sustainable Travel Wave As Eco-Conscious Tourists ...</title>
-<link>https://www.travelandtourworld.com/news/article/koxvyabv1qmu/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/koxvyabv1qmu/</guid>
-<pubDate>Thu, 20 Aug 2026 18:39:26 +0000</pubDate>
-<description>Colombia leads global sustainable travel as eco-conscious tourists explore rainforests and coffee regions to support green community projects.</description>
 </item>
 </channel>
 </rss>

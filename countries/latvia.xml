@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/latvia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Latvia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 06 Sep 2026 10:18:22 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 22:21:36 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Op-Ed: 'Beyond Passenger Numbers: Redefining Cruise Tourism in the Mediterranean'</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/yrazuzwjiae8/</guid>
 <pubDate>Sat, 11 Jul 2026 09:12:04 +0000</pubDate>
 <description>Lithuania's Baltic coast offers Blue Flag beaches, UNESCO heritage, coastal culture, cycling, nature, and sustainable tourism beyond Europe's ...</description>
+</item>
+<item>
+<title>Latvia Cape Kolka Tourism Faces Slītere Closures - Travel And Tour World</title>
+<link>https://www.travelandtourworld.com/news/article/x6ir5bjal739/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/x6ir5bjal739/</guid>
+<pubDate>Sun, 06 Sep 2026 11:54:33 +0000</pubDate>
+<description>Latvia's Nature Conservation Agency lists the Šlītere Nature Trail as fully closed in its latest storm-status notice, two cycling sections as ...</description>
 </item>
 <item>
 <title>Zaube Wild Culinary Festival celebrates Latvia's food traditions - The Baltic Review</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.baltictimes.com/vilnius__riga__tallinn_by_train__a_7-day_baltic_route/</guid>
 <pubDate>Wed, 02 Sep 2026 12:18:55 +0000</pubDate>
 <description>Two nights in each city, with the seventh day absorbed by travel or a stopover, is the sensible allocation. Travel south to north: Tallinn has the ...</description>
-</item>
-<item>
-<title>Latvia Makes a Spot Among Travelers as Riga and a Few Others Celebrate Dining Heritage</title>
-<link>https://www.travelandtourworld.com/news/article/o84yhdebfql2/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/o84yhdebfql2/</guid>
-<pubDate>Mon, 31 Aug 2026 17:51:07 +0000</pubDate>
-<description>Latvia rises as culinary tourism destination, with Riga and regional towns showcase authentic flavours, heritage cuisine, and unforgettable ...</description>
 </item>
 </channel>
 </rss>

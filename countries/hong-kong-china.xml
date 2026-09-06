@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/hong-kong-china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Hong Kong (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 06 Sep 2026 10:18:22 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 22:21:35 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Visitors urge Hong Kong to ease restrictions as Sai Kung trail registration begins</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://hongkongfp.com/2026/08/24/trial-booking-system-for-sai-kung-geopark-trail-launches-in-bid-to-curb-overtourism/</guid>
 <pubDate>Mon, 24 Aug 2026 11:23:32 +0000</pubDate>
 <description>Overcrowding. Hong Kong's popular nature spots have been grappling with overtourism, especially during peak travel seasons for mainland Chinese ...</description>
+</item>
+<item>
+<title>Hong Kong to review bookings for famous Sai Kung trail after high no-show rate</title>
+<link>https://amp.scmp.com/news/hong-kong/health-environment/article/3366560/hong-kong-review-bookings-famous-sai-kung-trail-after-high-no-show-rate</link>
+<guid isPermaLink="false">https://amp.scmp.com/news/hong-kong/health-environment/article/3366560/hong-kong-review-bookings-famous-sai-kung-trail-after-high-no-show-rate</guid>
+<pubDate>Sun, 06 Sep 2026 14:21:13 +0000</pubDate>
+<description>... overtourism, largely driven by mainland visitors. Lawmaker Chris Ip Ngo-tung, who represents the southeast New Territories, said more data ...</description>
 </item>
 <item>
 <title>Danxiashan advances conservation | China Daily (Hong Kong) - PressReader</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ay2hrx4fq93f/</guid>
 <pubDate>Fri, 12 Jun 2026 01:31:42 +0000</pubDate>
 <description>Hong Kong ecotourism challenges rise as visitor surges from China, Japan, and Korea strain parks and beaches. Discover impacts and travel tips.</description>
-</item>
-<item>
-<title>Proposed Sai Kung marine park to cover most coral reefs: Hong Kong authorities</title>
-<link>https://amp.scmp.com/news/hong-kong/health-environment/article/3356660/proposed-sai-kung-marine-park-cover-most-coral-reefs-hong-kong-authorities</link>
-<guid isPermaLink="false">https://amp.scmp.com/news/hong-kong/health-environment/article/3356660/proposed-sai-kung-marine-park-cover-most-coral-reefs-hong-kong-authorities</guid>
-<pubDate>Wed, 10 Jun 2026 12:59:36 +0000</pubDate>
-<description>... marine park on the western and eastern sides of Sharp Island in Sai Kung. ... Tourism. Discover more stories on. Hong Kong environmental issues. now ...</description>
 </item>
 </channel>
 </rss>
