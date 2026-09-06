@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/americas.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Americas. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 05 Sep 2026 22:23:02 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 10:18:22 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Bolivia Expands Amazon Ecotourism With 907,244 Hectares - Travel And Tour World</title>
+<link>https://www.travelandtourworld.com/news/article/reakjub33yea/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/reakjub33yea/</guid>
+<pubDate>Sat, 05 Sep 2026 13:27:52 +0000</pubDate>
+<description>Bolivia is expanding Amazon ecotourism with new protected areas, river trails, Indigenous-led tours and wildlife experiences across 907244 ...</description>
+</item>
 <item>
 <title>Mexico Advances Biodiversity, Sustainable Development Plans</title>
 <link>https://mexicobusiness.news/sustainability/news/mexico-advances-biodiversity-sustainable-development-plans</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.tourism-review.com/galapagos-islands-fight-mass-tourism-news15591</guid>
 <pubDate>Mon, 31 Aug 2026 06:39:38 +0000</pubDate>
 <description>In addition to regulating air travel and individual accommodations, the organization has asked Ecuador to consider a number of other restrictions.</description>
-</item>
-<item>
-<title>Empowering Community-Based Tourism and Craftsmanship in Guanacaste ⋆ The Costa Rica News</title>
-<link>https://thecostaricanews.com/empowering-community-based-tourism-and-craftsmanship-in-guanacaste/</link>
-<guid isPermaLink="false">https://thecostaricanews.com/empowering-community-based-tourism-and-craftsmanship-in-guanacaste/</guid>
-<pubDate>Sat, 29 Aug 2026 02:48:16 +0000</pubDate>
-<description>This initiative highlights cultural identity as a primary travel attraction, offering national and international tourists an authentic, transformative ...</description>
 </item>
 </channel>
 </rss>
