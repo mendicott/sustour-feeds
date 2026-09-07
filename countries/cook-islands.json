@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.travelandtourworld.com/news/article/nbp3gbu6bsdj/",
+      "url": "https://www.travelandtourworld.com/news/article/nbp3gbu6bsdj/",
+      "title": "Cook Islands Echoes Ancient Ra'ui Wisdom Through a New Era of Marine Tourism",
+      "content_text": "Cook Islands is strengthening traditional Ra'ui marine stewardship through reef monitoring, customary closures and community-led marine tourism.",
+      "date_published": "2026-09-07T14:25:31+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/019y278h2pfs/",
       "url": "https://www.travelandtourworld.com/news/article/019y278h2pfs/",
       "title": "Cook Islands, Rarotonga and Aitutaki Lead a New Era of Regenerative Tourism",
@@ -68,13 +75,6 @@
       "title": "Expanding Access to Clean Water in the Cook Islands - Asian Development Bank",
       "content_text": "Water security is central to sustainable development in the Cook Islands, supporting public health, tourism, and livelihoods. Yet, water supply ...",
       "date_published": "2026-07-20T07:46:08+00:00"
-    },
-    {
-      "id": "http://www.cookislandsnews.com/internal/national/environment/te-ipukarea-society-turns-30/",
-      "url": "http://www.cookislandsnews.com/internal/national/environment/te-ipukarea-society-turns-30/",
-      "title": "Te Ipukarea Society turns 30! - Cook Islands News",
-      "content_text": "According to TIS, during the 1980s, rising tourism repeatedly sidelined environmental priorities, highlighting the need for proactive preservation. By ...",
-      "date_published": "2026-06-19T18:21:32+00:00"
     }
   ]
 }

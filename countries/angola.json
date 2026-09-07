@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.travelandtourworld.com/news/article/on7gleklphdv/",
+      "url": "https://www.travelandtourworld.com/news/article/on7gleklphdv/",
+      "title": "Iona National Park Advances Giraffe Rewilding and Desert Tourism - Travel And Tour World",
+      "content_text": "Spanning 15,150 sq km in southwest Angola, the national park sits on the northwestern part of the Namib Desert, adjoining Namibia's Skeleton Coast ...",
+      "date_published": "2026-09-07T07:30:35+00:00"
+    },
+    {
       "id": "https://www.rainforesttrust.org/our-impact/rainforest-news/angola-a-letter-from-our-ceo/",
       "url": "https://www.rainforesttrust.org/our-impact/rainforest-news/angola-a-letter-from-our-ceo/",
       "title": "Angola: A Letter from Our CEO - Rainforest Trust",
@@ -68,13 +75,6 @@
       "title": "KAZA unveils birding route to boost regional tourism - The Herald",
       "content_text": "Dr Nyambe said the KAZA destination brand is owned by the partner states — Angola, Botswana, Namibia, Zambia and Zimbabwe — which collectively account ...",
       "date_published": "2026-06-15T22:07:08+00:00"
-    },
-    {
-      "id": "https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis",
-      "url": "https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis",
-      "title": "A Million Falcons Went Missing. Here's How They Were Found - National Geographic",
-      "content_text": "Ornithologist Péter Palatitz raises an antenna near Mungo, Angola, to collect data from GPS trackers he and his team have put on red-footed falcons.",
-      "date_published": "2026-08-21T11:45:46+00:00"
     }
   ]
 }

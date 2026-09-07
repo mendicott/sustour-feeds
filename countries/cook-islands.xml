@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/cook-islands.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Cook Islands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 07 Sep 2026 10:20:50 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 22:27:52 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Cook Islands Echoes Ancient Ra'ui Wisdom Through a New Era of Marine Tourism</title>
+<link>https://www.travelandtourworld.com/news/article/nbp3gbu6bsdj/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/nbp3gbu6bsdj/</guid>
+<pubDate>Mon, 07 Sep 2026 14:25:31 +0000</pubDate>
+<description>Cook Islands is strengthening traditional Ra'ui marine stewardship through reef monitoring, customary closures and community-led marine tourism.</description>
+</item>
 <item>
 <title>Cook Islands, Rarotonga and Aitutaki Lead a New Era of Regenerative Tourism</title>
 <link>https://www.travelandtourworld.com/news/article/019y278h2pfs/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.adb.org/node/1162096</guid>
 <pubDate>Mon, 20 Jul 2026 07:46:08 +0000</pubDate>
 <description>Water security is central to sustainable development in the Cook Islands, supporting public health, tourism, and livelihoods. Yet, water supply ...</description>
-</item>
-<item>
-<title>Te Ipukarea Society turns 30! - Cook Islands News</title>
-<link>http://www.cookislandsnews.com/internal/national/environment/te-ipukarea-society-turns-30/</link>
-<guid isPermaLink="false">http://www.cookislandsnews.com/internal/national/environment/te-ipukarea-society-turns-30/</guid>
-<pubDate>Fri, 19 Jun 2026 18:21:32 +0000</pubDate>
-<description>According to TIS, during the 1980s, rising tourism repeatedly sidelined environmental priorities, highlighting the need for proactive preservation. By ...</description>
 </item>
 </channel>
 </rss>

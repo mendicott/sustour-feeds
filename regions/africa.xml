@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/africa.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Africa. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 07 Sep 2026 10:20:50 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 22:27:52 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Rewilding Africa unveils bold plan to link national parks and communities in South Africa and Zambia</title>
+<link>https://www.ednews.africa/p/rewilding-africa-unveils-bold-plan</link>
+<guid isPermaLink="false">https://www.ednews.africa/p/rewilding-africa-unveils-bold-plan</guid>
+<pubDate>Mon, 07 Sep 2026 15:50:21 +0000</pubDate>
+<description>... tourism, enterprise development and community participation work together. "The National Park Conservancy model is about changing the relationship ...</description>
+</item>
 <item>
 <title>Unsung heroes: Conservationist, communities bring endangered gorillas back from the brink</title>
 <link>https://www.environewsnigeria.com/unsung-heroes-conservationist-communities-bring-endangered-gorillas-back-from-the-brink/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/l6bhxg5hdh35/</guid>
 <pubDate>Sat, 15 Aug 2026 20:11:17 +0000</pubDate>
 <description>Discover how Canada, Australia, Kenya, and Guatemala lead Indigenous-led eco-tourism models protecting ancestral lands, biodiversity, and culture.</description>
-</item>
-<item>
-<title>Atewa Forest: Ghana's butterfly haven and a global biodiversity treasure - Asaase Radio</title>
-<link>https://asaaseradio.com/atewa-forest-ghanas-butterfly-haven-and-a-global-biodiversity-treasure/</link>
-<guid isPermaLink="false">https://asaaseradio.com/atewa-forest-ghanas-butterfly-haven-and-a-global-biodiversity-treasure/</guid>
-<pubDate>Sat, 15 Aug 2026 04:11:04 +0000</pubDate>
-<description>Atewa's potential for eco-tourism. Beyond conservation, Atewa's butterfly diversity presents opportunities for sustainable economic activities such as ...</description>
 </item>
 </channel>
 </rss>
