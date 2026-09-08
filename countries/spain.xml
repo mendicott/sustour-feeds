@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 08 Sep 2026 10:23:09 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 22:28:05 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Hundreds flood popular Ibiza beach in protest against tourists - The Sun</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ux7f5fthw6bb/</guid>
 <pubDate>Thu, 23 Jul 2026 04:57:39 +0000</pubDate>
 <description>The regenerative travel revolution is moving beyond traditional tourism and creating a new era where journeys deliver lasting benefits. Spain, ...</description>
+</item>
+<item>
+<title>'So big and so close': going on a bear hunt in northern Spain - The Guardian</title>
+<link>https://www.theguardian.com/travel/2026/sep/08/brown-bear-conservation-tourism-northern-spain-asturias</link>
+<guid isPermaLink="false">https://www.theguardian.com/travel/2026/sep/08/brown-bear-conservation-tourism-northern-spain-asturias</guid>
+<pubDate>Tue, 08 Sep 2026 09:13:13 +0000</pubDate>
+<description>Nature tourism, he says, keeps villagers in jobs where farming culture cannot, and is proving vastly more sustainable than hunting bears for sport.</description>
 </item>
 <item>
 <title>Croatia Steps Up With Spain And More Countries In Europe In Major Short Term Rental Shift ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://inews.co.uk/news/world/britons-favourite-french-holiday-spot-sick-tourists-4727245</guid>
 <pubDate>Sun, 30 Aug 2026 14:39:58 +0000</pubDate>
 <description>Anti-tourism protests that have ignited across Spain could be coming for France. ... overtourism when a significant part of the host population ...</description>
-</item>
-<item>
-<title>Netherlands and Other Leading Tourism Markets Track Spain's €15 Million Hospitality ...</title>
-<link>https://www.travelandtourworld.com/news/article/k6mzdzqn54nw/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/k6mzdzqn54nw/</guid>
-<pubDate>Sun, 30 Aug 2026 12:37:17 +0000</pubDate>
-<description>Netherlands, Italy and Poland track Spain's €15 Million Hospitality Energy Upgrade Plan boosting sustainable tourism, efficient hotels and greener ...</description>
 </item>
 </channel>
 </rss>

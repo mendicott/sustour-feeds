@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/estonia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Estonia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 08 Sep 2026 10:23:09 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 22:28:05 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Tallinn and More Other Cities Are Drawing Tourists for Wildlife Sanctuary in Estonia</title>
+<link>https://www.travelandtourworld.com/news/article/g9kpal0xz8dk/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/g9kpal0xz8dk/</guid>
+<pubDate>Tue, 08 Sep 2026 18:03:22 +0000</pubDate>
+<description>Estonia attracts nature lovers in Tallinn and others with wildlife sanctuaries, protected landscapes, forests and sustainable tourism experiences ...</description>
+</item>
 <item>
 <title>Estonia's Viinistu Showcases Coastal Culture, Open-Air Adventures and Art-Led Tourism Appeal</title>
 <link>https://www.travelandtourworld.com/news/article/yr88kd1x5plr/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://news.inbox.lv/150gskk-while-some-fear-bears-others-profit-from-them-what-surprises-tourists-in-neighboring-estonia?language=en</guid>
 <pubDate>Sat, 04 Jul 2026 17:07:53 +0000</pubDate>
 <description>... ecotourism if safe conditions are created for both animals and visitors. The Estonian experience demonstrates that wildlife can be not only a ...</description>
-</item>
-<item>
-<title>The European city just three hours from Ireland with UNESCO old town, secret tunnels and ...</title>
-<link>https://www.thesun.ie/travel/17569080/european-city-three-hours-ireland-unesco-tunnels-flights/</link>
-<guid isPermaLink="false">https://www.thesun.ie/travel/17569080/european-city-three-hours-ireland-unesco-tunnels-flights/</guid>
-<pubDate>Sat, 05 Sep 2026 10:50:40 +0000</pubDate>
-<description>Collage of Tallinn, Estonia featuring Alexander Nevsky Cathedral, the Old Town, a city ... Most read in Travel. AER WE GO. Aer Lingus launches ...</description>
 </item>
 </channel>
 </rss>

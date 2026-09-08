@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/americas.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Americas. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 08 Sep 2026 10:23:09 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 22:28:05 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>The women saving Mexico's 'sacred Maya bee' - CNN</title>
+<link>https://www.cnn.com/world/americas/the-women-beekeepers-saving-mexicos-sacred-maya-bee-spc-c2e</link>
+<guid isPermaLink="false">https://www.cnn.com/world/americas/the-women-beekeepers-saving-mexicos-sacred-maya-bee-spc-c2e</guid>
+<pubDate>Tue, 08 Sep 2026 13:53:54 +0000</pubDate>
+<description>And if the Melipona bee were to disappear, it would disrupt the balance of the tropical ecosystems and rainforests of Mexico and Central America.</description>
+</item>
 <item>
 <title>UNED and SINAC Seek to Turn Chirripó into a UNESCO Global Geopark</title>
 <link>https://thecostaricanews.com/uned-and-sinac-seek-to-turn-chirripo-into-a-unesco-global-geopark/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://thecostaricanews.com/arenal-fortuna-receives-award-as-mature-sustainable-destination-in-ibero-america/</guid>
 <pubDate>Wed, 02 Sep 2026 02:39:45 +0000</pubDate>
 <description>This award for Costa Rica was presented this afternoon during the Sustainable &amp; Social Tourism.</description>
-</item>
-<item>
-<title>Costa Rica Champions Indigenous Travel With Local Craftsmanship in Boruca and Beyond</title>
-<link>https://www.travelandtourworld.com/news/article/swdgbe41wbpx/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/swdgbe41wbpx/</guid>
-<pubDate>Tue, 01 Sep 2026 22:30:42 +0000</pubDate>
-<description>Costa Rica boosts Indigenous tourism through Boruca and local communities, showcasing heritage craftsmanship, culture and sustainable travel ...</description>
 </item>
 </channel>
 </rss>

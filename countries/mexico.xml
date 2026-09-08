@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 08 Sep 2026 10:23:09 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 22:28:05 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>The women saving Mexico's 'sacred Maya bee' - CNN</title>
+<link>https://www.cnn.com/world/americas/the-women-beekeepers-saving-mexicos-sacred-maya-bee-spc-c2e</link>
+<guid isPermaLink="false">https://www.cnn.com/world/americas/the-women-beekeepers-saving-mexicos-sacred-maya-bee-spc-c2e</guid>
+<pubDate>Tue, 08 Sep 2026 13:53:54 +0000</pubDate>
+<description>And if the Melipona bee were to disappear, it would disrupt the balance of the tropical ecosystems and rainforests of Mexico and Central America.</description>
+</item>
 <item>
 <title>Mexico Advances Biodiversity, Sustainable Development Plans</title>
 <link>https://mexicobusiness.news/sustainability/news/mexico-advances-biodiversity-sustainable-development-plans</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.desmoinesregister.com/press-release/story/115027/baboo-travel-champions-the-solocation-era-with-custom-regenerative-independent-travel/</guid>
 <pubDate>Thu, 20 Aug 2026 20:38:53 +0000</pubDate>
 <description>Operating as Baboo Travel PBC and incorporating Be Mexico and Be Peru ... travel experiences while advancing responsible tourism practices. Paul ...</description>
-</item>
-<item>
-<title>Caribbean Travel Gains Sustainable Focus as Cozumel Protects Fragile Coral Ecosystems</title>
-<link>https://www.travelandtourworld.com/news/article/z1ba08u6iyzy/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/z1ba08u6iyzy/</guid>
-<pubDate>Sun, 16 Aug 2026 22:05:28 +0000</pubDate>
-<description>Cozumel travel adapts as Mexico closes reef sites temporarily to protect coral ecosystems and tourism future.</description>
 </item>
 </channel>
 </rss>

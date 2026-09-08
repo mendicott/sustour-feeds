@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.cnn.com/world/americas/the-women-beekeepers-saving-mexicos-sacred-maya-bee-spc-c2e",
+      "url": "https://www.cnn.com/world/americas/the-women-beekeepers-saving-mexicos-sacred-maya-bee-spc-c2e",
+      "title": "The women saving Mexico's 'sacred Maya bee' - CNN",
+      "content_text": "And if the Melipona bee were to disappear, it would disrupt the balance of the tropical ecosystems and rainforests of Mexico and Central America.",
+      "date_published": "2026-09-08T13:53:54+00:00"
+    },
+    {
       "id": "https://thecostaricanews.com/uned-and-sinac-seek-to-turn-chirripo-into-a-unesco-global-geopark/",
       "url": "https://thecostaricanews.com/uned-and-sinac-seek-to-turn-chirripo-into-a-unesco-global-geopark/",
       "title": "UNED and SINAC Seek to Turn Chirripó into a UNESCO Global Geopark",
@@ -68,13 +75,6 @@
       "title": "Arenal Fortuna Receives Award as \"Mature Sustainable Destination\" in Ibero-America ⋆ The ...",
       "content_text": "This award for Costa Rica was presented this afternoon during the Sustainable & Social Tourism.",
       "date_published": "2026-09-02T02:39:45+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/swdgbe41wbpx/",
-      "url": "https://www.travelandtourworld.com/news/article/swdgbe41wbpx/",
-      "title": "Costa Rica Champions Indigenous Travel With Local Craftsmanship in Boruca and Beyond",
-      "content_text": "Costa Rica boosts Indigenous tourism through Boruca and local communities, showcasing heritage craftsmanship, culture and sustainable travel ...",
-      "date_published": "2026-09-01T22:30:42+00:00"
     }
   ]
 }
