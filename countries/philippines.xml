@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/philippines.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Philippines. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 07 Sep 2026 22:27:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 10:23:09 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Indigenous Peoples join DENR-XI, PEF in new drive to protect Philippine Eagle</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://pia.gov.ph/news/pasil-trains-tour-guides-to-boost-community-based-tourism/</guid>
 <pubDate>Mon, 24 Aug 2026 07:45:08 +0000</pubDate>
 <description>... community-based tourism program. The August 3–9 Community Guiding Seminar trained residents with the skills needed to guide visitors safely and ...</description>
+</item>
+<item>
+<title>UN tourism head: Proper tourist management can help the environment - Rappler</title>
+<link>https://www.rappler.com/culture-desk/travel/58236-un-tourism-climate-change-environment/</link>
+<guid isPermaLink="false">https://www.rappler.com/culture-desk/travel/58236-un-tourism-climate-change-environment/</guid>
+<pubDate>Tue, 08 Sep 2026 03:35:05 +0000</pubDate>
+<description>Rifai is here in the country for a Climate Change conference and a visit to Tacloban and Bohol – places in the Philippines recently damaged by natural ...</description>
 </item>
 <item>
 <title>Ilocos tourism promotes experiential, sustainable travel - Philippine Information Agency</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://newsinfo.inquirer.net/2294340/p350-m-mt-isarog-project-to-balance-tourism-conservation-in-naga</guid>
 <pubDate>Fri, 28 Aug 2026 10:04:54 +0000</pubDate>
 <description>The TIEZA plans to develop a forest park on Mt. Isarog in Naga City, with the P350-million project aimed at promoting tourism.</description>
-</item>
-<item>
-<title>Int'l evaluators assess Mt. Apo for Geopark status - Philippine Information Agency</title>
-<link>https://pia.gov.ph/news/intl-evaluators-assess-mt-apo-for-geopark-status/</link>
-<guid isPermaLink="false">https://pia.gov.ph/news/intl-evaluators-assess-mt-apo-for-geopark-status/</guid>
-<pubDate>Fri, 28 Aug 2026 04:52:14 +0000</pubDate>
-<description>Currently, there are 241 recognized geoparks in 51 countries. The Philippines presently has one recognized geopark, the Bohol Island UNESCO Global ...</description>
 </item>
 </channel>
 </rss>

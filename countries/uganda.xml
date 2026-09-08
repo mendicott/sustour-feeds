@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/uganda.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Uganda. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 07 Sep 2026 22:27:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 10:23:09 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Karamoja Tourism Opens New Paths Into Uganda's Pastoral Heartland</title>
+<link>https://www.travelandtourworld.com/news/article/5k4ipr7dvwrg/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/5k4ipr7dvwrg/</guid>
+<pubDate>Tue, 08 Sep 2026 08:53:28 +0000</pubDate>
+<description>Karamoja tourism combines Karamojong cultural experiences with Mount Moroto adventures and community-led travel in northeastern Uganda.</description>
+</item>
 <item>
 <title>Restoring Bugoma-Budongo Corridor: A lifeline for Uganda's endangered chimpanzees</title>
 <link>https://www.independent.co.ug/restoring-bugoma-budongo-corridor-a-lifeline-for-ugandas-endangered-chimpanzees/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/l7fnowkidg9i/</guid>
 <pubDate>Sun, 02 Aug 2026 15:26:46 +0000</pubDate>
 <description>As sustainable tourism becomes increasingly important within global travel markets, Uganda's experience demonstrates how conservation-driven ...</description>
-</item>
-<item>
-<title>To protect endangered mountain gorillas, this wildlife vet empowers their human neighbors</title>
-<link>https://www.cnn.com/2026/07/31/world/gladys-kalema-zikusoka-conservation-through-public-health-cnnheroes</link>
-<guid isPermaLink="false">https://www.cnn.com/2026/07/31/world/gladys-kalema-zikusoka-conservation-through-public-health-cnnheroes</guid>
-<pubDate>Fri, 31 Jul 2026 15:19:00 +0000</pubDate>
-<description>Uganda's lush forests and abundant wildlife were a tourist destination in the 1960s, but the brutal reign of Idi Amin in the 1970s changed that.</description>
 </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 07 Sep 2026 22:27:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 10:23:09 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Mexico Advances Biodiversity, Sustainable Development Plans</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/mexico-presents-2026-2030-sustainable-tourism-policy</guid>
 <pubDate>Thu, 03 Sep 2026 21:25:25 +0000</pubDate>
 <description>Mexico launched its 2026-2030 Sustainable Tourism Policy to strengthen sustainability and climate resilience nationwide.</description>
+</item>
+<item>
+<title>Mexico signs national pact to protect, restore forests and mangroves - Carbon Pulse</title>
+<link>https://carbon-pulse.com/548045/</link>
+<guid isPermaLink="false">https://carbon-pulse.com/548045/</guid>
+<pubDate>Mon, 07 Sep 2026 21:40:14 +0000</pubDate>
+<description>Google DeepMind picks 16 organisations for APAC climate AI push · MXCF26: FEATURE – Mexico's heavily concentrated forest carbon supply finds new ...</description>
 </item>
 <item>
 <title>Mexico Shifts Tourism Wealth to Indigenous Cooperatives - Travel And Tour World</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/z1ba08u6iyzy/</guid>
 <pubDate>Sun, 16 Aug 2026 22:05:28 +0000</pubDate>
 <description>Cozumel travel adapts as Mexico closes reef sites temporarily to protect coral ecosystems and tourism future.</description>
-</item>
-<item>
-<title>Mexico Puts Guardrails on Orca Tourism in Baja - Marco Lopez</title>
-<link>https://www.marcolopez.com/post/mexico-puts-guardrails-on-orca-tourism-in-baja</link>
-<guid isPermaLink="false">https://www.marcolopez.com/post/mexico-puts-guardrails-on-orca-tourism-in-baja</guid>
-<pubDate>Fri, 14 Aug 2026 04:48:44 +0000</pubDate>
-<description>Mexico is moving orca tourism in Baja California Sur out of the unregulated era: permitted operators, capped boats, GPS tracking, strict distance and ...</description>
 </item>
 </channel>
 </rss>
