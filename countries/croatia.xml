@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/croatia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Croatia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 09 Sep 2026 10:21:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 22:26:39 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Greece Considers Visitor Limits as Odyssey Tourism Overwhelms Sites</title>
@@ -44,6 +44,13 @@
 <description>Calanques visitor caps return in France for 2026, limiting access to Mediterranean beaches to curb overtourism and protect fragile ecosystems.</description>
 </item>
 <item>
+<title>Croatia Expands Sustainable Tourism Into the Velebit Mountains - Travel And Tour World</title>
+<link>https://www.travelandtourworld.com/news/article/uk5njrrh1r45/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/uk5njrrh1r45/</guid>
+<pubDate>Wed, 09 Sep 2026 12:07:35 +0000</pubDate>
+<description>Croatia is expanding sustainable tourism beyond its busiest destinations with hiking trails and protected mountain landscapes across Velebit.</description>
+</item>
+<item>
 <title>Croatia Steps Up With Spain And More Countries In Europe In Major Short Term Rental Shift ...</title>
 <link>https://www.travelandtourworld.com/news/article/0z2hfme8cfz9/</link>
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/0z2hfme8cfz9/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.croatiaweek.com/cape-kamenjak-croatia-tourism-pressure-2026/</guid>
 <pubDate>Sun, 30 Aug 2026 15:30:19 +0000</pubDate>
 <description>Cape Kamenjak in Istria has recorded fewer vehicles this summer, but authorities say the protected area remains under significant tourism ...</description>
-</item>
-<item>
-<title>Croatia Tourism Faces New Challenge as Cape Kamenjak Struggles Between Visitor ...</title>
-<link>https://www.travelandtourworld.com/news/article/ava1e5f0azwn/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ava1e5f0azwn/</guid>
-<pubDate>Sun, 30 Aug 2026 10:39:55 +0000</pubDate>
-<description>The priority is increasingly about managing where visitors go, how they travel and how much pressure individual sites can realistically absorb. Cape ...</description>
 </item>
 </channel>
 </rss>

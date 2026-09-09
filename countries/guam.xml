@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/guam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Guam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 09 Sep 2026 10:21:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 22:26:39 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>[Workshop] CTR workshop 2026 "Regenerative Tourism beyond the 'Sun, Sand, and Shopping'</title>
+<link>https://www.wakayama-u.ac.jp/en/ctr/news/2026090800069/</link>
+<guid isPermaLink="false">https://www.wakayama-u.ac.jp/en/ctr/news/2026090800069/</guid>
+<pubDate>Wed, 09 Sep 2026 10:17:22 +0000</pubDate>
+<description>"Regenerative Tourism beyond the 'Sun, Sand, and Shopping': Lessons from Guam". Overview. In this workshop Professor Fred Schumann will address the ...</description>
+</item>
 <item>
 <title>Nearly extinct species coming back in wild thanks to Pittsburgh aviary - USA Today</title>
 <link>https://www.usatoday.com/story/life/animalkind/2026/07/03/chicks-hatched-pittsburgh-restore-extinct-birds-wild/90576666007/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://islandsbusiness.com/pacnews/pacnews-two-23-july-2026/</guid>
 <pubDate>Thu, 23 Jul 2026 11:29:09 +0000</pubDate>
 <description>The forum, hosted July 20 by the Guam Travel and Tourism Association at ... Doctors know firsthand the strain that climate change puts on communities, ...</description>
-</item>
-<item>
-<title>Forest Adventure Okinawa outdoor fun at its finest</title>
-<link>https://okinawa.stripes.com/travel/forest-adventure-okinawa.html</link>
-<guid isPermaLink="false">https://okinawa.stripes.com/travel/forest-adventure-okinawa.html</guid>
-<pubDate>Tue, 21 Jul 2026 00:32:32 +0000</pubDate>
-<description>... outdoor activities I've tried on the island ... Sign up for our weekly newsletter of articles from Japan, Korea, Guam, and Okinawa with travel ...</description>
 </item>
 </channel>
 </rss>

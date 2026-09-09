@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/sri-lanka.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Sri Lanka. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 09 Sep 2026 10:21:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 22:26:39 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Sri Lanka's Yala National Park Limits Tourism as Extreme Drought and Water Shortage Put ...</title>
+<link>https://www.travelandtourworld.com/news/article/unantqfljpzz/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/unantqfljpzz/</guid>
+<pubDate>Wed, 09 Sep 2026 08:14:16 +0000</pubDate>
+<description>Sri Lanka's Yala National Park restricts tourism due to drought and water shortages, threatening wildlife survival and conservation.</description>
+</item>
 <item>
 <title>Rs. 173.86 million consultancy contract approved for sustainable tourism programme</title>
 <link>https://www.newswire.lk/2026/09/08/rs-173-86-million-consultancy-contract-approved-for-sustainable-tourism-programme/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.reuters.com/business/environment/sri-lanka-bars-tourists-heart-drought-hit-park-el-nino-looms-2026-09-08/</guid>
 <pubDate>Tue, 08 Sep 2026 09:46:54 +0000</pubDate>
 <description>The rare month-long closure of the most visited areas is a potentially painful step in the build-up to the peak of tourism season — an important ...</description>
-</item>
-<item>
-<title>Sri Lanka's South Is Winning the Race Against Overtourism</title>
-<link>https://slguardian.org/sri-lankas-south-is-winning-the-race-against-overtourism/</link>
-<guid isPermaLink="false">https://slguardian.org/sri-lankas-south-is-winning-the-race-against-overtourism/</guid>
-<pubDate>Sun, 06 Sep 2026 10:07:46 +0000</pubDate>
-<description>For a country whose modern tourism story has been repeatedly interrupted, that atmosphere carries particular significance. Sri Lanka emerged from ...</description>
 </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/norway.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Norway. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 09 Sep 2026 10:21:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 22:26:39 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Why Norway's Lofoten Islands Are Implementing a Vital Tourist Tax This Season</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/c8je5vgmci49/</guid>
 <pubDate>Sat, 05 Sep 2026 08:46:57 +0000</pubDate>
 <description>Netherlands And Norway Join Global Movement Against Tourism Pressure. Other European destinations are also strengthening overtourism policies.</description>
+</item>
+<item>
+<title>Norway Steps Up With Italy And More European Destinations In A Powerful Tourism Shift ...</title>
+<link>https://www.travelandtourworld.com/news/article/loyj894xl80y/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/loyj894xl80y/</guid>
+<pubDate>Wed, 09 Sep 2026 10:35:03 +0000</pubDate>
+<description>Norway joins Italy and Europe's top destinations in using tourist taxes, visitor caps and crowd controls to protect tourism from overtourism.</description>
 </item>
 <item>
 <title>Tourist tax: Norway's Lofoten Islands manages overtourism - DW News</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.seatrade-cruise.com/ports-destinations/eidfjord-adopts-one-cruise-ship-a-day-policy-and-shore-power-target</guid>
 <pubDate>Fri, 24 Jul 2026 13:18:26 +0000</pubDate>
 <description>The strategy strengthens Norway's Eidfjord's position as a sustainable cruise destination, by balancing tourism growth with the protection of ...</description>
-</item>
-<item>
-<title>Greece Leads With Netherlands, Spain, France, Norway and More as Europe's Cruise ...</title>
-<link>https://www.travelandtourworld.com/news/article/u79znl9igtcl/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/u79znl9igtcl/</guid>
-<pubDate>Mon, 13 Jul 2026 13:55:07 +0000</pubDate>
-<description>Greece, Netherlands, Spain, France and Norway reshape Europe cruise tourism with new taxes, mega ship limits, green rules and overtourism ...</description>
 </item>
 </channel>
 </rss>
