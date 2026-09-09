@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/united-kingdom.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for United Kingdom. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 08 Sep 2026 22:28:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 10:21:57 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Unlock Sustainable Travel: Annandale's Solway Coast Event in Eastriggs, Scotland</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/uc4pezzc7xs7/</guid>
 <pubDate>Wed, 01 Jul 2026 12:05:15 +0000</pubDate>
 <description>... meaningful travel beyond the world's crowded tourist hotspots, while waging a determined crusade against overtourism through sustainable tourism ...</description>
+</item>
+<item>
+<title>World Tourism Day 2026 | Business Wales</title>
+<link>https://businesswales.gov.wales/news-and-blog/world-tourism-day-2026</link>
+<guid isPermaLink="false">https://businesswales.gov.wales/news-and-blog/world-tourism-day-2026</guid>
+<pubDate>Wed, 09 Sep 2026 07:01:17 +0000</pubDate>
+<description>WTD 2026 will explore how AI can help create smarter, more inclusive and sustainable tourism by enhancing decision-making, strengthening skills, and ...</description>
 </item>
 <item>
 <title>Yangyang County to Develop Coastal Ecological Trail on Site of Former Military Barbed ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/b992qymt5bwu/</guid>
 <pubDate>Thu, 20 Aug 2026 19:03:35 +0000</pubDate>
 <description>Bath, Brighton and More Face Overtourism Surge as England's Iconic Hiking Trails Battle Record Visitor Pressure as rising travel demand transforms ...</description>
-</item>
-<item>
-<title>This Breathtaking Highland Landscape is Britain's Newest Nature Reserve - Time Out</title>
-<link>https://www.timeout.com/uk/news/scotland-national-nature-reserve-torridon-082026</link>
-<guid isPermaLink="false">https://www.timeout.com/uk/news/scotland-national-nature-reserve-torridon-082026</guid>
-<pubDate>Thu, 20 Aug 2026 06:07:28 +0000</pubDate>
-<description>NatureScot, the government body which looks after the country's natural heritage ... Unlike some National Trust sites, it's also completely free to ...</description>
 </item>
 </channel>
 </rss>

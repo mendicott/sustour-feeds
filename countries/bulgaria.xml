@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/bulgaria.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Bulgaria. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 08 Sep 2026 22:28:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 10:21:57 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Exhibition "Cultural Routes – Bulgaria 2026"</title>
+<link>https://www.mfa.bg/en/5925</link>
+<guid isPermaLink="false">https://www.mfa.bg/en/5925</guid>
+<pubDate>Tue, 08 Sep 2026 19:37:38 +0000</pubDate>
+<description>... sustainable tourism, for initiatives of local communities and a field for contemporary creative expression. The Cyril and Methodius Cultural Route ...</description>
+</item>
 <item>
 <title>Now Bulgaria, Romania, Serbia, and Greece Spotlight Vrachanski Balkan Nature Park as ...</title>
 <link>https://www.travelandtourworld.com/news/article/g5h2g27opw38/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/t971h4aurrr1/</guid>
 <pubDate>Sun, 05 Jul 2026 05:00:01 +0000</pubDate>
 <description>Explore Slovenia, Romania, Estonia, Slovakia, Bulgaria and Croatia for rare wildlife photography hotspots and growing Eco Tourism escapes.</description>
-</item>
-<item>
-<title>The Path to the Relics of St. John the Baptist: A Spiritual Route near Sozopol | BurgasMedia</title>
-<link>https://burgasmedia.com/amp/news/patyat-kam-moshtite-na-sv-yoan-krastitel-duhoven-marshrut-kray-sozopol?lang=en</link>
-<guid isPermaLink="false">https://burgasmedia.com/amp/news/patyat-kam-moshtite-na-sv-yoan-krastitel-duhoven-marshrut-kray-sozopol?lang=en</guid>
-<pubDate>Wed, 24 Jun 2026 10:03:58 +0000</pubDate>
-<description>This route not only preserves spiritual heritage but also puts Bulgaria on the map of global pilgrimage tourism. More interesting articles.</description>
 </item>
 </channel>
 </rss>
