@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/norway.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Norway. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 10 Sep 2026 10:10:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 22:14:27 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Why Norway's Lofoten Islands Are Implementing a Vital Tourist Tax This Season</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/c8je5vgmci49/</guid>
 <pubDate>Sat, 05 Sep 2026 08:46:57 +0000</pubDate>
 <description>Netherlands And Norway Join Global Movement Against Tourism Pressure. Other European destinations are also strengthening overtourism policies.</description>
+</item>
+<item>
+<title>Norway Brings New Tourism Rules to Its Fjords and Islands - Travel And Tour World</title>
+<link>https://www.travelandtourworld.com/news/article/4hemyfd0cr8m/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/4hemyfd0cr8m/</guid>
+<pubDate>Thu, 10 Sep 2026 13:19:35 +0000</pubDate>
+<description>Norway is reshaping tourism in 2026 with zero-emission fjord rules and a new 3% visitor contribution for pressured destinations.</description>
 </item>
 <item>
 <title>Norway Steps Up With Italy And More European Destinations In A Powerful Tourism Shift ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.cruisemapper.com/news/16509-eidfjord-adopts-new-sustainability-strategy</guid>
 <pubDate>Mon, 27 Jul 2026 18:58:04 +0000</pubDate>
 <description>Eidfjord Municipal Council has formally approved Visit Eidfjord's Sustainability Policy and Strategic Plan 2026–2030, reinforcing the Norwegian ...</description>
-</item>
-<item>
-<title>Eidfjord adopts one cruise ship a day policy and shore power target</title>
-<link>https://www.seatrade-cruise.com/ports-destinations/eidfjord-adopts-one-cruise-ship-a-day-policy-and-shore-power-target</link>
-<guid isPermaLink="false">https://www.seatrade-cruise.com/ports-destinations/eidfjord-adopts-one-cruise-ship-a-day-policy-and-shore-power-target</guid>
-<pubDate>Fri, 24 Jul 2026 13:18:26 +0000</pubDate>
-<description>The strategy strengthens Norway's Eidfjord's position as a sustainable cruise destination, by balancing tourism growth with the protection of ...</description>
 </item>
 </channel>
 </rss>

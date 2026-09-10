@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ireland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ireland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 10 Sep 2026 10:10:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 22:14:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Ireland's Midlands Draw Travellers Into a New Regenerative Tourism Era</title>
+<link>https://www.travelandtourworld.com/news/article/8wksuhod8ex3/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/8wksuhod8ex3/</guid>
+<pubDate>Thu, 10 Sep 2026 13:19:35 +0000</pubDate>
+<description>... Greenway provides another important piece of the regional tourism ... Middle East · Middle East · Saudi Arabia Is Sparking A Global Leisure Travel ...</description>
+</item>
 <item>
 <title>Restored coach house an important addition to Offaly's tourism offering</title>
 <link>https://www.offalyexpress.ie/news/tullamore-tribune/restored-coach-house-an-important-addition-to-offalys-tourism-offering-8938247</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.hotelnews.ie/articles/2026/failteireland/zipit_failte_ireland_funding_02</guid>
 <pubDate>Thu, 02 Jul 2026 14:42:01 +0000</pubDate>
 <description>Regenerative tourism project funded through Fáilte Ireland's EU Just Transition Fund scheme, will enhance outdoor tourism offering in Kildare.</description>
-</item>
-<item>
-<title>"TURISTA VE A CASA / TOURIST GO HOME" – The University Times</title>
-<link>https://universitytimes.ie/2026/06/turista-ve-a-casa-tourist-go-home-2/</link>
-<guid isPermaLink="false">https://universitytimes.ie/2026/06/turista-ve-a-casa-tourist-go-home-2/</guid>
-<pubDate>Tue, 30 Jun 2026 16:14:52 +0000</pubDate>
-<description>The phrase "BAN AIRBNB NOW" has become an increasingly common sight on the streets of Dublin. Similar to Spain, tourism makes up a substantial part of ...</description>
 </item>
 </channel>
 </rss>
