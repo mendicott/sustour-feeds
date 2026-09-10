@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/uganda.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Uganda. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 09 Sep 2026 22:26:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 10:10:39 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Uganda launches 10-year partnership to protect Ishasha and its famous tree-climbing lions</title>
+<link>https://www.getaway.co.za/news/uganda-launches-10-year-partnership-to-protect-ishasha-and-its-famous-tree-climbing-lions/</link>
+<guid isPermaLink="false">https://www.getaway.co.za/news/uganda-launches-10-year-partnership-to-protect-ishasha-and-its-famous-tree-climbing-lions/</guid>
+<pubDate>Thu, 10 Sep 2026 01:12:28 +0000</pubDate>
+<description>Its focus will include improving wildlife protection, restoring habitats, developing tourism and reducing human-wildlife conflict. Protecting an ...</description>
+</item>
 <item>
 <title>UWA and Wildlife Conservation Society Sign 10-Year Conservation Management ...</title>
 <link>https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/26607/UWA-and-Wildlife-Conservation-Society-Sign-10-Year-Conservation-Management-Partnership-for-Ishasha-in-Ugandas-Queen-Elizabeth-Protected-Area.aspx</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://journals.eanso.org/index.php/ajthm/article/view/5533</guid>
 <pubDate>Tue, 11 Aug 2026 09:50:14 +0000</pubDate>
 <description>Assessment of Options for Growth of Community-Based Tourism Enterprises in Uganda Natural Capital Accounting, Environment and Climate Change ...</description>
-</item>
-<item>
-<title>Uganda Pairs Up With More African Countries In Protecting Tourism With New Conservation ...</title>
-<link>https://www.travelandtourworld.com/news/article/ocwywy6qs78g/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ocwywy6qs78g/</guid>
-<pubDate>Tue, 11 Aug 2026 06:00:48 +0000</pubDate>
-<description>Uganda leads Africa's wildlife tourism protection movement as nations strengthen conservation, domestic travel and long-term visitor resilience.</description>
 </item>
 </channel>
 </rss>
