@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/peru.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Peru. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 11 Sep 2026 10:09:18 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 22:13:50 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Peru's Machu Picchu: New carrying capacity study will help regulate tourism</title>
@@ -44,6 +44,13 @@
 <description>Costa Rica, Belize, Peru, Chile and Ecuador drive global ecotourism growth with biodiversity travel, conservation tourism and sustainable travel ...</description>
 </item>
 <item>
+<title>Guided by the Ese Eja: Tracking Giant Otters and Embracing Citizen Science in Tambopata</title>
+<link>https://www.latimes.com/eta/travel-destinations/international/story/tambopata-peru-national-reserve-amazon-lodge</link>
+<guid isPermaLink="false">https://www.latimes.com/eta/travel-destinations/international/story/tambopata-peru-national-reserve-amazon-lodge</guid>
+<pubDate>Fri, 11 Sep 2026 11:08:18 +0000</pubDate>
+<description>Deep in Peru's Tambopata National Reserve, travelers trade typical jungle tours for citizen science, helping discover and even name new species ...</description>
+</item>
+<item>
 <title>Want to See a Sloth? Here's How to Do it Responsibly | National Geographic</title>
 <link>https://www.nationalgeographic.com/travel/article/how-to-see-sloths-responsibly</link>
 <guid isPermaLink="false">https://www.nationalgeographic.com/travel/article/how-to-see-sloths-responsibly</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.birdguides.com/news/humboldt-penguin-faces-renewed-threats-from-el-nino-and-bird-flu/</guid>
 <pubDate>Fri, 28 Aug 2026 11:34:12 +0000</pubDate>
 <description>Peru's only breeding penguin has lost two thirds of its population since 2022, with another major El Niño likely to bring further breeding ...</description>
-</item>
-<item>
-<title>Peru Shuts the Inca Trail as Storm-Driven Landslides Threaten the Road to Machu Picchu</title>
-<link>https://www.latintimes.com/peru-shuts-inca-trail-storm-driven-landslides-threaten-road-machu-picchu-598707</link>
-<guid isPermaLink="false">https://www.latintimes.com/peru-shuts-inca-trail-storm-driven-landslides-threaten-road-machu-picchu-598707</guid>
-<pubDate>Fri, 21 Aug 2026 12:02:24 +0000</pubDate>
-<description>According to Mincetur, Peru's tourism ministry, the shutdown covers Routes 1, 2 and 3 of the trail system and is scheduled to run from August 18 ...</description>
 </item>
 </channel>
 </rss>
