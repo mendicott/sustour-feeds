@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/croatia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Croatia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 11 Sep 2026 22:13:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 10:08:13 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Greece Considers Visitor Limits as Odyssey Tourism Overwhelms Sites</title>
@@ -44,6 +44,13 @@
 <description>Calanques visitor caps return in France for 2026, limiting access to Mediterranean beaches to curb overtourism and protect fragile ecosystems.</description>
 </item>
 <item>
+<title>This Dalmatian Island is Heavily Visited, But Few Spend the Night There... - Total Croatia</title>
+<link>https://total-croatia-news.com/lifestyle/dalmatian-island-night/</link>
+<guid isPermaLink="false">https://total-croatia-news.com/lifestyle/dalmatian-island-night/</guid>
+<pubDate>Fri, 11 Sep 2026 22:51:06 +0000</pubDate>
+<description>This is also confirmed by a study by the Institute for Tourism. Their research showed that only 8.3 percent of guests stay eight hours or longer on ...</description>
+</item>
+<item>
 <title>Dubrovnik Becomes European Hub for Sustainable Tourism as 18 Cities Meet</title>
 <link>https://www.thedubrovniktimes.com/news/dubrovnik/item/20521-dubrovnik-becomes-european-hub-for-sustainable-tourism-as-18-cities-meet</link>
 <guid isPermaLink="false">https://www.thedubrovniktimes.com/news/dubrovnik/item/20521-dubrovnik-becomes-european-hub-for-sustainable-tourism-as-18-cities-meet</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.thedubrovniktimes.com/news/dubrovnik/item/20454-dubrovnik-pass-reaches-final-of-prestigious-european-sustainable-tourism-awards</guid>
 <pubDate>Tue, 01 Sep 2026 15:04:14 +0000</pubDate>
 <description>The popular city pass has been shortlisted for the European Award for Sustainable Cultural Tourism Destination 2026, in the category "Digitalisation ...</description>
-</item>
-<item>
-<title>Croatia Tourism Pressure Extends Beyond Cape Kamenjak as These Destinations Showing ...</title>
-<link>https://www.travelandtourworld.com/news/article/ea0viwr120ak/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ea0viwr120ak/</guid>
-<pubDate>Sun, 30 Aug 2026 16:09:01 +0000</pubDate>
-<description>Responsible Travel Becomes More Important · 20.7 million tourist arrivals and 94.8 million tourist nights in commercial accommodation during 2025 · 2020 ...</description>
 </item>
 </channel>
 </rss>
