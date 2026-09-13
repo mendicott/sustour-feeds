@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ecuador.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ecuador. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 12 Sep 2026 22:10:46 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 10:08:31 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Rethinking Global Tourism: How Local Value, Smart Data and Circularity Can Drive Development</title>
+<link>https://www.devdiscourse.com/article/other/3975714-rethinking-global-tourism-how-local-value-smart-data-and-circularity-can-drive-development</link>
+<guid isPermaLink="false">https://www.devdiscourse.com/article/other/3975714-rethinking-global-tourism-how-local-value-smart-data-and-circularity-can-drive-development</guid>
+<pubDate>Sat, 12 Sep 2026 04:26:05 +0000</pubDate>
+<description>UNDP and UN Tourism say sustainable tourism must shift from chasing ... In Ecuador, tourism incorporating Indigenous crafts and ancestral ...</description>
+</item>
 <item>
 <title>Mass Tourism Threatens the Galápagos Islands Ecosystem | .TR</title>
 <link>https://www.tourism-review.com/galapagos-islands-fight-mass-tourism-news15591</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://nationalpost.com/travel/swimming-with-penguins-galapagos-islands</guid>
 <pubDate>Mon, 17 Aug 2026 22:27:23 +0000</pubDate>
 <description>The company has been working across Ecuador and the Galápagos to promote sustainable tourism, support local communities and fund conservation projects ...</description>
-</item>
-<item>
-<title>Ecuador Expands Digital Entry System for Galápagos Travel</title>
-<link>https://www.thetraveler.org/ecuador-expands-digital-entry-system-for-galapagos-travel/</link>
-<guid isPermaLink="false">https://www.thetraveler.org/ecuador-expands-digital-entry-system-for-galapagos-travel/</guid>
-<pubDate>Tue, 11 Aug 2026 11:38:26 +0000</pubDate>
-<description>Several operators and independent travel guides emphasize that connectivity can be unreliable and that some online portals have periodic outages.</description>
 </item>
 </channel>
 </rss>
