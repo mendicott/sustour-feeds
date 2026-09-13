@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/saudi-arabia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Saudi Arabia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 13 Sep 2026 10:08:31 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 22:10:36 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Saudi Arabia Creates 4,310 Sq Km Nature Reserve Near Riyadh To Transform Desert ...</title>
+<link>https://www.travelandtourworld.com/news/article/36jpngi1yb16/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/36jpngi1yb16/</guid>
+<pubDate>Sun, 13 Sep 2026 09:19:02 +0000</pubDate>
+<description>... Tourism And Protect Biodiversity. Written By: author ... tourism with a diversity of sustainable travel that meets the needs of all travelers.</description>
+</item>
 <item>
 <title>Ireland's Midlands Draw Travellers Into a New Regenerative Tourism Era</title>
 <link>https://www.travelandtourworld.com/news/article/8wksuhod8ex3/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://darksky.org/places/desert-rock-resort/</guid>
 <pubDate>Mon, 03 Aug 2026 16:03:19 +0000</pubDate>
 <description>Light Pollution Education ... Desert Rock is part of The Red Sea, a regenerative tourism destination on the northwest coast of Saudi Arabia.</description>
-</item>
-<item>
-<title>Saudi Arabia AlUla showcases ranger-led model for sustainable tourism - TravelMole</title>
-<link>https://travelmole.com/news/saudi-arabia-alula-ranger-model-sustainability/</link>
-<guid isPermaLink="false">https://travelmole.com/news/saudi-arabia-alula-ranger-model-sustainability/</guid>
-<pubDate>Mon, 03 Aug 2026 05:09:25 +0000</pubDate>
-<description>As global demand for nature-based tourism accelerates, Saudi Arabia's AlUla is positioning itself as a blueprint for sustainable destination ...</description>
 </item>
 </channel>
 </rss>

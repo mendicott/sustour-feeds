@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 13 Sep 2026 10:08:31 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 22:10:36 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>The women saving Mexico's 'sacred Maya bee' - CNN</title>
@@ -44,6 +44,13 @@
 <description>Mexico launched its 2026-2030 Sustainable Tourism Policy to strengthen sustainability and climate resilience nationwide.</description>
 </item>
 <item>
+<title>Baja California Sur, Mexico: a 360° u-turn strategy centered on responsible tourism</title>
+<link>https://travelmole.com/news/baja-california-mexico-responsible-tourism</link>
+<guid isPermaLink="false">https://travelmole.com/news/baja-california-mexico-responsible-tourism</guid>
+<pubDate>Sun, 13 Sep 2026 14:17:18 +0000</pubDate>
+<description>The initiative focuses on balancing tourism activity with the long-term health of parks, reserves and conservation zones that attract eco-tourists.</description>
+</item>
+<item>
 <title>Mexico Boosts Revillagigedo Dive Tourism Surveillance - Travel And Tour World</title>
 <link>https://www.travelandtourworld.com/news/article/aved7wr8l9d8/</link>
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/aved7wr8l9d8/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://en.travel2latam.com/news-109475-sotic-2026-will-bring-together-caribbean-tourism-leaders-in-guyana.html</guid>
 <pubDate>Fri, 04 Sep 2026 15:10:15 +0000</pubDate>
 <description>... climate change and regenerative tourism. The agenda will also ... Travel &amp; Tourism sector during 2025. Mexico ranked fourth globally in ...</description>
-</item>
-<item>
-<title>Luxury project on Yucatán dunes suspended — Mexico News Daily</title>
-<link>https://ua.news/en/world/u-iukatani-prizupinili-liuksovii-proiekt-na-diunakh-mexico-news-daily</link>
-<guid isPermaLink="false">https://ua.news/en/world/u-iukatani-prizupinili-liuksovii-proiekt-na-diunakh-mexico-news-daily</guid>
-<pubDate>Sat, 29 Aug 2026 16:26:08 +0000</pubDate>
-<description>Authorities in Mexico's Yucatán state and federal environmental agencies have suspended the Las Dunas tourism-residential complex project in the ...</description>
 </item>
 </channel>
 </rss>

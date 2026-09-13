@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/colombia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Colombia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 13 Sep 2026 10:08:31 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 22:10:36 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Colombia: 97000 trees and 190 beehives restore a high Andean forest in Sesquilé and Guatavita</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://www.audubon.org/news/ambalema-colombian-town-building-its-future-around-birds</guid>
 <pubDate>Tue, 07 Jul 2026 03:57:45 +0000</pubDate>
 <description>Birdwatching tourism is transforming the biodiversity of the Magdalena River into economic opportunities for local communities.</description>
+</item>
+<item>
+<title>Indigenous community trades shark-fishing for conservation in Colombia: 'From hunter to protector'</title>
+<link>https://www.goodgoodgood.co/articles/indigenous-fishers-shark-hunting-conservation</link>
+<guid isPermaLink="false">https://www.goodgoodgood.co/articles/indigenous-fishers-shark-hunting-conservation</guid>
+<pubDate>Sun, 13 Sep 2026 20:06:16 +0000</pubDate>
+<description>With sustainable tourism touted as a potential economic alternative to shark fishing, some fishers argue that compensation will need to be offered ...</description>
 </item>
 <item>
 <title>Want to See a Sloth? Here's How to Do it Responsibly | National Geographic</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/abq0bmm3rkwx/</guid>
 <pubDate>Sat, 29 Aug 2026 23:12:19 +0000</pubDate>
 <description>TTW · Home; News. Travel News · Tourism News · Airline News · Travel Association ... Endangered Species Worldwide. Colombia Superheads Bird Tracking ...</description>
-</item>
-<item>
-<title>Colombia Protects Ancient Rural Traditions As Travel Visitors Journey Through Filandia And ...</title>
-<link>https://www.travelandtourworld.com/news/article/lma8b250guhx/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lma8b250guhx/</guid>
-<pubDate>Mon, 24 Aug 2026 13:12:59 +0000</pubDate>
-<description>Discover Colombia's hidden rural heart in Murillo, Choachí, Filandia, Zapatoca, and Jardín through sustainable village tourism.</description>
 </item>
 </channel>
 </rss>
