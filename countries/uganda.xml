@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/uganda.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Uganda. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 14 Sep 2026 10:08:55 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 22:12:55 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Can Kidepo make it four? Uganda's rangers prepare for wildlife challenge</title>
+<link>https://www.independent.co.ug/can-kidepo-make-it-four-ugandas-rangers-prepare-for-wildlife-challenge/</link>
+<guid isPermaLink="false">https://www.independent.co.ug/can-kidepo-make-it-four-ugandas-rangers-prepare-for-wildlife-challenge/</guid>
+<pubDate>Mon, 14 Sep 2026 12:15:46 +0000</pubDate>
+<description>... tourism economy while also sitting alongside communities whose livelihoods are closely linked to conservation. The Uganda Conservation Foundation ...</description>
+</item>
 <item>
 <title>Southwestern Uganda Pioneers The Future Of Ethical Wilderness Travel Across Volcanic ...</title>
 <link>https://www.travelandtourworld.com/news/article/ydbj5umibaxh/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelnews.co.za/article/namoni-lodge-debuts-in-uganda</guid>
 <pubDate>Wed, 12 Aug 2026 16:38:57 +0000</pubDate>
 <description>The new Namoni Lodge has opened on the edge of Uganda's Kidepo Valley National Park as part of a broader conservation and community tourism ...</description>
-</item>
-<item>
-<title>A Safari Built to Leave Its Money Behind - Ethos</title>
-<link>https://the-ethos.co/a-safari-built-to-leave-its-money-behind/</link>
-<guid isPermaLink="false">https://the-ethos.co/a-safari-built-to-leave-its-money-behind/</guid>
-<pubDate>Wed, 12 Aug 2026 07:48:26 +0000</pubDate>
-<description>The gorilla trek at the center of TerraFauna Journeys' Uganda itinerary climbs into Bwindi Impenetrable National Park, a steep tangle of montane ...</description>
 </item>
 </channel>
 </rss>
