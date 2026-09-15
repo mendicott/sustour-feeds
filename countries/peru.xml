@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/peru.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Peru. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 15 Sep 2026 10:09:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 22:14:22 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Peru: Fieldwork conducted at Machu Picchu Inca Citadel for new carrying capacity study</title>
+<link>https://andina.pe/ingles/noticia-peru-fieldwork-conducted-at-machu-picchu-inca-citadel-for-new-carrying-capacity-study-1091846.aspx</link>
+<guid isPermaLink="false">https://andina.pe/ingles/noticia-peru-fieldwork-conducted-at-machu-picchu-inca-citadel-for-new-carrying-capacity-study-1091846.aspx</guid>
+<pubDate>Tue, 15 Sep 2026 18:12:00 +0000</pubDate>
+<description>... Tourism (Mincetur), Cusco's Regional Management of Foreign Trade, Tourism, and Handicrafts (Gercetur), the Superintendence of Ground ...</description>
+</item>
 <item>
 <title>Peru's Machu Picchu: New carrying capacity study will help regulate tourism</title>
 <link>https://andina.pe/Ingles/noticia-perus-machu-picchu-new-carrying-capacity-study-will-help-regulate-tourism-1088017.aspx</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/m0gavglg1sam/</guid>
 <pubDate>Thu, 03 Sep 2026 23:36:50 +0000</pubDate>
 <description>In 2026, South America's hospitality industry is shifting from traditional eco-tourism to true regenerative travel, led by Chile, Peru, Brazil, ...</description>
-</item>
-<item>
-<title>Climate disaster risk guidelines for World Heritage Sites in Peru approved | News | ANDINA</title>
-<link>https://andina.pe/ingles/noticia-climate-disaster-risk-guidelines-for-world-heritage-sites-in-peru-approved-1089972.aspx</link>
-<guid isPermaLink="false">https://andina.pe/ingles/noticia-climate-disaster-risk-guidelines-for-world-heritage-sites-in-peru-approved-1089972.aspx</guid>
-<pubDate>Tue, 01 Sep 2026 16:18:31 +0000</pubDate>
-<description>... climate change at World Heritage sites in Peru. Ministerial Resolution No. 000314-2026-MC, published Tuesday in the legal regulations section of ...</description>
 </item>
 </channel>
 </rss>

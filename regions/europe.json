@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.hel.fi/en/business-and-work/helsinki-friend",
+      "url": "https://www.hel.fi/en/business-and-work/helsinki-friend",
+      "title": "Helsinki Friend | City of Helsinki",
+      "content_text": "It falls under the concept of regenerative tourism: the kind of tourism that strengthens communities, fosters cross-cultural understanding and has a ...",
+      "date_published": "2026-09-15T19:25:07+00:00"
+    },
+    {
       "id": "https://www.mfa.bg/en/5925",
       "url": "https://www.mfa.bg/en/5925",
       "title": "Exhibition \"Cultural Routes – Bulgaria 2026\"",
@@ -68,13 +75,6 @@
       "title": "Harghita becomes Romania's first region to receive Green Destinations Silver Award",
       "content_text": "Travel - Harghita County has become the first region in Romania to be ... tourism businesses. Harghita obtained an average score of 7.5 ...",
       "date_published": "2026-09-03T18:31:33+00:00"
-    },
-    {
-      "id": "https://agerpres.ro/english/2026/09/02/harghita-first-region-in-romania-on-green-destinations-map-following-green-destinations-silver-award--1590009",
-      "url": "https://agerpres.ro/english/2026/09/02/harghita-first-region-in-romania-on-green-destinations-map-following-green-destinations-silver-award--1590009",
-      "title": "Harghita, first region in Romania on Green Destinations map, following Green ... - Agerpres",
-      "content_text": "'A new important milestone on the road towards sustainable tourism: Harghita County has obtained the internationally recognised Green Destinations ...",
-      "date_published": "2026-09-02T11:32:26+00:00"
     }
   ]
 }

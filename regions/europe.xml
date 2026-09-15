@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/europe.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Europe. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 15 Sep 2026 10:09:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 22:14:22 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Helsinki Friend | City of Helsinki</title>
+<link>https://www.hel.fi/en/business-and-work/helsinki-friend</link>
+<guid isPermaLink="false">https://www.hel.fi/en/business-and-work/helsinki-friend</guid>
+<pubDate>Tue, 15 Sep 2026 19:25:07 +0000</pubDate>
+<description>It falls under the concept of regenerative tourism: the kind of tourism that strengthens communities, fosters cross-cultural understanding and has a ...</description>
+</item>
 <item>
 <title>Exhibition "Cultural Routes – Bulgaria 2026"</title>
 <link>https://www.mfa.bg/en/5925</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://business-review.eu/lifestyle/travel/harghita-becomes-romanias-first-region-to-receive-green-destinations-silver-award-300007</guid>
 <pubDate>Thu, 03 Sep 2026 18:31:33 +0000</pubDate>
 <description>Travel - Harghita County has become the first region in Romania to be ... tourism businesses. Harghita obtained an average score of 7.5 ...</description>
-</item>
-<item>
-<title>Harghita, first region in Romania on Green Destinations map, following Green ... - Agerpres</title>
-<link>https://agerpres.ro/english/2026/09/02/harghita-first-region-in-romania-on-green-destinations-map-following-green-destinations-silver-award--1590009</link>
-<guid isPermaLink="false">https://agerpres.ro/english/2026/09/02/harghita-first-region-in-romania-on-green-destinations-map-following-green-destinations-silver-award--1590009</guid>
-<pubDate>Wed, 02 Sep 2026 11:32:26 +0000</pubDate>
-<description>'A new important milestone on the road towards sustainable tourism: Harghita County has obtained the internationally recognised Green Destinations ...</description>
 </item>
 </channel>
 </rss>
