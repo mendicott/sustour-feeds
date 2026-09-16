@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/americas.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Americas. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 16 Sep 2026 10:10:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 22:13:47 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Indigenous Tourism in Brazil: The Definitive Guide to Cultural Immersion in the Haliti-Paresi Villages</title>
+<link>https://www.femalefirst.co.uk/travel/indigenous-tourism-brazil-definitive-guide-cultural-immersion-haliti-paresi-villages-1450698.html</link>
+<guid isPermaLink="false">https://www.femalefirst.co.uk/travel/indigenous-tourism-brazil-definitive-guide-cultural-immersion-haliti-paresi-villages-1450698.html</guid>
+<pubDate>Wed, 16 Sep 2026 10:44:55 +0000</pubDate>
+<description>Chief Roni pioneered the opening of the territory to community-based Indigenous tourism. Roni explains: "A lack of understanding breeds prejudice. I ...</description>
+</item>
 <item>
 <title>Peru: Fieldwork conducted at Machu Picchu Inca Citadel for new carrying capacity study</title>
 <link>https://andina.pe/ingles/noticia-peru-fieldwork-conducted-at-machu-picchu-inca-citadel-for-new-carrying-capacity-study-1091846.aspx</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/o4jpl83x1hn2/</guid>
 <pubDate>Fri, 04 Sep 2026 10:12:13 +0000</pubDate>
 <description>Discover Mexico's 2026-2030 Sustainable Tourism Policy and its impact on green travel across all 32 states. Read the full guide here!</description>
-</item>
-<item>
-<title>Mexico Presents 2026-2030 Sustainable Tourism Policy</title>
-<link>https://mexicobusiness.news/sustainability/news/mexico-presents-2026-2030-sustainable-tourism-policy</link>
-<guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/mexico-presents-2026-2030-sustainable-tourism-policy</guid>
-<pubDate>Thu, 03 Sep 2026 21:25:25 +0000</pubDate>
-<description>Mexico launched its 2026-2030 Sustainable Tourism Policy to strengthen sustainability and climate resilience nationwide.</description>
 </item>
 </channel>
 </rss>

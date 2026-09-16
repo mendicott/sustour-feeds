@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/croatia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Croatia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 16 Sep 2026 10:10:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 22:13:47 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Greece Considers Visitor Limits as Odyssey Tourism Overwhelms Sites</title>
@@ -44,6 +44,13 @@
 <description>Calanques visitor caps return in France for 2026, limiting access to Mediterranean beaches to curb overtourism and protect fragile ecosystems.</description>
 </item>
 <item>
+<title>Split ends summer alcohol sales ban as night-time restrictions lift | Croatia Week</title>
+<link>https://www.croatiaweek.com/split-ends-summer-alcohol-sales-ban-as-night-time-restrictions-lift/</link>
+<guid isPermaLink="false">https://www.croatiaweek.com/split-ends-summer-alcohol-sales-ban-as-night-time-restrictions-lift/</guid>
+<pubDate>Wed, 16 Sep 2026 13:21:23 +0000</pubDate>
+<description>The measure illustrates how Croatian coastal cities are increasingly experimenting with seasonal rules designed to balance tourism, nightlife, ...</description>
+</item>
+<item>
 <title>Belgium Stands With Croatia and More in Witnessing a New Travel Trend as Europe's Not ...</title>
 <link>https://www.travelandtourworld.com/news/article/mgyeznwlv4wi/</link>
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/mgyeznwlv4wi/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/uk5njrrh1r45/</guid>
 <pubDate>Wed, 09 Sep 2026 12:07:35 +0000</pubDate>
 <description>Croatia is expanding sustainable tourism beyond its busiest destinations with hiking trails and protected mountain landscapes across Velebit.</description>
-</item>
-<item>
-<title>Croatia Steps Up With Spain And More Countries In Europe In Major Short Term Rental Shift ...</title>
-<link>https://www.travelandtourworld.com/news/article/0z2hfme8cfz9/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/0z2hfme8cfz9/</guid>
-<pubDate>Mon, 07 Sep 2026 06:54:29 +0000</pubDate>
-<description>Croatia follows Europe in changing their tourism system by implementing short term rentals in response to overtourism and housing problems.</description>
 </item>
 </channel>
 </rss>
