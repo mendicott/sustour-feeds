@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/peru.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Peru. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 17 Sep 2026 22:13:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 10:09:53 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Peru: Fieldwork conducted at Machu Picchu Inca Citadel for new carrying capacity study</title>
@@ -51,6 +51,13 @@
 <description>Costa Rica, Belize, Peru, Chile and Ecuador drive global ecotourism growth with biodiversity travel, conservation tourism and sustainable travel ...</description>
 </item>
 <item>
+<title>Meet the Indigenous Women Protecting Peru's Amazon Rainforest | National Geographic</title>
+<link>https://www.nationalgeographic.com/travel/article/meet-the-indigenous-women-protecting-perus-amazon-rainforest</link>
+<guid isPermaLink="false">https://www.nationalgeographic.com/travel/article/meet-the-indigenous-women-protecting-perus-amazon-rainforest</guid>
+<pubDate>Fri, 18 Sep 2026 09:34:17 +0000</pubDate>
+<description>For Awajún communities, rivers provide vital routes for travel and fishing. onservation International Peru, Marlong DAG.</description>
+</item>
+<item>
 <title>Beyond Machu Picchu: South Andes Travel's Powerful Push to Turn Peru Tourism Into an ...</title>
 <link>https://www.travelandtourworld.com/news/article/1bxtuuv62zlq/</link>
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/1bxtuuv62zlq/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/jks4rnexuy0g/</guid>
 <pubDate>Sat, 12 Sep 2026 17:17:18 +0000</pubDate>
 <description>The government's focus is on curating high-value, low-volume tourism that aligns with broader national objectives concerning Amazonian preservation.</description>
-</item>
-<item>
-<title>Guided by the Ese Eja: Tracking Giant Otters and Embracing Citizen Science in Tambopata</title>
-<link>https://www.latimes.com/eta/travel-destinations/international/story/tambopata-peru-national-reserve-amazon-lodge</link>
-<guid isPermaLink="false">https://www.latimes.com/eta/travel-destinations/international/story/tambopata-peru-national-reserve-amazon-lodge</guid>
-<pubDate>Fri, 11 Sep 2026 11:08:18 +0000</pubDate>
-<description>Deep in Peru's Tambopata National Reserve, travelers trade typical jungle tours for citizen science, helping discover and even name new species ...</description>
 </item>
 </channel>
 </rss>
