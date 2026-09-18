@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.thenewslens.com/article/270036",
+      "url": "https://www.thenewslens.com/article/270036",
+      "title": "Global Conservation Spotlight Turns to Taiwan: National Park Service to Host \"Formosa ...",
+      "content_text": "Global Experts and Leaders Gather to Shape the Future of Mountain-to-Sea Governance, Biodiversity, and Sustainable Tourism. ... travel, corporate ...",
+      "date_published": "2026-09-18T10:33:11+00:00"
+    },
+    {
       "id": "https://www.rti.org.tw/en/news?uid=3&pid=232223",
       "url": "https://www.rti.org.tw/en/news?uid=3&pid=232223",
       "title": "Taiwan unveils 10 low-carbon eco-tourism routes at National Park exhibition",
@@ -68,13 +75,6 @@
       "title": "Slovakia UNESCO village strains under overtourism | Taipei Times - PressReader",
       "content_text": "Slovakia UNESCO village strains under overtourism. 2026-07-04 - Travel · Slovakia · UNESCO · Vlkolinec · Slovak · Hungary · Czech Republic ...",
       "date_published": "2026-07-03T22:23:48+00:00"
-    },
-    {
-      "id": "https://www.taipeitimes.com/News/world/archives/2026/07/04/2003860228",
-      "url": "https://www.taipeitimes.com/News/world/archives/2026/07/04/2003860228",
-      "title": "Slovakia UNESCO village strains under overtourism - Taipei Times",
-      "content_text": "... tourism boom. Vlkolinec, which comprises some 45 wooden houses, attracts about 100,000 tourists a year, official estimates show. They wander among ...",
-      "date_published": "2026-07-03T17:33:46+00:00"
     }
   ]
 }
