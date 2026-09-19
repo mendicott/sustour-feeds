@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/uganda.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Uganda. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 19 Sep 2026 10:08:19 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 22:10:26 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>World Gorilla Day: How Uganda Thrives on Gorilla Conservation | Nilepost</title>
+<link>https://nilepost.co.ug/news/371627/world-gorilla-day-how-uganda-thrives-on-gorilla-conservation?amp=1</link>
+<guid isPermaLink="false">https://nilepost.co.ug/news/371627/world-gorilla-day-how-uganda-thrives-on-gorilla-conservation?amp=1</guid>
+<pubDate>Fri, 18 Sep 2026 13:58:04 +0000</pubDate>
+<description>Uganda's mountain gorilla conservation story is increasingly intertwined with tourism, livelihoods and community development, as revenue from ...</description>
+</item>
 <item>
 <title>Can Kidepo make it four? Uganda's rangers prepare for wildlife challenge</title>
 <link>https://www.independent.co.ug/can-kidepo-make-it-four-ugandas-rangers-prepare-for-wildlife-challenge/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www2.fundsforngos.org/community-development-2/cfps-community-led-biodiversity-conservation-and-ecosystem-services-uganda/</guid>
 <pubDate>Thu, 13 Aug 2026 05:17:27 +0000</pubDate>
 <description>Deadline: 21-Aug-2026 The United Nations Development Programme (UNDP) Uganda, through the Biodiversity Finance Initiative (BIOFIN II), ...</description>
-</item>
-<item>
-<title>Namoni Lodge debuts in Uganda | Travelnews</title>
-<link>https://www.travelnews.co.za/article/namoni-lodge-debuts-in-uganda</link>
-<guid isPermaLink="false">https://www.travelnews.co.za/article/namoni-lodge-debuts-in-uganda</guid>
-<pubDate>Wed, 12 Aug 2026 16:38:57 +0000</pubDate>
-<description>The new Namoni Lodge has opened on the edge of Uganda's Kidepo Valley National Park as part of a broader conservation and community tourism ...</description>
 </item>
 </channel>
 </rss>

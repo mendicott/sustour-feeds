@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/croatia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Croatia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 19 Sep 2026 10:08:20 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 22:10:26 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>As tourists flood Croatia, Dubrovnik tries to slow the flow - DW.com</title>
+<link>https://www.dw.com/en/croatias-dubrovnik-cracks-down-on-overtourism/video-79234269</link>
+<guid isPermaLink="false">https://www.dw.com/en/croatias-dubrovnik-cracks-down-on-overtourism/video-79234269</guid>
+<pubDate>Fri, 18 Sep 2026 20:23:52 +0000</pubDate>
+<description>Jared Kushner's resort plans symbolize a bigger battle over nature, tourism and Albania's future. ... Scientists have warned climate change could ...</description>
+</item>
 <item>
 <title>Croatia's Dubrovnik cracks down on overtourism - DW.com</title>
 <link>https://www.dw.com/en/croatias-dubrovnik-cracks-down-on-overtourism/video-79234269</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/mgyeznwlv4wi/</guid>
 <pubDate>Tue, 15 Sep 2026 12:19:01 +0000</pubDate>
 <description>Europe's tourism map is beginning to change in 2026 as travellers look beyond famous destinations struggling with overcrowding, expensive ...</description>
-</item>
-<item>
-<title>This Dalmatian Island is Heavily Visited, But Few Spend the Night There... - Total Croatia</title>
-<link>https://total-croatia-news.com/lifestyle/dalmatian-island-night/</link>
-<guid isPermaLink="false">https://total-croatia-news.com/lifestyle/dalmatian-island-night/</guid>
-<pubDate>Fri, 11 Sep 2026 22:51:06 +0000</pubDate>
-<description>This is also confirmed by a study by the Institute for Tourism. Their research showed that only 8.3 percent of guests stay eight hours or longer on ...</description>
 </item>
 </channel>
 </rss>

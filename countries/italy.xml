@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 19 Sep 2026 10:08:19 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 22:10:26 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Rome Joins Venice and Other Cities as Italy Battles Overtourism with New Measures Amid ...</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lah8spefggvv/</guid>
 <pubDate>Mon, 06 Jul 2026 07:57:09 +0000</pubDate>
 <description>Calanques visitor caps return in France for 2026, limiting access to Mediterranean beaches to curb overtourism and protect fragile ecosystems.</description>
+</item>
+<item>
+<title>Italy Follows Spain as Overtourism in Europe Spreads From Famous Cities to Mediterranean ...</title>
+<link>https://www.travelandtourworld.com/news/article/dtlyht0fov2x/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/dtlyht0fov2x/</guid>
+<pubDate>Sat, 19 Sep 2026 09:45:23 +0000</pubDate>
+<description>Overtourism in Europe is spreading beyond famous cities as coastal and island regions face record visitor pressure.</description>
 </item>
 <item>
 <title>UNESCO Sites in Italy: Overtourism Threatens Local Identity - inItaly</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://rri.co.id/en/tourism/2706004/indonesia-needs-to-manage-overtourism-and-strengthen-heritage-protection</guid>
 <pubDate>Fri, 04 Sep 2026 10:21:19 +0000</pubDate>
 <description>Indonesia faces the same challenges of overtourism as Japan, Spain, and Italy, with rising numbers of domestic and international visitors to popular ...</description>
-</item>
-<item>
-<title>Netherlands and Other Leading Tourism Markets Track Spain's €15 Million Hospitality ...</title>
-<link>https://www.travelandtourworld.com/news/article/k6mzdzqn54nw/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/k6mzdzqn54nw/</guid>
-<pubDate>Sun, 30 Aug 2026 12:37:17 +0000</pubDate>
-<description>Netherlands, Italy and Poland track Spain's €15 Million Hospitality Energy Upgrade Plan boosting sustainable tourism, efficient hotels and greener ...</description>
 </item>
 </channel>
 </rss>
