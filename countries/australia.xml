@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/australia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Australia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 20 Sep 2026 10:07:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 22:09:36 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Australia's First Nations Tourism Transformation Is Giving Culture a Powerful Role in Every Journey</title>
@@ -58,6 +58,13 @@
 <description>... meaningful travel beyond the world's crowded tourist hotspots, while waging a determined crusade against overtourism through sustainable tourism ...</description>
 </item>
 <item>
+<title>How tourist cities are curbing overtourism — ABC News Australia</title>
+<link>https://ua.news/en/podorozhi/iak-turistichni-mista-strimuiut-nadmirnii-turizm-abc-news-australia</link>
+<guid isPermaLink="false">https://ua.news/en/podorozhi/iak-turistichni-mista-strimuiut-nadmirnii-turizm-abc-news-australia</guid>
+<pubDate>Sun, 20 Sep 2026 05:38:11 +0000</pubDate>
+<description>Joseph Cheer, a professor of sustainable tourism at Western Sydney University, explained that overtourism is not only about large numbers of ...</description>
+</item>
+<item>
 <title>FROM JAWI SEA COUNTRY TO THE WORLD: ROSANNA ANGUS' AWARD-WINNING JOURNEY</title>
 <link>https://www.ngaardamedia.com.au/news/from-jawi-sea-country-to-the-world-rosanna-angus-award-winning-journey</link>
 <guid isPermaLink="false">https://www.ngaardamedia.com.au/news/from-jawi-sea-country-to-the-world-rosanna-angus-award-winning-journey</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/27qa48g1vhp8/</guid>
 <pubDate>Thu, 10 Sep 2026 09:20:19 +0000</pubDate>
 <description>Prior to Brisbane 2032, Queensland releases a First Nations tourism strategy to support cultural tourism growth.</description>
-</item>
-<item>
-<title>Australia's Desert Mob 2026 Opens in Alice Springs Showcasing Aboriginal Art and Cultural Tourism</title>
-<link>https://www.travelandtourworld.com/news/article/0xp0igsa9oyj/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/0xp0igsa9oyj/</guid>
-<pubDate>Thu, 10 Sep 2026 06:07:29 +0000</pubDate>
-<description>This event is important because as well as strengthening Indigenous tourism, it also strengthens regional visitation and brings Aboriginal communities ...</description>
 </item>
 </channel>
 </rss>
