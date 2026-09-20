@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/uganda.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Uganda. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 19 Sep 2026 22:10:26 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 10:07:47 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Where to see gorillas in the wild and travel responsibly - Getaway Magazine</title>
+<link>https://www.getaway.co.za/travel/nature-and-conservation/where-to-see-gorillas-in-the-wild-and-travel-responsibly/</link>
+<guid isPermaLink="false">https://www.getaway.co.za/travel/nature-and-conservation/where-to-see-gorillas-in-the-wild-and-travel-responsibly/</guid>
+<pubDate>Sat, 19 Sep 2026 11:53:15 +0000</pubDate>
+<description>Discover where to see gorillas in the wild in Rwanda and Uganda, plus how responsible tourism can support gorilla conservation and communities.</description>
+</item>
 <item>
 <title>World Gorilla Day: How Uganda Thrives on Gorilla Conservation | Nilepost</title>
 <link>https://nilepost.co.ug/news/371627/world-gorilla-day-how-uganda-thrives-on-gorilla-conservation?amp=1</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://ntv.co.ug/news/national-news/how-king-oyo-championed-tourism-nature-conservation</guid>
 <pubDate>Sat, 29 Aug 2026 18:50:24 +0000</pubDate>
 <description>The late King Oyo Nyimba Kabamba Iguru IV will be remembered not only as the young monarch who led the Tooro Kingdom, but also as a passionate ...</description>
-</item>
-<item>
-<title>CFPs: Community-Led Biodiversity Conservation and Ecosystem Services (Uganda)</title>
-<link>https://www2.fundsforngos.org/community-development-2/cfps-community-led-biodiversity-conservation-and-ecosystem-services-uganda/</link>
-<guid isPermaLink="false">https://www2.fundsforngos.org/community-development-2/cfps-community-led-biodiversity-conservation-and-ecosystem-services-uganda/</guid>
-<pubDate>Thu, 13 Aug 2026 05:17:27 +0000</pubDate>
-<description>Deadline: 21-Aug-2026 The United Nations Development Programme (UNDP) Uganda, through the Biodiversity Finance Initiative (BIOFIN II), ...</description>
 </item>
 </channel>
 </rss>

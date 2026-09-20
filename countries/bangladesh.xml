@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/bangladesh.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Bangladesh. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 19 Sep 2026 22:10:26 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 10:07:47 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Sukher Khamar unveils BD's first community-based agro resort design</title>
+<link>https://observerbd.com/news/594381</link>
+<guid isPermaLink="false">https://observerbd.com/news/594381</guid>
+<pubDate>Sat, 19 Sep 2026 21:03:26 +0000</pubDate>
+<description>Bangladesh's first community-based agro-tourism project, Sukher Khamar Agro Limited, unveiled the design of its planned agro-resort at a ceremony ...</description>
+</item>
 <item>
 <title>Planned, sustainable tourism needed to tap Bangladesh's potential: CHT minister | News</title>
 <link>https://www.bssnews.net/news/426227</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://dailycountrytodaybd.com/story/eco-tourism-seminar-stresses-public-private-partnership-for-sustainable-growth</guid>
 <pubDate>Thu, 13 Aug 2026 13:53:21 +0000</pubDate>
 <description>Speaking as the chief guest at a seminar titled "Promoting Public-Private Partnerships and Awareness in Eco-Tourism," organized by the Bangladesh ...</description>
-</item>
-<item>
-<title>Bangladesh Tourism Board seminar backs eco-tourism, public-private ties</title>
-<link>https://www.bangladeshmonitor.com.bd/en/bangladesh-tourism-board-seminar-backs-eco-tourism-public-private-ties</link>
-<guid isPermaLink="false">https://www.bangladeshmonitor.com.bd/en/bangladesh-tourism-board-seminar-backs-eco-tourism-public-private-ties</guid>
-<pubDate>Wed, 12 Aug 2026 15:39:56 +0000</pubDate>
-<description>The Bangladesh Tourism Board held a seminar on August 12 to promote eco-tourism through public-private partnerships and greater awareness among ...</description>
 </item>
 </channel>
 </rss>
