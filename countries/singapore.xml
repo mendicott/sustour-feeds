@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/singapore.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Singapore. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 20 Sep 2026 22:09:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 10:09:44 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>A Look at Phuket Old Town's Revival and Rising Challenges - Prestige Singapore</title>
+<link>https://www.prestigeonline.com/th/southern-thailand/arts-and-culture/a-look-at-phuket-old-towns-revival-and-rising-challenges/</link>
+<guid isPermaLink="false">https://www.prestigeonline.com/th/southern-thailand/arts-and-culture/a-look-at-phuket-old-towns-revival-and-rising-challenges/</guid>
+<pubDate>Mon, 21 Sep 2026 04:08:02 +0000</pubDate>
+<description>As tourism, rising rents and commercialisation reshape the historic district, its long-standing community is grappling with what should be preserved – ...</description>
+</item>
 <item>
 <title>Singapore keeps its hawker culture cooking - Travel Daily Media</title>
 <link>https://www.traveldailymedia.com/singapore-keeps-its-hawker-culture-cooking/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/t4svvcai3to6/</guid>
 <pubDate>Wed, 01 Jul 2026 12:18:01 +0000</pubDate>
 <description>Growing awareness of climate change, overtourism and biodiversity loss has encouraged governments, tourism boards and businesses to redesign ...</description>
-</item>
-<item>
-<title>Sustainable Tourism Academy Celebrates 3,000-User Milestone in First Year with ASEAN ...</title>
-<link>https://www.aol.com/articles/sustainable-tourism-academy-celebrates-3-044100000.html</link>
-<guid isPermaLink="false">https://www.aol.com/articles/sustainable-tourism-academy-celebrates-3-044100000.html</guid>
-<pubDate>Tue, 30 Jun 2026 23:51:14 +0000</pubDate>
-<description>SINGAPORE, June 29, 2026 /PRNewswire/ -- Digital travel platform Agoda and the Global Sustainable Tourism Council (GSTC) celebrate the first ...</description>
 </item>
 </channel>
 </rss>
