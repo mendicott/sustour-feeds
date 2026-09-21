@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/europe.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Europe. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 21 Sep 2026 10:09:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 22:13:19 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>'We don't want any more tourists!' Thousands march through Spain's holiday hotspots ... - Daily Mail</title>
+<link>https://www.dailymail.com/travel/article-16147561/Spain-holiday-overtourism-protests-Mallorca.html</link>
+<guid isPermaLink="false">https://www.dailymail.com/travel/article-16147561/Spain-holiday-overtourism-protests-Mallorca.html</guid>
+<pubDate>Mon, 21 Sep 2026 12:00:08 +0000</pubDate>
+<description>They raised concerns that the proposals would bring in more tourists to areas that are already battling overtourism. There were reportedly no ...</description>
+</item>
 <item>
 <title>As tourists flood Croatia, Dubrovnik tries to slow the flow - DW.com</title>
 <link>https://www.dw.com/en/croatias-dubrovnik-cracks-down-on-overtourism/video-79234269</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.traveldailynews.asia/fairs-exhibitions/uzbekistan-ecotourism-summit-sustainable-tourism/</guid>
 <pubDate>Sat, 05 Sep 2026 05:14:28 +0000</pubDate>
 <description>Uzbekistan's Tourism Committee, the International Ecotourism Society and TGS Travel organised the event. Previous editions of the forum took place ...</description>
-</item>
-<item>
-<title>Portugal archipelago renews sustainable tourism certification</title>
-<link>https://www.theportugalnews.com/news/2026-09-04/portugal-archipelago-renews-sustainable-tourism-certification/1081374</link>
-<guid isPermaLink="false">https://www.theportugalnews.com/news/2026-09-04/portugal-archipelago-renews-sustainable-tourism-certification/1081374</guid>
-<pubDate>Fri, 04 Sep 2026 19:17:29 +0000</pubDate>
-<description>Madeira has renewed its international recognition as a sustainable tourism destination, retaining its EarthCheck certification at Level IV of the ...</description>
 </item>
 </channel>
 </rss>

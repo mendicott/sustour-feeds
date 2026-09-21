@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 21 Sep 2026 10:09:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 22:13:19 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>'We don't want any more tourists!' Thousands march through Spain's holiday hotspots ... - Daily Mail</title>
+<link>https://www.dailymail.com/travel/article-16147561/Spain-holiday-overtourism-protests-Mallorca.html</link>
+<guid isPermaLink="false">https://www.dailymail.com/travel/article-16147561/Spain-holiday-overtourism-protests-Mallorca.html</guid>
+<pubDate>Mon, 21 Sep 2026 12:00:08 +0000</pubDate>
+<description>They raised concerns that the proposals would bring in more tourists to areas that are already battling overtourism. There were reportedly no ...</description>
+</item>
 <item>
 <title>Hundreds flood popular Ibiza beach in protest against tourists - The Sun</title>
 <link>https://www.the-sun.com/news/16927513/ibiza-beach-floods-protest-against-tourists/</link>
@@ -21,6 +28,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ux7f5fthw6bb/</guid>
 <pubDate>Thu, 23 Jul 2026 04:57:39 +0000</pubDate>
 <description>The regenerative travel revolution is moving beyond traditional tourism and creating a new era where journeys deliver lasting benefits. Spain, ...</description>
+</item>
+<item>
+<title>Spain Follows Germany and More as France Sustainable Food Tourism Drives Farm-to-Table Travel</title>
+<link>https://www.travelandtourworld.com/news/article/fn9r1tig6jp2/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/fn9r1tig6jp2/</guid>
+<pubDate>Mon, 21 Sep 2026 20:27:01 +0000</pubDate>
+<description>The government's 2030 tourism ambition also includes making France a leading sustainable tourism destination. For travellers, this connects ...</description>
 </item>
 <item>
 <title>Mass Tourism in Spain Results in Water Stress | .TR</title>
@@ -63,20 +77,6 @@
 <guid isPermaLink="false">https://o.canada.com/travel/despite-overtourism-barcelona-still-knows-how-to-welcome</guid>
 <pubDate>Wed, 16 Sep 2026 16:40:50 +0000</pubDate>
 <description>Barcelona has a commissioner for sustainable tourism whose job sounds like it's about telling people like me to book somewhere else. The Spanish ...</description>
-</item>
-<item>
-<title>Spain brings residents and business together to shape 2030 Sustainable Tourism Strategy</title>
-<link>https://traveltomorrow.com/spain-brings-residents-and-business-together-to-shape-2030-sustainable-tourism-strategy/</link>
-<guid isPermaLink="false">https://traveltomorrow.com/spain-brings-residents-and-business-together-to-shape-2030-sustainable-tourism-strategy/</guid>
-<pubDate>Wed, 16 Sep 2026 15:21:20 +0000</pubDate>
-<description>Spain is launching a Sustainable Tourism Strategy 2030, a blueprint for transforming the country's surging tourism sector with the input of ...</description>
-</item>
-<item>
-<title>Greece And Spain Tourism Ties Deepen As First-Ever Tourism MoU Creates New Path For ...</title>
-<link>https://www.travelandtourworld.com/news/article/yvakl293u3m3/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/yvakl293u3m3/</guid>
-<pubDate>Wed, 16 Sep 2026 07:44:01 +0000</pubDate>
-<description>Greece and Spain strengthen their tourism partnership through the signing of an unprecedented MoU on sustainable tourism development.</description>
 </item>
 </channel>
 </rss>

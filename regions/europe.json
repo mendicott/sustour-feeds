@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.dailymail.com/travel/article-16147561/Spain-holiday-overtourism-protests-Mallorca.html",
+      "url": "https://www.dailymail.com/travel/article-16147561/Spain-holiday-overtourism-protests-Mallorca.html",
+      "title": "'We don't want any more tourists!' Thousands march through Spain's holiday hotspots ... - Daily Mail",
+      "content_text": "They raised concerns that the proposals would bring in more tourists to areas that are already battling overtourism. There were reportedly no ...",
+      "date_published": "2026-09-21T12:00:08+00:00"
+    },
+    {
       "id": "https://www.dw.com/en/croatias-dubrovnik-cracks-down-on-overtourism/video-79234269",
       "url": "https://www.dw.com/en/croatias-dubrovnik-cracks-down-on-overtourism/video-79234269",
       "title": "As tourists flood Croatia, Dubrovnik tries to slow the flow - DW.com",
@@ -68,13 +75,6 @@
       "title": "Uzbekistan hosts first international ecotourism summit to expand sustainable tourism cooperation",
       "content_text": "Uzbekistan's Tourism Committee, the International Ecotourism Society and TGS Travel organised the event. Previous editions of the forum took place ...",
       "date_published": "2026-09-05T05:14:28+00:00"
-    },
-    {
-      "id": "https://www.theportugalnews.com/news/2026-09-04/portugal-archipelago-renews-sustainable-tourism-certification/1081374",
-      "url": "https://www.theportugalnews.com/news/2026-09-04/portugal-archipelago-renews-sustainable-tourism-certification/1081374",
-      "title": "Portugal archipelago renews sustainable tourism certification",
-      "content_text": "Madeira has renewed its international recognition as a sustainable tourism destination, retaining its EarthCheck certification at Level IV of the ...",
-      "date_published": "2026-09-04T19:17:29+00:00"
     }
   ]
 }
