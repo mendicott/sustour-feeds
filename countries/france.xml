@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/france.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for France. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 22 Sep 2026 10:09:58 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 22:13:52 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Train from France to Chișinău: "I didn't know I'd like Moldova so much"</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lah8spefggvv/</guid>
 <pubDate>Mon, 06 Jul 2026 07:57:09 +0000</pubDate>
 <description>Calanques visitor caps return in France for 2026, limiting access to Mediterranean beaches to curb overtourism and protect fragile ecosystems.</description>
+</item>
+<item>
+<title>Spain Follows France and Others as Europe Embraces Slow Travel and Better Distributed Tourism</title>
+<link>https://www.travelandtourworld.com/news/article/109q1wxuwbqe/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/109q1wxuwbqe/</guid>
+<pubDate>Tue, 22 Sep 2026 10:55:07 +0000</pubDate>
+<description>Spain Slow Travel Strategy Opens a New Tourism Map Beyond Traditional Hotspots · Spain Tourism Spending Rises Faster Than Visitor Numbers in 2026.</description>
 </item>
 <item>
 <title>Spain Follows Germany and More as France Sustainable Food Tourism Drives Farm-to-Table Travel</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://inews.co.uk/news/world/britons-favourite-french-holiday-spot-sick-tourists-4727245</guid>
 <pubDate>Sun, 30 Aug 2026 14:39:58 +0000</pubDate>
 <description>Anti-tourism protests that have ignited across Spain could be coming for France. ... overtourism when a significant part of the host population ...</description>
-</item>
-<item>
-<title>From maligned second city to Insta magnet: Marseille is France's new capital of overtourism</title>
-<link>https://www.pressreader.com/usa/the-guardian-usa/20260829/281934549807531</link>
-<guid isPermaLink="false">https://www.pressreader.com/usa/the-guardian-usa/20260829/281934549807531</guid>
-<pubDate>Sat, 29 Aug 2026 09:20:02 +0000</pubDate>
-<description>But it has also prompted a heated debate over the challenges of overtourism. This summer has felt like something of a tipping point. In June, the ...</description>
 </item>
 </channel>
 </rss>

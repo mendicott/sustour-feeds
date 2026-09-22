@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 22 Sep 2026 10:09:58 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 22:13:52 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>'We don't want any more tourists!' Thousands march through Spain's holiday hotspots ... - Daily Mail</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ux7f5fthw6bb/</guid>
 <pubDate>Thu, 23 Jul 2026 04:57:39 +0000</pubDate>
 <description>The regenerative travel revolution is moving beyond traditional tourism and creating a new era where journeys deliver lasting benefits. Spain, ...</description>
+</item>
+<item>
+<title>Spain Follows France and Others as Europe Embraces Slow Travel and Better Distributed Tourism</title>
+<link>https://www.travelandtourworld.com/news/article/109q1wxuwbqe/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/109q1wxuwbqe/</guid>
+<pubDate>Tue, 22 Sep 2026 10:55:07 +0000</pubDate>
+<description>Spain Slow Travel Strategy Opens a New Tourism Map Beyond Traditional Hotspots · Spain Tourism Spending Rises Faster Than Visitor Numbers in 2026.</description>
 </item>
 <item>
 <title>Spain Follows Germany and More as France Sustainable Food Tourism Drives Farm-to-Table Travel</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/dx9ha9hz24c0/</guid>
 <pubDate>Fri, 18 Sep 2026 06:27:49 +0000</pubDate>
 <description>Spain, Tanzania, Germany and South Africa face a new sustainable travel era as EU greenwashing rules reshape tourism marketing in 2026.</description>
-</item>
-<item>
-<title>Barcelona said 'not one tourist more.' It welcomed us anyway | Canada.Com</title>
-<link>https://o.canada.com/travel/despite-overtourism-barcelona-still-knows-how-to-welcome</link>
-<guid isPermaLink="false">https://o.canada.com/travel/despite-overtourism-barcelona-still-knows-how-to-welcome</guid>
-<pubDate>Wed, 16 Sep 2026 16:40:50 +0000</pubDate>
-<description>Barcelona has a commissioner for sustainable tourism whose job sounds like it's about telling people like me to book somewhere else. The Spanish ...</description>
 </item>
 </channel>
 </rss>
