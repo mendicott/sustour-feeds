@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/asia-the-pacific.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Asia &amp; the Pacific. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 22 Sep 2026 22:13:52 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 10:09:48 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Krabi emerges as Thailand's prototype for sustainable and restorative tourism</title>
+<link>https://www.traveldailynews.asia/destinations/krabi-sustainable-tourism-prototype/</link>
+<guid isPermaLink="false">https://www.traveldailynews.asia/destinations/krabi-sustainable-tourism-prototype/</guid>
+<pubDate>Tue, 22 Sep 2026 23:14:25 +0000</pubDate>
+<description>Krabi sustainable tourism combines conservation, community experiences and wellness as Thailand tests a new model for responsible travel.</description>
+</item>
 <item>
 <title>Thailand: The more popular tourism becomes, the more tired the people get. - Vietnam.vn</title>
 <link>https://www.vietnam.vn/en/thai-lan-du-lich-cang-noi-tieng-nguoi-dan-cang-met-moi</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366463/visitors-urge-hong-kong-ease-restrictions-sai-kung-trail-registration-begins</guid>
 <pubDate>Sat, 05 Sep 2026 15:03:12 +0000</pubDate>
 <description>The countryside reservation system is the city's first. It was implemented in response to overtourism concerns, largely driven by mainland Chinese ...</description>
-</item>
-<item>
-<title>Japan Aligns With Greece And More Countries In Overtourism Fight On ... - Travel And Tour World</title>
-<link>https://www.travelandtourworld.com/news/article/c8je5vgmci49/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/c8je5vgmci49/</guid>
-<pubDate>Sat, 05 Sep 2026 08:46:57 +0000</pubDate>
-<description>Netherlands And Norway Join Global Movement Against Tourism Pressure. Other European destinations are also strengthening overtourism policies.</description>
 </item>
 </channel>
 </rss>
