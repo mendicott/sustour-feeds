@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 23 Sep 2026 10:09:48 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 22:13:46 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Rome Joins Venice and Other Cities as Italy Battles Overtourism with New Measures Amid ...</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lah8spefggvv/</guid>
 <pubDate>Mon, 06 Jul 2026 07:57:09 +0000</pubDate>
 <description>Calanques visitor caps return in France for 2026, limiting access to Mediterranean beaches to curb overtourism and protect fragile ecosystems.</description>
+</item>
+<item>
+<title>Geoparks, Parks, Territories, Communities - ISPRA</title>
+<link>https://www.isprambiente.gov.it/en/news/geoparks-parks-territories-communities</link>
+<guid isPermaLink="false">https://www.isprambiente.gov.it/en/news/geoparks-parks-territories-communities</guid>
+<pubDate>Wed, 23 Sep 2026 16:04:24 +0000</pubDate>
+<description>Geoparks, Parks, Territories, Communities. On October 6, marking the UNESCO International Day of Geodiversity, the Italian Federation of UNESCO Clubs ...</description>
 </item>
 <item>
 <title>Canadians could pay more to visit a popular European destination | Daily Hive | National</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/loyj894xl80y/</guid>
 <pubDate>Wed, 09 Sep 2026 10:35:03 +0000</pubDate>
 <description>Norway joins Italy and Europe's top destinations in using tourist taxes, visitor caps and crowd controls to protect tourism from overtourism.</description>
-</item>
-<item>
-<title>Italy Leads Other Countries in AI Overtourism Control Using IoT Tech</title>
-<link>https://www.travelandtourworld.com/news/article/34l5rfnoybu2/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/34l5rfnoybu2/</guid>
-<pubDate>Sun, 06 Sep 2026 21:48:46 +0000</pubDate>
-<description>Italy is the first country to combat AI overtourism by utilizing IoT technology to ensure the sustainability of its heritage sites.</description>
 </item>
 </channel>
 </rss>

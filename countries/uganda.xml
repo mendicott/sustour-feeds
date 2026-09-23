@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/uganda.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Uganda. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 23 Sep 2026 10:09:48 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 22:13:46 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>As Uganda Opens Its Parks For free, Who Is Protecting the Wildlife That Makes Tourism Possible?</title>
+<link>https://pmldaily.com/oped/2026/09/as-uganda-opens-its-parks-for-free-who-is-protecting-the-wildlife-that-makes-tourism-possible.html</link>
+<guid isPermaLink="false">https://pmldaily.com/oped/2026/09/as-uganda-opens-its-parks-for-free-who-is-protecting-the-wildlife-that-makes-tourism-possible.html</guid>
+<pubDate>Wed, 23 Sep 2026 17:52:53 +0000</pubDate>
+<description>Communities around protected areas need tourism-related income and opportunities. When ecosystems are degraded, the economic consequences can travel ...</description>
+</item>
 <item>
 <title>Tourism: Bwindi communities reap benefits from gorilla touri - New Vision</title>
 <link>https://www.newvision.co.ug/category/travel/bwindi-communities-reap-benefits-from-gorilla-NV_240988_092026</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.independent.co.ug/restoring-bugoma-budongo-corridor-a-lifeline-for-ugandas-endangered-chimpanzees/</guid>
 <pubDate>Tue, 01 Sep 2026 19:19:35 +0000</pubDate>
 <description>Budongo, Uganda | NEWS CORRESPONDENT | Across the scenic Murchison Landscape of Western Uganda, the northern Albertine Rift is celebrated for its ...</description>
-</item>
-<item>
-<title>Botswana and Other Countries Lead 2026 Wildlife Tourism as Rare Encounters and ...</title>
-<link>https://www.travelandtourworld.com/news/article/yhyw3hot921y/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/yhyw3hot921y/</guid>
-<pubDate>Mon, 31 Aug 2026 13:42:29 +0000</pubDate>
-<description>Botswana, Namibia, Kenya and Uganda drive wildlife tourism in 2026 through safaris, gorilla trekking, rare species and conservation-led travel.</description>
 </item>
 </channel>
 </rss>
