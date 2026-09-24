@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 24 Sep 2026 10:09:52 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 22:14:50 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>The women saving Mexico's 'sacred Maya bee' - CNN</title>
@@ -44,6 +44,13 @@
 <description>Mexico launched its 2026-2030 Sustainable Tourism Policy to strengthen sustainability and climate resilience nationwide.</description>
 </item>
 <item>
+<title>Saving Jaguars at the Sian Ka'an Biosphere Reserve in Mexico - The Tanzania Times</title>
+<link>https://tanzaniatimes.net/saving-jaguars-at-the-sian-kaan-biosphere-reserve-in-mexico/</link>
+<guid isPermaLink="false">https://tanzaniatimes.net/saving-jaguars-at-the-sian-kaan-biosphere-reserve-in-mexico/</guid>
+<pubDate>Thu, 24 Sep 2026 14:14:07 +0000</pubDate>
+<description>It is also and a World Heritage Site as endorsed by United Nations ... tourism practices based on a Wildlife Care in Tourism Activities Manual.</description>
+</item>
+<item>
 <title>Morelia Mexico Blends World Heritage Beauty With a Powerful Responsible Travel Story</title>
 <link>https://www.travelandtourworld.com/news/article/qm9n32jw4fnt/</link>
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/qm9n32jw4fnt/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelmarketreport.com/canada/destinations/articles/mexico-makes-community-based-tourism-a-national-priority</guid>
 <pubDate>Tue, 15 Sep 2026 00:23:44 +0000</pubDate>
 <description>The initiative initially focuses on three destinations that illustrate the diversity of community tourism in Mexico: Maya Ka'an in Quintana Roo, ...</description>
-</item>
-<item>
-<title>Mexico Puts Community Tourism at the Center of Its Next Chapter</title>
-<link>https://natlawreview.com/press-releases/mexico-puts-community-tourism-center-its-next-chapter</link>
-<guid isPermaLink="false">https://natlawreview.com/press-releases/mexico-puts-community-tourism-center-its-next-chapter</guid>
-<pubDate>Mon, 14 Sep 2026 20:50:42 +0000</pubDate>
-<description>Together, they present travelers with experiences spanning ecotourism, outdoor adventure, gastronomy, Indigenous culture, traditional arts and ...</description>
 </item>
 </channel>
 </rss>

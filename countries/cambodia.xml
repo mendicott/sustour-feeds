@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/cambodia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Cambodia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 24 Sep 2026 10:09:52 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 22:14:50 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>MoT, Genrich Investment join forces on climate solutions - Khmer Times</title>
+<link>https://www.khmertimeskh.com/502030032/mot-genrich-investment-join-forces-on-climate-solutions/</link>
+<guid isPermaLink="false">https://www.khmertimeskh.com/502030032/mot-genrich-investment-join-forces-on-climate-solutions/</guid>
+<pubDate>Thu, 24 Sep 2026 17:22:39 +0000</pubDate>
+<description>This strategic partnership will focus on sustainable tourism development, climate solutions, and carbon credit initiatives across Cambodia. By ...</description>
+</item>
 <item>
 <title>Cambodia's Ecotourism Ranking Reflects Conservation, Community Efforts: Environment Minister</title>
 <link>https://www.khmertimeskh.com/502021125/cambodias-ecotourism-ranking-reflects-conservation-community-efforts-environment-minister/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/le72rnl2j7jj/</guid>
 <pubDate>Tue, 15 Sep 2026 18:20:09 +0000</pubDate>
 <description>Cambodia starts a beach cleanup initiative in Preah Sihanouk to reduce plastic waste, protect marine ecosystems and promote sustainable tourism.</description>
-</item>
-<item>
-<title>National Campaign for Marine Protection and Sustainable Coastal Tourism</title>
-<link>https://www.undp.org/cambodia/news/national-campaign-marine-protection-and-sustainable-coastal-tourism</link>
-<guid isPermaLink="false">https://www.undp.org/cambodia/news/national-campaign-marine-protection-and-sustainable-coastal-tourism</guid>
-<pubDate>Tue, 15 Sep 2026 08:07:06 +0000</pubDate>
-<description>Cambodia's beaches and marine ecosystems are central to coastal tourism, local businesses and community livelihoods. With support from The Coca ...</description>
 </item>
 </channel>
 </rss>
