@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/australia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Australia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 23 Sep 2026 22:13:46 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 10:09:52 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Australia's First Nations Tourism Transformation Is Giving Culture a Powerful Role in Every Journey</title>
@@ -58,6 +58,13 @@
 <description>... meaningful travel beyond the world's crowded tourist hotspots, while waging a determined crusade against overtourism through sustainable tourism ...</description>
 </item>
 <item>
+<title>The eco-tourism projects turning fishermen and poachers into environmental guardians</title>
+<link>https://www.cntravellerme.com/story/the-eco-tourism-projects-turning-fishermen-and-poachers-into-environmental-guardians</link>
+<guid isPermaLink="false">https://www.cntravellerme.com/story/the-eco-tourism-projects-turning-fishermen-and-poachers-into-environmental-guardians</guid>
+<pubDate>Wed, 23 Sep 2026 22:18:31 +0000</pubDate>
+<description>They are the villains in everyone's story, but they are the heroes in ours," says Project Hiu founder and Australian filmmaker Madison Stewart.</description>
+</item>
+<item>
 <title>Public trust crucial for ecotourism in Australia's protected areas - UQ News</title>
 <link>https://news.uq.edu.au/2026-09-public-trust-crucial-ecotourism-australias-protected-areas</link>
 <guid isPermaLink="false">https://news.uq.edu.au/2026-09-public-trust-crucial-ecotourism-australias-protected-areas</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/vyllk36un78x/</guid>
 <pubDate>Sun, 20 Sep 2026 22:13:14 +0000</pubDate>
 <description>Australian Beaches Introducing Stronger Visitor Controls During Fall 2026 to Manage Overtourism. Beach / Coastal Destination, Location, Authority / ...</description>
-</item>
-<item>
-<title>How tourist cities are curbing overtourism — ABC News Australia</title>
-<link>https://ua.news/en/podorozhi/iak-turistichni-mista-strimuiut-nadmirnii-turizm-abc-news-australia</link>
-<guid isPermaLink="false">https://ua.news/en/podorozhi/iak-turistichni-mista-strimuiut-nadmirnii-turizm-abc-news-australia</guid>
-<pubDate>Sun, 20 Sep 2026 05:38:11 +0000</pubDate>
-<description>Joseph Cheer, a professor of sustainable tourism at Western Sydney University, explained that overtourism is not only about large numbers of ...</description>
 </item>
 </channel>
 </rss>
