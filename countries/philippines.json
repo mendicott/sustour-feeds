@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.pna.gov.ph/articles/1284762",
+      "url": "https://www.pna.gov.ph/articles/1284762",
+      "title": "Bill guaranteeing communities' share of tourism revenue pushed - Philippine News Agency",
+      "content_text": "House Bill No. 3110 or the Community-Based Tourism (CBT) bill requires the establishment of transparent revenue-sharing mechanisms between LGUs ...",
+      "date_published": "2026-09-24T10:57:31+00:00"
+    },
+    {
       "id": "https://pia.gov.ph/news/indigenous-peoples-join-denr-xi-pef-in-new-drive-to-protect-philippine-eagle/",
       "url": "https://pia.gov.ph/news/indigenous-peoples-join-denr-xi-pef-in-new-drive-to-protect-philippine-eagle/",
       "title": "Indigenous Peoples join DENR-XI, PEF in new drive to protect Philippine Eagle",
@@ -68,13 +75,6 @@
       "title": "Philippines Hosts ASEAN Heritage Parks Forum to Advance their Sustainable Tourism and ...",
       "content_text": "... tourism, protected area conservation and regional biodiversity ... tourism cooperation, Philippines Sustainable Tourism, protected areas ASEAN.",
       "date_published": "2026-09-12T21:53:03+00:00"
-    },
-    {
-      "id": "https://lifestyleasia-onemega.com/travel/phitex-2026-sustainable-tourism-philippines/",
-      "url": "https://lifestyleasia-onemega.com/travel/phitex-2026-sustainable-tourism-philippines/",
-      "title": "PHITEX 2026 Asks What Sustainable Tourism Looks Like - Lifestyle Asia",
-      "content_text": "PHITEX 2026, organized by the Tourism Promotions Board Philippines, examined how tourism supports local livelihoods and preserves cultural ...",
-      "date_published": "2026-09-12T15:01:12+00:00"
     }
   ]
 }

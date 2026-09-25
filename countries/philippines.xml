@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/philippines.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Philippines. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 24 Sep 2026 22:14:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 10:10:11 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Bill guaranteeing communities' share of tourism revenue pushed - Philippine News Agency</title>
+<link>https://www.pna.gov.ph/articles/1284762</link>
+<guid isPermaLink="false">https://www.pna.gov.ph/articles/1284762</guid>
+<pubDate>Thu, 24 Sep 2026 10:57:31 +0000</pubDate>
+<description>House Bill No. 3110 or the Community-Based Tourism (CBT) bill requires the establishment of transparent revenue-sharing mechanisms between LGUs ...</description>
+</item>
 <item>
 <title>Indigenous Peoples join DENR-XI, PEF in new drive to protect Philippine Eagle</title>
 <link>https://pia.gov.ph/news/indigenous-peoples-join-denr-xi-pef-in-new-drive-to-protect-philippine-eagle/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/eybqzwxk5tio/</guid>
 <pubDate>Sat, 12 Sep 2026 21:53:03 +0000</pubDate>
 <description>... tourism, protected area conservation and regional biodiversity ... tourism cooperation, Philippines Sustainable Tourism, protected areas ASEAN.</description>
-</item>
-<item>
-<title>PHITEX 2026 Asks What Sustainable Tourism Looks Like - Lifestyle Asia</title>
-<link>https://lifestyleasia-onemega.com/travel/phitex-2026-sustainable-tourism-philippines/</link>
-<guid isPermaLink="false">https://lifestyleasia-onemega.com/travel/phitex-2026-sustainable-tourism-philippines/</guid>
-<pubDate>Sat, 12 Sep 2026 15:01:12 +0000</pubDate>
-<description>PHITEX 2026, organized by the Tourism Promotions Board Philippines, examined how tourism supports local livelihoods and preserves cultural ...</description>
 </item>
 </channel>
 </rss>

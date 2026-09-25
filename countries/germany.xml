@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/germany.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Germany. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 24 Sep 2026 22:14:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 10:10:11 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Regenerative Tourism: Investing in Nature and Local Economies across KAZA | GIZ</title>
+<link>https://www.giz.de/en/regions/africa/sadc-botswana/news/regenerative-tourism-investing-nature-and-local-economies-across-kaza</link>
+<guid isPermaLink="false">https://www.giz.de/en/regions/africa/sadc-botswana/news/regenerative-tourism-investing-nature-and-local-economies-across-kaza</guid>
+<pubDate>Fri, 25 Sep 2026 01:19:47 +0000</pubDate>
+<description>With support from Germany and the European Union, a new initiative in the Kavango Zambezi Trans Frontier Conservation Area is helping turn nature- ...</description>
+</item>
 <item>
 <title>Costa Rica Overtakes Germany, France, Palau, Japan and Others in ... - Travel And Tour World</title>
 <link>https://www.travelandtourworld.com/news/article/jy3zhx4mk27j/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.majorcadailybulletin.com/news/local/2026/09/10/145655/balearic-controversy-over-german-song-criticising-anti-tourism-protests-local-residents-unacceptable/related.html</guid>
 <pubDate>Thu, 10 Sep 2026 15:39:29 +0000</pubDate>
 <description>Balearic controversy over German song criticising anti-tourism protests by local residents as "unacceptable". The "Ballermann" phenomenon refers to ...</description>
-</item>
-<item>
-<title>Prohens considers the German song against the anti-tourism protests in Mallorca inadmissible.</title>
-<link>https://www.democrata.es/en/economy/prohens-considers-the-german-song-against-the-anti-tourism-protests-in-mallorca-inadmissible/</link>
-<guid isPermaLink="false">https://www.democrata.es/en/economy/prohens-considers-the-german-song-against-the-anti-tourism-protests-in-mallorca-inadmissible/</guid>
-<pubDate>Thu, 10 Sep 2026 07:24:10 +0000</pubDate>
-<description>Marga Prohens labels as unacceptable a German song that ridicules the anti-tourism protests of Mallorcan residents and defends responsible ...</description>
 </item>
 </channel>
 </rss>

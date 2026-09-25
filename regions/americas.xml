@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/americas.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Americas. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 24 Sep 2026 22:14:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 10:10:11 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Yucatán and Quintana Roo Put Maya Communities at the Heart of Sustainable Tourism</title>
+<link>https://www.travelandtourworld.com/news/article/z790yq0m9c3h/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/z790yq0m9c3h/</guid>
+<pubDate>Fri, 25 Sep 2026 06:56:18 +0000</pubDate>
+<description>Mexico is expanding community-based tourism in Yucatán and Quintana Roo, linking Maya communities, conservation and sustainable visitor ...</description>
+</item>
 <item>
 <title>How Corrientes and Paraguay Are Unlocking the Iberá Wetlands - Travel And Tour World</title>
 <link>https://www.travelandtourworld.com/news/article/yovvhto4dao2/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/mexico-advances-biodiversity-sustainable-development-plans</guid>
 <pubDate>Fri, 04 Sep 2026 18:55:21 +0000</pubDate>
 <description>Coastal Restoration · sustainable tourism · marine conservation · Sustainable Resource Management · environmental policy · Semarnat · conanp · IUCN ...</description>
-</item>
-<item>
-<title>Mexico Advances Biodiversity and Sustainable Development</title>
-<link>https://mexicobusiness.news/sustainability/news/mexico-advances-biodiversity-and-sustainable-development</link>
-<guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/mexico-advances-biodiversity-and-sustainable-development</guid>
-<pubDate>Fri, 04 Sep 2026 18:25:22 +0000</pubDate>
-<description>... sustainable development across the Gran Selva Maya Biocultural Corridor. ... sustainable tourism · marine conservation · Sustainable Resource ...</description>
 </item>
 </channel>
 </rss>

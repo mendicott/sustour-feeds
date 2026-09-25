@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/europe.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Europe. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 24 Sep 2026 22:14:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 10:10:11 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Regenerative Tourism: Investing in Nature and Local Economies across KAZA | GIZ</title>
+<link>https://www.giz.de/en/regions/africa/sadc-botswana/news/regenerative-tourism-investing-nature-and-local-economies-across-kaza</link>
+<guid isPermaLink="false">https://www.giz.de/en/regions/africa/sadc-botswana/news/regenerative-tourism-investing-nature-and-local-economies-across-kaza</guid>
+<pubDate>Fri, 25 Sep 2026 01:19:47 +0000</pubDate>
+<description>With support from Germany and the European Union, a new initiative in the Kavango Zambezi Trans Frontier Conservation Area is helping turn nature- ...</description>
+</item>
 <item>
 <title>'We don't want any more tourists!' Thousands march through Spain's holiday hotspots ... - Daily Mail</title>
 <link>https://www.dailymail.com/travel/article-16147561/Spain-holiday-overtourism-protests-Mallorca.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/c8je5vgmci49/</guid>
 <pubDate>Sat, 05 Sep 2026 08:46:57 +0000</pubDate>
 <description>Netherlands And Norway Join Global Movement Against Tourism Pressure. Other European destinations are also strengthening overtourism policies.</description>
-</item>
-<item>
-<title>Uzbekistan hosts first international ecotourism summit to expand sustainable tourism cooperation</title>
-<link>https://www.traveldailynews.asia/fairs-exhibitions/uzbekistan-ecotourism-summit-sustainable-tourism/</link>
-<guid isPermaLink="false">https://www.traveldailynews.asia/fairs-exhibitions/uzbekistan-ecotourism-summit-sustainable-tourism/</guid>
-<pubDate>Sat, 05 Sep 2026 05:14:28 +0000</pubDate>
-<description>Uzbekistan's Tourism Committee, the International Ecotourism Society and TGS Travel organised the event. Previous editions of the forum took place ...</description>
 </item>
 </channel>
 </rss>

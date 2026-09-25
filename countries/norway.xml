@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/norway.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Norway. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 24 Sep 2026 22:14:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 10:10:11 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Why Norway's Lofoten Islands Are Implementing a Vital Tourist Tax This Season</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/c8je5vgmci49/</guid>
 <pubDate>Sat, 05 Sep 2026 08:46:57 +0000</pubDate>
 <description>Netherlands And Norway Join Global Movement Against Tourism Pressure. Other European destinations are also strengthening overtourism policies.</description>
+</item>
+<item>
+<title>Norway Enforces Zero-Emission Rules for World Heritage Fjords</title>
+<link>https://www.travelandtourworld.com/news/article/umm8ts6fz14y/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/umm8ts6fz14y/</guid>
+<pubDate>Fri, 25 Sep 2026 05:01:05 +0000</pubDate>
+<description>Norway's zero-emission rules reshape fjord tourism as smaller passenger vessels face new requirements in Geirangerfjord and Nærøyfjord.</description>
 </item>
 <item>
 <title>Costa Rica Joins Norway and Other Countries in Launching Zero-Carbon Slow-Tech ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/fu043nsw0il7/</guid>
 <pubDate>Tue, 01 Sep 2026 10:27:16 +0000</pubDate>
 <description>Cooperation between Norway and Seychelles is increasing in tourism, ocean conservation, climate change and sustainable tourism.</description>
-</item>
-<item>
-<title>Three Radisson Blu Hotels in Norway Achieve Verified Net Zero Status - Safari India</title>
-<link>https://safariindia.com/radisson-blu-hotels-norway-verified-net-zero/</link>
-<guid isPermaLink="false">https://safariindia.com/radisson-blu-hotels-norway-verified-net-zero/</guid>
-<pubDate>Tue, 01 Sep 2026 07:03:25 +0000</pubDate>
-<description>Ltd., covering travel, tourism, hospitality, aviation and lifestyle. I report on industry news, business developments, interviews and emerging ...</description>
 </item>
 </channel>
 </rss>
