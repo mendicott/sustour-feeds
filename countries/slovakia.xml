@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/slovakia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Slovakia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 25 Sep 2026 10:10:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 22:14:25 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>This Slovak village wants to get rid of its UNESCO World Heritage designation</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://theworld.org/stories/2026/08/04/this-slovak-village-wants-to-get-rid-of-its-unesco-world-heritage-designation</guid>
 <pubDate>Tue, 04 Aug 2026 18:27:03 +0000</pubDate>
 <description>From DW, Inside Europe's Rob Cameron reports about the small Slovak village that wants to drop its UNESCO designation because of too much tourism.</description>
+</item>
+<item>
+<title>This Tiny Village Is Picture Perfect, Apart From All the Tourists - The New York Times</title>
+<link>https://www.nytimes.com/2026/09/25/world/europe/slovakia-village-tourism.html</link>
+<guid isPermaLink="false">https://www.nytimes.com/2026/09/25/world/europe/slovakia-village-tourism.html</guid>
+<pubDate>Fri, 25 Sep 2026 12:18:12 +0000</pubDate>
+<description>The residents of Vlkolinec in Slovakia — there are 17 — say that since the place was named a world heritage site, gawking hordes have made it ...</description>
 </item>
 <item>
 <title>Tourist boom overwhelms tiny Slovak paradise. Police forced to ban cars from lake village</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://today.rtl.lu/news/world/not-a-museum-slovak-unesco-village-strains-under-tourism-322689880</guid>
 <pubDate>Fri, 03 Jul 2026 11:15:30 +0000</pubDate>
 <description>68-year-old pensioner Anton Sabucha protested to AFP, nodding to the signs outside his house. Tourists are "going wherever they want, taking pictures ...</description>
-</item>
-<item>
-<title>Tanzania-Slovakia dialogue on strengthening biosphere reserves cooperation - UNESCO</title>
-<link>https://www.unesco.org/en/articles/tanzania-slovakia-dialogue-strengthening-biosphere-reserves-cooperation</link>
-<guid isPermaLink="false">https://www.unesco.org/en/articles/tanzania-slovakia-dialogue-strengthening-biosphere-reserves-cooperation</guid>
-<pubDate>Mon, 15 Jun 2026 07:59:39 +0000</pubDate>
-<description>A high-level visit to the UNESCO Dar es Salaam Office opened new opportunities for collaboration between Slovakia and Tanzania in managing the ...</description>
 </item>
 </channel>
 </rss>

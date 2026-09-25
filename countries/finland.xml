@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/finland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Finland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 25 Sep 2026 10:10:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 22:14:25 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Helsinki tops GDS-Index for third year amid record scores across the board - micebook.</title>
+<link>https://micebook.com/blog/2026/09/25/helsinki-tops-gds-index-for-third-year-amid-record-scores-across-the-board/</link>
+<guid isPermaLink="false">https://micebook.com/blog/2026/09/25/helsinki-tops-gds-index-for-third-year-amid-record-scores-across-the-board/</guid>
+<pubDate>Fri, 25 Sep 2026 12:18:56 +0000</pubDate>
+<description>By influencing the interconnected systems behind tourism and events, destinations can accelerate the shift from sustainability to regeneration ...</description>
+</item>
 <item>
 <title>Helsinki Friend | City of Helsinki</title>
 <link>https://www.hel.fi/en/business-and-work/helsinki-friend</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/mpjwyq78we40/</guid>
 <pubDate>Mon, 24 Aug 2026 07:04:27 +0000</pubDate>
 <description>... climate change before affecting the city itself. Now, smart ... I want to receive travel news and trade event updates from Travel And Tour World.</description>
-</item>
-<item>
-<title>Denmark Aligns with UK, France, Finland and Others in Leading Sustainable Travel ...</title>
-<link>https://www.travelandtourworld.com/news/article/rv3qejf16pp9/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/rv3qejf16pp9/</guid>
-<pubDate>Tue, 14 Jul 2026 07:18:06 +0000</pubDate>
-<description>Pioneered by Wonderful Copenhagen and backed by the European Commission as a validated pathway for future tourism development, the deployment of state ...</description>
 </item>
 </channel>
 </rss>

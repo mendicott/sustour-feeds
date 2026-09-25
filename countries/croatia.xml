@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/croatia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Croatia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 25 Sep 2026 10:10:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 22:14:25 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>As tourists flood Croatia, Dubrovnik tries to slow the flow - DW.com</title>
@@ -65,18 +65,18 @@
 <description>Calanques visitor caps return in France for 2026, limiting access to Mediterranean beaches to curb overtourism and protect fragile ecosystems.</description>
 </item>
 <item>
+<title>Dubrovnik Pass wins European award for sustainable cultural tourism - HINA</title>
+<link>https://www.hina.hr/news/12514054</link>
+<guid isPermaLink="false">https://www.hina.hr/news/12514054</guid>
+<pubDate>Fri, 25 Sep 2026 14:08:02 +0000</pubDate>
+<description>ZAGREB, 25 Sept (Hina) - Dubrovnik's digital system for managing cultural tourism, Dubrovnik Pass, has won the European 2026 Destination of ...</description>
+</item>
+<item>
 <title>Amsterdam Alongside Barcelona and Venice Navigate Tourism Challenges While ...</title>
 <link>https://www.travelandtourworld.com/news/article/oena2fkhaqac/</link>
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/oena2fkhaqac/</guid>
 <pubDate>Mon, 21 Sep 2026 11:24:41 +0000</pubDate>
 <description>Starting from Amsterdam and Barcelona through Venice, Dubrovnik, and Lisbon, the goal of government and tourism authorities is to develop sustainable ...</description>
-</item>
-<item>
-<title>Croatia Sets a New Europe Tourism Standard as Dubrovnik Wins Green Pioneer Honour in 2026</title>
-<link>https://www.travelandtourworld.com/news/article/tfdsfhmzs1dq/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/tfdsfhmzs1dq/</guid>
-<pubDate>Mon, 21 Sep 2026 08:54:50 +0000</pubDate>
-<description>Finland and Croatia lead European tourism in 2026 as Tampere and Dubrovnik win top titles for smarter cleaner and more inclusive travel.</description>
 </item>
 </channel>
 </rss>
