@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/zimbabwe.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Zimbabwe. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 25 Sep 2026 22:14:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 10:07:42 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Botswana Joins Zambia and More as KAZA Launches Regenerative Tourism to Boost Jobs ...</title>
+<link>https://www.travelandtourworld.com/news/article/iqp8jjeczzyr/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/iqp8jjeczzyr/</guid>
+<pubDate>Sat, 26 Sep 2026 06:07:17 +0000</pubDate>
+<description>Botswana, Zambia, Angola, Namibia and Zimbabwe advance KAZA regenerative tourism to strengthen conservation, local jobs and sustainable travel.</description>
+</item>
 <item>
 <title>KAZA launches Regenerative Nature-Based Tourism Initiative in Maun to strengthen ...</title>
 <link>https://www.eeas.europa.eu/delegations/botswana/kaza-launches-regenerative-nature-based-tourism-initiative-maun-strengthen-conservation-and_en</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.heraldonline.co.zw/tourism-diplomacy-weapon-against-poverty-prof-murwira/</guid>
 <pubDate>Thu, 10 Sep 2026 14:27:03 +0000</pubDate>
 <description>"By directing international tourism investments into our rich heritage sites, from Victoria Falls to Great Zimbabwe and our pristine wildlife ...</description>
-</item>
-<item>
-<title>Conservationists step up efforts to protect Zimbabwe's vultures - zviazda.</title>
-<link>https://zviazda.by/en/news/conservationists-step-up-efforts-to-protect-zimbabwe-s-vultures/</link>
-<guid isPermaLink="false">https://zviazda.by/en/news/conservationists-step-up-efforts-to-protect-zimbabwe-s-vultures/</guid>
-<pubDate>Wed, 09 Sep 2026 14:37:03 +0000</pubDate>
-<description>Vultures may not be the most celebrated members of Zimbabwe's wildlife, but conservationists say their role in maintaining healthy ecosystems ...</description>
 </item>
 </channel>
 </rss>

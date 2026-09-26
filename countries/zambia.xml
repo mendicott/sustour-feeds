@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/zambia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Zambia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 25 Sep 2026 22:14:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 10:07:42 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Botswana Joins Zambia and More as KAZA Launches Regenerative Tourism to Boost Jobs ...</title>
+<link>https://www.travelandtourworld.com/news/article/iqp8jjeczzyr/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/iqp8jjeczzyr/</guid>
+<pubDate>Sat, 26 Sep 2026 06:07:17 +0000</pubDate>
+<description>Botswana, Zambia, Angola, Namibia and Zimbabwe advance KAZA regenerative tourism to strengthen conservation, local jobs and sustainable travel.</description>
+</item>
 <item>
 <title>KAZA launches Regenerative Nature-Based Tourism Initiative in Maun to strengthen ...</title>
 <link>https://www.eeas.europa.eu/delegations/botswana/kaza-launches-regenerative-nature-based-tourism-initiative-maun-strengthen-conservation-and_en</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.pressreader.com/zambia/daily-nation-newspaper/20260721/281509347960533</guid>
 <pubDate>Tue, 21 Jul 2026 12:06:25 +0000</pubDate>
 <description>THE Ministry of Tourism has welcomed the renewal of the longterm partnership between the Government of Zambia, the Barotse Royal Establishment ...</description>
-</item>
-<item>
-<title>African Parks Renews 25-Year Partnership for Zambia's Liuwa Plain National Park - ATTA</title>
-<link>https://atta.travel/resource/african-parks-renews-25-year-partnership-for-zambia-s-liuwa-plain-national-park.html</link>
-<guid isPermaLink="false">https://atta.travel/resource/african-parks-renews-25-year-partnership-for-zambia-s-liuwa-plain-national-park.html</guid>
-<pubDate>Mon, 20 Jul 2026 14:38:06 +0000</pubDate>
-<description>African Parks, the Barotse Royal Establishment (BRE), and Zambia's Ministry of Tourism have renewed their long-term management partnership for ...</description>
 </item>
 </channel>
 </rss>
