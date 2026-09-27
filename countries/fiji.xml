@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/fiji.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Fiji. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 27 Sep 2026 10:08:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 22:11:30 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>UQ research highlights conditions for tourism development in protected areas</title>
+<link>https://www.ausleisure.com.au/news/uq-research-highlights-conditions-for-tourism-development-in-protected-areas</link>
+<guid isPermaLink="false">https://www.ausleisure.com.au/news/uq-research-highlights-conditions-for-tourism-development-in-protected-areas</guid>
+<pubDate>Sun, 27 Sep 2026 21:05:14 +0000</pubDate>
+<description>... tourism developments in protected areas, including ... Fiji looks to sustainable adventure travel as key to future tourism development.</description>
+</item>
 <item>
 <title>New partnership to drive indigenous prosperity | The Fiji Times - PressReader</title>
 <link>https://www.pressreader.com/fiji/the-fiji-times/20260922/281638197115191</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/zd1j1sfv1zxy/</guid>
 <pubDate>Mon, 10 Aug 2026 20:29:01 +0000</pubDate>
 <description>Official government data reveals a major shift in spending. Tourists happily pay premiums for verified sustainable travel experiences. This economic ...</description>
-</item>
-<item>
-<title>Eco-Tourism Development Discussions Begin | Fiji Sun - PressReader</title>
-<link>https://www.pressreader.com/fiji/fiji-sun/20260801/281818585630914</link>
-<guid isPermaLink="false">https://www.pressreader.com/fiji/fiji-sun/20260801/281818585630914</guid>
-<pubDate>Fri, 31 Jul 2026 21:22:17 +0000</pubDate>
-<description>2026-08-01 - SHRATIKA NAIDU, MALI ISLAND Feedback: shratikan@fijisun.com.fj Tourism · Travel · Mali · United States of America · Fiji · Macuata · ...</description>
 </item>
 </channel>
 </rss>

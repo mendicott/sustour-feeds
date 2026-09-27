@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/slovakia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Slovakia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 27 Sep 2026 10:08:48 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 22:11:30 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>This Slovak village wants to get rid of its UNESCO World Heritage designation</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://theworld.org/stories/2026/08/04/this-slovak-village-wants-to-get-rid-of-its-unesco-world-heritage-designation</guid>
 <pubDate>Tue, 04 Aug 2026 18:27:03 +0000</pubDate>
 <description>From DW, Inside Europe's Rob Cameron reports about the small Slovak village that wants to drop its UNESCO designation because of too much tourism.</description>
+</item>
+<item>
+<title>Tiny village is picture-perfect, except . . . | The Boston Globe - PressReader</title>
+<link>https://www.pressreader.com/usa/the-boston-globe/20260926/281548002814145</link>
+<guid isPermaLink="false">https://www.pressreader.com/usa/the-boston-globe/20260926/281548002814145</guid>
+<pubDate>Sat, 26 Sep 2026 23:44:21 +0000</pubDate>
+<description>VLKOLINEC, Slovakia — Residents of Barcelona and Europe's other most Instagrammable cities have complained for years that mass tourism run amok is ...</description>
 </item>
 <item>
 <title>This Tiny Village Is Picture Perfect, Apart From All the Tourists - The New York Times</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.taipeitimes.com/News/world/archives/2026/07/04/2003860228</guid>
 <pubDate>Fri, 03 Jul 2026 17:33:46 +0000</pubDate>
 <description>... tourism boom. Vlkolinec, which comprises some 45 wooden houses, attracts about 100,000 tourists a year, official estimates show. They wander among ...</description>
-</item>
-<item>
-<title>Vlkolinec: 'Not a museum': Slovak UNESCO village strains under tourism - RTL Today</title>
-<link>https://today.rtl.lu/news/world/not-a-museum-slovak-unesco-village-strains-under-tourism-322689880</link>
-<guid isPermaLink="false">https://today.rtl.lu/news/world/not-a-museum-slovak-unesco-village-strains-under-tourism-322689880</guid>
-<pubDate>Fri, 03 Jul 2026 11:15:30 +0000</pubDate>
-<description>68-year-old pensioner Anton Sabucha protested to AFP, nodding to the signs outside his house. Tourists are "going wherever they want, taking pictures ...</description>
 </item>
 </channel>
 </rss>

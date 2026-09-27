@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/bangladesh.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Bangladesh. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 27 Sep 2026 10:08:48 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 22:11:30 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Cox's Bazar's tourism boom comes at a cost - Dhaka Tribune</title>
+<link>https://www.dhakatribune.com/bangladesh/nation/420823/cox%E2%80%99s-bazar%E2%80%99s-tourism-boom-comes-at-a-cost</link>
+<guid isPermaLink="false">https://www.dhakatribune.com/bangladesh/nation/420823/cox%E2%80%99s-bazar%E2%80%99s-tourism-boom-comes-at-a-cost</guid>
+<pubDate>Sun, 27 Sep 2026 15:20:41 +0000</pubDate>
+<description>Unplanned commercial activities, noise pollution, plastic waste and other uncontrolled activities are gradually damaging the beach environment.</description>
+</item>
 <item>
 <title>New Tourism Opportunities Grow Around Bangladesh's Sundarbans | Business Times</title>
 <link>https://www.businesstimes-bd.com/national/11443</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.bangladeshmonitor.com.bd/en/ilo-plan-calls-for-sustainable-tourism-shift-in-cox-s-bazar</guid>
 <pubDate>Wed, 16 Sep 2026 06:14:53 +0000</pubDate>
 <description>Cox's Bazar : Cox's Bazar needs to shift away from tourism growth driven primarily by rising visitor numbers and toward a more sustainable model ...</description>
-</item>
-<item>
-<title>Bangladesh recovers 2,300 acres of forest in five months: minister - The Climate Watch</title>
-<link>https://theclimatewatch.com/bangladesh-recovers-2300-acres-of-forest-in-five-months-minister/</link>
-<guid isPermaLink="false">https://theclimatewatch.com/bangladesh-recovers-2300-acres-of-forest-in-five-months-minister/</guid>
-<pubDate>Mon, 31 Aug 2026 13:03:08 +0000</pubDate>
-<description>State Minister for Environment, Forest and Climate Change, Sheikh Faridul Islam, Bangladesh. ... climate change, along with heat-related illnesses and ...</description>
 </item>
 </channel>
 </rss>
