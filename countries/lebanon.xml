@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/lebanon.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Lebanon. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 26 Sep 2026 22:11:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 10:08:48 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Lebanon's Chouf Biosphere Reserve Expands Sustainable Hiking Access</title>
+<link>https://www.travelandtourworld.com/news/article/l6r4cnoowkbf/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/l6r4cnoowkbf/</guid>
+<pubDate>Sun, 27 Sep 2026 05:39:09 +0000</pubDate>
+<description>... lebanon's chouf cedar landscapes Image Credit Lebanon Tourism Guide. The best destination related to nature in Lebanon is the Chouf area, along ...</description>
+</item>
 <item>
 <title>UNESCO Grants World Heritage Status to Ancient Sites in Lebanon, Palestine, and Iran</title>
 <link>https://mymodernmet.com/unesco-sites-lebanon-palestine-iran/?adt_ei={{%20subscriber.email_address%20}}</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://scubaverse.com/divers-return-to-lebanons-ancient-underwater-city-of-tyre/</guid>
 <pubDate>Mon, 21 Sep 2026 07:59:30 +0000</pubDate>
 <description>A green sea turtle swims through the submerged ancient harbour off Tyre, Lebanon. Photo: RomanDeckert / Wikimedia Commons.</description>
-</item>
-<item>
-<title>Tyre's ruins survived the strikes. Now divers are finding their way back underwater</title>
-<link>https://www.independent.co.uk/news/lebanon-hezbollah-israel-mediterranean-roman-b3053349.html</link>
-<guid isPermaLink="false">https://www.independent.co.uk/news/lebanon-hezbollah-israel-mediterranean-roman-b3053349.html</guid>
-<pubDate>Mon, 21 Sep 2026 06:35:42 +0000</pubDate>
-<description>From reproductive rights to climate change to Big Tech, The ... Lebanon Diving Center. The remains underwater are part of Tyre's wider ...</description>
 </item>
 </channel>
 </rss>
