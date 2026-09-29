@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/chile.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Chile. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 28 Sep 2026 22:14:04 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 10:09:04 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Introducing 'Tomorrow Beckons', a Global Regenerative Travel Program</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/hwigz1oagmnq/</guid>
 <pubDate>Sat, 27 Jun 2026 11:08:33 +0000</pubDate>
 <description>Costa Rica, Belize, Peru, Chile and Ecuador drive global ecotourism growth with biodiversity travel, conservation tourism and sustainable travel ...</description>
+</item>
+<item>
+<title>Patagonia, Chile Strengthens Sustainable Tourism Rules for Protected-Area Lodging</title>
+<link>https://www.travelandtourworld.com/news/article/q845vvk3uwiz/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/q845vvk3uwiz/</guid>
+<pubDate>Tue, 29 Sep 2026 06:00:02 +0000</pubDate>
+<description>Patagonia tourism in Chile is strengthening sustainable concession standards, with protected areas expanding low-impact travel and visitor ...</description>
 </item>
 <item>
 <title>Chile and Patagonia Set Tourism Milestone as Torres del Paine W Trek Earns First Carbon ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.morningstar.com/news/pr-newswire/20260715la05395/mt-sobek-announces-first-of-its-kind-expedition-into-chiles-newly-protected-cocham-valley</guid>
 <pubDate>Wed, 15 Jul 2026 17:36:24 +0000</pubDate>
 <description>... Chile's Newly Protected Cochamó Valley ... travel can directly support conservation, strengthen local communities, and help shape sustainable tourism.".</description>
-</item>
-<item>
-<title>Mexico Teams Up With Chile, Costa Rica, United States, Finland, Portugal, Kenya, Canada ...</title>
-<link>https://www.travelandtourworld.com/news/article/dg0orazylvsc/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/dg0orazylvsc/</guid>
-<pubDate>Thu, 02 Jul 2026 02:20:22 +0000</pubDate>
-<description>... tourism model with rainforest conservation and biodiversity protection. In Mexico, coastal and heritage tourism corridors are being modernised ...</description>
 </item>
 </channel>
 </rss>
