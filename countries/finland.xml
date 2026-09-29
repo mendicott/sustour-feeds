@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/finland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Finland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 29 Sep 2026 10:09:04 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 22:14:04 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Helsinki tops GDS-Index for third year amid record scores across the board - micebook.</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.hel.fi/en/business-and-work/helsinki-friend</guid>
 <pubDate>Tue, 15 Sep 2026 19:25:07 +0000</pubDate>
 <description>It falls under the concept of regenerative tourism: the kind of tourism that strengthens communities, fosters cross-cultural understanding and has a ...</description>
+</item>
+<item>
+<title>Nearly 9 in 10 destinations improve as Helsinki leads 2026 GDS-Index</title>
+<link>https://www.c-mw.net/nearly-9-in-10-destinations-improve-as-helsinki-leads-2026-gds-index/</link>
+<guid isPermaLink="false">https://www.c-mw.net/nearly-9-in-10-destinations-improve-as-helsinki-leads-2026-gds-index/</guid>
+<pubDate>Tue, 29 Sep 2026 11:21:09 +0000</pubDate>
+<description>... tourism, City of Helsinki. The timing of the publication of this year's index is particularly significant, as the EU's new "Empowering Consumers ...</description>
 </item>
 <item>
 <title>GDS-Index 2026: 89% of destinations improve - Travel Daily News</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/tfdsfhmzs1dq/</guid>
 <pubDate>Mon, 21 Sep 2026 08:54:50 +0000</pubDate>
 <description>Finland and Croatia lead European tourism in 2026 as Tampere and Dubrovnik win top titles for smarter cleaner and more inclusive travel.</description>
-</item>
-<item>
-<title>Helsinki Leads A New Tourism Revolution as Digital Twins Help Cities Predict Overtourism ...</title>
-<link>https://www.travelandtourworld.com/news/article/mpjwyq78we40/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/mpjwyq78we40/</guid>
-<pubDate>Mon, 24 Aug 2026 07:04:27 +0000</pubDate>
-<description>... climate change before affecting the city itself. Now, smart ... I want to receive travel news and trade event updates from Travel And Tour World.</description>
 </item>
 </channel>
 </rss>

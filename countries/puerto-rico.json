@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://news.cornell.edu/stories/2026/09/creative-tourism-plan-fosters-forest-protection-economic-growth-puerto-rico",
+      "url": "https://news.cornell.edu/stories/2026/09/creative-tourism-plan-fosters-forest-protection-economic-growth-puerto-rico",
+      "title": "Creative tourism plan fosters forest protection, economic growth in Puerto Rico",
+      "content_text": "A collaboration between the U.S. Forest Service and the Cornell SC Johnson College of Business aims to shape sustainable tourism development for ...",
+      "date_published": "2026-09-29T14:26:32+00:00"
+    },
+    {
       "id": "https://pasquines.us/2026/07/28/scientists-transplant-microscopic-reef-life-off-vieques-in-breakthrough-coral-restoration-study/",
       "url": "https://pasquines.us/2026/07/28/scientists-transplant-microscopic-reef-life-off-vieques-in-breakthrough-coral-restoration-study/",
       "title": "Scientists transplant microscopic reef life off Vieques in breakthrough coral restoration study",
@@ -63,18 +70,11 @@
       "date_published": "2026-07-12T14:40:13+00:00"
     },
     {
-      "id": "https://ritzherald.com/robert-hoffecker-on-why-puerto-ricos-tourism-future-depends-on-more-than-beaches/",
-      "url": "https://ritzherald.com/robert-hoffecker-on-why-puerto-ricos-tourism-future-depends-on-more-than-beaches/",
-      "title": "Robert Hoffecker on Why Puerto Rico's Tourism Future Depends on More Than Beaches",
-      "content_text": "Puerto Rico does not have to work very hard to sell its coastline. Warm water, palm-lined beaches, and year-round access to the outdoors have long ...",
-      "date_published": "2026-09-11T00:36:27+00:00"
-    },
-    {
-      "id": "https://simplywall.st/stocks/mx/transportation/bmv-asur-b/grupo-aeroportuario-del-sureste-s-a-b-de-c-v-shares/news/why-investors-are-watching-airport-resilience-stocks-as-clim",
-      "url": "https://simplywall.st/stocks/mx/transportation/bmv-asur-b/grupo-aeroportuario-del-sureste-s-a-b-de-c-v-shares/news/why-investors-are-watching-airport-resilience-stocks-as-clim",
-      "title": "Why Investors Are Watching Airport Resilience Stocks As Climate Disruption Grows",
-      "content_text": "de C. V runs a network of airports across southeast Mexico, Puerto Rico and Colombia, which puts it directly in the path of climate resilience ...",
-      "date_published": "2026-09-06T11:29:39+00:00"
+      "id": "https://www.fingerlakes1.com/2026/09/29/cornell-plan-proposes-smaller-scale-tourism-along-puerto-rico-forest-road/",
+      "url": "https://www.fingerlakes1.com/2026/09/29/cornell-plan-proposes-smaller-scale-tourism-along-puerto-rico-forest-road/",
+      "title": "Cornell plan proposes smaller-scale tourism along Puerto Rico forest road",
+      "content_text": "Among seven proposed products are a scenic drive with safe roadside attractions, guided canyoning at Río Espíritu Santo, e-bike tours, rainforest ...",
+      "date_published": "2026-09-29T15:25:54+00:00"
     }
   ]
 }

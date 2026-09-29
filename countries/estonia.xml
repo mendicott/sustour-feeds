@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/estonia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Estonia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 29 Sep 2026 10:09:04 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 22:14:04 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>UNESCO reaffirms West Estonian Archipelago's biosphere reserve status - The Baltic Times</title>
+<link>https://www.baltictimes.com/unesco_reaffirms_west_estonian_archipelago_s_biosphere_reserve_status/</link>
+<guid isPermaLink="false">https://www.baltictimes.com/unesco_reaffirms_west_estonian_archipelago_s_biosphere_reserve_status/</guid>
+<pubDate>Tue, 29 Sep 2026 14:25:06 +0000</pubDate>
+<description>On the islands, this involves developing sustainable tourism and local food, maintaining heritage meadows, bringing topics of nature and cultural ...</description>
+</item>
 <item>
 <title>Tallinn and More Other Cities Are Drawing Tourists for Wildlife Sanctuary in Estonia</title>
 <link>https://www.travelandtourworld.com/news/article/g9kpal0xz8dk/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/yrazuzwjiae8/</guid>
 <pubDate>Sat, 11 Jul 2026 09:12:04 +0000</pubDate>
 <description>Lithuania's Baltic coast offers Blue Flag beaches, UNESCO heritage, coastal culture, cycling, nature, and sustainable tourism beyond Europe's ...</description>
-</item>
-<item>
-<title>While some fear bears, others profit from them: what surprises tourists in neighboring Estonia</title>
-<link>https://news.inbox.lv/150gskk-while-some-fear-bears-others-profit-from-them-what-surprises-tourists-in-neighboring-estonia?language=en</link>
-<guid isPermaLink="false">https://news.inbox.lv/150gskk-while-some-fear-bears-others-profit-from-them-what-surprises-tourists-in-neighboring-estonia?language=en</guid>
-<pubDate>Sat, 04 Jul 2026 17:07:53 +0000</pubDate>
-<description>... ecotourism if safe conditions are created for both animals and visitors. The Estonian experience demonstrates that wildlife can be not only a ...</description>
 </item>
 </channel>
 </rss>

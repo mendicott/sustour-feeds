@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/cook-islands.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Cook Islands. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 29 Sep 2026 10:09:04 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 22:14:04 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Palau Leads Sustainable Tourism Shift Across Pacific Islands - Travel And Tour World</title>
+<link>https://www.travelandtourworld.com/news/article/9fqf7aneevhm/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/9fqf7aneevhm/</guid>
+<pubDate>Tue, 29 Sep 2026 10:07:03 +0000</pubDate>
+<description>Palau, Tuvalu, Marshall Islands, Fiji, Vanuatu, Samoa, Kiribati, Tonga, Solomon Islands and Cook Islands share a common challenge: their tourism ...</description>
+</item>
 <item>
 <title>Cook Islands Echoes Ancient Ra'ui Wisdom Through a New Era of Marine Tourism</title>
 <link>https://www.travelandtourworld.com/news/article/nbp3gbu6bsdj/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.cookislandsnews.com/internal/opinion/editorials/te-ipukarea-society-deep-seabed-mining-discussion-highlights-need-for-caution-and-clarity/</guid>
 <pubDate>Sat, 25 Jul 2026 22:36:03 +0000</pubDate>
 <description>A presentation to the Cook Islands Tourism Industry Council (CITIC) on 21 July at the Muri Beach Club Hotel has highlighted the need for greater ...</description>
-</item>
-<item>
-<title>Expanding Access to Clean Water in the Cook Islands - Asian Development Bank</title>
-<link>https://www.adb.org/node/1162096</link>
-<guid isPermaLink="false">https://www.adb.org/node/1162096</guid>
-<pubDate>Mon, 20 Jul 2026 07:46:08 +0000</pubDate>
-<description>Water security is central to sustainable development in the Cook Islands, supporting public health, tourism, and livelihoods. Yet, water supply ...</description>
 </item>
 </channel>
 </rss>
