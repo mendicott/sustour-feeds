@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/oman.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Oman. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 29 Sep 2026 22:14:04 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 10:09:24 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>New conservation, ecotourism plans to protect Jabal Akhdar | Muscat Daily - PressReader</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://www.pressreader.com/oman/muscat-daily/20260825/281560887642447</guid>
 <pubDate>Tue, 25 Aug 2026 07:15:41 +0000</pubDate>
 <description>... ecotourism as authorities seek to strengthen protection of one of the country's key natural areas. The Environment Authority on Monday organised a ...</description>
+</item>
+<item>
+<title>Oman's Jebel Akhdar Faces New Focus on Low-Impact Mountain Tourism</title>
+<link>https://www.travelandtourworld.com/news/article/xn4mut6xztdv/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/xn4mut6xztdv/</guid>
+<pubDate>Tue, 29 Sep 2026 06:55:17 +0000</pubDate>
+<description>Oman's Jebel Akhdar is drawing renewed focus on sustainable mountain tourism as development controls and conservation shape its growing visitor ...</description>
 </item>
 <item>
 <title>New Olive Press Opens in Al Jabal Al Akhdar to Boost Local Production - Oman News Agency</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.muscatdaily.com/2026/08/24/new-conservation-ecotourism-plans-to-protect-jabal-akhdar/</guid>
 <pubDate>Mon, 24 Aug 2026 13:34:20 +0000</pubDate>
 <description>Oman plans new Jabal Akhdar conservation and ecotourism measures to protect biodiversity and promote sustainable tourism.</description>
-</item>
-<item>
-<title>Jabal Samhan Nature Reserve protects Dhofar's rich biodiversity - Times of Oman</title>
-<link>https://timesofoman.com/article/175780-jabal-samhan-nature-reserve-protects-dhofars-rich-biodiversity</link>
-<guid isPermaLink="false">https://timesofoman.com/article/175780-jabal-samhan-nature-reserve-protects-dhofars-rich-biodiversity</guid>
-<pubDate>Wed, 19 Aug 2026 10:52:08 +0000</pubDate>
-<description>Its dramatic cliffs, mountain landscapes and diverse wildlife offer opportunities to promote responsible tourism while maintaining the protection of ...</description>
 </item>
 </channel>
 </rss>

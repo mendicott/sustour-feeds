@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/argentina.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Argentina. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 29 Sep 2026 22:14:04 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 10:09:24 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Prensa Latina launches sustainable tourism magazine, eyes deeper ties with Vietnam</title>
+<link>https://vietnam.vnanet.vn/english/tin-tuc/prensa-latina-launches-sustainable-tourism-magazine-eyes-deeper-ties-with-vietnam-469827.html</link>
+<guid isPermaLink="false">https://vietnam.vnanet.vn/english/tin-tuc/prensa-latina-launches-sustainable-tourism-magazine-eyes-deeper-ties-with-vietnam-469827.html</guid>
+<pubDate>Wed, 30 Sep 2026 08:15:43 +0000</pubDate>
+<description>... specialising in sustainable tourism, at the ongoing International Tourism Fair of Latin America (FIT America Latina) in Buenos Aires, Argentina.</description>
+</item>
 <item>
 <title>Andaman &amp; Nicobar Islands: Strategic Blueprint Calls for Stronger Defence, Economic ... - IBG News</title>
 <link>https://ibgnews.com/2026/09/03/andaman-nicobar-islands-strategic-blueprint-calls-for-stronger-defence-economic-resilience-and-ecological-safeguards/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/84z4ch2cgnjc/</guid>
 <pubDate>Sun, 27 Sep 2026 15:13:25 +0000</pubDate>
 <description>Argentina is expanding nature tourism in El Impenetrable, where the Bermejo River, wildlife, local guides and Chaco communities shape new visitor ...</description>
-</item>
-<item>
-<title>Argentina Aligns With Chile And More As Solar Train Transforms Sustainable Travel In The Andes</title>
-<link>https://www.travelandtourworld.com/news/article/ix03522m4y2f/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ix03522m4y2f/</guid>
-<pubDate>Sun, 20 Sep 2026 10:01:37 +0000</pubDate>
-<description>The Tren Solar de la Quebrada combines battery technology, locally generated solar electricity and tourism connectivity, offering visitors a different ...</description>
 </item>
 </channel>
 </rss>
