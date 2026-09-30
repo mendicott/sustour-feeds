@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.euronews.com/2026/09/30/can-cities-cope-with-europes-tourism-boom-meps-debate-in-a-special-edition-of-the-ring",
+      "url": "https://www.euronews.com/2026/09/30/can-cities-cope-with-europes-tourism-boom-meps-debate-in-a-special-edition-of-the-ring",
+      "title": "Can cities cope with Europe's tourism boom? MEPs debate in a special edition of The Ring",
+      "content_text": "In this edition, recorded live at the Euronews Travel & Tourism Summit in Brussels, two EU lawmakers step into The Ring: Regina Doherty, an Irish ...",
+      "date_published": "2026-09-30T18:43:51+00:00"
+    },
+    {
       "id": "https://www.impartialreporter.com/news/26558989.fermanagh-organisations-earn-places-all-ireland-shortlist/",
       "url": "https://www.impartialreporter.com/news/26558989.fermanagh-organisations-earn-places-all-ireland-shortlist/",
       "title": "Fermanagh organisations earn places on All-Ireland shortlist | Impartial Reporter",
@@ -68,13 +75,6 @@
       "title": "Zipit Donadea: A New Benchmark for Sustainable Adventure Tourism in Ireland",
       "content_text": "Experience the new Zipit Donadea forest park in Kildare. Featuring sustainable aerial courses, it is a premier destination for Irish eco-adventure ...",
       "date_published": "2026-07-03T14:49:10+00:00"
-    },
-    {
-      "id": "https://www.travelandtourworld.com/news/article/n1bsg6nftdwh/",
-      "url": "https://www.travelandtourworld.com/news/article/n1bsg6nftdwh/",
-      "title": "Killarney, Ireland: New Eco-Friendly Bus Service Revolutionizes Sustainable Travel in the ...",
-      "content_text": "The official launch of a new eco-friendly transport initiative in Killarney marks a major milestone for sustainable tourism in Ireland.",
-      "date_published": "2026-07-03T08:09:06+00:00"
     }
   ]
 }

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ireland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ireland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 30 Sep 2026 10:09:24 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 22:14:10 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Can cities cope with Europe's tourism boom? MEPs debate in a special edition of The Ring</title>
+<link>https://www.euronews.com/2026/09/30/can-cities-cope-with-europes-tourism-boom-meps-debate-in-a-special-edition-of-the-ring</link>
+<guid isPermaLink="false">https://www.euronews.com/2026/09/30/can-cities-cope-with-europes-tourism-boom-meps-debate-in-a-special-edition-of-the-ring</guid>
+<pubDate>Wed, 30 Sep 2026 18:43:51 +0000</pubDate>
+<description>In this edition, recorded live at the Euronews Travel &amp; Tourism Summit in Brussels, two EU lawmakers step into The Ring: Regina Doherty, an Irish ...</description>
+</item>
 <item>
 <title>Fermanagh organisations earn places on All-Ireland shortlist | Impartial Reporter</title>
 <link>https://www.impartialreporter.com/news/26558989.fermanagh-organisations-earn-places-all-ireland-shortlist/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/sy9rcrrqin1g/</guid>
 <pubDate>Fri, 03 Jul 2026 14:49:10 +0000</pubDate>
 <description>Experience the new Zipit Donadea forest park in Kildare. Featuring sustainable aerial courses, it is a premier destination for Irish eco-adventure ...</description>
-</item>
-<item>
-<title>Killarney, Ireland: New Eco-Friendly Bus Service Revolutionizes Sustainable Travel in the ...</title>
-<link>https://www.travelandtourworld.com/news/article/n1bsg6nftdwh/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/n1bsg6nftdwh/</guid>
-<pubDate>Fri, 03 Jul 2026 08:09:06 +0000</pubDate>
-<description>The official launch of a new eco-friendly transport initiative in Killarney marks a major milestone for sustainable tourism in Ireland.</description>
 </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/chile.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Chile. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 30 Sep 2026 10:09:24 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 22:14:10 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Introducing 'Tomorrow Beckons', a Global Regenerative Travel Program</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/hwigz1oagmnq/</guid>
 <pubDate>Sat, 27 Jun 2026 11:08:33 +0000</pubDate>
 <description>Costa Rica, Belize, Peru, Chile and Ecuador drive global ecotourism growth with biodiversity travel, conservation tourism and sustainable travel ...</description>
+</item>
+<item>
+<title>Latin American Regenerative Surf Congress: Chile, Nov. 2026 - SURFER Magazine</title>
+<link>https://www.surfer.com/news/latin-american-regenerative-surf-congress-chile</link>
+<guid isPermaLink="false">https://www.surfer.com/news/latin-american-regenerative-surf-congress-chile</guid>
+<pubDate>Wed, 30 Sep 2026 12:46:47 +0000</pubDate>
+<description>This November, Totoralillo will bring together people working in surf therapy, adaptive surfing, blue health, conservation, regenerative tourism and ...</description>
 </item>
 <item>
 <title>Patagonia, Chile Strengthens Sustainable Tourism Rules for Protected-Area Lodging</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/z4qfevbbcwzh/</guid>
 <pubDate>Wed, 15 Jul 2026 23:32:27 +0000</pubDate>
 <description>Cochamo Valley in Northern Patagonia is one area that has just launched a new hiking trip that focuses on conservation and community-based tourism and ...</description>
-</item>
-<item>
-<title>MT Sobek Announces First-of-Its-Kind Expedition into Chile's Newly Protected Cochamó Valley</title>
-<link>https://www.morningstar.com/news/pr-newswire/20260715la05395/mt-sobek-announces-first-of-its-kind-expedition-into-chiles-newly-protected-cocham-valley</link>
-<guid isPermaLink="false">https://www.morningstar.com/news/pr-newswire/20260715la05395/mt-sobek-announces-first-of-its-kind-expedition-into-chiles-newly-protected-cocham-valley</guid>
-<pubDate>Wed, 15 Jul 2026 17:36:24 +0000</pubDate>
-<description>... Chile's Newly Protected Cochamó Valley ... travel can directly support conservation, strengthen local communities, and help shape sustainable tourism.".</description>
 </item>
 </channel>
 </rss>
