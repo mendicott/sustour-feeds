@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/slovakia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Slovakia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 01 Oct 2026 10:08:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 22:14:32 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>This Slovak village wants to get rid of its UNESCO World Heritage designation</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://theworld.org/stories/2026/08/04/this-slovak-village-wants-to-get-rid-of-its-unesco-world-heritage-designation</guid>
 <pubDate>Tue, 04 Aug 2026 18:27:03 +0000</pubDate>
 <description>From DW, Inside Europe's Rob Cameron reports about the small Slovak village that wants to drop its UNESCO designation because of too much tourism.</description>
+</item>
+<item>
+<title>Mediaeval castle to be restored, new visitor experiences added to cross-border geopark</title>
+<link>https://spectator.sme.sk/travel/c/somoska-castle-restoration-novohrad-nograd-geopark</link>
+<guid isPermaLink="false">https://spectator.sme.sk/travel/c/somoska-castle-restoration-novohrad-nograd-geopark</guid>
+<pubDate>Thu, 01 Oct 2026 21:10:07 +0000</pubDate>
+<description>New funding for the Novohrad-Nógrád Geopark, the first UNESCO transnational geopark spanning Slovakia and Hungary, will go towards repairs and new ...</description>
 </item>
 <item>
 <title>Tiny village is picture-perfect, except . . . | The Boston Globe - PressReader</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.pressreader.com/taiwan/taipei-times/20260704/281651081843919</guid>
 <pubDate>Fri, 03 Jul 2026 22:23:48 +0000</pubDate>
 <description>Slovakia UNESCO village strains under overtourism. 2026-07-04 - Travel · Slovakia · UNESCO · Vlkolinec · Slovak · Hungary · Czech Republic ...</description>
-</item>
-<item>
-<title>Slovakia UNESCO village strains under overtourism - Taipei Times</title>
-<link>https://www.taipeitimes.com/News/world/archives/2026/07/04/2003860228</link>
-<guid isPermaLink="false">https://www.taipeitimes.com/News/world/archives/2026/07/04/2003860228</guid>
-<pubDate>Fri, 03 Jul 2026 17:33:46 +0000</pubDate>
-<description>... tourism boom. Vlkolinec, which comprises some 45 wooden houses, attracts about 100,000 tourists a year, official estimates show. They wander among ...</description>
 </item>
 </channel>
 </rss>
