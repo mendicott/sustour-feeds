@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.taiwannews.com.tw/en/news/6450677",
+      "url": "https://www.taiwannews.com.tw/en/news/6450677",
+      "title": "Taiwan looks to ecotourism to boost conservation, local economies | Oct. 2, 2026 10:26",
+      "content_text": "TAIPEI (Taiwan News) — Taiwan is turning to ecotourism to connect conservation with economic opportunities for communities around protected areas.",
+      "date_published": "2026-10-02T02:40:18+00:00"
+    },
+    {
       "id": "https://news.immigration.gov.tw/NewsSection/Detail/5FC9F60C-BF41-463D-BF18-FE354EAB72BE?lang=EN",
       "url": "https://news.immigration.gov.tw/NewsSection/Detail/5FC9F60C-BF41-463D-BF18-FE354EAB72BE?lang=EN",
       "title": "East Rift Valley's 'Tribal Journeys at the Table' Now Open for Booking, Six Communities ...",
@@ -68,13 +75,6 @@
       "title": "Agoda, Taiwan Tourism Administration roll out regional tourism campaign to boost travel demand",
       "content_text": "The campaign also places emphasis on promoting responsible tourism by helping travellers make informed decisions while exploring Taiwan. As part ...",
       "date_published": "2026-07-09T21:00:28+00:00"
-    },
-    {
-      "id": "https://www.taipeitimes.com/News/world/archives/2026/07/07/2003860368",
-      "url": "https://www.taipeitimes.com/News/world/archives/2026/07/07/2003860368",
-      "title": "East Africa pivots as overfishing exacts toll - Taipei Times",
-      "content_text": "Across East Africa, fisherfolk are increasingly turning to tourism, ecosystem restoration and other conservation-based businesses, reinventing ...",
-      "date_published": "2026-07-07T03:47:46+00:00"
     }
   ]
 }

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/taiwan-china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Taiwan (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 01 Oct 2026 22:14:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 10:08:43 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Taiwan looks to ecotourism to boost conservation, local economies | Oct. 2, 2026 10:26</title>
+<link>https://www.taiwannews.com.tw/en/news/6450677</link>
+<guid isPermaLink="false">https://www.taiwannews.com.tw/en/news/6450677</guid>
+<pubDate>Fri, 02 Oct 2026 02:40:18 +0000</pubDate>
+<description>TAIPEI (Taiwan News) — Taiwan is turning to ecotourism to connect conservation with economic opportunities for communities around protected areas.</description>
+</item>
 <item>
 <title>East Rift Valley's 'Tribal Journeys at the Table' Now Open for Booking, Six Communities ...</title>
 <link>https://news.immigration.gov.tw/NewsSection/Detail/5FC9F60C-BF41-463D-BF18-FE354EAB72BE?lang=EN</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://marketech-apac.com/agoda-taiwan-tourism-administration-roll-out-regional-tourism-campaign-to-boost-travel-demand/</guid>
 <pubDate>Thu, 09 Jul 2026 21:00:28 +0000</pubDate>
 <description>The campaign also places emphasis on promoting responsible tourism by helping travellers make informed decisions while exploring Taiwan. As part ...</description>
-</item>
-<item>
-<title>East Africa pivots as overfishing exacts toll - Taipei Times</title>
-<link>https://www.taipeitimes.com/News/world/archives/2026/07/07/2003860368</link>
-<guid isPermaLink="false">https://www.taipeitimes.com/News/world/archives/2026/07/07/2003860368</guid>
-<pubDate>Tue, 07 Jul 2026 03:47:46 +0000</pubDate>
-<description>Across East Africa, fisherfolk are increasingly turning to tourism, ecosystem restoration and other conservation-based businesses, reinventing ...</description>
 </item>
 </channel>
 </rss>

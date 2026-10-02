@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/finland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Finland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 01 Oct 2026 22:14:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 10:08:43 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Helsinki tops GDS-Index for third year amid record scores across the board - micebook.</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.hel.fi/en/business-and-work/helsinki-friend</guid>
 <pubDate>Tue, 15 Sep 2026 19:25:07 +0000</pubDate>
 <description>It falls under the concept of regenerative tourism: the kind of tourism that strengthens communities, fosters cross-cultural understanding and has a ...</description>
+</item>
+<item>
+<title>The world's most sustainable destination: Helsinki - Hospitality Inside</title>
+<link>https://hospitalityinside.com/en/The-world-s-most-sustainable-destination-Helsinki</link>
+<guid isPermaLink="false">https://hospitalityinside.com/en/The-world-s-most-sustainable-destination-Helsinki</guid>
+<pubDate>Fri, 02 Oct 2026 05:36:35 +0000</pubDate>
+<description>The Global Destination Sustainability (GDS) Index measures the sustainability of travel destinations across four categories using more than 70 ...</description>
 </item>
 <item>
 <title>Nearly 9 in 10 destinations improve as Helsinki leads 2026 GDS-Index</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.hel.fi/en/news/for-the-third-year-running-helsinki-has-come-first-in-international-ranking-assessing-the</guid>
 <pubDate>Wed, 23 Sep 2026 10:16:52 +0000</pubDate>
 <description>... travel attractions, have established the Urban Climate Leaders in Tourism cooperation group. The members of the group are committed to common ...</description>
-</item>
-<item>
-<title>Croatia Sets a New Europe Tourism Standard as Dubrovnik Wins Green Pioneer Honour in 2026</title>
-<link>https://www.travelandtourworld.com/news/article/tfdsfhmzs1dq/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/tfdsfhmzs1dq/</guid>
-<pubDate>Mon, 21 Sep 2026 08:54:50 +0000</pubDate>
-<description>Finland and Croatia lead European tourism in 2026 as Tampere and Dubrovnik win top titles for smarter cleaner and more inclusive travel.</description>
 </item>
 </channel>
 </rss>

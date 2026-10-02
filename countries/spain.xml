@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/spain.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Spain. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 01 Oct 2026 22:14:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 10:08:43 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>'We don't want any more tourists!' Thousands march through Spain's holiday hotspots ... - Daily Mail</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ux7f5fthw6bb/</guid>
 <pubDate>Thu, 23 Jul 2026 04:57:39 +0000</pubDate>
 <description>The regenerative travel revolution is moving beyond traditional tourism and creating a new era where journeys deliver lasting benefits. Spain, ...</description>
+</item>
+<item>
+<title>Lanzarote in October: Weather, Fiestas and Things to Do</title>
+<link>https://ociolanzarote.com/en/lanzarote-en-octubre</link>
+<guid isPermaLink="false">https://ociolanzarote.com/en/lanzarote-en-octubre</guid>
+<pubDate>Thu, 01 Oct 2026 21:01:53 +0000</pubDate>
+<description>Sustainable tourism in Lanzarote is not a recent slogan: the island was the first in Spain to put a ceiling on its tourism growth, in 1991, when its ...</description>
 </item>
 <item>
 <title>'I returned to Majorca after 3 years abroad - I was shocked by what I saw' | Wales Online</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.aol.co.uk/articles/cruise-ship-limit-spanish-holiday-203700000.html</guid>
 <pubDate>Sun, 27 Sep 2026 20:59:49 +0000</pubDate>
 <description>Overtourism fears has led to new limits being approved on cruise ships.</description>
-</item>
-<item>
-<title>Spain Follows Italy And Many Others European Destinations Raise Visitor Fees As ...</title>
-<link>https://www.travelandtourworld.com/news/article/dety9bbvxqpb/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/dety9bbvxqpb/</guid>
-<pubDate>Sun, 27 Sep 2026 10:39:09 +0000</pubDate>
-<description>... environmental protection, public services and overcrowding management. ... tourism-related revenue can contribute to projects beyond traditional travel ...</description>
 </item>
 </channel>
 </rss>

@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/americas.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Americas. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 01 Oct 2026 22:14:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 10:08:43 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Peru and Colombia Expand Community Tourism With New Digital Verification and Nature ...</title>
+<link>https://www.travelandtourworld.com/news/article/yx20k7q45a86/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/yx20k7q45a86/</guid>
+<pubDate>Thu, 01 Oct 2026 12:41:37 +0000</pubDate>
+<description>Peru and Colombia are expanding community-led tourism, regional experiences and digital visitor services as international travel demand moves ...</description>
+</item>
 <item>
 <title>Yucatán and Quintana Roo Put Maya Communities at the Heart of Sustainable Tourism</title>
 <link>https://www.travelandtourworld.com/news/article/z790yq0m9c3h/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/reakjub33yea/</guid>
 <pubDate>Sat, 05 Sep 2026 13:27:52 +0000</pubDate>
 <description>Bolivia is expanding Amazon ecotourism with new protected areas, river trails, Indigenous-led tours and wildlife experiences across 907244 ...</description>
-</item>
-<item>
-<title>Mexico Advances Biodiversity, Sustainable Development Plans</title>
-<link>https://mexicobusiness.news/sustainability/news/mexico-advances-biodiversity-sustainable-development-plans</link>
-<guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/mexico-advances-biodiversity-sustainable-development-plans</guid>
-<pubDate>Fri, 04 Sep 2026 18:55:21 +0000</pubDate>
-<description>Coastal Restoration · sustainable tourism · marine conservation · Sustainable Resource Management · environmental policy · Semarnat · conanp · IUCN ...</description>
 </item>
 </channel>
 </rss>
