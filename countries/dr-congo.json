@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://allafrica.com/stories/202610020347.html",
+      "url": "https://allafrica.com/stories/202610020347.html",
+      "title": "Uganda: Mountain Gorilla Population Rises to 1,063 Amid Calls to End Illegal Tracking",
+      "content_text": "The population of mountain gorillas in Uganda, Rwanda and the Democratic Republic of Congo has risen to 1063, up from about 300 in 1990, ...",
+      "date_published": "2026-10-03T05:12:27+00:00"
+    },
+    {
       "id": "https://www.travelandtourworld.com/news/article/ay7vmuxyo4ns/",
       "url": "https://www.travelandtourworld.com/news/article/ay7vmuxyo4ns/",
       "title": "Kinshasa Aligns with Kahuzi-Biega and Yangambi to Shape DRC's New Tourism Landscape",
@@ -68,13 +75,6 @@
       "title": "Cancer Deaths of Four Mountain Gorillas Raise Regional Conservation Concerns | Nilepost",
       "content_text": "Conservationists have raised concern after four mountain gorillas in Rwanda and the Democratic Republic of Congo died of melanoma within a year, ...",
       "date_published": "2026-07-05T07:42:56+00:00"
-    },
-    {
-      "id": "https://www.monitor.co.ug/uganda/news/national/uganda-s-gorilla-tourism-revenue-hits-shs110b-as-population-grows-5600590",
-      "url": "https://www.monitor.co.ug/uganda/news/national/uganda-s-gorilla-tourism-revenue-hits-shs110b-as-population-grows-5600590",
-      "title": "Uganda's gorilla tourism revenue hits Shs110b as population grows | Monitor",
-      "content_text": "... travel advisories issued by foreign missions,\" Mr Makombo told the Monitor. ... Uganda, Rwanda and DR Congo, remain central to Uganda's tourism ...",
-      "date_published": "2026-09-18T18:15:33+00:00"
     }
   ]
 }

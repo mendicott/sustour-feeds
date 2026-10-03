@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/guam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Guam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 03 Oct 2026 10:08:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 21:10:49 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>[Workshop] CTR workshop 2026 "Regenerative Tourism beyond the 'Sun, Sand, and Shopping'</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.usatoday.com/story/life/animalkind/2026/07/03/chicks-hatched-pittsburgh-restore-extinct-birds-wild/90576666007/</guid>
 <pubDate>Fri, 03 Jul 2026 11:40:52 +0000</pubDate>
 <description>Two Guam kingfisher chicks that hatched at the National Aviary in Pittsburgh are part of a program to help restore the bird in the wild.</description>
+</item>
+<item>
+<title>A second wave of Guam Kingfishers prepares for life in the wild - Rare Bird Alert</title>
+<link>https://www.rarebirdalert.co.uk/v2/Content/A_second_wave_of_Guam_Kingfishers_prepares_for_life_in_the_wild.aspx</link>
+<guid isPermaLink="false">https://www.rarebirdalert.co.uk/v2/Content/A_second_wave_of_Guam_Kingfishers_prepares_for_life_in_the_wild.aspx</guid>
+<pubDate>Sat, 03 Oct 2026 02:44:15 +0000</pubDate>
+<description>In their September announcement, the project partners said that up to eight could travel to Palmyra later this year, subject to their progress through ...</description>
 </item>
 <item>
 <title>New imaging technologies offer a clearer view of coral reef change</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/w7d6n5x0tqbl/</guid>
 <pubDate>Wed, 02 Sep 2026 03:38:50 +0000</pubDate>
 <description>Guam launches Jeju Olle-inspired trail to transform island adventures, boost wellness tourism and showcase its natural beauty.</description>
-</item>
-<item>
-<title>Guam's 2027 Trail Inspired by Jeju Olle</title>
-<link>https://www.chosun.com/english/national-en/2026/09/02/LXTY33GU4BFGNNHDJNXKHX27M4/</link>
-<guid isPermaLink="false">https://www.chosun.com/english/national-en/2026/09/02/LXTY33GU4BFGNNHDJNXKHX27M4/</guid>
-<pubDate>Wed, 02 Sep 2026 02:35:33 +0000</pubDate>
-<description>Jeju Olle officials and Guam Tourism Office officials inspect Jeju Olle Course 6 recently. /Jeju Olle. A walking trail called 'Guam Olle' (Guam ...</description>
 </item>
 </channel>
 </rss>

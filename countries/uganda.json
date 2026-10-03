@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://allafrica.com/stories/202610020347.html",
+      "url": "https://allafrica.com/stories/202610020347.html",
+      "title": "Uganda: Mountain Gorilla Population Rises to 1,063 Amid Calls to End Illegal Tracking",
+      "content_text": "The population of mountain gorillas in Uganda, Rwanda and the Democratic Republic of Congo has risen to 1063, up from about 300 in 1990, ...",
+      "date_published": "2026-10-03T05:12:27+00:00"
+    },
+    {
       "id": "https://www.awf.org/news/partner-spotlight-awf-and-kkakka-community-wildlife-association-kidepo-uganda",
       "url": "https://www.awf.org/news/partner-spotlight-awf-and-kkakka-community-wildlife-association-kidepo-uganda",
       "title": "Partner Spotlight: AWF and KKAKKA Community Wildlife Association in Kidepo, Uganda",
@@ -68,13 +75,6 @@
       "title": "Where to see gorillas in the wild and travel responsibly - Getaway Magazine",
       "content_text": "Discover where to see gorillas in the wild in Rwanda and Uganda, plus how responsible tourism can support gorilla conservation and communities.",
       "date_published": "2026-09-19T11:53:15+00:00"
-    },
-    {
-      "id": "https://nilepost.co.ug/news/371627/world-gorilla-day-how-uganda-thrives-on-gorilla-conservation?amp=1",
-      "url": "https://nilepost.co.ug/news/371627/world-gorilla-day-how-uganda-thrives-on-gorilla-conservation?amp=1",
-      "title": "World Gorilla Day: How Uganda Thrives on Gorilla Conservation | Nilepost",
-      "content_text": "Uganda's mountain gorilla conservation story is increasingly intertwined with tourism, livelihoods and community development, as revenue from ...",
-      "date_published": "2026-09-18T13:58:04+00:00"
     }
   ]
 }

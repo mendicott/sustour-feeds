@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ireland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ireland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 03 Oct 2026 10:08:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 21:10:49 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Ireland Expands Connemara Tourism Links With Estonia as Galway Opens New European ...</title>
+<link>https://www.travelandtourworld.com/news/article/gsxeaaze0v8n/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/gsxeaaze0v8n/</guid>
+<pubDate>Sat, 03 Oct 2026 11:19:29 +0000</pubDate>
+<description>These include cultural tourism, heritage travel, educational tourism, outdoor experiences, slow travel and community-based tourism. The Estonia ...</description>
+</item>
 <item>
 <title>Can cities cope with Europe's tourism boom? MEPs debate in a special edition of The Ring</title>
 <link>https://www.euronews.com/2026/09/30/can-cities-cope-with-europes-tourism-boom-meps-debate-in-a-special-edition-of-the-ring</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.independent.ie/lifestyle/travel/secrets-of-the-maharees-368-people-a-tiny-tombolo-and-a-world-you-didnt-know-existed-in-ireland/a/157609379.html</guid>
 <pubDate>Sat, 11 Jul 2026 09:01:59 +0000</pubDate>
 <description>The Maharees in Co Kerry became a model for regenerative tourism - here's how the community did it.</description>
-</item>
-<item>
-<title>Zipit Donadea: A New Benchmark for Sustainable Adventure Tourism in Ireland</title>
-<link>https://www.travelandtourworld.com/news/article/sy9rcrrqin1g/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/sy9rcrrqin1g/</guid>
-<pubDate>Fri, 03 Jul 2026 14:49:10 +0000</pubDate>
-<description>Experience the new Zipit Donadea forest park in Kildare. Featuring sustainable aerial courses, it is a premier destination for Irish eco-adventure ...</description>
 </item>
 </channel>
 </rss>

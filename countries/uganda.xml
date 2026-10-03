@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/uganda.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Uganda. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 03 Oct 2026 10:08:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 21:10:49 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Uganda: Mountain Gorilla Population Rises to 1,063 Amid Calls to End Illegal Tracking</title>
+<link>https://allafrica.com/stories/202610020347.html</link>
+<guid isPermaLink="false">https://allafrica.com/stories/202610020347.html</guid>
+<pubDate>Sat, 03 Oct 2026 05:12:27 +0000</pubDate>
+<description>The population of mountain gorillas in Uganda, Rwanda and the Democratic Republic of Congo has risen to 1063, up from about 300 in 1990, ...</description>
+</item>
 <item>
 <title>Partner Spotlight: AWF and KKAKKA Community Wildlife Association in Kidepo, Uganda</title>
 <link>https://www.awf.org/news/partner-spotlight-awf-and-kkakka-community-wildlife-association-kidepo-uganda</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.getaway.co.za/travel/nature-and-conservation/where-to-see-gorillas-in-the-wild-and-travel-responsibly/</guid>
 <pubDate>Sat, 19 Sep 2026 11:53:15 +0000</pubDate>
 <description>Discover where to see gorillas in the wild in Rwanda and Uganda, plus how responsible tourism can support gorilla conservation and communities.</description>
-</item>
-<item>
-<title>World Gorilla Day: How Uganda Thrives on Gorilla Conservation | Nilepost</title>
-<link>https://nilepost.co.ug/news/371627/world-gorilla-day-how-uganda-thrives-on-gorilla-conservation?amp=1</link>
-<guid isPermaLink="false">https://nilepost.co.ug/news/371627/world-gorilla-day-how-uganda-thrives-on-gorilla-conservation?amp=1</guid>
-<pubDate>Fri, 18 Sep 2026 13:58:04 +0000</pubDate>
-<description>Uganda's mountain gorilla conservation story is increasingly intertwined with tourism, livelihoods and community development, as revenue from ...</description>
 </item>
 </channel>
 </rss>

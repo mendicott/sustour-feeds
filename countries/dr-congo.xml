@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/dr-congo.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for DR Congo. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 03 Oct 2026 10:08:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 21:10:49 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Uganda: Mountain Gorilla Population Rises to 1,063 Amid Calls to End Illegal Tracking</title>
+<link>https://allafrica.com/stories/202610020347.html</link>
+<guid isPermaLink="false">https://allafrica.com/stories/202610020347.html</guid>
+<pubDate>Sat, 03 Oct 2026 05:12:27 +0000</pubDate>
+<description>The population of mountain gorillas in Uganda, Rwanda and the Democratic Republic of Congo has risen to 1063, up from about 300 in 1990, ...</description>
+</item>
 <item>
 <title>Kinshasa Aligns with Kahuzi-Biega and Yangambi to Shape DRC's New Tourism Landscape</title>
 <link>https://www.travelandtourworld.com/news/article/ay7vmuxyo4ns/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://nilepost.co.ug/animal-conservation/353765/cancer-deaths-of-four-mountain-gorillas-raise-regional-conservation-concerns</guid>
 <pubDate>Sun, 05 Jul 2026 07:42:56 +0000</pubDate>
 <description>Conservationists have raised concern after four mountain gorillas in Rwanda and the Democratic Republic of Congo died of melanoma within a year, ...</description>
-</item>
-<item>
-<title>Uganda's gorilla tourism revenue hits Shs110b as population grows | Monitor</title>
-<link>https://www.monitor.co.ug/uganda/news/national/uganda-s-gorilla-tourism-revenue-hits-shs110b-as-population-grows-5600590</link>
-<guid isPermaLink="false">https://www.monitor.co.ug/uganda/news/national/uganda-s-gorilla-tourism-revenue-hits-shs110b-as-population-grows-5600590</guid>
-<pubDate>Fri, 18 Sep 2026 18:15:33 +0000</pubDate>
-<description>... travel advisories issued by foreign missions," Mr Makombo told the Monitor. ... Uganda, Rwanda and DR Congo, remain central to Uganda's tourism ...</description>
 </item>
 </channel>
 </rss>
