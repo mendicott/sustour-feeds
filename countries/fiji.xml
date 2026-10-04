@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/fiji.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Fiji. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 04 Oct 2026 09:08:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 21:11:03 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Palau Leads Sustainable Tourism Shift Across Pacific Islands - Travel And Tour World</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/9fqf7aneevhm/</guid>
 <pubDate>Tue, 29 Sep 2026 10:07:03 +0000</pubDate>
 <description>Palau, Tuvalu, Marshall Islands, Fiji, Vanuatu, Samoa, Kiribati, Tonga, Solomon Islands and Cook Islands share a common challenge: their tourism ...</description>
+</item>
+<item>
+<title>Pacific islands rethink tourism to protect their identity as visitor numbers rise - ATV Today</title>
+<link>https://www.atvtoday.co.uk/318258-travel-news/</link>
+<guid isPermaLink="false">https://www.atvtoday.co.uk/318258-travel-news/</guid>
+<pubDate>Sun, 04 Oct 2026 16:12:55 +0000</pubDate>
+<description>From the Cook Islands to Fiji, destinations are exploring ways to grow tourism ... travel benefits, including the Fiji Airways Premier Lounge.</description>
 </item>
 <item>
 <title>Fiji Brings Community Tourism and Protected Reefs Into the 2027 Travel Spotlight</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://fijisun.com.fj/living/travel/visiting-taveuni-leave-the-tagimoucia-untouched</guid>
 <pubDate>Wed, 02 Sep 2026 03:37:11 +0000</pubDate>
 <description>Forestry Ministry reminds tourists and locals that permission is required before entering the island's protected forest reserve.</description>
-</item>
-<item>
-<title>Tourism industry looks to global standards to lift competitiveness - Fiji Sun</title>
-<link>https://fijisun.com.fj/news/tourism/tourism-industry-looks-to-global-standards-to-lift-competitiveness</link>
-<guid isPermaLink="false">https://fijisun.com.fj/news/tourism/tourism-industry-looks-to-global-standards-to-lift-competitiveness</guid>
-<pubDate>Mon, 31 Aug 2026 23:18:35 +0000</pubDate>
-<description>The Fiji Hotel and Tourism Association (FHTA) is working towards introducing stronger sustainability standards across every aspect of tourism ...</description>
 </item>
 </channel>
 </rss>
