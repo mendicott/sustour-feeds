@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mauritius.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mauritius. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 05 Oct 2026 09:08:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 21:14:23 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>BMA Feature: Mauritius Battles Rising Sea Temperatures To Protect Fragile Coral Reefs</title>
+<link>https://news.broadcastmediaafrica.com/2026/10/04/bma-feature-mauritius-battles-rising-sea-temperatures-to-protect-fragile-coral-reefs/</link>
+<guid isPermaLink="false">https://news.broadcastmediaafrica.com/2026/10/04/bma-feature-mauritius-battles-rising-sea-temperatures-to-protect-fragile-coral-reefs/</guid>
+<pubDate>Mon, 05 Oct 2026 12:59:14 +0000</pubDate>
+<description>Overfishing, unsustainable tourism, and rising sea levels are accelerating coastal erosion, exposing tree roots and encroaching on shoreline ...</description>
+</item>
 <item>
 <title>Mauritius Travel Growth Connects Rodrigues Terminal Vision With Port Louis Cruise Jetty Expansion</title>
 <link>https://www.travelandtourworld.com/news/article/cjpugn0uenav/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.pressreader.com/india/the-hindu-kochi-9ww8/20260712/282772068324827</guid>
 <pubDate>Sat, 11 Jul 2026 23:51:31 +0000</pubDate>
 <description>On a small island in the Indian Ocean with a population of just 1.26 million, tourism ... m of coral reef," shares conservationist Rick Bonnier, the ...</description>
-</item>
-<item>
-<title>Mauritius' new luxury hire: the conservation manager - The Hindu</title>
-<link>https://www.thehindu.com/sci-tech/energy-and-environment/mauritius-luxury-hire-conservation-manager-seagrass-farms-reef-restoration-bee-hives/article71188413.ece</link>
-<guid isPermaLink="false">https://www.thehindu.com/sci-tech/energy-and-environment/mauritius-luxury-hire-conservation-manager-seagrass-farms-reef-restoration-bee-hives/article71188413.ece</guid>
-<pubDate>Thu, 09 Jul 2026 07:37:42 +0000</pubDate>
-<description>On a small island in the Indian Ocean with a population of just 1.26 million, tourism is not simply an industry, it is the economic backbone.</description>
 </item>
 </channel>
 </rss>

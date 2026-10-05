@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ireland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ireland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 05 Oct 2026 09:08:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 21:14:23 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>US Pairs Up With Ireland and Others as Spain Boosts Family Travel Through Geoparks and ...</title>
+<link>https://www.travelandtourworld.com/news/article/p94gpdkmmmf3/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/p94gpdkmmmf3/</guid>
+<pubDate>Mon, 05 Oct 2026 12:47:53 +0000</pubDate>
+<description>... Biosphere Reserves, mountain communities and nature parks while discovering local heritage. This broader travel model supports sustainable tourism ...</description>
+</item>
 <item>
 <title>Ireland Expands Connemara Tourism Links With Estonia as Galway Opens New European ...</title>
 <link>https://www.travelandtourworld.com/news/article/gsxeaaze0v8n/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.derrydaily.net/derry-city/irish-government-to-fund-greenways-between-derry-and-donegal-274226</guid>
 <pubDate>Sun, 19 Jul 2026 14:59:49 +0000</pubDate>
 <description>"Cross-border greenways provide a significant opportunity to enhance sustainable transport, tourism and regional connectivity," Ms Kimmins said.</description>
-</item>
-<item>
-<title>Secrets of the Maharees: 368 people, a tiny tombolo, and 'a world you didn't know existed in Ireland'</title>
-<link>https://www.independent.ie/lifestyle/travel/secrets-of-the-maharees-368-people-a-tiny-tombolo-and-a-world-you-didnt-know-existed-in-ireland/a/157609379.html</link>
-<guid isPermaLink="false">https://www.independent.ie/lifestyle/travel/secrets-of-the-maharees-368-people-a-tiny-tombolo-and-a-world-you-didnt-know-existed-in-ireland/a/157609379.html</guid>
-<pubDate>Sat, 11 Jul 2026 09:01:59 +0000</pubDate>
-<description>The Maharees in Co Kerry became a model for regenerative tourism - here's how the community did it.</description>
 </item>
 </channel>
 </rss>

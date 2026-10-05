@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/norway.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Norway. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 05 Oct 2026 09:08:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 21:14:23 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Why Norway's Lofoten Islands Are Implementing a Vital Tourist Tax This Season</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/c8je5vgmci49/</guid>
 <pubDate>Sat, 05 Sep 2026 08:46:57 +0000</pubDate>
 <description>Netherlands And Norway Join Global Movement Against Tourism Pressure. Other European destinations are also strengthening overtourism policies.</description>
+</item>
+<item>
+<title>Lofoten Hotels Push Back Against Norway's New Tourist Tax - Forbes</title>
+<link>https://www.forbes.com/sites/davidnikel/2026/10/05/norways-new-tourist-tax-is-running-into-problems-before-it-starts/</link>
+<guid isPermaLink="false">https://www.forbes.com/sites/davidnikel/2026/10/05/norways-new-tourist-tax-is-running-into-problems-before-it-starts/</guid>
+<pubDate>Mon, 05 Oct 2026 17:55:44 +0000</pubDate>
+<description>Norway wants visitors to help pay for the pressures tourism puts on popular destinations. ... Forbes5 Travel Trends Fueling Scandinavia's Tourism BoomBy ...</description>
 </item>
 <item>
 <title>Norway's Nordland Puts Sustainable Tourism at the Centre of Lofoten Growth</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.dw.com/en/tourist-tax-norways-lofoten-islands-manages-overtourism/video-78550598</guid>
 <pubDate>Mon, 07 Sep 2026 15:42:54 +0000</pubDate>
 <description>But the tourism boom is putting pressure on local communities, with overcrowded roads, full parking areas, litter and unauthorized camping creating ...</description>
-</item>
-<item>
-<title>Norway: The price of the tourism boom - DW News</title>
-<link>https://www.dw.com/en/norway-the-price-of-the-tourism-boom/video-78550598</link>
-<guid isPermaLink="false">https://www.dw.com/en/norway-the-price-of-the-tourism-boom/video-78550598</guid>
-<pubDate>Mon, 07 Sep 2026 08:17:40 +0000</pubDate>
-<description>TravelNorway. Arne Bartram. 09/07/2026 September 7, 2026. Norway's Lofoten Islands have turned into a tourist hotspot. But the growing number of ...</description>
 </item>
 </channel>
 </rss>
