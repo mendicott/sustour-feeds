@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/hong-kong-china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Hong Kong (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 06 Oct 2026 09:10:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 21:13:48 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Visitors urge Hong Kong to ease restrictions as Sai Kung trail registration begins</title>
@@ -28,6 +28,20 @@
 <guid isPermaLink="false">https://hongkongfp.com/2026/08/24/trial-booking-system-for-sai-kung-geopark-trail-launches-in-bid-to-curb-overtourism/</guid>
 <pubDate>Mon, 24 Aug 2026 11:23:32 +0000</pubDate>
 <description>Overcrowding. Hong Kong's popular nature spots have been grappling with overtourism, especially during peak travel seasons for mainland Chinese ...</description>
+</item>
+<item>
+<title>Greenpeace catches Hong Kong geopark 'golden week' visitors damaging marine life</title>
+<link>https://www.scmp.com/news/hong-kong/health-environment/article/3369939/greenpeace-catches-hong-kong-geopark-golden-week-visitors-damaging-marine-life</link>
+<guid isPermaLink="false">https://www.scmp.com/news/hong-kong/health-environment/article/3369939/greenpeace-catches-hong-kong-geopark-golden-week-visitors-damaging-marine-life</guid>
+<pubDate>Tue, 06 Oct 2026 11:44:57 +0000</pubDate>
+<description>Around 100 incidents of visitors catching sea cucumbers and digging up sea snails and clams were recorded in a single day at a popular spot in ...</description>
+</item>
+<item>
+<title>Greenpeace warns of growing overtourism after recording thousands of National Day visitors</title>
+<link>https://hongkongfp.com/2026/10/06/greenpeace-warns-of-growing-overtourism-after-recording-thousands-of-national-day-visitors-at-hong-kong-eco-sites/</link>
+<guid isPermaLink="false">https://hongkongfp.com/2026/10/06/greenpeace-warns-of-growing-overtourism-after-recording-thousands-of-national-day-visitors-at-hong-kong-eco-sites/</guid>
+<pubDate>Tue, 06 Oct 2026 10:29:55 +0000</pubDate>
+<description>Hong Kong's Greenpeace office has warned of growing overtourism after it recorded thousands of visitors and dozens of instances of environmental ...</description>
 </item>
 <item>
 <title>Can Hong Kong protect its eco-sensitive sites amid 'golden week' overtourism fears?</title>
@@ -63,20 +77,6 @@
 <guid isPermaLink="false">https://www.lifestyleasia.com/kl/travel/news/disney-adventure-cruise-sets-sail-for-langkawi-adding-malaysia-to-its-ports-of-call-from-31-december-2026/</guid>
 <pubDate>Wed, 26 Aug 2026 12:54:23 +0000</pubDate>
 <description>The choice of Langkawi is a fitting one. As Southeast Asia's first UNESCO Global Geopark, the island is known for its ancient rainforests, limestone ...</description>
-</item>
-<item>
-<title>Hong Kong Plans Sam Po Shue Wetland Park to Balance Ecology and Aquaculture Development</title>
-<link>https://www.bastillepost.com/global/article/5993005-hong-kong-plans-sam-po-shue-wetland-park-to-balance-ecology-and-aquaculture-development</link>
-<guid isPermaLink="false">https://www.bastillepost.com/global/article/5993005-hong-kong-plans-sam-po-shue-wetland-park-to-balance-ecology-and-aquaculture-development</guid>
-<pubDate>Tue, 07 Jul 2026 13:40:51 +0000</pubDate>
-<description>At the same time, it will provide citizens and visitors with a rich eco-tourism experience and introduce modernised aquaculture facilities and ...</description>
-</item>
-<item>
-<title>Opinion | Managing Ecotourism to Protect Nature and People - 橙新聞</title>
-<link>https://www.orangenews.hk/OPINION/VMr7FeF/Opinion---Managing-Ecotourism-to-Protect-Nature-and-People.shtml</link>
-<guid isPermaLink="false">https://www.orangenews.hk/OPINION/VMr7FeF/Opinion---Managing-Ecotourism-to-Protect-Nature-and-People.shtml</guid>
-<pubDate>Thu, 18 Jun 2026 10:31:33 +0000</pubDate>
-<description>Hong Kong's countryside and coastline are not only beautiful—they are also economic and cultural assets. Ecotourism fits the city naturally: when ...</description>
 </item>
 </channel>
 </rss>

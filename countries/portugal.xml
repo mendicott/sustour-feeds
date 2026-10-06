@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/portugal.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Portugal. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 06 Oct 2026 09:10:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 21:13:48 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Portugal archipelago renews sustainable tourism certification</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lah8spefggvv/</guid>
 <pubDate>Mon, 06 Jul 2026 07:57:09 +0000</pubDate>
 <description>Calanques visitor caps return in France for 2026, limiting access to Mediterranean beaches to curb overtourism and protect fragile ecosystems.</description>
+</item>
+<item>
+<title>Algarvensis Geopark wins the 2026 Geoconservation Award for its regional strategy to ...</title>
+<link>https://www.sulinformacao.pt/en/2026/10/geoparque-algarvensis-conquista-premio-geoconservacao-2026-pela-estrategia-regional-de-protecao-da-geodiversidade/</link>
+<guid isPermaLink="false">https://www.sulinformacao.pt/en/2026/10/geoparque-algarvensis-conquista-premio-geoconservacao-2026-pela-estrategia-regional-de-protecao-da-geodiversidade/</guid>
+<pubDate>Tue, 06 Oct 2026 20:36:13 +0000</pubDate>
+<description>The award is given annually by the Portuguese Group of ProGEO – the International Association for the Conservation of Geological Heritage – and ...</description>
 </item>
 <item>
 <title>Spain Works Alongside Portugal and More in Tightening Cruise Ship Rules as Europe ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.theportugalnews.com/news/2026-08-10/portugal-archipelago-reinforces-sustainable-management-of-natural-heritage/1068137</guid>
 <pubDate>Mon, 10 Aug 2026 12:11:55 +0000</pubDate>
 <description>... tourism as part of its wider environmental objectives. Its plans include measures aimed at monitoring the natural heritage ... travel, adventure ...</description>
-</item>
-<item>
-<title>Portugal Is Quietly Revolutionizing Travel With Ponta Delgada, Proving That You Don't ...</title>
-<link>https://www.travelandtourworld.com/news/article/b3hxy87t72b3/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/b3hxy87t72b3/</guid>
-<pubDate>Mon, 20 Jul 2026 17:45:00 +0000</pubDate>
-<description>Subterranean Volcanic Marvels and the Future of Geological Heritage Tourism. Geologists have detailed that a highly remarkable opportunity awaits ...</description>
 </item>
 </channel>
 </rss>
