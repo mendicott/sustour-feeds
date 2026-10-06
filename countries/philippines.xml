@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/philippines.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Philippines. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 05 Oct 2026 21:14:23 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 09:10:27 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Bill guaranteeing communities' share of tourism revenue pushed - Philippine News Agency</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://pia.gov.ph/news/pasil-trains-tour-guides-to-boost-community-based-tourism/</guid>
 <pubDate>Mon, 24 Aug 2026 07:45:08 +0000</pubDate>
 <description>... community-based tourism program. The August 3–9 Community Guiding Seminar trained residents with the skills needed to guide visitors safely and ...</description>
+</item>
+<item>
+<title>Tourism conference explores indigenous, local knowledge - University of the Philippines Diliman</title>
+<link>https://upd.edu.ph/tourism-conference-explores-indigenous-local-knowledge/</link>
+<guid isPermaLink="false">https://upd.edu.ph/tourism-conference-explores-indigenous-local-knowledge/</guid>
+<pubDate>Tue, 06 Oct 2026 02:30:05 +0000</pubDate>
+<description>... Tourism in Indigenous Sovereignty Principles by Leah E. Abayao. A professor and cultural geographer at the Department of Southeast Asian Studies ...</description>
 </item>
 <item>
 <title>Philippines and More Countries Transform Battlefields Into Sustainable Eco-Tourism ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.telegraph.co.uk/travel/michael-palin-philippines-travel-at-83/</guid>
 <pubDate>Fri, 18 Sep 2026 08:01:06 +0000</pubDate>
 <description>The Travel Expert with Simon Calder. Michael Palin on the Philippines, over-tourism and his Python- ...</description>
-</item>
-<item>
-<title>Local knowledge and circular practices reshape travel - Manila Bulletin</title>
-<link>https://mb.com.ph/2026/09/16/local-knowledge-and-circular-practices-reshape-travel</link>
-<guid isPermaLink="false">https://mb.com.ph/2026/09/16/local-knowledge-and-circular-practices-reshape-travel</guid>
-<pubDate>Wed, 16 Sep 2026 13:19:42 +0000</pubDate>
-<description>What can a small town teach us about sustainability?Quite a lot, it turns out.Recently, our team from Masungi Georeserve Foundation traveled to ...</description>
 </item>
 </channel>
 </rss>
