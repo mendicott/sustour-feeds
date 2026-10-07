@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.ausleisure.com.au/news/ecotourism-australia-releases-its-first-sustainability-impact-report",
+      "url": "https://www.ausleisure.com.au/news/ecotourism-australia-releases-its-first-sustainability-impact-report",
+      "title": "Ecotourism Australia releases its first Sustainability Impact Report",
+      "content_text": "Established in 1991, Ecotourism Australia has spent 35 years supporting, shaping and strengthening ecotourism and sustainable tourism in Australia.",
+      "date_published": "2026-10-07T05:01:44+00:00"
+    },
+    {
       "id": "https://dungogshire.newsofthearea.com.au/new-european-anti-greenwashing-legislation-welcomed-by-certified-tourism-industry",
       "url": "https://dungogshire.newsofthearea.com.au/new-european-anti-greenwashing-legislation-welcomed-by-certified-tourism-industry",
       "title": "New European anti-greenwashing legislation welcomed by certified tourism industry",
@@ -68,13 +75,6 @@
       "title": "Sri Lanka's Yala National Park Limits Tourism as Extreme Drought and Water Shortage Put ...",
       "content_text": "Sri Lanka's Yala National Park restricts tourism due to drought and water shortages, threatening wildlife survival and conservation.",
       "date_published": "2026-09-09T08:14:16+00:00"
-    },
-    {
-      "id": "https://www.newswire.lk/2026/09/08/rs-173-86-million-consultancy-contract-approved-for-sustainable-tourism-programme/",
-      "url": "https://www.newswire.lk/2026/09/08/rs-173-86-million-consultancy-contract-approved-for-sustainable-tourism-programme/",
-      "title": "Rs. 173.86 million consultancy contract approved for sustainable tourism programme",
-      "content_text": "... Sri Lanka, in association with M/s Novel Interdisciplinary Consulting Enterprise (Pvt) Ltd of Sri Lanka. The Cabinet-appointed Consultancy ...",
-      "date_published": "2026-09-08T19:39:26+00:00"
     }
   ]
 }

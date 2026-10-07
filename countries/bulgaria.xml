@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/bulgaria.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Bulgaria. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 06 Oct 2026 21:13:48 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 09:10:26 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Exhibition "Cultural Routes – Bulgaria 2026"</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://www.mfa.bg/en/5925</guid>
 <pubDate>Tue, 08 Sep 2026 19:37:38 +0000</pubDate>
 <description>... sustainable tourism, for initiatives of local communities and a field for contemporary creative expression. The Cyril and Methodius Cultural Route ...</description>
+</item>
+<item>
+<title>Bulgaria Tourism Targets Greener Mountain Travel Across Rila and Pirin</title>
+<link>https://www.travelandtourworld.com/news/article/a8nk6wmesduv/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/a8nk6wmesduv/</guid>
+<pubDate>Wed, 07 Oct 2026 07:40:43 +0000</pubDate>
+<description>... protected areas where tourism activity must operate alongside conservation requirements. For Bulgaria tourism, managing that balance is becoming ...</description>
 </item>
 <item>
 <title>Now Bulgaria, Romania, Serbia, and Greece Spotlight Vrachanski Balkan Nature Park as ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://bnrnews.bg/en/post/521362/a-tiny-rhodope-village-draws-visitors-from-around-the-world</guid>
 <pubDate>Fri, 28 Aug 2026 11:58:01 +0000</pubDate>
 <description>Dimitar Ralev on how Kosovo, with just 29 residents, is turning visitors into friends – and new neighbours. Dimitar Ralev. PHOTO Personal archive.</description>
-</item>
-<item>
-<title>Greenpeace icebreaker to visit Varna for Black Sea conservation campaign on August 7, 8</title>
-<link>https://azertag.az/en/xeber/greenpeace_icebreaker_to_visit_varna_for_black_sea_conservation_campaign_on_august_7_8-4342637</link>
-<guid isPermaLink="false">https://azertag.az/en/xeber/greenpeace_icebreaker_to_visit_varna_for_black_sea_conservation_campaign_on_august_7_8-4342637</guid>
-<pubDate>Wed, 29 Jul 2026 11:02:17 +0000</pubDate>
-<description>The ship will visit Bulgaria as part of the organisation's campaign to protect oceans, the climate and vulnerable marine ecosystems, according to the ...</description>
 </item>
 </channel>
 </rss>

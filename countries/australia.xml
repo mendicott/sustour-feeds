@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/australia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Australia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 06 Oct 2026 21:13:48 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 09:10:26 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Ecotourism Australia releases its first Sustainability Impact Report</title>
+<link>https://www.ausleisure.com.au/news/ecotourism-australia-releases-its-first-sustainability-impact-report</link>
+<guid isPermaLink="false">https://www.ausleisure.com.au/news/ecotourism-australia-releases-its-first-sustainability-impact-report</guid>
+<pubDate>Wed, 07 Oct 2026 05:01:44 +0000</pubDate>
+<description>Established in 1991, Ecotourism Australia has spent 35 years supporting, shaping and strengthening ecotourism and sustainable tourism in Australia.</description>
+</item>
 <item>
 <title>New European anti-greenwashing legislation welcomed by certified tourism industry</title>
 <link>https://dungogshire.newsofthearea.com.au/new-european-anti-greenwashing-legislation-welcomed-by-certified-tourism-industry</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.innereastreview.com.au/story/9362831/how-to-spot-a-truly-sustainable-hotel/</guid>
 <pubDate>Tue, 06 Oct 2026 10:58:22 +0000</pubDate>
 <description>Look for independent audits. Ecotourism Australia chief executive officer, Elissa Keenan, says Ecotourism Australia's Sustainable Tourism ...</description>
-</item>
-<item>
-<title>Is that hotel truly sustainable - or are you being greenwashed? - The Canberra Times</title>
-<link>https://www.canberratimes.com.au/story/9362831/how-to-spot-a-truly-sustainable-hotel/</link>
-<guid isPermaLink="false">https://www.canberratimes.com.au/story/9362831/how-to-spot-a-truly-sustainable-hotel/</guid>
-<pubDate>Tue, 06 Oct 2026 04:52:17 +0000</pubDate>
-<description>Ecotourism Australia has an online Green Travel Guide at www ... ECO Certified and Sustainable Tourism Certified operator and destination in Australia.</description>
 </item>
 </channel>
 </rss>

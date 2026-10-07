@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/united-states.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for United States. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 06 Oct 2026 21:13:48 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 09:10:26 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>USA National Parks Show How Timed Entry Is Reshaping Tourism and Local Spending</title>
+<link>https://www.travelandtourworld.com/news/article/hnule7u62sxu/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/hnule7u62sxu/</guid>
+<pubDate>Wed, 07 Oct 2026 04:45:55 +0000</pubDate>
+<description>NPS data show that visitor spending in gateway communities remains a significant component of the wider US tourism economy. The 2024 figures ...</description>
+</item>
 <item>
 <title>US tour operators explore the island of Ireland's sustainable tourism experiences</title>
 <link>https://www.tourismireland.com/news-and-press-releases/press-releases/article/us-tour-operators-explore-the-island-of-ireland-s-sustainable-tourism-experiences</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.pressreader.com/usa/los-angeles-times/20260717/282359751476366</guid>
 <pubDate>Fri, 17 Jul 2026 13:34:22 +0000</pubDate>
 <description>2026-07-17 - Travel · Tourism · West Coast · United States of America · Love · Earth · Cook Islands. At a time when many destinations are ...</description>
-</item>
-<item>
-<title>Mexico Pairs Up with United States and Spain as Barceló México Reforma Secures Green ...</title>
-<link>https://www.travelandtourworld.com/news/article/b79uaodofbrg/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/b79uaodofbrg/</guid>
-<pubDate>Wed, 15 Jul 2026 09:45:39 +0000</pubDate>
-<description>Green Globe describes its programme as an international certification system for travel and tourism businesses. The recognition is notable because the ...</description>
 </item>
 </channel>
 </rss>
