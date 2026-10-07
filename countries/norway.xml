@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/norway.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Norway. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 07 Oct 2026 09:10:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 21:14:20 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Why Norway's Lofoten Islands Are Implementing a Vital Tourist Tax This Season</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/c8je5vgmci49/</guid>
 <pubDate>Sat, 05 Sep 2026 08:46:57 +0000</pubDate>
 <description>Netherlands And Norway Join Global Movement Against Tourism Pressure. Other European destinations are also strengthening overtourism policies.</description>
+</item>
+<item>
+<title>Tourism Has Created a Housing Crisis in Tromsø - Life in Norway</title>
+<link>https://www.lifeinnorway.net/tourism-has-created-a-housing-crisis-in-tromso/</link>
+<guid isPermaLink="false">https://www.lifeinnorway.net/tourism-has-created-a-housing-crisis-in-tromso/</guid>
+<pubDate>Wed, 07 Oct 2026 10:03:09 +0000</pubDate>
+<description>Tromsø's booming tourism industry has transformed the city into one of Europe's hottest winter destinations. But the growth of short-term rentals ...</description>
 </item>
 <item>
 <title>Lofoten Hotels Push Back Against Norway's New Tourist Tax - Forbes</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/loyj894xl80y/</guid>
 <pubDate>Wed, 09 Sep 2026 10:35:03 +0000</pubDate>
 <description>Norway joins Italy and Europe's top destinations in using tourist taxes, visitor caps and crowd controls to protect tourism from overtourism.</description>
-</item>
-<item>
-<title>Tourist tax: Norway's Lofoten Islands manages overtourism - DW News</title>
-<link>https://www.dw.com/en/tourist-tax-norways-lofoten-islands-manages-overtourism/video-78550598</link>
-<guid isPermaLink="false">https://www.dw.com/en/tourist-tax-norways-lofoten-islands-manages-overtourism/video-78550598</guid>
-<pubDate>Mon, 07 Sep 2026 15:42:54 +0000</pubDate>
-<description>But the tourism boom is putting pressure on local communities, with overcrowded roads, full parking areas, litter and unauthorized camping creating ...</description>
 </item>
 </channel>
 </rss>

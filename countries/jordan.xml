@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/jordan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Jordan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 07 Oct 2026 09:10:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 21:14:20 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Petra Authority, UNESCO Explore Expanding Sustainable Tourism, Community Empowerment</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://petra.gov.jo/wp-contart/x/index.php/en/news/petra-authority-unesco-explore-expanding-sustainable-tourism-community-empowerment</guid>
 <pubDate>Tue, 21 Jul 2026 10:43:25 +0000</pubDate>
 <description>... sustainable tourism and empower local communities. The meeting was attended by Minister of Tourism and Antiquities Imad Hijazin, Chairperson of ...</description>
+</item>
+<item>
+<title>Petra Strengthens Sustainable Tourism With Cleaner Visitor Access in Jordan</title>
+<link>https://www.travelandtourworld.com/news/article/n3c01xzkq0d1/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/n3c01xzkq0d1/</guid>
+<pubDate>Wed, 07 Oct 2026 06:42:25 +0000</pubDate>
+<description>... Travel News » Petra Strengthens Sustainable Tourism With Cleaner Visitor Access in Jordan ... The UNESCO World Heritage Site attracts visitors to ...</description>
 </item>
 <item>
 <title>Tour Company Brings Visitors Back to a Village Jordan Emptied - Cairo Scene</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://petra.gov.jo/en/news/wild-jordan-house-reopens-after-renovation-as-expanded-ecotourism-destination</guid>
 <pubDate>Tue, 01 Sep 2026 10:36:41 +0000</pubDate>
 <description>... Jordan's tourism offerings. The Jear restaurant features a menu inspired by Amman's cultural diversity and culinary heritage, presenting ...</description>
-</item>
-<item>
-<title>Dibeen Forest Reserve Promotes Eco-Tourism, Local Employment Through Heritage Crafts</title>
-<link>https://petra.gov.jo/sm_forum/index.php/en/news/dibeen-forest-reserve-promotes-eco-tourism-local-employment-through-heritage-crafts</link>
-<guid isPermaLink="false">https://petra.gov.jo/sm_forum/index.php/en/news/dibeen-forest-reserve-promotes-eco-tourism-local-employment-through-heritage-crafts</guid>
-<pubDate>Mon, 17 Aug 2026 09:18:03 +0000</pubDate>
-<description>Jerash, Feb. 15 (Petra) -- Dibeen Forest Reserve continues to expand its eco-tourism and community development initiatives, combining forest ...</description>
 </item>
 </channel>
 </rss>

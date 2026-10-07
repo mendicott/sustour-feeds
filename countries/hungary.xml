@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/hungary.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Hungary. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 07 Oct 2026 09:10:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 21:14:20 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Mediaeval castle to be restored, new visitor experiences added to cross-border geopark</title>
@@ -65,18 +65,18 @@
 <description>... climate change. Beyond these priority cases, some listed heritage ... Algeria's ruling National Liberation Front (FLN) won the... Hungary's ...</description>
 </item>
 <item>
+<title>CEE Impact Report 2026 - KPMG in Hungary</title>
+<link>https://kpmg.com/hu/en/insights/2026/10/impact-cee.html</link>
+<guid isPermaLink="false">https://kpmg.com/hu/en/insights/2026/10/impact-cee.html</guid>
+<pubDate>Wed, 07 Oct 2026 11:41:50 +0000</pubDate>
+<description>57hours shows how an outdoor adventure platform scaled its business while promoting social inclusion, gender equality and more sustainable tourism.</description>
+</item>
+<item>
 <title>How River Cruise Is Adapting To Europe's Climate Change</title>
 <link>https://cruisepassenger.com.au/rivercruise/how-river-cruise-is-adapting-to-europes-climate-change/</link>
 <guid isPermaLink="false">https://cruisepassenger.com.au/rivercruise/how-river-cruise-is-adapting-to-europes-climate-change/</guid>
 <pubDate>Tue, 29 Sep 2026 00:44:29 +0000</pubDate>
 <description>This summer's low water on the Rhine and Danube has raised questions more important than whether the next ship will reach Budapest: what happens if ...</description>
-</item>
-<item>
-<title>Budapest Castle District to Hold Referendum on Airbnb Rentals</title>
-<link>https://bbj.hu/budapest/travel/tourism/budapest-castle-district-to-hold-referendum-on-airbnb-rentals/</link>
-<guid isPermaLink="false">https://bbj.hu/budapest/travel/tourism/budapest-castle-district-to-hold-referendum-on-airbnb-rentals/</guid>
-<pubDate>Mon, 31 Aug 2026 14:45:47 +0000</pubDate>
-<description>The legal moratorium on registering new short-term accommodation facilities is due to expire at the end of the year. Tourism ...</description>
 </item>
 </channel>
 </rss>
