@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/romania.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Romania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 08 Oct 2026 09:08:53 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 21:13:13 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Harghita becomes Romania's first region to receive Green Destinations Silver Award</title>
@@ -44,6 +44,13 @@
 <description>Romania's new 1400-kilometre Via Transilvanica hiking trail is transforming rural economies while preserving ancient UNESCO heritage sites.</description>
 </item>
 <item>
+<title>Pădurea Craiului becomes Romania's seventh recognised ecotourism destination</title>
+<link>https://www.romania-insider.com/life/padurea-craiului-becomes-romanias-seventh-recognised-ecotourism</link>
+<guid isPermaLink="false">https://www.romania-insider.com/life/padurea-craiului-becomes-romanias-seventh-recognised-ecotourism</guid>
+<pubDate>Thu, 08 Oct 2026 09:19:44 +0000</pubDate>
+<description>Romania has officially recognised Pădurea Craiului (Craiului Forest) as an ecotourism destination, interim economy and tourism minister Irineu ...</description>
+</item>
+<item>
 <title>Darau: Padurea Craiului becomes an ecotourism destination - AGERPRES</title>
 <link>https://agerpres.ro/english/2026/10/07/darau-padurea-craiului-becomes-an-ecotourism-destination--1600891</link>
 <guid isPermaLink="false">https://agerpres.ro/english/2026/10/07/darau-padurea-craiului-becomes-an-ecotourism-destination--1600891</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.romaniajournal.ro/society-people/romania-launches-campaign-to-promote-national-parks/</guid>
 <pubDate>Fri, 31 Jul 2026 13:58:20 +0000</pubDate>
 <description>In addition, national parks help protect nearby communities from increasingly frequent droughts, floods, and heatwaves associated with climate change.</description>
-</item>
-<item>
-<title>Now Bulgaria, Romania, Serbia, and Greece Spotlight Vrachanski Balkan Nature Park as ...</title>
-<link>https://www.travelandtourworld.com/news/article/g5h2g27opw38/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/g5h2g27opw38/</guid>
-<pubDate>Thu, 23 Jul 2026 10:20:52 +0000</pubDate>
-<description>Vrachanski Balkan Nature Park represents an outstanding example of how geological heritage, biodiversity conservation, cultural history, and ...</description>
 </item>
 </channel>
 </rss>
