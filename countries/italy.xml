@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 07 Oct 2026 21:14:20 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 09:08:53 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Rome Joins Venice and Other Cities as Italy Battles Overtourism with New Measures Amid ...</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lah8spefggvv/</guid>
 <pubDate>Mon, 06 Jul 2026 07:57:09 +0000</pubDate>
 <description>Calanques visitor caps return in France for 2026, limiting access to Mediterranean beaches to curb overtourism and protect fragile ecosystems.</description>
+</item>
+<item>
+<title>Sustainable Tourism: New Cultural and Policy Approaches in Italy | inITALY</title>
+<link>https://www.initaly.it/en/articolo/turismo-sostenibile-nuovi-approcci-culturali-e-politici-in-italia-39766</link>
+<guid isPermaLink="false">https://www.initaly.it/en/articolo/turismo-sostenibile-nuovi-approcci-culturali-e-politici-in-italia-39766</guid>
+<pubDate>Thu, 08 Oct 2026 00:16:08 +0000</pubDate>
+<description>The debate on sustainable tourism in Italy is enriched by three volumes presenting concrete strategies to manage and regenerate tourist flows, ...</description>
 </item>
 <item>
 <title>Iceland Joins Italy And More Countries In Imposing Overnight Visitors Levy And Seasonal ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/j83q85bjflfg/</guid>
 <pubDate>Mon, 28 Sep 2026 11:46:15 +0000</pubDate>
 <description>Europe launches a new tourism strategy to manage overtourism, protect communities, spread visitors and build sustainable travel growth.</description>
-</item>
-<item>
-<title>Spain Follows Portugal And Other Tourism Giants As Madrid And Lisbon Face Rising ...</title>
-<link>https://www.travelandtourworld.com/news/article/7tsv25iwu0mm/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/7tsv25iwu0mm/</guid>
-<pubDate>Mon, 28 Sep 2026 05:26:34 +0000</pubDate>
-<description>Spain, Portugal and Italy are facing growing challenges in their housing sector due to overtourism as Europe tries to find ways for sustainable ...</description>
 </item>
 </channel>
 </rss>
