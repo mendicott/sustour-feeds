@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/norway.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Norway. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 09 Oct 2026 09:09:29 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 21:13:51 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Why Norway's Lofoten Islands Are Implementing a Vital Tourist Tax This Season</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/c8je5vgmci49/</guid>
 <pubDate>Sat, 05 Sep 2026 08:46:57 +0000</pubDate>
 <description>Netherlands And Norway Join Global Movement Against Tourism Pressure. Other European destinations are also strengthening overtourism policies.</description>
+</item>
+<item>
+<title>Norwegian Diplomat Praises Dubrovnik's Approach to Sustainable Tourism</title>
+<link>https://www.thedubrovniktimes.com/news/dubrovnik/item/20668-norwegian-diplomat-praises-dubrovnik-s-approach-to-sustainable-tourism</link>
+<guid isPermaLink="false">https://www.thedubrovniktimes.com/news/dubrovnik/item/20668-norwegian-diplomat-praises-dubrovnik-s-approach-to-sustainable-tourism</guid>
+<pubDate>Fri, 09 Oct 2026 11:21:59 +0000</pubDate>
+<description>Croatia's more recent history was also discussed, including the defence of Dubrovnik during the Homeland War. Potrebica highlighted the significance ...</description>
 </item>
 <item>
 <title>Tourism Has Created a Housing Crisis in Tromsø - Life in Norway</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/4hemyfd0cr8m/</guid>
 <pubDate>Thu, 10 Sep 2026 13:19:35 +0000</pubDate>
 <description>Norway is reshaping tourism in 2026 with zero-emission fjord rules and a new 3% visitor contribution for pressured destinations.</description>
-</item>
-<item>
-<title>Norway Steps Up With Italy And More European Destinations In A Powerful Tourism Shift ...</title>
-<link>https://www.travelandtourworld.com/news/article/loyj894xl80y/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/loyj894xl80y/</guid>
-<pubDate>Wed, 09 Sep 2026 10:35:03 +0000</pubDate>
-<description>Norway joins Italy and Europe's top destinations in using tourist taxes, visitor caps and crowd controls to protect tourism from overtourism.</description>
 </item>
 </channel>
 </rss>
