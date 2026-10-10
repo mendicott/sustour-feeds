@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/bangladesh.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Bangladesh. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 10 Oct 2026 09:08:03 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 21:10:10 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Construction Begins on Bangladesh's First Community-Based Agro-Tourism Project in Bogura</title>
+<link>https://dailynewnation.com/news/862031</link>
+<guid isPermaLink="false">https://dailynewnation.com/news/862031</guid>
+<pubDate>Sat, 10 Oct 2026 16:13:02 +0000</pubDate>
+<description>Agro-tourism, or agritourism, is a form of tourism in which visitors stay on farms, take part in harvesting or animal husbandry, and experience rural ...</description>
+</item>
 <item>
 <title>Bangladesh hosts OIC workshop to promote heritage preservation, sustainable tourism</title>
 <link>https://www.bangladeshmonitor.com.bd/en/bangladesh-hosts-oic-workshop-to-promote-heritage-preservation-sustainable</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.daily-sun.com/business/898674/sukher-khamar-unveils-agro-resort-design-hands-over-land-deeds-to-over-150-partners</guid>
 <pubDate>Sat, 19 Sep 2026 09:42:33 +0000</pubDate>
 <description>Bangladesh's first community-based agro-tourism project, Sukher Khamar Agro Limited, unveiled the design of its planned agro-resort in Bogura on.</description>
-</item>
-<item>
-<title>Bogura to host Bangladesh's first community-based agro-tourism project</title>
-<link>https://www.bangladeshmonitor.com.bd/en/bogura-to-host-bangladesh-s-first-community-based-agro-tourism-project</link>
-<guid isPermaLink="false">https://www.bangladeshmonitor.com.bd/en/bogura-to-host-bangladesh-s-first-community-based-agro-tourism-project</guid>
-<pubDate>Sat, 19 Sep 2026 09:41:20 +0000</pubDate>
-<description>Sukher Khamar Agro Limited presented the project's architectural design at the 13th Asian Tourism Fair 2026 in Dhaka on September 18. Land deeds were ...</description>
 </item>
 </channel>
 </rss>
