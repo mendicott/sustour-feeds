@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/hungary.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Hungary. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 09 Oct 2026 21:13:51 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 09:08:03 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Airbnb-style rentals face ban in Budapest's historic Castle District - TVP World</title>
+<link>https://tvpworld.com/95840654/budapest-castle-district-residents-back-airbnb-style-rental-ban</link>
+<guid isPermaLink="false">https://tvpworld.com/95840654/budapest-castle-district-residents-back-airbnb-style-rental-ban</guid>
+<pubDate>Fri, 09 Oct 2026 10:22:48 +0000</pubDate>
+<description>Budapest locals back crackdown on Airbnb-style rentals in historic district. Local authorities say such accommodation affects not only tourism ...</description>
+</item>
 <item>
 <title>Mediaeval castle to be restored, new visitor experiences added to cross-border geopark</title>
 <link>https://spectator.sme.sk/travel/c/somoska-castle-restoration-novohrad-nograd-geopark</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://kpmg.com/hu/en/insights/2026/10/impact-cee.html</guid>
 <pubDate>Wed, 07 Oct 2026 11:41:50 +0000</pubDate>
 <description>57hours shows how an outdoor adventure platform scaled its business while promoting social inclusion, gender equality and more sustainable tourism.</description>
-</item>
-<item>
-<title>How River Cruise Is Adapting To Europe's Climate Change</title>
-<link>https://cruisepassenger.com.au/rivercruise/how-river-cruise-is-adapting-to-europes-climate-change/</link>
-<guid isPermaLink="false">https://cruisepassenger.com.au/rivercruise/how-river-cruise-is-adapting-to-europes-climate-change/</guid>
-<pubDate>Tue, 29 Sep 2026 00:44:29 +0000</pubDate>
-<description>This summer's low water on the Rhine and Danube has raised questions more important than whether the next ship will reach Budapest: what happens if ...</description>
 </item>
 </channel>
 </rss>
