@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/denmark.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Denmark. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 11 Oct 2026 09:06:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 21:12:52 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Copenhagen and More Tackle Overtourism Through Regenerative Travel and Community ...</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/uc4pezzc7xs7/</guid>
 <pubDate>Wed, 01 Jul 2026 12:05:15 +0000</pubDate>
 <description>... meaningful travel beyond the world's crowded tourist hotspots, while waging a determined crusade against overtourism through sustainable tourism ...</description>
+</item>
+<item>
+<title>Japan and Other Nations Implement Innovative Restrictions, Fees, and Gamification to Fight ...</title>
+<link>https://www.travelandtourworld.com/news/article/077blm5efvcg/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/077blm5efvcg/</guid>
+<pubDate>Sat, 10 Oct 2026 22:09:51 +0000</pubDate>
+<description>Explore how Japan, Bhutan, Denmark, and Venice use innovative rules, fees, and gamification to combat destructive overtourism.</description>
 </item>
 <item>
 <title>Helsinki Outshines Gothenburg, Copenhagen and More as World's Most Sustainable Travel ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/sl9rq8rejcqk/</guid>
 <pubDate>Sat, 19 Sep 2026 05:04:04 +0000</pubDate>
 <description>For Greenland, the challenge will be transforming global curiosity into responsible tourism growth that benefits local communities. Better ...</description>
-</item>
-<item>
-<title>Denmark Expands Big Nature Tourism Across Mols Bjerge and Møn - Travel And Tour World</title>
-<link>https://www.travelandtourworld.com/news/article/4kd84f7h7qoj/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/4kd84f7h7qoj/</guid>
-<pubDate>Wed, 09 Sep 2026 13:01:52 +0000</pubDate>
-<description>Denmark is expanding slow nature tourism through Mols Bjerge hiking trails, rewilding landscapes and Møn's UNESCO biosphere and dark skies.</description>
 </item>
 </channel>
 </rss>

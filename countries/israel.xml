@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/israel.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Israel. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 11 Oct 2026 09:06:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 21:12:52 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>NGO accuses Israel of risking 'heritage apartheid' at Sebastia | The Jerusalem Post</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://www.jpost.com/environment-and-climate-change/article-900326</guid>
 <pubDate>Wed, 24 Jun 2026 02:38:04 +0000</pubDate>
 <description>Several of Israel's rare and endangered species have begun producing seeds and flowering once again as a result of a joint conservation effort, ...</description>
+</item>
+<item>
+<title>More trails, more damage? Why marking additional hiking routes in Israel should be avoided</title>
+<link>https://www.jpost.com/travel/article-911300</link>
+<guid isPermaLink="false">https://www.jpost.com/travel/article-911300</guid>
+<pubDate>Sun, 11 Oct 2026 14:29:39 +0000</pubDate>
+<description>A new study examined what happens to wildlife when new hiking trails are opened in previously inaccessible areas, finding that certain species ...</description>
 </item>
 <item>
 <title>No Room for Genocide Campaign Day of Action - 27th September | BDS Movement</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://qna.org.qa/en/News-Area/News/2026-7/23/palestinian-institutions-laud-unesco-decisions-protecting-jerusalem-historic-world-heritage-sites</guid>
 <pubDate>Wed, 22 Jul 2026 22:06:47 +0000</pubDate>
 <description>... Palestinian cultural heritage for generations to come. The Palestinian Ministry of Tourism and Antiquities also welcomed the decision, saying the ...</description>
-</item>
-<item>
-<title>Jerusalem Cancels Reches Lavan Housing for Nature | JFeed</title>
-<link>https://www.jfeed.com/news-israel/jerusalem-reches-lavan-nature-preservation</link>
-<guid isPermaLink="false">https://www.jfeed.com/news-israel/jerusalem-reches-lavan-nature-preservation</guid>
-<pubDate>Sun, 19 Jul 2026 17:07:32 +0000</pubDate>
-<description>... preservation and Eco-tourism. Speaking on the second day of the 54th Annual Conference for Science and the Environment, Lion emphasized the ...</description>
 </item>
 </channel>
 </rss>
