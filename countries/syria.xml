@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/syria.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Syria. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 12 Oct 2026 09:11:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 21:17:34 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Tamil Nadu's 70-YO Palmyra Tree Climbers Find New Income Through a Professor's Tourism Trails</title>
@@ -44,6 +44,13 @@
 <description>... tourism and local economies. Under the agreement with the Aga ... heritage sites, including the Palmyra Museum, Krak des Chevaliers, Deir ...</description>
 </item>
 <item>
+<title>Idlib's ancient villages preserve Syria's architectural and cultural heritage</title>
+<link>https://sana.sy/en/culture-and-arts/2350121/</link>
+<guid isPermaLink="false">https://sana.sy/en/culture-and-arts/2350121/</guid>
+<pubDate>Mon, 12 Oct 2026 12:20:21 +0000</pubDate>
+<description>Idlib's ancient villages preserve Syria's architectural and cultural heritage ... Sustainable tourism to support conservation. Organized cultural ...</description>
+</item>
+<item>
 <title>A second wave of Guam Kingfishers prepares for life in the wild - Rare Bird Alert</title>
 <link>https://www.rarebirdalert.co.uk/v2/Content/A_second_wave_of_Guam_Kingfishers_prepares_for_life_in_the_wild.aspx</link>
 <guid isPermaLink="false">https://www.rarebirdalert.co.uk/v2/Content/A_second_wave_of_Guam_Kingfishers_prepares_for_life_in_the_wild.aspx</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://sana.sy/en/culture-and-arts/2342615/</guid>
 <pubDate>Mon, 14 Sep 2026 06:52:41 +0000</pubDate>
 <description>The city has been on UNESCO's World Heritage List since 1980 and is renowned for its exceptionally well-preserved Roman, Byzantine and early Islamic ...</description>
-</item>
-<item>
-<title>Krak des Chevaliers preserves nine centuries of Syria's history</title>
-<link>https://sana.sy/en/tour-syria/2328524/</link>
-<guid isPermaLink="false">https://sana.sy/en/tour-syria/2328524/</guid>
-<pubDate>Fri, 10 Jul 2026 06:14:30 +0000</pubDate>
-<description>Homs, July 10 (SANA) The Krak des Chevaliers, one of Syria's best-known medieval landmarks and a UNESCO World Heritage Site, is re-emerging as a ...</description>
 </item>
 </channel>
 </rss>

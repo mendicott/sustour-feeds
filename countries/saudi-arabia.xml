@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/saudi-arabia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Saudi Arabia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 12 Oct 2026 09:11:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 21:17:34 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Bangladeshis in Saudi Arabia urged to stay alert - The Financial Express</title>
+<link>https://thefinancialexpress.com.bd/national/bangladeshis-in-saudi-arabia-urged-to-stay-alert</link>
+<guid isPermaLink="false">https://thefinancialexpress.com.bd/national/bangladeshis-in-saudi-arabia-urged-to-stay-alert</guid>
+<pubDate>Mon, 12 Oct 2026 15:03:43 +0000</pubDate>
+<description>The Minister emphasised that tourism activities must be conducted while preserving Saint Martin's natural environment and biodiversity, he continued.</description>
+</item>
 <item>
 <title>AlUla wins Gold at 2026 ICRT Responsible Tourism Awards - Saudi Gazette</title>
 <link>https://saudigazette.com.sa/article/664909/saudi-arabia/alula-wins-gold-at-2026-icrt-responsible-tourism-awards</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.hotelmanagement-network.com/news/rsg-opens-equinox-resort-amaala-in-saudi-arabia/</guid>
 <pubDate>Fri, 04 Sep 2026 14:46:27 +0000</pubDate>
 <description>Red Sea Global (RSG), which focuses on developing regenerative tourism destinations, has opened Equinox Resort AMAALA in Saudi Arabia.</description>
-</item>
-<item>
-<title>Whale Shark Reflects Rich Marine Biodiversity in Red Sea</title>
-<link>https://www.spa.gov.sa/en/N2668928</link>
-<guid isPermaLink="false">https://www.spa.gov.sa/en/N2668928</guid>
-<pubDate>Fri, 04 Sep 2026 08:53:17 +0000</pubDate>
-<description>... sustainable marine research and eco-tourism. To safeguard this vulnerable species, the Saudi Red Sea Authority is actively championing responsible ...</description>
 </item>
 </channel>
 </rss>

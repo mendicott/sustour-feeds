@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/finland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Finland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 12 Oct 2026 09:11:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 21:17:34 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Helsinki tops GDS-Index for third year amid record scores across the board - micebook.</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.hel.fi/en/business-and-work/helsinki-friend</guid>
 <pubDate>Tue, 15 Sep 2026 19:25:07 +0000</pubDate>
 <description>It falls under the concept of regenerative tourism: the kind of tourism that strengthens communities, fosters cross-cultural understanding and has a ...</description>
+</item>
+<item>
+<title>Lapland Confronts Winter Tourism Pressures With a Stronger Sustainability Push</title>
+<link>https://www.travelandtourworld.com/news/article/8bfdiyjqeqlo/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/8bfdiyjqeqlo/</guid>
+<pubDate>Mon, 12 Oct 2026 07:12:53 +0000</pubDate>
+<description>This is facilitated by Visit Finland's Sustainable Travel Finland programme, which already exists, while the local authorities of Rovaniemi have ...</description>
 </item>
 <item>
 <title>Victoria ranked as best small city globally for sustainable tourism</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.c-mw.net/nearly-9-in-10-destinations-improve-as-helsinki-leads-2026-gds-index/</guid>
 <pubDate>Tue, 29 Sep 2026 11:21:09 +0000</pubDate>
 <description>... tourism, City of Helsinki. The timing of the publication of this year's index is particularly significant, as the EU's new "Empowering Consumers ...</description>
-</item>
-<item>
-<title>GDS-Index 2026: 89% of destinations improve - Travel Daily News</title>
-<link>https://www.traveldailynews.com/special-interest-travel/sustainable-tourism/gds-index-2026-destination-sustainability/</link>
-<guid isPermaLink="false">https://www.traveldailynews.com/special-interest-travel/sustainable-tourism/gds-index-2026-destination-sustainability/</guid>
-<pubDate>Thu, 24 Sep 2026 11:36:43 +0000</pubDate>
-<description>Finland. Helsinki. Sustainable Tourism. The GDS-Index 2026 records its highest average performance to date, with 89% of destinations improving and ...</description>
 </item>
 </channel>
 </rss>

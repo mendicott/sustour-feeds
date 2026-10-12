@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ireland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ireland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 12 Oct 2026 09:11:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 21:17:34 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>County Clare retains international sustainable tourism certification</title>
+<link>https://www.clarecoco.ie/council/newsroom/news/2026/county-clare-retains-international-sustainable-tourism-certification</link>
+<guid isPermaLink="false">https://www.clarecoco.ie/council/newsroom/news/2026/county-clare-retains-international-sustainable-tourism-certification</guid>
+<pubDate>Mon, 12 Oct 2026 15:01:08 +0000</pubDate>
+<description>Clare was the first, and remains the only, certified sustainable destination in Ireland and the UK. Its certification is validated by the Global ...</description>
+</item>
 <item>
 <title>British Ambassador to Ireland given red carpet treatment during official visit to Cavan</title>
 <link>https://www.independent.ie/county/cavan/british-ambassador-to-ireland-given-red-carpet-treatment-during-official-visit-to-cavan/a/162640898.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.anglocelt.ie/2026/09/17/cavans-geopark-shortlisted-for-all-ireland-sustainability-awards/</guid>
 <pubDate>Thu, 17 Sep 2026 13:04:15 +0000</pubDate>
 <description>Cavan's Cuilcagh Lakelands UNESCO Global Geopark has been announced as a shortlisted entry for the prestigious 2026 All-Ireland Sustainability ...</description>
-</item>
-<item>
-<title>Ireland's Midlands Draw Travellers Into a New Regenerative Tourism Era</title>
-<link>https://www.travelandtourworld.com/news/article/8wksuhod8ex3/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/8wksuhod8ex3/</guid>
-<pubDate>Thu, 10 Sep 2026 13:19:35 +0000</pubDate>
-<description>... Greenway provides another important piece of the regional tourism ... Middle East · Middle East · Saudi Arabia Is Sparking A Global Leisure Travel ...</description>
 </item>
 </channel>
 </rss>

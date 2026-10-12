@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 12 Oct 2026 09:11:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 21:17:34 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Yucatán and Quintana Roo Put Maya Communities at the Heart of Sustainable Tourism</title>
@@ -51,6 +51,13 @@
 <description>Mexico launched its 2026-2030 Sustainable Tourism Policy to strengthen sustainability and climate resilience nationwide.</description>
 </item>
 <item>
+<title>Tourism Overcrowding: Too Many Tourists or Too Few Decisions? - Mexico Business News</title>
+<link>https://mexicobusiness.news/sustainability/news/tourism-overcrowding-too-many-tourists-or-too-few-decisions</link>
+<guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/tourism-overcrowding-too-many-tourists-or-too-few-decisions</guid>
+<pubDate>Mon, 12 Oct 2026 17:56:01 +0000</pubDate>
+<description>Mexico City ... Smart ...</description>
+</item>
+<item>
 <title>Sustainable Adventures in Loreto: How Tourism Benefits Local Communities - TravelPulse</title>
 <link>https://www.travelpulse.com/news/destinations/sustainable-adventures-in-loreto-how-tourism-benefits-local-communities</link>
 <guid isPermaLink="false">https://www.travelpulse.com/news/destinations/sustainable-adventures-in-loreto-how-tourism-benefits-local-communities</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://mexicodailypost.com/semarnat-blocks-the-arrival-of-large-cruise-ships-to-loreto-bcs/</guid>
 <pubDate>Mon, 05 Oct 2026 00:42:43 +0000</pubDate>
 <description>... whale-watching tourism. In response to the complaints, on May 25, the federal government revoked the reclassification decree and established a ...</description>
-</item>
-<item>
-<title>Loreto Teams Up With Oaxaca as Mexico Pushes Community Tourism and Marine Protection</title>
-<link>https://www.travelandtourworld.com/news/article/mntk8kgvj81h/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/mntk8kgvj81h/</guid>
-<pubDate>Wed, 30 Sep 2026 03:30:53 +0000</pubDate>
-<description>Community Tourism Does Not Mean Tourism Without Growth · Developing tourism in less-developed regions. · Supporting community-based tourism. · Promoting ...</description>
 </item>
 </channel>
 </rss>
