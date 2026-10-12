@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/philippines.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Philippines. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 11 Oct 2026 21:12:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 09:11:33 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Bill guaranteeing communities' share of tourism revenue pushed - Philippine News Agency</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://pia.gov.ph/news/pasil-trains-tour-guides-to-boost-community-based-tourism/</guid>
 <pubDate>Mon, 24 Aug 2026 07:45:08 +0000</pubDate>
 <description>... community-based tourism program. The August 3–9 Community Guiding Seminar trained residents with the skills needed to guide visitors safely and ...</description>
+</item>
+<item>
+<title>How to effectively pull off sustainable tourism - Manila Bulletin</title>
+<link>https://mb.com.ph/2026/10/11/how-to-effectively-pull-off-sustainable-tourism</link>
+<guid isPermaLink="false">https://mb.com.ph/2026/10/11/how-to-effectively-pull-off-sustainable-tourism</guid>
+<pubDate>Mon, 12 Oct 2026 04:04:25 +0000</pubDate>
+<description>Sustainability matters for tourism mostly due to the fact that our country's natural beauty is its main draw.Think about our award-winning beaches ...</description>
 </item>
 <item>
 <title>How to effectively pull off sustainable tourism | Manila Bulletin - newspaper - Magzter</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/8ki731zwf26l/</guid>
 <pubDate>Tue, 22 Sep 2026 04:46:26 +0000</pubDate>
 <description>How a binding Tourism Code protects Asian market vendors from overtourism while expanding municipal revenue.</description>
-</item>
-<item>
-<title>Green Samar seeks rehab of rainforest - Manila Standard</title>
-<link>https://manilastandard.net/environmental-and-sustainability/314795484/green-samar-seeks-rehab-of-rainforest.html</link>
-<guid isPermaLink="false">https://manilastandard.net/environmental-and-sustainability/314795484/green-samar-seeks-rehab-of-rainforest.html</guid>
-<pubDate>Mon, 21 Sep 2026 12:33:24 +0000</pubDate>
-<description>Tan recognized local government units in Samar for their community-based tourism initiatives and advocacy for environmental conservation and ...</description>
 </item>
 </channel>
 </rss>

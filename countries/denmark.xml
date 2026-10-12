@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/denmark.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Denmark. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 11 Oct 2026 21:12:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 09:11:33 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Copenhagen and More Tackle Overtourism Through Regenerative Travel and Community ...</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/uc4pezzc7xs7/</guid>
 <pubDate>Wed, 01 Jul 2026 12:05:15 +0000</pubDate>
 <description>... meaningful travel beyond the world's crowded tourist hotspots, while waging a determined crusade against overtourism through sustainable tourism ...</description>
+</item>
+<item>
+<title>Copenhagen Makes Sustainable Tourism Rewarding Through CopenPay</title>
+<link>https://www.travelandtourworld.com/news/article/qkbv0afkeegv/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/qkbv0afkeegv/</guid>
+<pubDate>Mon, 12 Oct 2026 06:14:40 +0000</pubDate>
+<description>Unlike projects that limit people, impose tourist taxes on them or campaigns that ask tourists to be responsible, the CopenPay project gives tangible ...</description>
 </item>
 <item>
 <title>Japan and Other Nations Implement Innovative Restrictions, Fees, and Gamification to Fight ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/wswthkcch9xt/</guid>
 <pubDate>Sun, 20 Sep 2026 00:27:38 +0000</pubDate>
 <description>Destination stewardship has become a central concept in modern tourism planning. Instead of focusing only on attracting more visitors, stewardship ...</description>
-</item>
-<item>
-<title>Greenland Takes Center Stage As US And Denmark Security Partnership Creates New ...</title>
-<link>https://www.travelandtourworld.com/news/article/sl9rq8rejcqk/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/sl9rq8rejcqk/</guid>
-<pubDate>Sat, 19 Sep 2026 05:04:04 +0000</pubDate>
-<description>For Greenland, the challenge will be transforming global curiosity into responsible tourism growth that benefits local communities. Better ...</description>
 </item>
 </channel>
 </rss>
