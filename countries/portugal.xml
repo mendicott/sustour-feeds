@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/portugal.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Portugal. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 13 Oct 2026 09:11:32 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 21:16:29 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Portugal archipelago renews sustainable tourism certification</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lah8spefggvv/</guid>
 <pubDate>Mon, 06 Jul 2026 07:57:09 +0000</pubDate>
 <description>Calanques visitor caps return in France for 2026, limiting access to Mediterranean beaches to curb overtourism and protect fragile ecosystems.</description>
+</item>
+<item>
+<title>Tourism pressure rises in Portugal's biggest cities</title>
+<link>https://www.theportugalnews.com/news/2026-10-13/tourism-pressure-rises-in-portugals-biggest-cities/1099815</link>
+<guid isPermaLink="false">https://www.theportugalnews.com/news/2026-10-13/tourism-pressure-rises-in-portugals-biggest-cities/1099815</guid>
+<pubDate>Tue, 13 Oct 2026 14:41:58 +0000</pubDate>
+<description>Lisbon and Porto recorded their highest tourist-density figures in 2025, with Porto's increase sharper, according to data from Turismo de Portugal ...</description>
 </item>
 <item>
 <title>Portugal's Guimarães Puts Sustainable Travel in Focus With River Restoration and Green ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/7tsv25iwu0mm/</guid>
 <pubDate>Mon, 28 Sep 2026 05:26:34 +0000</pubDate>
 <description>Spain, Portugal and Italy are facing growing challenges in their housing sector due to overtourism as Europe tries to find ways for sustainable ...</description>
-</item>
-<item>
-<title>Portugal must address social sustainability if it wants to foster a harmonious balance ...</title>
-<link>https://www.essential-business.pt/2026/09/02/portugal-must-address-social-sustainability-if-it-wants-to-foster-a-harmonious-balance-between-the-needs-of-tourists-and-locals/</link>
-<guid isPermaLink="false">https://www.essential-business.pt/2026/09/02/portugal-must-address-social-sustainability-if-it-wants-to-foster-a-harmonious-balance-between-the-needs-of-tourists-and-locals/</guid>
-<pubDate>Wed, 02 Sep 2026 10:41:19 +0000</pubDate>
-<description>Attracting tourists may no longer be the greatest challenge for Portuguese tourism argues João Paulo Rodrigues, Director of the Tourism Degree ...</description>
 </item>
 </channel>
 </rss>
