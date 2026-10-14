@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://phys.org/news/2026-10-shark-ecotourism-term.html",
+      "url": "https://phys.org/news/2026-10-shark-ecotourism-term.html",
+      "title": "How shark ecotourism sparks long-term conservation - Phys.org",
+      "content_text": "Cutting-edge tracking technology proves Australian whale shark tourism ... Egypt's Fayoum mummy portraits to travel abroad for first time after ...",
+      "date_published": "2026-10-14T14:28:24+00:00"
+    },
+    {
       "id": "https://www.firstpost.com/explainers/hills-on-the-edge-himalayan-towns-overtourism-dangers-analysis-14051842.html",
       "url": "https://www.firstpost.com/explainers/hills-on-the-edge-himalayan-towns-overtourism-dangers-analysis-14051842.html",
       "title": "'We don't need tourists, we need tourism': The paradox India's Himalayan hill towns face",
@@ -68,13 +75,6 @@
       "title": "Thailand: The more popular tourism becomes, the more tired the people get. - Vietnam.vn",
       "content_text": "Reuters previously reported that at one point, around 4,000 tourists visited the bay daily, and nearly 80% of the coral reef area was affected by ...",
       "date_published": "2026-09-12T06:12:36+00:00"
-    },
-    {
-      "id": "https://www.khmertimeskh.com/502021125/cambodias-ecotourism-ranking-reflects-conservation-community-efforts-environment-minister/",
-      "url": "https://www.khmertimeskh.com/502021125/cambodias-ecotourism-ranking-reflects-conservation-community-efforts-environment-minister/",
-      "title": "Cambodia's Ecotourism Ranking Reflects Conservation, Community Efforts: Environment Minister",
-      "content_text": "Cambodia's ranking as No. 1 in Southeast Asia and No. 17 globally for ecotourism reflects the country's efforts to protect forests, expand green ...",
-      "date_published": "2026-09-09T15:05:21+00:00"
     }
   ]
 }

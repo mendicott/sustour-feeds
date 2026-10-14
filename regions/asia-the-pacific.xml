@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/asia-the-pacific.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Asia &amp; the Pacific. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 14 Oct 2026 09:12:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 21:15:32 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>How shark ecotourism sparks long-term conservation - Phys.org</title>
+<link>https://phys.org/news/2026-10-shark-ecotourism-term.html</link>
+<guid isPermaLink="false">https://phys.org/news/2026-10-shark-ecotourism-term.html</guid>
+<pubDate>Wed, 14 Oct 2026 14:28:24 +0000</pubDate>
+<description>Cutting-edge tracking technology proves Australian whale shark tourism ... Egypt's Fayoum mummy portraits to travel abroad for first time after ...</description>
+</item>
 <item>
 <title>'We don't need tourists, we need tourism': The paradox India's Himalayan hill towns face</title>
 <link>https://www.firstpost.com/explainers/hills-on-the-edge-himalayan-towns-overtourism-dangers-analysis-14051842.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.vietnam.vn/en/thai-lan-du-lich-cang-noi-tieng-nguoi-dan-cang-met-moi</guid>
 <pubDate>Sat, 12 Sep 2026 06:12:36 +0000</pubDate>
 <description>Reuters previously reported that at one point, around 4,000 tourists visited the bay daily, and nearly 80% of the coral reef area was affected by ...</description>
-</item>
-<item>
-<title>Cambodia's Ecotourism Ranking Reflects Conservation, Community Efforts: Environment Minister</title>
-<link>https://www.khmertimeskh.com/502021125/cambodias-ecotourism-ranking-reflects-conservation-community-efforts-environment-minister/</link>
-<guid isPermaLink="false">https://www.khmertimeskh.com/502021125/cambodias-ecotourism-ranking-reflects-conservation-community-efforts-environment-minister/</guid>
-<pubDate>Wed, 09 Sep 2026 15:05:21 +0000</pubDate>
-<description>Cambodia's ranking as No. 1 in Southeast Asia and No. 17 globally for ecotourism reflects the country's efforts to protect forests, expand green ...</description>
 </item>
 </channel>
 </rss>

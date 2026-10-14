@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/belgium.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Belgium. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 14 Oct 2026 09:12:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 21:15:32 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Sustainable Tourism in Atlantic Coastal Areas | Eiropas Reģionu komiteja - cor.europa.eu</title>
+<link>https://www.cor.europa.eu/lv/node/26050</link>
+<guid isPermaLink="false">https://www.cor.europa.eu/lv/node/26050</guid>
+<pubDate>Wed, 14 Oct 2026 01:45:16 +0000</pubDate>
+<description>Exploring innovative approaches to sustainable tourism management in Atlantic coastal regions. Brussels (Belgium). 14:00 - 17:30 (Brussels time).</description>
+</item>
 <item>
 <title>Europe's Tourism Boom Strains Housing and Patience in Major Cities - IndexBox</title>
 <link>https://www.indexbox.io/blog/europes-tourism-boom-strains-housing-and-patience-in-major-cities/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.euractiv.com/news/over-half-of-eu-misses-nature-restoration-plan-deadline/</guid>
 <pubDate>Tue, 01 Sep 2026 02:42:31 +0000</pubDate>
 <description>Brussels sets out guidelines on tourism in nature protection areas. 14.07.2026. Pro. Energy, Environment &amp; Transport. Brussels sets out guidelines on ...</description>
-</item>
-<item>
-<title>Restored wetlands shield communities amid extreme weather across Europe - The Brussels Times</title>
-<link>https://www.brusselstimes.com/2296187/restored-wetlands-shield-communities-amid-extreme-weather-across-europe</link>
-<guid isPermaLink="false">https://www.brusselstimes.com/2296187/restored-wetlands-shield-communities-amid-extreme-weather-across-europe</guid>
-<pubDate>Mon, 31 Aug 2026 17:58:44 +0000</pubDate>
-<description>... climate change.. The Adaptation &amp; Nature Forum was held on 7–8 July 2026 and brought together practitioners and beneficiaries of the EU's LIFE ...</description>
 </item>
 </channel>
 </rss>

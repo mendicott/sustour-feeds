@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/australia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Australia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 14 Oct 2026 09:12:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 21:15:32 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>How shark ecotourism sparks long-term conservation - Phys.org</title>
+<link>https://phys.org/news/2026-10-shark-ecotourism-term.html</link>
+<guid isPermaLink="false">https://phys.org/news/2026-10-shark-ecotourism-term.html</guid>
+<pubDate>Wed, 14 Oct 2026 14:28:24 +0000</pubDate>
+<description>Cutting-edge tracking technology proves Australian whale shark tourism ... Egypt's Fayoum mummy portraits to travel abroad for first time after ...</description>
+</item>
 <item>
 <title>Ecotourism Australia releases its first Sustainability Impact Report</title>
 <link>https://www.ausleisure.com.au/news/ecotourism-australia-releases-its-first-sustainability-impact-report</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/uc4pezzc7xs7/</guid>
 <pubDate>Wed, 01 Jul 2026 12:05:15 +0000</pubDate>
 <description>... meaningful travel beyond the world's crowded tourist hotspots, while waging a determined crusade against overtourism through sustainable tourism ...</description>
-</item>
-<item>
-<title>New funding to grow First Peoples tourism across Victoria | News and articles</title>
-<link>https://djsir.vic.gov.au/news-and-articles/new-funding-to-grow-first-peoples-tourism-across-victoria</link>
-<guid isPermaLink="false">https://djsir.vic.gov.au/news-and-articles/new-funding-to-grow-first-peoples-tourism-across-victoria</guid>
-<pubDate>Wed, 14 Oct 2026 04:01:03 +0000</pubDate>
-<description>Victoria's First Peoples tourism sector will benefit from a $3.3 million investment. The Australian Government has partnered with us through the ...</description>
 </item>
 </channel>
 </rss>
