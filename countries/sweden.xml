@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/sweden.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Sweden. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 16 Oct 2026 09:13:12 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 21:19:51 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Rewilding tourism: how travel can support nature recovery</title>
+<link>https://rewildingeurope.com/blog/rewilding-tourism-how-travel-can-support-nature-recovery/</link>
+<guid isPermaLink="false">https://rewildingeurope.com/blog/rewilding-tourism-how-travel-can-support-nature-recovery/</guid>
+<pubDate>Fri, 16 Oct 2026 14:48:24 +0000</pubDate>
+<description>A person packrafting down the Hjuksån river system in the Nordic Taiga, Sweden. As rewilding tourism gains momentum in Europe, travellers are enjoying ...</description>
+</item>
 <item>
 <title>Finland Beats Sweden and Other Leading Countries as Helsinki Sets the Pace for ...</title>
 <link>https://www.travelandtourworld.com/news/article/a3fbvnqsjgon/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.indexbox.io/blog/haglfs-launches-unvisited-sweden-guide-to-combat-overtourism/</guid>
 <pubDate>Thu, 09 Jul 2026 12:40:23 +0000</pubDate>
 <description>However, outdoor brand Haglöfs has warned that simply shifting mass tourism from one popular region to another will only redraw the map of overtourism ...</description>
-</item>
-<item>
-<title>Mobile and satellite data tackles over tourism in Sweden - Roastbrief US</title>
-<link>https://roastbrief.us/mobile-and-satellite-data-tackles-over-tourism-in-sweden/</link>
-<guid isPermaLink="false">https://roastbrief.us/mobile-and-satellite-data-tackles-over-tourism-in-sweden/</guid>
-<pubDate>Wed, 24 Jun 2026 15:57:58 +0000</pubDate>
-<description>To ease the pressure on nature and inspire tourists to bring out the explorer within, the Swedish outdoor brand Haglöfs, is now launching Unvisited ...</description>
 </item>
 </channel>
 </rss>
