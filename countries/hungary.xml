@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/hungary.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Hungary. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 15 Oct 2026 21:17:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 09:13:12 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Airbnb-style rentals face ban in Budapest's historic Castle District - TVP World</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/qwyqsqcrcsyl/</guid>
 <pubDate>Fri, 03 Jul 2026 15:14:44 +0000</pubDate>
 <description>The measure has been implemented to tackle rising overtourism pressure, reduce summer traffic congestion, and preserve the UNESCO-listed heritage ...</description>
+</item>
+<item>
+<title>Dubrovnik Tourism Warning: Travel Industry Veteran Claims Soaring Prices Could Spark 30 ...</title>
+<link>https://www.thedubrovniktimes.com/news/dubrovnik/item/20682-dubrovnik-tourism-warning-travel-industry-veteran-claims-soaring-prices-could-spark-30-drop-in-visitors</link>
+<guid isPermaLink="false">https://www.thedubrovniktimes.com/news/dubrovnik/item/20682-dubrovnik-tourism-warning-travel-industry-veteran-claims-soaring-prices-could-spark-30-drop-in-visitors</guid>
+<pubDate>Thu, 15 Oct 2026 18:32:52 +0000</pubDate>
+<description>"Our Dubrovnik bookings now exceed 250 euros nightly. More expensive than Rome, Madrid, Budapest and all Asian cities," he wrote. While accommodation ...</description>
 </item>
 <item>
 <title>UN-Habitat studies balance between residents and tourists in Icherisheher - Report.az</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.myanmaritv.com/news/unesco-list-more-sites-danger-conflict-or-climate-change</guid>
 <pubDate>Sun, 19 Jul 2026 09:17:26 +0000</pubDate>
 <description>... climate change. Beyond these priority cases, some listed heritage ... Algeria's ruling National Liberation Front (FLN) won the... Hungary's ...</description>
-</item>
-<item>
-<title>Budapest's Rental Crackdown Reshapes the Future of Its Hotel Market</title>
-<link>https://www.travelandtourworld.com/news/article/gp4g992e7dir/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/gp4g992e7dir/</guid>
-<pubDate>Mon, 12 Oct 2026 05:58:35 +0000</pubDate>
-<description>Budapest's short-term rental restrictions are changing the outlook for city accommodation as Hungary balances housing needs with tourism ...</description>
 </item>
 </channel>
 </rss>

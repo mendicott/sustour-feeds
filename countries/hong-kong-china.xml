@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/hong-kong-china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Hong Kong (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 15 Oct 2026 21:17:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 09:13:12 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Visitors urge Hong Kong to ease restrictions as Sai Kung trail registration begins</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://hongkongfp.com/2026/08/24/trial-booking-system-for-sai-kung-geopark-trail-launches-in-bid-to-curb-overtourism/</guid>
 <pubDate>Mon, 24 Aug 2026 11:23:32 +0000</pubDate>
 <description>Overcrowding. Hong Kong's popular nature spots have been grappling with overtourism, especially during peak travel seasons for mainland Chinese ...</description>
+</item>
+<item>
+<title>Elevating the paradigm to boost HK's economy: from tourism volume to sustainable value</title>
+<link>https://www.thestandard.com.hk/editorial/article/345639/Elevating-the-paradigm-to-boost-HKs-economy-from-tourism-volume-to-sustainable-value</link>
+<guid isPermaLink="false">https://www.thestandard.com.hk/editorial/article/345639/Elevating-the-paradigm-to-boost-HKs-economy-from-tourism-volume-to-sustainable-value</guid>
+<pubDate>Thu, 15 Oct 2026 21:43:54 +0000</pubDate>
+<description>The latest tourism figures released by the Hong Kong Tourism Board signal a robust and encouraging recovery trajectory for the city's travel ...</description>
 </item>
 <item>
 <title>HKFP Lens: 1.4 million visitors flock to Hong Kong over China's Golden Week holiday</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.nomadlawyer.org/pata-and-content-with-purpose-launch-tourism-with-purpose-series-for-the-sustainable-asia-pacific-travel-growth</guid>
 <pubDate>Thu, 17 Sep 2026 06:32:15 +0000</pubDate>
 <description>Destination Stewardship, Hawai'i Tourism Authority, Managing overtourism and resource protection ; Academic Integration, Hong Kong Metropolitan ...</description>
-</item>
-<item>
-<title>Hong Kong to review bookings for famous Sai Kung trail after high no-show rate</title>
-<link>https://amp.scmp.com/news/hong-kong/health-environment/article/3366560/hong-kong-review-bookings-famous-sai-kung-trail-after-high-no-show-rate</link>
-<guid isPermaLink="false">https://amp.scmp.com/news/hong-kong/health-environment/article/3366560/hong-kong-review-bookings-famous-sai-kung-trail-after-high-no-show-rate</guid>
-<pubDate>Sun, 06 Sep 2026 14:21:13 +0000</pubDate>
-<description>... overtourism, largely driven by mainland visitors. Lawmaker Chris Ip Ngo-tung, who represents the southeast New Territories, said more data ...</description>
 </item>
 </channel>
 </rss>
