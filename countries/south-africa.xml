@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/south-africa.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for South Africa. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 17 Oct 2026 09:08:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 21:10:41 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>South Africa Launches Piketberg Eco Tourism Route - Travel And Tour World</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://www.pressreader.com/south-africa/the-independent-on-saturday/20260815/282239492455405</guid>
 <pubDate>Sat, 15 Aug 2026 01:06:46 +0000</pubDate>
 <description>What does 'sustainable travel' actually mean in SA? 2026-08-15 - LUTHO PASIYA Tourism · South Africa News · Animals · Ecology · Travel · Wildlife · ...</description>
+</item>
+<item>
+<title>South Africa's Babanango reserve is a community-led rewilding effort - The Globe and Mail</title>
+<link>https://www.theglobeandmail.com/life/style/travel/article-safari-south-africa-babanango/</link>
+<guid isPermaLink="false">https://www.theglobeandmail.com/life/style/travel/article-safari-south-africa-babanango/</guid>
+<pubDate>Sat, 17 Oct 2026 15:01:05 +0000</pubDate>
+<description>... sustainable tourism. Unlike many African reserves that were established through government action or private sale, Babanango began thanks to an ...</description>
 </item>
 <item>
 <title>GEF Small Grants Programme for Community-Led Conservation Projects (South Africa)</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.sanparks.org/news/renewable-energy-partnership-to-help-decarbonise-kruger-national-park-in-its-centenary-year</guid>
 <pubDate>Fri, 09 Oct 2026 08:44:42 +0000</pubDate>
 <description>"Kruger National Park is not only South Africa's premier tourism destination, but also a cornerstone of conservation in our country and across the ...</description>
-</item>
-<item>
-<title>Zimbabwe Follows South Africa and More Countries in Airbnb Registrations and Investment ...</title>
-<link>https://www.travelandtourworld.com/news/article/64prki59kam3/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/64prki59kam3/</guid>
-<pubDate>Tue, 06 Oct 2026 06:30:11 +0000</pubDate>
-<description>Discover how global Airbnb registrations and investment bans to purge hyper-tourism are reshaping travel.</description>
 </item>
 </channel>
 </rss>
