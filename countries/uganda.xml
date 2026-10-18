@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/uganda.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Uganda. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 17 Oct 2026 21:10:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 09:06:47 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Uganda Wildlife Authority Adds African Wild Dogs to Conservation Programme</title>
+<link>https://ugdiplomat.com/uganda-wildlife-authority-adds-african-wild-dogs-to-conservation-programme/bpage/3/</link>
+<guid isPermaLink="false">https://ugdiplomat.com/uganda-wildlife-authority-adds-african-wild-dogs-to-conservation-programme/bpage/3/</guid>
+<pubDate>Sun, 18 Oct 2026 01:30:37 +0000</pubDate>
+<description>... tourism industry and environmental sustainability. The latest development reinforces UWA's commitment to safeguarding endangered species while ...</description>
+</item>
 <item>
 <title>Uganda: Mountain Gorilla Population Rises to 1,063 Amid Calls to End Illegal Tracking</title>
 <link>https://allafrica.com/stories/202610020347.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.newvision.co.ug/category/travel/bwindi-communities-reap-benefits-from-gorilla-NV_240988_092026</guid>
 <pubDate>Mon, 21 Sep 2026 16:50:18 +0000</pubDate>
 <description>As Uganda joins the rest of the world to mark World Gorilla Day on September 24, conservationists, Government agencies and community organisations ...</description>
-</item>
-<item>
-<title>Where to see gorillas in the wild and travel responsibly - Getaway Magazine</title>
-<link>https://www.getaway.co.za/travel/nature-and-conservation/where-to-see-gorillas-in-the-wild-and-travel-responsibly/</link>
-<guid isPermaLink="false">https://www.getaway.co.za/travel/nature-and-conservation/where-to-see-gorillas-in-the-wild-and-travel-responsibly/</guid>
-<pubDate>Sat, 19 Sep 2026 11:53:15 +0000</pubDate>
-<description>Discover where to see gorillas in the wild in Rwanda and Uganda, plus how responsible tourism can support gorilla conservation and communities.</description>
 </item>
 </channel>
 </rss>
