@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/macau-china.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Macau (China). Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 19 Oct 2026 09:08:12 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 21:11:52 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>The new reckoning: Why the tourism industry is trading volume for value: Travel Weekly Asia</title>
+<link>https://www.travelweekly-asia.com/Travel-News/Travel-Trends/The-new-reckoning-Why-the-tourism-industry-is-trading-volume-for-value</link>
+<guid isPermaLink="false">https://www.travelweekly-asia.com/Travel-News/Travel-Trends/The-new-reckoning-Why-the-tourism-industry-is-trading-volume-for-value</guid>
+<pubDate>Mon, 19 Oct 2026 12:31:09 +0000</pubDate>
+<description>This year's Global Tourism Economy Forum in Macao put human connection, community involvement and sustainable development at the heart of ...</description>
+</item>
 <item>
 <title>Geotourism gains ground as travelers seek more than scenery | Macau Business</title>
 <link>https://macaubusiness.com/geotourism-gains-ground-as-travelers-seek-more-than-scenery/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.gov.mo/en/news/ce-urges-global-tourism-economy-forum-to-promote-innovation-and-the-sustainability-of-global-tourism/</guid>
 <pubDate>Sat, 17 Oct 2026 02:41:59 +0000</pubDate>
 <description>In Macao, the tourism ... This year's Forum continues to receive strong support from UN Tourism as a partner, and the World Travel &amp; Tourism Council ( ...</description>
-</item>
-<item>
-<title>Global tourism leaders rally behind sustainable growth amid uncertainty | Macau Business</title>
-<link>https://macaubusiness.com/global-tourism-leaders-rally-behind-sustainable-growth-amid-uncertainty/</link>
-<guid isPermaLink="false">https://macaubusiness.com/global-tourism-leaders-rally-behind-sustainable-growth-amid-uncertainty/</guid>
-<pubDate>Fri, 16 Oct 2026 12:35:06 +0000</pubDate>
-<description>International, Macau, MNA | Gathering at MGM Cotai for the 12th Global Tourism Economy Forum (GTEF) this week, global policy and industry leaders ...</description>
 </item>
 </channel>
 </rss>

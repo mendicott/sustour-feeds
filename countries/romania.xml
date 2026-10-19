@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/romania.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Romania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 19 Oct 2026 09:08:12 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 21:11:52 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Harghita becomes Romania's first region to receive Green Destinations Silver Award</title>
@@ -44,6 +44,13 @@
 <description>Romania's new 1400-kilometre Via Transilvanica hiking trail is transforming rural economies while preserving ancient UNESCO heritage sites.</description>
 </item>
 <item>
+<title>Brașov Targets Ending Short-Stay Tourism Under 8-Year Plan - The Romania Journal</title>
+<link>https://www.romaniajournal.ro/travel/brasov-targets-ending-short-stay-tourism-under-8-year-plan/</link>
+<guid isPermaLink="false">https://www.romaniajournal.ro/travel/brasov-targets-ending-short-stay-tourism-under-8-year-plan/</guid>
+<pubDate>Mon, 19 Oct 2026 11:20:50 +0000</pubDate>
+<description>Brasov released a new long-term tourism strategy aimed at curbing short-term visits—often dubbed "pretzel tourism"—over the next eight years.</description>
+</item>
+<item>
 <title>A new sustainable tourism development strategy for Chisinau - ipn.md</title>
 <link>https://ipn.md/en/a-new-sustainable-tourism-development-strategy-for-chisinau/</link>
 <guid isPermaLink="false">https://ipn.md/en/a-new-sustainable-tourism-development-strategy-for-chisinau/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://agerpres.ro/english/2026/10/07/darau-padurea-craiului-becomes-an-ecotourism-destination--1600891</guid>
 <pubDate>Wed, 07 Oct 2026 17:33:05 +0000</pubDate>
 <description>... Romania, Irineu Darau, the interim Minister of Economy, Digitalization, Entrepreneurship, and Tourism, announced on Wednesday. 'This is a positive ...</description>
-</item>
-<item>
-<title>Tourism :Via Transilvanica promoted at heritage, sustainable tourism exhibition in Austria</title>
-<link>https://actmedia.eu/economic/tourism-via-transilvanica-promoted-at-heritage-sustainable-tourism-exhibition-in-austria/121254</link>
-<guid isPermaLink="false">https://actmedia.eu/economic/tourism-via-transilvanica-promoted-at-heritage-sustainable-tourism-exhibition-in-austria/121254</guid>
-<pubDate>Tue, 18 Aug 2026 13:51:31 +0000</pubDate>
-<description>The exhibition "Via Transilvanica - The Road that Unites" has opened in Salzburg, Austria, with the project proposing to promote genuine Romania ...</description>
 </item>
 </channel>
 </rss>
