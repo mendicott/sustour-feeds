@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/peru.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Peru. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 20 Oct 2026 09:08:38 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 21:12:39 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Peru will conduct a new study to determine Machu Picchu's capacity to receive visitors</title>
+<link>https://andina.pe/ingles/noticia-peru-will-conduct-a-new-study-to-determine-machu-picchus-capacity-to-receive-visitors-1096624.aspx</link>
+<guid isPermaLink="false">https://andina.pe/ingles/noticia-peru-will-conduct-a-new-study-to-determine-machu-picchus-capacity-to-receive-visitors-1096624.aspx</guid>
+<pubDate>Tue, 20 Oct 2026 15:58:02 +0000</pubDate>
+<description>Minister of Foreign Trade and Tourism Rogers Valencia announced that an updated "Carrying Capacity and Limit of Acceptable Change" study will be ...</description>
+</item>
 <item>
 <title>Peru and Colombia Expand Community Tourism With New Digital Verification and Nature ...</title>
 <link>https://www.travelandtourworld.com/news/article/yx20k7q45a86/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.jica.go.jp/english/information/press/2026/20260915_11.html</guid>
 <pubDate>Mon, 28 Sep 2026 07:07:58 +0000</pubDate>
 <description>Through these exchanges, he confirmed specific examples of how JICA's multifaceted cooperation has contributed to community-led sustainable tourism ...</description>
-</item>
-<item>
-<title>Peru Tightens Sustainable Tourism Management at Vinicunca and Choquequirao</title>
-<link>https://www.travelandtourworld.com/news/article/7s811ij9tapi/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/7s811ij9tapi/</guid>
-<pubDate>Fri, 25 Sep 2026 06:57:39 +0000</pubDate>
-<description>Peru is strengthening conservation and tourism management around Vinicunca and Choquequirao as authorities focus on visitor safety, ...</description>
 </item>
 </channel>
 </rss>

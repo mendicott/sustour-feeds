@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vanuatu.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vanuatu. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 20 Oct 2026 09:08:38 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 21:12:39 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Palau Leads Sustainable Tourism Shift Across Pacific Islands - Travel And Tour World</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/9fqf7aneevhm/</guid>
 <pubDate>Tue, 29 Sep 2026 10:07:03 +0000</pubDate>
 <description>Palau, Tuvalu, Marshall Islands, Fiji, Vanuatu, Samoa, Kiribati, Tonga, Solomon Islands and Cook Islands share a common challenge: their tourism ...</description>
+</item>
+<item>
+<title>Restoring sea cucumbers and seagrass for better livelihoods in Vanuatu - Fisheries and Aquaculture</title>
+<link>https://www.fao.org/fishery/news/41572/en?status=published</link>
+<guid isPermaLink="false">https://www.fao.org/fishery/news/41572/en?status=published</guid>
+<pubDate>Tue, 20 Oct 2026 13:27:17 +0000</pubDate>
+<description>... Vanuatu tourism department to establish a yacht pathway linking prospective visitors to village authorities, who can direct them to anchor in ...</description>
 </item>
 <item>
 <title>Island Sky expedition delivers economic benefits to communities | News | dailypost.vu</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.dailypost.vu/news/government-advances-national-framework-for-marine-protected-area-management/article_5dd292bd-7c92-5e96-aa8c-7a8ae83e0c49.html</guid>
 <pubDate>Wed, 22 Jul 2026 04:45:19 +0000</pubDate>
 <description>The Government of Vanuatu has taken another step towards strengthening the sustainable management of its ocean by developing a national template ...</description>
-</item>
-<item>
-<title>Applications open for Small Grants Programme (Vanuatu) - fundsforNGOs</title>
-<link>https://www2.fundsforngos.org/community-development-2/applications-open-for-small-grants-programme-vanuatu/</link>
-<guid isPermaLink="false">https://www2.fundsforngos.org/community-development-2/applications-open-for-small-grants-programme-vanuatu/</guid>
-<pubDate>Wed, 12 Aug 2026 06:56:19 +0000</pubDate>
-<description>The programme supports community-led climate change adaptation projects, particularly initiatives focused on environmental protection, endangered ...</description>
 </item>
 </channel>
 </rss>
