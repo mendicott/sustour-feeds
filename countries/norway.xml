@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/norway.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Norway. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 21 Oct 2026 09:08:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 21:12:15 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Why Norway's Lofoten Islands Are Implementing a Vital Tourist Tax This Season</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/c8je5vgmci49/</guid>
 <pubDate>Sat, 05 Sep 2026 08:46:57 +0000</pubDate>
 <description>Netherlands And Norway Join Global Movement Against Tourism Pressure. Other European destinations are also strengthening overtourism policies.</description>
+</item>
+<item>
+<title>Slovenia Sparks Fresh Interest in Sustainable Tourism as Finland and Other European ...</title>
+<link>https://www.travelandtourworld.com/news/article/ov0heqmm4eo0/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/ov0heqmm4eo0/</guid>
+<pubDate>Wed, 21 Oct 2026 17:22:21 +0000</pubDate>
+<description>Discover how Slovenia, Finland, Estonia, Norway and Croatia are reshaping sustainable tourism in Europe with greener travel alternatives in 2026.</description>
 </item>
 <item>
 <title>Europe Manages Its Overtourism as Spain and a Few Others Fight to Protect Local ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/umm8ts6fz14y/</guid>
 <pubDate>Fri, 25 Sep 2026 05:01:05 +0000</pubDate>
 <description>Norway's zero-emission rules reshape fjord tourism as smaller passenger vessels face new requirements in Geirangerfjord and Nærøyfjord.</description>
-</item>
-<item>
-<title>Costa Rica Joins Norway and Other Countries in Launching Zero-Carbon Slow-Tech ...</title>
-<link>https://www.travelandtourworld.com/news/article/0r8u7sjlmp87/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/0r8u7sjlmp87/</guid>
-<pubDate>Tue, 22 Sep 2026 21:53:01 +0000</pubDate>
-<description>Costa Rica leads the sustainable travel movement by constructing elevated structural-timber pods and open-air bamboo treehouses on stilts to bypass ...</description>
 </item>
 </channel>
 </rss>
