@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/tanzania.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Tanzania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 22 Oct 2026 09:08:45 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 21:15:03 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>UN Urges Tanzania to End Maasai Evictions and Protect Ancestral Land Rights | Other</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.ohchr.org/en/press-releases/2026/08/tanzania-maasai-indigenous-peoples-face-forced-evictions-law-enforcement</guid>
 <pubDate>Fri, 28 Aug 2026 08:07:15 +0000</pubDate>
 <description>... tourism projects have resulted in the displacement and relocation of large numbers of Maasai Indigenous Peoples from their ancestral lands in ...</description>
+</item>
+<item>
+<title>TANZANIA: 'The government should recognise the Maasai as conservationists rather than a threat'</title>
+<link>https://lens.civicus.org/interview/tanzania-the-government-should-recognise-the-maasai-as-conservationists-rather-than-a-threat/</link>
+<guid isPermaLink="false">https://lens.civicus.org/interview/tanzania-the-government-should-recognise-the-maasai-as-conservationists-rather-than-a-threat/</guid>
+<pubDate>Thu, 22 Oct 2026 15:18:39 +0000</pubDate>
+<description>CIVICUS discusses the eviction of Indigenous Maasai communities for conservation and tourism in Tanzania with Odero Odero, a trainer at the Civic ...</description>
 </item>
 <item>
 <title>Ngorongoro earns continental award for conservation and sustainable tourism</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://mironline.ca/inside-mount-kilimanjaros-responsible-tourism-debate/</guid>
 <pubDate>Fri, 25 Sep 2026 14:54:31 +0000</pubDate>
 <description>On August 13, the Tanzanian Ministry of Natural Resources and Tourism (MNRT) issued a "special notice" warning the Kilimanjaro Responsible ...</description>
-</item>
-<item>
-<title>Tanzania outlines sustainable conservation strategy at Japan tourism expo</title>
-<link>https://www.therespondents.co.tz/2026/09/tanzania-outlines-sustainable.html</link>
-<guid isPermaLink="false">https://www.therespondents.co.tz/2026/09/tanzania-outlines-sustainable.html</guid>
-<pubDate>Fri, 25 Sep 2026 09:01:28 +0000</pubDate>
-<description>... tourism sustainable while ensuring communities living around protected areas directly benefit from the sector. Dr Kijaji made the remarks on ...</description>
 </item>
 </channel>
 </rss>
