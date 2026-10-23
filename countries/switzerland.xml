@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/switzerland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Switzerland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 22 Oct 2026 21:15:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 09:09:25 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Accommodation establishments in Da Nang approach Da Nang Green Stay criteria</title>
+<link>https://news.laodong.vn/moi-truong/co-so-luu-tru-tai-da-nang-tiep-can-bo-tieu-chi-da-nang-green-stay-1787963.ldo</link>
+<guid isPermaLink="false">https://news.laodong.vn/moi-truong/co-so-luu-tru-tai-da-nang-tiep-can-bo-tieu-chi-da-nang-green-stay-1787963.ldo</guid>
+<pubDate>Fri, 23 Oct 2026 07:27:12 +0000</pubDate>
+<description>The program is chaired by the city's tourism industry, in coordination with the Swiss Tourism for Sustainable Development in Vietnam (ST4SD) project, ...</description>
+</item>
 <item>
 <title>Swiss Tourists praise Tanzania safari services, Serengeti National Park - Daily News</title>
 <link>https://dailynews.co.tz/swiss-tourists-praise-tanzania-safari-services-serengeti-national-park/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.fvw.de/international/travel-news/majorca-venice-switzerland-lofoten-overtourism--why-the-real-problem-lies-elsewhere-263313</guid>
 <pubDate>Fri, 07 Aug 2026 09:36:54 +0000</pubDate>
 <description>Majorca is protesting, Venice is raking in millions, and the Lofoten Islands are introducing levies. The issue of overtourism has never gone away.</description>
-</item>
-<item>
-<title>Quang Nam province has 25 businesses certified for green tourism. - Vietnam.vn</title>
-<link>https://www.vietnam.vn/ja/en/quang-nam-co-25-doanh-nghiep-duoc-chung-nhan-du-lich-xanh/</link>
-<guid isPermaLink="false">https://www.vietnam.vn/ja/en/quang-nam-co-25-doanh-nghiep-duoc-chung-nhan-du-lich-xanh/</guid>
-<pubDate>Mon, 03 Aug 2026 15:38:39 +0000</pubDate>
-<description>... sustainable tourism destination. The Swiss Federal Department for Economic Affairs will continue to support Quang Nam province in updating its ...</description>
 </item>
 </channel>
 </rss>
