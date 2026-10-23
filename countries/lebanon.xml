@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/lebanon.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Lebanon. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 23 Oct 2026 09:09:25 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 21:12:36 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Lebanon's Chouf Biosphere Reserve Expands Sustainable Hiking Access</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://www.naharnet.com/stories/en/321329-un-to-list-south-lebanon-historic-castles-as-in-danger-from-conflict</guid>
 <pubDate>Sat, 18 Jul 2026 15:18:03 +0000</pubDate>
 <description>... climate change. The 196 members states of the United Nations ... tourism, large-scale logging and lower water levels due to a dam upstream in ...</description>
+</item>
+<item>
+<title>How women in the Levant region are cutting out the middlemen—and building businesses</title>
+<link>https://fastcompanyme.com/impact/how-women-in-the-levant-region-are-cutting-out-the-middlemen-and-building-businesses/</link>
+<guid isPermaLink="false">https://fastcompanyme.com/impact/how-women-in-the-levant-region-are-cutting-out-the-middlemen-and-building-businesses/</guid>
+<pubDate>Fri, 23 Oct 2026 10:48:56 +0000</pubDate>
+<description>Across Jordan, Lebanon and the West Bank, rural women are turning overlooked farm work into tourism, branded food and direct sales.</description>
 </item>
 <item>
 <title>From war to life: Syrian underwater museum could turn military equipment into marine habitat</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://vajiramandravi.com/current-affairs/unesco-world-heritage-in-danger-list-2026/</guid>
 <pubDate>Mon, 27 Jul 2026 12:13:09 +0000</pubDate>
 <description>Boma-Badingilo Migratory Landscape in South Sudan; Mount Amel Castles in Lebanon; Sebastia in the State of Palestine. Three previously recognised ...</description>
-</item>
-<item>
-<title>UN eyes 'in danger' status for sites hit by war, climate change - World - Dawn</title>
-<link>https://www.dawn.com/news/2016613</link>
-<guid isPermaLink="false">https://www.dawn.com/news/2016613</guid>
-<pubDate>Sun, 19 Jul 2026 12:30:12 +0000</pubDate>
-<description>Biblical sites in occupied West Bank, Lebanese castles, South Sudan's savannahs and grasslands among fast-tracked nominations; Russia's Lake ...</description>
 </item>
 </channel>
 </rss>
