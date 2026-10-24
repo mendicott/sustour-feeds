@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 24 Oct 2026 09:07:14 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 21:09:55 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Yucatán and Quintana Roo Put Maya Communities at the Heart of Sustainable Tourism</title>
@@ -51,6 +51,13 @@
 <description>Mexico launched its 2026-2030 Sustainable Tourism Policy to strengthen sustainability and climate resilience nationwide.</description>
 </item>
 <item>
+<title>6 Places Where Locals Protest Tourists vs. 4 That Badly Want Your Money - Yahoo Travel</title>
+<link>https://travel.yahoo.com/general/articles/6-places-where-locals-protest-101024109.html</link>
+<guid isPermaLink="false">https://travel.yahoo.com/general/articles/6-places-where-locals-protest-101024109.html</guid>
+<pubDate>Sat, 24 Oct 2026 16:41:55 +0000</pubDate>
+<description>Barcelona, Spain · The Canary Islands, Spain · Palma de Mallorca and Ibiza, Spain · Venice, Italy · Mexico City, Mexico · Alicante and the Costa Blanca, ...</description>
+</item>
+<item>
 <title>Critics call for halt to road construction in Mexico's Sian Ka'an Biosphere Reserve</title>
 <link>https://news.mongabay.com/2026/10/critics-call-for-halt-to-road-construction-in-mexicos-sian-kaan-biosphere-reserve/</link>
 <guid isPermaLink="false">https://news.mongabay.com/2026/10/critics-call-for-halt-to-road-construction-in-mexicos-sian-kaan-biosphere-reserve/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/tourism-overcrowding-too-many-tourists-or-too-few-decisions</guid>
 <pubDate>Mon, 12 Oct 2026 17:56:01 +0000</pubDate>
 <description>Mexico City ... Smart ...</description>
-</item>
-<item>
-<title>Sustainable Adventures in Loreto: How Tourism Benefits Local Communities - TravelPulse</title>
-<link>https://www.travelpulse.com/news/destinations/sustainable-adventures-in-loreto-how-tourism-benefits-local-communities</link>
-<guid isPermaLink="false">https://www.travelpulse.com/news/destinations/sustainable-adventures-in-loreto-how-tourism-benefits-local-communities</guid>
-<pubDate>Wed, 07 Oct 2026 16:21:38 +0000</pubDate>
-<description>Sustainable tourism in Loreto, Mexico, benefits local communities by fostering a circular economy through direct interactions with local ...</description>
 </item>
 </channel>
 </rss>

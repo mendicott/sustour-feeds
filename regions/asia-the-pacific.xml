@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/asia-the-pacific.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Asia &amp; the Pacific. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 24 Oct 2026 09:07:14 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 21:09:55 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Urgent need to define Mussoorie carrying capacity: Eco activists - The Times of India</title>
+<link>https://timesofindia.indiatimes.com/city/dehradun/urgent-need-to-define-mussoorie-carrying-capacity-eco-activists/articleshow/135174448.cms</link>
+<guid isPermaLink="false">https://timesofindia.indiatimes.com/city/dehradun/urgent-need-to-define-mussoorie-carrying-capacity-eco-activists/articleshow/135174448.cms</guid>
+<pubDate>Sat, 24 Oct 2026 17:09:27 +0000</pubDate>
+<description>Eco activists say Mussoorie is beyond carrying capacity, citing NGT-backed 2023 report on tourism surge, landslide risk and weak planning; ...</description>
+</item>
 <item>
 <title>The Thai beach ruined by tourist crowds that's coming back to life - i Newspaper</title>
 <link>https://inews.co.uk/inews-lifestyle/travel/thai-beach-ruined-tourist-crowds-coming-back-life-4818104</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.pna.gov.ph/articles/1284762</guid>
 <pubDate>Thu, 24 Sep 2026 10:57:31 +0000</pubDate>
 <description>House Bill No. 3110 or the Community-Based Tourism (CBT) bill requires the establishment of transparent revenue-sharing mechanisms between LGUs ...</description>
-</item>
-<item>
-<title>Krabi emerges as Thailand's prototype for sustainable and restorative tourism</title>
-<link>https://www.traveldailynews.asia/destinations/krabi-sustainable-tourism-prototype/</link>
-<guid isPermaLink="false">https://www.traveldailynews.asia/destinations/krabi-sustainable-tourism-prototype/</guid>
-<pubDate>Tue, 22 Sep 2026 23:14:25 +0000</pubDate>
-<description>Krabi sustainable tourism combines conservation, community experiences and wellness as Thailand tests a new model for responsible travel.</description>
 </item>
 </channel>
 </rss>
