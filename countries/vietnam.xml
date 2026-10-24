@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 23 Oct 2026 21:12:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 09:07:14 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Unlocking the ecotourism potential of Song Thanh National Park - Vietnam.vn</title>
@@ -44,6 +44,13 @@
 <description>Heritage conservation. Sustainable destination management. India's ... Tags: circular tourism, green tourism, Regenerative tourism, sustainable travel, ...</description>
 </item>
 <item>
+<title>My Son collaborates with WWF to restore forests and conserve biodiversity. - Vietnam.vn</title>
+<link>https://www.vietnam.vn/en/my-son-hop-tac-voi-wwf-phuc-hoi-rung-bao-ton-da-dang-sinh-hoc</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/my-son-hop-tac-voi-wwf-phuc-hoi-rung-bao-ton-da-dang-sinh-hoc</guid>
+<pubDate>Sat, 24 Oct 2026 00:38:19 +0000</pubDate>
+<description>The My Son World Heritage Management Board (Thu Bon commune) held a working session with the World Wide Fund for Nature (WWF-Vietnam) and experts ...</description>
+</item>
+<item>
 <title>Training to enhance capacity for community tourism development in Tra Nhieu. - Vietnam.vn</title>
 <link>https://www.vietnam.vn/en/tap-huan-nang-cao-nang-luc-phat-trien-du-lich-cong-dong-tra-nhieu</link>
 <guid isPermaLink="false">https://www.vietnam.vn/en/tap-huan-nang-cao-nang-luc-phat-trien-du-lich-cong-dong-tra-nhieu</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://en.vietnamplus.vn/vietnam-seeks-to-shift-coastal-tourism-from-visitor-numbers-to-value-creation-post354191.vnp</guid>
 <pubDate>Fri, 23 Oct 2026 04:50:04 +0000</pubDate>
 <description>According to the World Travel &amp; Tourism ... Coastal tourism's long-term competitiveness depends on destinations' ecological carrying capacity.</description>
-</item>
-<item>
-<title>Discover Chieng Lao - Vietnam.vn</title>
-<link>https://www.vietnam.vn/en/kham-pha-chieng-lao</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/kham-pha-chieng-lao</guid>
-<pubDate>Fri, 23 Oct 2026 02:22:20 +0000</pubDate>
-<description>An Giang: Enhancing the capacity for developing rural tourism and community tourism in My Hoa Hung commune.</description>
 </item>
 </channel>
 </rss>
