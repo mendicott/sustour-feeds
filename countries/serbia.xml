@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/serbia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Serbia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 25 Oct 2026 09:07:55 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 21:10:49 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Pančevo Emerges as Serbia's Riverside Cultural Destination Through Historic Heritage ...</title>
@@ -44,6 +44,13 @@
 <description>Adventure Travel · Cycling · Micromobility · Conservation Easement · Nature Conservation · Easement · Agricultural Land · Springhill, Nova Scotia ...</description>
 </item>
 <item>
+<title>Ancient trails, birds of prey and breathtaking panoramas in the heart of the Balkans</title>
+<link>https://www.independent.ie/lifestyle/travel/ancient-trails-birds-of-prey-and-breathtaking-panoramas-in-the-heart-of-the-balkans/a/162819703.html</link>
+<guid isPermaLink="false">https://www.independent.ie/lifestyle/travel/ancient-trails-birds-of-prey-and-breathtaking-panoramas-in-the-heart-of-the-balkans/a/162819703.html</guid>
+<pubDate>Sun, 25 Oct 2026 17:31:46 +0000</pubDate>
+<description>Brendan Daly hikes through the mountains and canyons of Serbia, Montenegro, and Bosnia and Herzegovina.</description>
+</item>
+<item>
 <title>My incredible rail journey across five unsung countries - The Times</title>
 <link>https://www.thetimes.com/travel/destinations/europe-travel/balkan-explorer-train-journey-review-lsptnx87f</link>
 <guid isPermaLink="false">https://www.thetimes.com/travel/destinations/europe-travel/balkan-explorer-train-journey-review-lsptnx87f</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.usnews.com/news/world/articles/2026-09-01/in-serbias-scorched-dunes-foresters-plan-for-an-even-hotter-future</guid>
 <pubDate>Tue, 01 Sep 2026 11:48:55 +0000</pubDate>
 <description>By Aleksandar Vasovic. BELGRADE, Sept 1 (Reuters) - More than a month after ⁠flames ⁠tore through Serbia's Deliblatska Pescara reserve, ...</description>
-</item>
-<item>
-<title>In Serbia's scorched dunes, foresters plan for an even hotter future | 102.7 WBOW</title>
-<link>https://1027wbow.com/2026/09/01/in-serbias-scorched-dunes-foresters-plan-for-an-even-hotter-future/</link>
-<guid isPermaLink="false">https://1027wbow.com/2026/09/01/in-serbias-scorched-dunes-foresters-plan-for-an-even-hotter-future/</guid>
-<pubDate>Tue, 01 Sep 2026 10:30:36 +0000</pubDate>
-<description>By Aleksandar Vasovic BELGRADE, Sept 1 (Reuters) - More than a month after flames tore through Serbia's ... global warming. The changes, when they come, ...</description>
 </item>
 </channel>
 </rss>

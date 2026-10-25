@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/uganda.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Uganda. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 25 Oct 2026 09:07:55 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 21:10:48 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Tourism meets conservation as Sheraton Kampala joins CTPH to protect endangered ...</title>
+<link>https://www.monitor.co.ug/uganda/lifestyle/travel/tourism-meets-conservation-as-sheraton-kampala-joins-ctph-to-protect-endangered-mountain-gorillas-5644148</link>
+<guid isPermaLink="false">https://www.monitor.co.ug/uganda/lifestyle/travel/tourism-meets-conservation-as-sheraton-kampala-joins-ctph-to-protect-endangered-mountain-gorillas-5644148</guid>
+<pubDate>Sat, 24 Oct 2026 23:11:53 +0000</pubDate>
+<description>In a bid to boost wildlife conservation and support local communities surrounding Uganda's national parks, Conservation Through Public Health (CTPH) ...</description>
+</item>
 <item>
 <title>Uganda Wildlife Authority Adds African Wild Dogs to Conservation Programme</title>
 <link>https://ugdiplomat.com/uganda-wildlife-authority-adds-african-wild-dogs-to-conservation-programme/bpage/3/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://pmldaily.com/oped/2026/09/as-uganda-opens-its-parks-for-free-who-is-protecting-the-wildlife-that-makes-tourism-possible.html</guid>
 <pubDate>Wed, 23 Sep 2026 17:52:53 +0000</pubDate>
 <description>Communities around protected areas need tourism-related income and opportunities. When ecosystems are degraded, the economic consequences can travel ...</description>
-</item>
-<item>
-<title>Tourism: Bwindi communities reap benefits from gorilla touri - New Vision</title>
-<link>https://www.newvision.co.ug/category/travel/bwindi-communities-reap-benefits-from-gorilla-NV_240988_092026</link>
-<guid isPermaLink="false">https://www.newvision.co.ug/category/travel/bwindi-communities-reap-benefits-from-gorilla-NV_240988_092026</guid>
-<pubDate>Mon, 21 Sep 2026 16:50:18 +0000</pubDate>
-<description>As Uganda joins the rest of the world to mark World Gorilla Day on September 24, conservationists, Government agencies and community organisations ...</description>
 </item>
 </channel>
 </rss>

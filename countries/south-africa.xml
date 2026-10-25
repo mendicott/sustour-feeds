@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/south-africa.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for South Africa. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 25 Oct 2026 09:07:55 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 21:10:48 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>South Africa Launches Piketberg Eco Tourism Route - Travel And Tour World</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://www.pressreader.com/south-africa/the-independent-on-saturday/20260815/282239492455405</guid>
 <pubDate>Sat, 15 Aug 2026 01:06:46 +0000</pubDate>
 <description>What does 'sustainable travel' actually mean in SA? 2026-08-15 - LUTHO PASIYA Tourism · South Africa News · Animals · Ecology · Travel · Wildlife · ...</description>
+</item>
+<item>
+<title>Whose vision of development counts? South Africa's Amadiba communities made maps of ...</title>
+<link>https://www.bignewsnetwork.com/news/279397394/whose-vision-of-development-counts-south-africa-amadiba-communities-made-maps-of-what-matters</link>
+<guid isPermaLink="false">https://www.bignewsnetwork.com/news/279397394/whose-vision-of-development-counts-south-africa-amadiba-communities-made-maps-of-what-matters</guid>
+<pubDate>Sun, 25 Oct 2026 06:48:07 +0000</pubDate>
+<description>They make collective decisions over land use, including the mananagement of community-led ecotourism. ... Cape Town News · Cardiff News · Central ...</description>
 </item>
 <item>
 <title>South Africa's Babanango reserve is a community-led rewilding effort - The Globe and Mail</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/69jbpxv2haa1/</guid>
 <pubDate>Sun, 11 Oct 2026 12:59:07 +0000</pubDate>
 <description>New tourism programmes are focusing on business training, conservation, market access and sustainable travel experiences. These initiatives suggest ...</description>
-</item>
-<item>
-<title>Renewable Energy Partnership to help decarbonise Kruger National Park in its Centenary Year</title>
-<link>https://www.sanparks.org/news/renewable-energy-partnership-to-help-decarbonise-kruger-national-park-in-its-centenary-year</link>
-<guid isPermaLink="false">https://www.sanparks.org/news/renewable-energy-partnership-to-help-decarbonise-kruger-national-park-in-its-centenary-year</guid>
-<pubDate>Fri, 09 Oct 2026 08:44:42 +0000</pubDate>
-<description>"Kruger National Park is not only South Africa's premier tourism destination, but also a cornerstone of conservation in our country and across the ...</description>
 </item>
 </channel>
 </rss>
