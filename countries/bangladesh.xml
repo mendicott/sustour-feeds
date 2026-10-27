@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/bangladesh.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Bangladesh. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 27 Oct 2026 09:09:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 21:13:06 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>St Martin's Island Tourism Bangladesh | Profits must not trump conservation | The Daily Star</title>
+<link>https://www.thedailystar.net/opinion/editorial/news/profits-must-not-trump-conservation-4308176</link>
+<guid isPermaLink="false">https://www.thedailystar.net/opinion/editorial/news/profits-must-not-trump-conservation-4308176</guid>
+<pubDate>Tue, 27 Oct 2026 11:59:09 +0000</pubDate>
+<description>St Martin's Island Tourism Bangladesh: Bangladesh must put environmental protection ahead of commercial interests by enforcing conservation laws ...</description>
+</item>
 <item>
 <title>How many nights can tourists stay on Saint Martin's Island? Will a travel pass be required?</title>
 <link>https://en.prothomalo.com/bangladesh/60dans0p0u</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.dhakamagazine.com/en/article/5159/tomorrow-is-international-day-for-disaster-risk-reduction/amp</guid>
 <pubDate>Mon, 12 Oct 2026 13:35:45 +0000</pubDate>
 <description>Tourist numbers and travel rules on Saint Martin's Island to be reconsidered: Environment Minister. Monday, 12 October 2026.</description>
-</item>
-<item>
-<title>Govt. to reconsider tourist limits, overnight stays on St. Martin's Island: Environment Minister</title>
-<link>https://www.bangladeshmonitor.com.bd/en/govt-to-reconsider-tourist-limits-overnight-stays-on-st-martin-s-island-env</link>
-<guid isPermaLink="false">https://www.bangladeshmonitor.com.bd/en/govt-to-reconsider-tourist-limits-overnight-stays-on-st-martin-s-island-env</guid>
-<pubDate>Mon, 12 Oct 2026 13:31:10 +0000</pubDate>
-<description>Faridul Islam stressed the need for tourists to purchase travel passes and QR-coded tickets through web portals recognized by the Bangladesh Tourism ...</description>
 </item>
 </channel>
 </rss>

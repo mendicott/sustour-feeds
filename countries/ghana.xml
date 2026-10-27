@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ghana.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ghana. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 27 Oct 2026 09:09:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 21:13:06 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>How Japan fights overtourism - Modern Ghana</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://asaaseradio.com/atewa-forest-ghanas-butterfly-haven-and-a-global-biodiversity-treasure/</guid>
 <pubDate>Sat, 15 Aug 2026 04:11:04 +0000</pubDate>
 <description>Atewa's potential for eco-tourism. Beyond conservation, Atewa's butterfly diversity presents opportunities for sustainable economic activities such as ...</description>
+</item>
+<item>
+<title>GTA develops animal welfare policy to promote responsible tourism - Adomonline.com</title>
+<link>https://www.adomonline.com/gta-develops-animal-welfare-policy-to-promote-responsible-tourism/</link>
+<guid isPermaLink="false">https://www.adomonline.com/gta-develops-animal-welfare-policy-to-promote-responsible-tourism/</guid>
+<pubDate>Tue, 27 Oct 2026 15:13:40 +0000</pubDate>
+<description>The Ghana Tourism Authority is engaging stakeholders in the tourism and hospitality industry on a proposed National Animal Welfare Policy aimed at ...</description>
 </item>
 <item>
 <title>Localize tourism for communities to benefit - Ghana Business News</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://thebftonline.com/article/atewa-national-park-could-create-3-000-jobs-generate-us-5m-annually-csos</guid>
 <pubDate>Mon, 21 Sep 2026 04:02:10 +0000</pubDate>
 <description>At a press conference in Accra, the groups proposed what they termed the Atewa Green Option - a development model centred on eco-tourism, agroforestry ...</description>
-</item>
-<item>
-<title>GTA calls for world-class, competitive and sustainable tourism industry</title>
-<link>https://gna.org.gh/2026/09/gta-calls-for-world-class-competitive-and-sustainable-tourism-industry/</link>
-<guid isPermaLink="false">https://gna.org.gh/2026/09/gta-calls-for-world-class-competitive-and-sustainable-tourism-industry/</guid>
-<pubDate>Sat, 05 Sep 2026 12:42:16 +0000</pubDate>
-<description>Worawora (O/R), Sept 5, GNA – The Ghana Tourism Authority (GTA) has called for a stronger partnership among government, tourism operators, businesses ...</description>
 </item>
 </channel>
 </rss>
