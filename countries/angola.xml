@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/angola.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Angola. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 29 Oct 2026 09:09:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 21:13:45 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>KAZA launches regenerative tourism initiative - Informanté</title>
@@ -44,6 +44,13 @@
 <description>Angola and more countries drives the transition from commercial fishing to sustainable tourism across Central Africa in 2026.</description>
 </item>
 <item>
+<title>Life Within Iona National Park | African Parks</title>
+<link>https://www.africanparks.org/life-within-iona-national-park</link>
+<guid isPermaLink="false">https://www.africanparks.org/life-within-iona-national-park</guid>
+<pubDate>Thu, 29 Oct 2026 10:37:00 +0000</pubDate>
+<description>In Angola's Iona National Park, conservation and community life share the same landscape. From traditional livelihoods to new opportunities in ...</description>
+</item>
+<item>
 <title>Iona National Park Advances Giraffe Rewilding and Desert Tourism - Travel And Tour World</title>
 <link>https://www.travelandtourworld.com/news/article/on7gleklphdv/</link>
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/on7gleklphdv/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.undp.org/rwanda/blog/international-youth-day-2026-what-young-people-really-want</guid>
 <pubDate>Wed, 12 Aug 2026 20:51:43 +0000</pubDate>
 <description>... sustainable development our societies possess. Nicolas Schmid is ... AI Hackathon Inspires Innovative Solutions for Sustainable Tourism in Angola.</description>
-</item>
-<item>
-<title>First tourist camp in Luengue-Luiana opens | Southern &amp; East African Tourism Update</title>
-<link>https://www.tourismupdate.com/article/first-tourist-camp-in-luengue-luiana-opens</link>
-<guid isPermaLink="false">https://www.tourismupdate.com/article/first-tourist-camp-in-luengue-luiana-opens</guid>
-<pubDate>Fri, 31 Jul 2026 16:42:18 +0000</pubDate>
-<description>Luiana Plains Expedition Camp, the first tourist camp to open in Angola's Luengue-Luiana National Park, welcomed its first guests during a soft ...</description>
 </item>
 </channel>
 </rss>

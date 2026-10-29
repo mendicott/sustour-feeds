@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 29 Oct 2026 09:09:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 21:13:45 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Unlocking the ecotourism potential of Song Thanh National Park - Vietnam.vn</title>
@@ -44,6 +44,13 @@
 <description>Heritage conservation. Sustainable destination management. India's ... Tags: circular tourism, green tourism, Regenerative tourism, sustainable travel, ...</description>
 </item>
 <item>
+<title>Awarding Certificates and Announcing the Ninh Binh 2026 Declaration - Vietnam.vn</title>
+<link>https://www.vietnam.vn/en/trao-chung-nhan-va-cong-bo-tuyen-bo-ninh-binh-2026</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/trao-chung-nhan-va-cong-bo-tuyen-bo-ninh-binh-2026</guid>
+<pubDate>Thu, 29 Oct 2026 19:28:36 +0000</pubDate>
+<description>Over two days (October 28th and 29th), scholars and experts participating in the Ninh Binh 2026 International Conference on Responsible Tourism ...</description>
+</item>
+<item>
 <title>Community-based tourism transforms northern mountainous villages - Vietnam+ (VietnamPlus)</title>
 <link>https://en.vietnamplus.vn/community-based-tourism-transforms-northern-mountainous-villages-post354494.vnp</link>
 <guid isPermaLink="false">https://en.vietnamplus.vn/community-based-tourism-transforms-northern-mountainous-villages-post354494.vnp</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://baodongnai.com.vn/english/travel/202610/tourism-sector-sets-sights-on-net-zero-2bf683e/</guid>
 <pubDate>Mon, 26 Oct 2026 18:48:18 +0000</pubDate>
 <description>Green and sustainable tourism has become increasingly popular in Vietnam in recent years. Many ecotourism products aim to achieve net-zero ...</description>
-</item>
-<item>
-<title>Heritage for the Future (Part 1) - Vietnam.vn</title>
-<link>https://www.vietnam.vn/en/di-san-cho-tuong-lai-bai-1</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/di-san-cho-tuong-lai-bai-1</guid>
-<pubDate>Sun, 25 Oct 2026 08:27:25 +0000</pubDate>
-<description>... sustainable tourism development. The UNESCO Global Geopark Non Nuoc ... The first 3 resorts in Khanh Hoa have achieved Green Tourism standards.</description>
 </item>
 </channel>
 </rss>

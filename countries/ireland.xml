@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ireland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ireland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 29 Oct 2026 09:09:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 21:13:45 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Cuilcagh Lakelands UNESCO Global Geopark launches 25th anniversary celebrations</title>
+<link>https://www.fermanaghomagh.com/article/cuilcagh-lakelands-unesco-global-geopark-launches-25th-anniversary-celebrations/</link>
+<guid isPermaLink="false">https://www.fermanaghomagh.com/article/cuilcagh-lakelands-unesco-global-geopark-launches-25th-anniversary-celebrations/</guid>
+<pubDate>Thu, 29 Oct 2026 16:27:52 +0000</pubDate>
+<description>Through strong working relationships with the Geological Survey of Ireland, the Geological Survey of Northern Ireland, tourism agencies ...</description>
+</item>
 <item>
 <title>County Clare retains international sustainable tourism certification</title>
 <link>https://www.clarecoco.ie/council/newsroom/news/2026/county-clare-retains-international-sustainable-tourism-certification</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.impartialreporter.com/news/26558989.fermanagh-organisations-earn-places-all-ireland-shortlist/</guid>
 <pubDate>Thu, 17 Sep 2026 16:16:43 +0000</pubDate>
 <description>Two Fermanagh organisations have been shortlisted for this year's All-Ireland Sustainability Awards. Cuilcagh Lakelands UNESCO Global Geopark has ...</description>
-</item>
-<item>
-<title>Cavan's geopark shortlisted for All-Ireland Sustainability Awards | Anglo Celt</title>
-<link>https://www.anglocelt.ie/2026/09/17/cavans-geopark-shortlisted-for-all-ireland-sustainability-awards/</link>
-<guid isPermaLink="false">https://www.anglocelt.ie/2026/09/17/cavans-geopark-shortlisted-for-all-ireland-sustainability-awards/</guid>
-<pubDate>Thu, 17 Sep 2026 13:04:15 +0000</pubDate>
-<description>Cavan's Cuilcagh Lakelands UNESCO Global Geopark has been announced as a shortlisted entry for the prestigious 2026 All-Ireland Sustainability ...</description>
 </item>
 </channel>
 </rss>
