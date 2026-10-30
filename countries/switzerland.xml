@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/switzerland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Switzerland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 30 Oct 2026 09:09:36 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 21:13:19 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Can AI and Shared Travel Stories Help Us Fly Less? Lessons From a Swiss Holiday Study</title>
+<link>https://www.devdiscourse.com/article/technology/3997999-can-ai-and-shared-travel-stories-help-us-fly-less-lessons-from-a-swiss-holiday-study?amp</link>
+<guid isPermaLink="false">https://www.devdiscourse.com/article/technology/3997999-can-ai-and-shared-travel-stories-help-us-fly-less-lessons-from-a-swiss-holiday-study?amp</guid>
+<pubDate>Fri, 30 Oct 2026 15:32:26 +0000</pubDate>
+<description>Feedback mechanisms Randomized controlled trial Sustainable tourism ... travel Social norms Digital nudging Gamification Low-carbon holidays ...</description>
+</item>
 <item>
 <title>Accommodation establishments in Da Nang approach Da Nang Green Stay criteria</title>
 <link>https://news.laodong.vn/moi-truong/co-so-luu-tru-tai-da-nang-tiep-can-bo-tieu-chi-da-nang-green-stay-1787963.ldo</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.euronews.com/travel/2026/08/15/crowds-at-mont-blanc-will-hiking-soon-require-reservations</guid>
 <pubDate>Sat, 15 Aug 2026 16:05:04 +0000</pubDate>
 <description>The Tour du Mont-Blanc is one of Europe's most popular long-distance hiking routes, a 170-kilometre circuit through France, Italy and Switzerland ...</description>
-</item>
-<item>
-<title>Majorca, Venice, Switzerland, Lofoten: Overtourism – why the real problem lies elsewhere</title>
-<link>https://www.fvw.de/international/travel-news/majorca-venice-switzerland-lofoten-overtourism--why-the-real-problem-lies-elsewhere-263313</link>
-<guid isPermaLink="false">https://www.fvw.de/international/travel-news/majorca-venice-switzerland-lofoten-overtourism--why-the-real-problem-lies-elsewhere-263313</guid>
-<pubDate>Fri, 07 Aug 2026 09:36:54 +0000</pubDate>
-<description>Majorca is protesting, Venice is raking in millions, and the Lofoten Islands are introducing levies. The issue of overtourism has never gone away.</description>
 </item>
 </channel>
 </rss>

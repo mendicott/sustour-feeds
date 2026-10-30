@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/africa.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Africa. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 30 Oct 2026 09:09:36 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 21:13:19 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Community-Based Tourism: Shaping Sustainable Futures in Maine and Morocco</title>
+<link>https://dailybulldog.com/event/community-based-tourism-shaping-sustainable-futures-in-maine-and-morocco/</link>
+<guid isPermaLink="false">https://dailybulldog.com/event/community-based-tourism-shaping-sustainable-futures-in-maine-and-morocco/</guid>
+<pubDate>Fri, 30 Oct 2026 12:55:45 +0000</pubDate>
+<description>... sustainable tourism. The lecture invites us to consider who benefits from tourism and how communities can have a greater voice in their own futures.</description>
+</item>
 <item>
 <title>How shark ecotourism sparks long-term conservation - Phys.org</title>
 <link>https://phys.org/news/2026-10-shark-ecotourism-term.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/n1m2evu0ssu4/</guid>
 <pubDate>Fri, 18 Sep 2026 07:25:59 +0000</pubDate>
 <description>South Africa's Western Cape expands regenerative tourism around Piketberg with eco-cabins, fynbos landscapes, farming stays and nature-based ...</description>
-</item>
-<item>
-<title>Morocco Rebuilds High Atlas Tourism With Village Stays - Travel And Tour World</title>
-<link>https://www.travelandtourworld.com/news/article/azlitsmot2p5/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/azlitsmot2p5/</guid>
-<pubDate>Fri, 18 Sep 2026 06:53:52 +0000</pubDate>
-<description>Morocco's High Atlas is expanding regenerative village tourism with restored mountain stays, Amazigh culture, terraced farms and nature-led ...</description>
 </item>
 </channel>
 </rss>
