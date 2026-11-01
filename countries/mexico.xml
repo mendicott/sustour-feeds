@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 01 Nov 2026 09:07:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 21:11:08 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Yucatán and Quintana Roo Put Maya Communities at the Heart of Sustainable Tourism</title>
@@ -51,6 +51,13 @@
 <description>Mexico launched its 2026-2030 Sustainable Tourism Policy to strengthen sustainability and climate resilience nationwide.</description>
 </item>
 <item>
+<title>Stop Visiting Tulum: Sian Ka'an Is the Mexico You Actually Wanted - Yahoo Travel</title>
+<link>https://travel.yahoo.com/guides/mexico/articles/stop-visiting-tulum-sian-kaan-100422769.html</link>
+<guid isPermaLink="false">https://travel.yahoo.com/guides/mexico/articles/stop-visiting-tulum-sian-kaan-100422769.html</guid>
+<pubDate>Sun, 01 Nov 2026 10:57:56 +0000</pubDate>
+<description>Picture the photo that sold you on Tulum: pale sand, turquoise water, jungle pressing right up to the beach. Now picture arriving and finding a ...</description>
+</item>
+<item>
 <title>Mexico and Other American and Caribbean Nations Advance Marine Protection and Climate ...</title>
 <link>https://www.travelandtourworld.com/news/article/mz4hr1zwzn66/</link>
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/mz4hr1zwzn66/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://news.mongabay.com/2026/10/critics-call-for-halt-to-road-construction-in-mexicos-sian-kaan-biosphere-reserve/</guid>
 <pubDate>Fri, 23 Oct 2026 19:20:51 +0000</pubDate>
 <description>The reserve also has 47 community-based tourism initiatives and 140 permits for tourism and recreational activities, according to Semarnat. The ...</description>
-</item>
-<item>
-<title>Community Tourism in San Felipe, Yucatan - Yucatán Today</title>
-<link>https://yucatantoday.com/en/blog/community-tourism-san-felipe-yucatan</link>
-<guid isPermaLink="false">https://yucatantoday.com/en/blog/community-tourism-san-felipe-yucatan</guid>
-<pubDate>Tue, 13 Oct 2026 03:05:17 +0000</pubDate>
-<description>Nestled between mangroves, wetlands, and the calm waters of the Gulf of Mexico, San Felipe, Yucatán, is home to one of the state's most beautiful ...</description>
 </item>
 </channel>
 </rss>

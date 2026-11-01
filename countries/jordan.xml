@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/jordan.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Jordan. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 01 Nov 2026 09:07:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 21:11:08 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Petra Authority, UNESCO Explore Expanding Sustainable Tourism, Community Empowerment</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://petra.gov.jo/wp-contart/x/index.php/en/news/petra-authority-unesco-explore-expanding-sustainable-tourism-community-empowerment</guid>
 <pubDate>Tue, 21 Jul 2026 10:43:25 +0000</pubDate>
 <description>... sustainable tourism and empower local communities. The meeting was attended by Minister of Tourism and Antiquities Imad Hijazin, Chairperson of ...</description>
+</item>
+<item>
+<title>Jordan, Yemen Sign 2026-2028 Environmental Protection Cooperation MoU</title>
+<link>https://petra.gov.jo/en/news/jordan-yemen-sign-2026-2028-environmental-protection-cooperation%C2%A0mou</link>
+<guid isPermaLink="false">https://petra.gov.jo/en/news/jordan-yemen-sign-2026-2028-environmental-protection-cooperation%C2%A0mou</guid>
+<pubDate>Sun, 01 Nov 2026 14:36:21 +0000</pubDate>
+<description>The agreement also targets eco-tourism, marine preservation, nature reserve management, desertification mitigation, joint biodiversity research, and ...</description>
 </item>
 <item>
 <title>Cabinet approves declaring Bethany Beyond the Jordan a nature reserve ahead of the 2030 ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://petra.gov.jo/en/news/experts-hail-plans-to-link-eastern-jordan-tourism-sites-through-organized-routes</guid>
 <pubDate>Sun, 06 Sep 2026 18:37:51 +0000</pubDate>
 <description>The initiative would also support the rehabilitation of ecosystems, strengthen their resilience to climate change, protect natural and cultural ...</description>
-</item>
-<item>
-<title>PSD urges responsible tourism as spring season peaks - The Jordan News Agency</title>
-<link>https://petra.gov.jo/dynpage/index.php/en/news/psd-urges-responsible-tourism-as-spring-season-peaks</link>
-<guid isPermaLink="false">https://petra.gov.jo/dynpage/index.php/en/news/psd-urges-responsible-tourism-as-spring-season-peaks</guid>
-<pubDate>Sat, 05 Sep 2026 04:42:17 +0000</pubDate>
-<description>Amman, April 29 (Petra) -- The Public Security Directorate (PSD) issued a call to citizens on Wednesday to practice responsible and civic-minded ...</description>
 </item>
 </channel>
 </rss>
