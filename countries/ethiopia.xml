@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ethiopia.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ethiopia. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 02 Nov 2026 09:09:17 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 21:13:38 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Ethiopia Expands Community-Led Wildlife Conservation and Sustainable Tourism</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.ena.et/web/eng/w/eng_9344889</guid>
 <pubDate>Wed, 05 Aug 2026 19:24:15 +0000</pubDate>
 <description>Addis Ababa, August 5, 2026 (ENA) — Ethiopia's Green Legacy Initiative (GLI) is playing a significant role in expanding the country's ecotourism ...</description>
+</item>
+<item>
+<title>Ethiopia Pursues First UNESCO Global Geopark Status - Birr Metrics</title>
+<link>https://birrmetrics.com/ethiopia-pursues-first-unesco-global-geopark/</link>
+<guid isPermaLink="false">https://birrmetrics.com/ethiopia-pursues-first-unesco-global-geopark/</guid>
+<pubDate>Mon, 02 Nov 2026 16:54:45 +0000</pubDate>
+<description>Subsequent visits covered Tiya, Melka Kunture and geological heritage locations in Central Ethiopia. At the time, Tourism State Minister Sileshi Girma ...</description>
 </item>
 <item>
 <title>Ethiopia Advances Bale Mountains Tourism via Robe and Goba - Travel And Tour World</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://atta.travel/resource/ethiopia-launches-digital-wildlife-monitoring-platform-across-106-protected-areas.html</guid>
 <pubDate>Fri, 10 Jul 2026 16:57:13 +0000</pubDate>
 <description>... travel and tourism. ... The system marks a significant shift from the previously manual and fragmented approach to natural resource management, which ...</description>
-</item>
-<item>
-<title>Ethiopia Completes Preparations for UNESCO Bid of Central Rift Valley Geopark</title>
-<link>https://birrmetrics.com/ethiopia-completes-preparations-for-unesco-bid-of-central-rift-valley-geopark/</link>
-<guid isPermaLink="false">https://birrmetrics.com/ethiopia-completes-preparations-for-unesco-bid-of-central-rift-valley-geopark/</guid>
-<pubDate>Mon, 06 Jul 2026 13:59:24 +0000</pubDate>
-<description>... Geopark for inclusion in UNESCO's Global Geoparks Network, a move authorities say could strengthen tourism investment and international ...</description>
 </item>
 </channel>
 </rss>

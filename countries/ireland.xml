@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ireland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ireland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 02 Nov 2026 09:09:17 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 21:13:38 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>€650000 Royal Canal Greenway Animation project enhances visitor experience across the Midlands</title>
+<link>https://www.hotelnews.ie/articles/2026/failteireland/royal-canal-greenway-animation</link>
+<guid isPermaLink="false">https://www.hotelnews.ie/articles/2026/failteireland/royal-canal-greenway-animation</guid>
+<pubDate>Mon, 02 Nov 2026 18:17:25 +0000</pubDate>
+<description>Regenerative tourism project developed by Waterways Ireland and Fáilte Ireland through the EU Just Transition Fund.</description>
+</item>
 <item>
 <title>Cuilcagh Lakelands UNESCO Global Geopark launches 25th anniversary celebrations</title>
 <link>https://www.fermanaghomagh.com/article/cuilcagh-lakelands-unesco-global-geopark-launches-25th-anniversary-celebrations/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.euronews.com/2026/09/30/can-cities-cope-with-europes-tourism-boom-meps-debate-in-a-special-edition-of-the-ring</guid>
 <pubDate>Wed, 30 Sep 2026 18:43:51 +0000</pubDate>
 <description>In this edition, recorded live at the Euronews Travel &amp; Tourism Summit in Brussels, two EU lawmakers step into The Ring: Regina Doherty, an Irish ...</description>
-</item>
-<item>
-<title>Fermanagh organisations earn places on All-Ireland shortlist | Impartial Reporter</title>
-<link>https://www.impartialreporter.com/news/26558989.fermanagh-organisations-earn-places-all-ireland-shortlist/</link>
-<guid isPermaLink="false">https://www.impartialreporter.com/news/26558989.fermanagh-organisations-earn-places-all-ireland-shortlist/</guid>
-<pubDate>Thu, 17 Sep 2026 16:16:43 +0000</pubDate>
-<description>Two Fermanagh organisations have been shortlisted for this year's All-Ireland Sustainability Awards. Cuilcagh Lakelands UNESCO Global Geopark has ...</description>
 </item>
 </channel>
 </rss>
