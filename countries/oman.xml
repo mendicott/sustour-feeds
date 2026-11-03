@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/oman.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Oman. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 03 Nov 2026 10:00:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 21:14:44 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>New conservation, ecotourism plans to protect Jabal Akhdar | Muscat Daily - PressReader</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://www.pressreader.com/oman/muscat-daily/20260825/281560887642447</guid>
 <pubDate>Tue, 25 Aug 2026 07:15:41 +0000</pubDate>
 <description>... ecotourism as authorities seek to strengthen protection of one of the country's key natural areas. The Environment Authority on Monday organised a ...</description>
+</item>
+<item>
+<title>Oman tightens environmental regulations across six nature reserves - Gulf News</title>
+<link>https://gulfnews.com/world/gulf/oman/oman-tightens-environmental-regulations-across-six-nature-reserves-1.500733986</link>
+<guid isPermaLink="false">https://gulfnews.com/world/gulf/oman/oman-tightens-environmental-regulations-across-six-nature-reserves-1.500733986</guid>
+<pubDate>Tue, 03 Nov 2026 10:52:03 +0000</pubDate>
+<description>Oman enforces stricter rules in six nature reserves to protect ecosystems, requiring permits for activities like camping, photography, ...</description>
 </item>
 <item>
 <title>Oman's Delegation Visits Mountain Villages to Learn About Sustainable Tourism Projects</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://timesofoman.com/article/176492-musandam-positions-itself-as-sustainable-tourism-and-investment-hub</guid>
 <pubDate>Sat, 05 Sep 2026 12:03:41 +0000</pubDate>
 <description>Khasab: Musandam Governorate is seeking to strengthen its position as one of Oman's leading tourism destinations by capitalising on its ...</description>
-</item>
-<item>
-<title>Nature reserves cornerstones for sustainable development goals - Oman Observer</title>
-<link>https://www.omanobserver.om/ampArticle/1195186</link>
-<guid isPermaLink="false">https://www.omanobserver.om/ampArticle/1195186</guid>
-<pubDate>Thu, 27 Aug 2026 17:25:38 +0000</pubDate>
-<description>MUSCAT: The Sultanate of Oman is ... The Environment Authority is addressing main threats such as illegal poaching and climate change impacts.</description>
 </item>
 </channel>
 </rss>
