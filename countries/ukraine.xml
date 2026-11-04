@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ukraine.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ukraine. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 04 Nov 2026 09:10:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 21:13:28 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Culture Ministry, DART start work on developing Strategy for Sustainable Tourism ...</title>
+<link>https://en.interfax.com.ua/news/general/1231334.html</link>
+<guid isPermaLink="false">https://en.interfax.com.ua/news/general/1231334.html</guid>
+<pubDate>Wed, 04 Nov 2026 18:30:18 +0000</pubDate>
+<description>The Ministry of Culture of Ukraine and the State Agency for Tourism Development of Ukraine are beginning work on developing a Sustainable Tourism ...</description>
+</item>
 <item>
 <title>Ukrainian Tourists Spark FURY In Oman: VIRAL Turtle Video Triggers Legal Action</title>
 <link>https://timesofindia.indiatimes.com/videos/international/ukrainian-tourists-spark-fury-in-oman-viral-turtle-video-triggers-legal-action/videoshow/134573501.cms</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/rvv8zs0np1n9/</guid>
 <pubDate>Sat, 22 Aug 2026 09:59:18 +0000</pubDate>
 <description>Khmelnytskyi's Future as a Slow Travel Destination. The Khmelnytskyi region represents a new direction for Ukrainian tourism, where history, nature ...</description>
-</item>
-<item>
-<title>Tangible support for Ukraine's Natural World Heritage sites of international significance</title>
-<link>https://www.bundesumweltministerium.de/en/pressrelease/tangible-support-for-ukraines-natural-world-heritage-sites-of-international-significance</link>
-<guid isPermaLink="false">https://www.bundesumweltministerium.de/en/pressrelease/tangible-support-for-ukraines-natural-world-heritage-sites-of-international-significance</guid>
-<pubDate>Thu, 20 Aug 2026 21:00:42 +0000</pubDate>
-<description>This is intended to help ensure continued preservation of the "Ancient Beech Forests of Europe", a UNESCO Natural World Heritage site. Federal ...</description>
 </item>
 </channel>
 </rss>

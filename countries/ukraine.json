@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://en.interfax.com.ua/news/general/1231334.html",
+      "url": "https://en.interfax.com.ua/news/general/1231334.html",
+      "title": "Culture Ministry, DART start work on developing Strategy for Sustainable Tourism ...",
+      "content_text": "The Ministry of Culture of Ukraine and the State Agency for Tourism Development of Ukraine are beginning work on developing a Sustainable Tourism ...",
+      "date_published": "2026-11-04T18:30:18+00:00"
+    },
+    {
       "id": "https://timesofindia.indiatimes.com/videos/international/ukrainian-tourists-spark-fury-in-oman-viral-turtle-video-triggers-legal-action/videoshow/134573501.cms",
       "url": "https://timesofindia.indiatimes.com/videos/international/ukrainian-tourists-spark-fury-in-oman-viral-turtle-video-triggers-legal-action/videoshow/134573501.cms",
       "title": "Ukrainian Tourists Spark FURY In Oman: VIRAL Turtle Video Triggers Legal Action",
@@ -68,13 +75,6 @@
       "title": "Ukraine's Khmelnytskyi Emerges as Must-Visit Destination With Magical Landscapes and ...",
       "content_text": "Khmelnytskyi's Future as a Slow Travel Destination. The Khmelnytskyi region represents a new direction for Ukrainian tourism, where history, nature ...",
       "date_published": "2026-08-22T09:59:18+00:00"
-    },
-    {
-      "id": "https://www.bundesumweltministerium.de/en/pressrelease/tangible-support-for-ukraines-natural-world-heritage-sites-of-international-significance",
-      "url": "https://www.bundesumweltministerium.de/en/pressrelease/tangible-support-for-ukraines-natural-world-heritage-sites-of-international-significance",
-      "title": "Tangible support for Ukraine's Natural World Heritage sites of international significance",
-      "content_text": "This is intended to help ensure continued preservation of the \"Ancient Beech Forests of Europe\", a UNESCO Natural World Heritage site. Federal ...",
-      "date_published": "2026-08-20T21:00:42+00:00"
     }
   ]
 }

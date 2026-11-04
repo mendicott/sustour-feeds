@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ireland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ireland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 04 Nov 2026 09:10:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 21:13:28 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>New EU Sustainable Tourism Strategy Unveiled as Irish Presidency Hosts EU Tourism ...</title>
+<link>https://enterprise.gov.ie/en/news-and-events/department-news/2026/november/20261104.html</link>
+<guid isPermaLink="false">https://enterprise.gov.ie/en/news-and-events/department-news/2026/november/20261104.html</guid>
+<pubDate>Wed, 04 Nov 2026 11:32:52 +0000</pubDate>
+<description>Tourism supports over 270,000 jobs across Ireland and is a cornerstone of many regional and rural economies. The publication of the EU Sustainable ...</description>
+</item>
 <item>
 <title>€650000 Royal Canal Greenway Animation project enhances visitor experience across the Midlands</title>
 <link>https://www.hotelnews.ie/articles/2026/failteireland/royal-canal-greenway-animation</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/gsxeaaze0v8n/</guid>
 <pubDate>Sat, 03 Oct 2026 11:19:29 +0000</pubDate>
 <description>These include cultural tourism, heritage travel, educational tourism, outdoor experiences, slow travel and community-based tourism. The Estonia ...</description>
-</item>
-<item>
-<title>Can cities cope with Europe's tourism boom? MEPs debate in a special edition of The Ring</title>
-<link>https://www.euronews.com/2026/09/30/can-cities-cope-with-europes-tourism-boom-meps-debate-in-a-special-edition-of-the-ring</link>
-<guid isPermaLink="false">https://www.euronews.com/2026/09/30/can-cities-cope-with-europes-tourism-boom-meps-debate-in-a-special-edition-of-the-ring</guid>
-<pubDate>Wed, 30 Sep 2026 18:43:51 +0000</pubDate>
-<description>In this edition, recorded live at the Euronews Travel &amp; Tourism Summit in Brussels, two EU lawmakers step into The Ring: Regina Doherty, an Irish ...</description>
 </item>
 </channel>
 </rss>

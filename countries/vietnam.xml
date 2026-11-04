@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 04 Nov 2026 09:10:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 21:13:28 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Conservation and sustainable development of the Phong Nha - Ke Bang Biosphere Reserve.</title>
+<link>https://www.vietnam.vn/en/bao-ton-va-phat-trien-ben-vung-khu-du-tru-sinh-quyen-phong-nha-ke-bang</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/bao-ton-va-phat-trien-ben-vung-khu-du-tru-sinh-quyen-phong-nha-ke-bang</guid>
+<pubDate>Wed, 04 Nov 2026 15:26:44 +0000</pubDate>
+<description>... tourism activities need to respect the limits and carrying capacity of nature. ... Travel · Happy Vietnam · Enterprise · Product · Heritage · Museum ...</description>
+</item>
 <item>
 <title>Unlocking the ecotourism potential of Song Thanh National Park - Vietnam.vn</title>
 <link>https://www.vietnam.vn/en/danh-thuc-tiem-nang-du-lich-sinh-thai-vuon-quoc-gia-song-thanh</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.vietnam.vn/en/danh-thuc-gia-tri-di-san-mo-huong-phat-trien-du-lich-ben-vung</guid>
 <pubDate>Tue, 03 Nov 2026 01:53:01 +0000</pubDate>
 <description>... sustainable development. For the Thai ethnic group in the Northwest ... Travel · Happy Vietnam · Enterprise · Product · Heritage · Museum · Figure ...</description>
-</item>
-<item>
-<title>Launching the Digital Map of Vietnamese Culture, connecting destinations across the country.</title>
-<link>https://www.vietnam.vn/en/ra-mat-ban-do-so-van-hoa-viet-nam-ket-noi-diem-den-tren-ca-nuoc</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/ra-mat-ban-do-so-van-hoa-viet-nam-ket-noi-diem-den-tren-ca-nuoc</guid>
-<pubDate>Mon, 02 Nov 2026 23:04:05 +0000</pubDate>
-<description>CMAP provides strong support for monitoring event density, assessing tourism carrying capacity, managing heritage conservation, and coordinating ...</description>
 </item>
 </channel>
 </rss>

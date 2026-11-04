@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/philippines.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Philippines. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 04 Nov 2026 09:10:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 21:13:28 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Bill guaranteeing communities' share of tourism revenue pushed - Philippine News Agency</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://pia.gov.ph/news/pasil-trains-tour-guides-to-boost-community-based-tourism/</guid>
 <pubDate>Mon, 24 Aug 2026 07:45:08 +0000</pubDate>
 <description>... community-based tourism program. The August 3–9 Community Guiding Seminar trained residents with the skills needed to guide visitors safely and ...</description>
+</item>
+<item>
+<title>Solon: Avoid desecrating sacred tribal traditions - Manila Standard</title>
+<link>https://manilastandard.net/news/314813667/solon-avoid-desecrating-sacred-tribal-traditions.html</link>
+<guid isPermaLink="false">https://manilastandard.net/news/314813667/solon-avoid-desecrating-sacred-tribal-traditions.html</guid>
+<pubDate>Wed, 04 Nov 2026 02:38:26 +0000</pubDate>
+<description>A gentle reminder to our tour operators: please respect the traditions of Indigenous Peoples, and do not view them merely as opportunities for tourism ...</description>
 </item>
 <item>
 <title>Sagada backlash: Bernos tells tour operators to respect IP traditions - Manila Bulletin</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://mb.com.ph/2026/10/11/how-to-effectively-pull-off-sustainable-tourism</guid>
 <pubDate>Mon, 12 Oct 2026 04:04:25 +0000</pubDate>
 <description>Sustainability matters for tourism mostly due to the fact that our country's natural beauty is its main draw.Think about our award-winning beaches ...</description>
-</item>
-<item>
-<title>How to effectively pull off sustainable tourism | Manila Bulletin - newspaper - Magzter</title>
-<link>https://www.magzter.com/stories/newspaper/Manila-Bulletin/HOW-TO-EFFECTIVELY-PULL-OFF-SUSTAINABLE-TOURISM</link>
-<guid isPermaLink="false">https://www.magzter.com/stories/newspaper/Manila-Bulletin/HOW-TO-EFFECTIVELY-PULL-OFF-SUSTAINABLE-TOURISM</guid>
-<pubDate>Sat, 10 Oct 2026 15:54:08 +0000</pubDate>
-<description>... sustainable tourism. Sustainability matters for tourism mostly due to the fact that our country's natural beauty is its main draw. Think about our ...</description>
 </item>
 </channel>
 </rss>

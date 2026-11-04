@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://enterprise.gov.ie/en/news-and-events/department-news/2026/november/20261104.html",
+      "url": "https://enterprise.gov.ie/en/news-and-events/department-news/2026/november/20261104.html",
+      "title": "New EU Sustainable Tourism Strategy Unveiled as Irish Presidency Hosts EU Tourism ...",
+      "content_text": "Tourism supports over 270,000 jobs across Ireland and is a cornerstone of many regional and rural economies. The publication of the EU Sustainable ...",
+      "date_published": "2026-11-04T11:32:52+00:00"
+    },
+    {
       "id": "https://www.hotelnews.ie/articles/2026/failteireland/royal-canal-greenway-animation",
       "url": "https://www.hotelnews.ie/articles/2026/failteireland/royal-canal-greenway-animation",
       "title": "€650000 Royal Canal Greenway Animation project enhances visitor experience across the Midlands",
@@ -68,13 +75,6 @@
       "title": "Ireland Expands Connemara Tourism Links With Estonia as Galway Opens New European ...",
       "content_text": "These include cultural tourism, heritage travel, educational tourism, outdoor experiences, slow travel and community-based tourism. The Estonia ...",
       "date_published": "2026-10-03T11:19:29+00:00"
-    },
-    {
-      "id": "https://www.euronews.com/2026/09/30/can-cities-cope-with-europes-tourism-boom-meps-debate-in-a-special-edition-of-the-ring",
-      "url": "https://www.euronews.com/2026/09/30/can-cities-cope-with-europes-tourism-boom-meps-debate-in-a-special-edition-of-the-ring",
-      "title": "Can cities cope with Europe's tourism boom? MEPs debate in a special edition of The Ring",
-      "content_text": "In this edition, recorded live at the Euronews Travel & Tourism Summit in Brussels, two EU lawmakers step into The Ring: Regina Doherty, an Irish ...",
-      "date_published": "2026-09-30T18:43:51+00:00"
     }
   ]
 }
