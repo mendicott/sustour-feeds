@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/portugal.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Portugal. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 06 Nov 2026 09:09:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 21:14:58 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Portugal archipelago renews sustainable tourism certification</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lah8spefggvv/</guid>
 <pubDate>Mon, 06 Jul 2026 07:57:09 +0000</pubDate>
 <description>Calanques visitor caps return in France for 2026, limiting access to Mediterranean beaches to curb overtourism and protect fragile ecosystems.</description>
+</item>
+<item>
+<title>Campaigners take to streets to 'Save Meia Praia' - Portugal Resident</title>
+<link>https://www.portugalresident.com/save-meia-praia-protest-walk-lagos/</link>
+<guid isPermaLink="false">https://www.portugalresident.com/save-meia-praia-protest-walk-lagos/</guid>
+<pubDate>Fri, 06 Nov 2026 14:28:16 +0000</pubDate>
+<description>Save Meia Praia campaigners will hold a protest walk in Lagos against a large tourism development planned near the beach and dunes.</description>
 </item>
 <item>
 <title>From France to Portugal, Europe is protesting: How rising rents, living costs are fuelling anger</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/vw3an15cxb7p/</guid>
 <pubDate>Tue, 13 Oct 2026 07:32:20 +0000</pubDate>
 <description>The historic destination is connecting environmental protection with heritage conservation, greener public spaces and climate-resilient infrastructure ...</description>
-</item>
-<item>
-<title>Algarvensis Geopark wins the 2026 Geoconservation Award for its regional strategy to ...</title>
-<link>https://www.sulinformacao.pt/en/2026/10/geoparque-algarvensis-conquista-premio-geoconservacao-2026-pela-estrategia-regional-de-protecao-da-geodiversidade/</link>
-<guid isPermaLink="false">https://www.sulinformacao.pt/en/2026/10/geoparque-algarvensis-conquista-premio-geoconservacao-2026-pela-estrategia-regional-de-protecao-da-geodiversidade/</guid>
-<pubDate>Tue, 06 Oct 2026 20:36:13 +0000</pubDate>
-<description>The award is given annually by the Portuguese Group of ProGEO – the International Association for the Conservation of Geological Heritage – and ...</description>
 </item>
 </channel>
 </rss>
