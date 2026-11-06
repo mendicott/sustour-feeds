@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ireland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ireland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 05 Nov 2026 21:13:35 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 09:09:54 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Bulgaria Already Working on Two Priorities of EU's New Sustainable Tourism Strategy - BTA</title>
+<link>https://www.bta.bg/en/news/1240831-bulgaria-already-working-on-two-priorities-of-eu-s-new-sustainable-tourism-strat</link>
+<guid isPermaLink="false">https://www.bta.bg/en/news/1240831-bulgaria-already-working-on-two-priorities-of-eu-s-new-sustainable-tourism-strat</guid>
+<pubDate>Thu, 05 Nov 2026 22:53:20 +0000</pubDate>
+<description>This transpired at a meeting of EU tourism ministers in Mullingar, Ireland, attended by Bulgarian Tourism Minister Ilin Dimitrov, the press centre of ...</description>
+</item>
 <item>
 <title>New EU Sustainable Tourism Strategy Unveiled as Irish Presidency Hosts EU Tourism ...</title>
 <link>https://enterprise.gov.ie/en/news-and-events/department-news/2026/november/20261104.html</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.leitrimobserver.ie/news/british-ambassador-to-ireland-to-visit-leitrim-on-a-mission-to-increase-regional-ties-9266947</guid>
 <pubDate>Mon, 05 Oct 2026 10:06:43 +0000</pubDate>
 <description>In Cavan, the Ambassador will visit the Cuilcagh Lakelands UNESCO Global Geopark to meet representatives from the Geopark Regenerative Tourism Network ...</description>
-</item>
-<item>
-<title>Ireland Expands Connemara Tourism Links With Estonia as Galway Opens New European ...</title>
-<link>https://www.travelandtourworld.com/news/article/gsxeaaze0v8n/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/gsxeaaze0v8n/</guid>
-<pubDate>Sat, 03 Oct 2026 11:19:29 +0000</pubDate>
-<description>These include cultural tourism, heritage travel, educational tourism, outdoor experiences, slow travel and community-based tourism. The Estonia ...</description>
 </item>
 </channel>
 </rss>
