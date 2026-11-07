@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/uganda.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Uganda. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 06 Nov 2026 21:14:58 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 09:10:53 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>UNESCO brings together national experts to support the sustainable</title>
+<link>https://www.unesco.org/en/articles/unesco-brings-together-national-experts-support-sustainable-development-tourism-across-uganda</link>
+<guid isPermaLink="false">https://www.unesco.org/en/articles/unesco-brings-together-national-experts-support-sustainable-development-tourism-across-uganda</guid>
+<pubDate>Fri, 06 Nov 2026 15:36:58 +0000</pubDate>
+<description>UNESCO has launched three Working Groups across Uganda, bringing together experts in culture, nature and communities to shape sustainable tourism.</description>
+</item>
 <item>
 <title>Tourism meets conservation as Sheraton Kampala joins CTPH to protect endangered ...</title>
 <link>https://www.monitor.co.ug/uganda/lifestyle/travel/tourism-meets-conservation-as-sheraton-kampala-joins-ctph-to-protect-endangered-mountain-gorillas-5644148</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.bozemandailychronicle.com/wire/international/ugandans-plant-trees-near-national-park-to-keep-people-out-of-gorillas-habitat/article_a85c33e9-088e-5f52-8921-ee4596559b96.html</guid>
 <pubDate>Thu, 24 Sep 2026 12:33:33 +0000</pubDate>
 <description>The Uganda Wildlife Authority distributes seedlings to help. Tourism supports conservation efforts, with visitors generating jobs and revenue. The ...</description>
-</item>
-<item>
-<title>As Uganda Opens Its Parks For free, Who Is Protecting the Wildlife That Makes Tourism Possible?</title>
-<link>https://pmldaily.com/oped/2026/09/as-uganda-opens-its-parks-for-free-who-is-protecting-the-wildlife-that-makes-tourism-possible.html</link>
-<guid isPermaLink="false">https://pmldaily.com/oped/2026/09/as-uganda-opens-its-parks-for-free-who-is-protecting-the-wildlife-that-makes-tourism-possible.html</guid>
-<pubDate>Wed, 23 Sep 2026 17:52:53 +0000</pubDate>
-<description>Communities around protected areas need tourism-related income and opportunities. When ecosystems are degraded, the economic consequences can travel ...</description>
 </item>
 </channel>
 </rss>

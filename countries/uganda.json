@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.unesco.org/en/articles/unesco-brings-together-national-experts-support-sustainable-development-tourism-across-uganda",
+      "url": "https://www.unesco.org/en/articles/unesco-brings-together-national-experts-support-sustainable-development-tourism-across-uganda",
+      "title": "UNESCO brings together national experts to support the sustainable",
+      "content_text": "UNESCO has launched three Working Groups across Uganda, bringing together experts in culture, nature and communities to shape sustainable tourism.",
+      "date_published": "2026-11-06T15:36:58+00:00"
+    },
+    {
       "id": "https://www.monitor.co.ug/uganda/lifestyle/travel/tourism-meets-conservation-as-sheraton-kampala-joins-ctph-to-protect-endangered-mountain-gorillas-5644148",
       "url": "https://www.monitor.co.ug/uganda/lifestyle/travel/tourism-meets-conservation-as-sheraton-kampala-joins-ctph-to-protect-endangered-mountain-gorillas-5644148",
       "title": "Tourism meets conservation as Sheraton Kampala joins CTPH to protect endangered ...",
@@ -68,13 +75,6 @@
       "title": "Ugandans plant trees near national park to keep people out of gorillas' habitat",
       "content_text": "The Uganda Wildlife Authority distributes seedlings to help. Tourism supports conservation efforts, with visitors generating jobs and revenue. The ...",
       "date_published": "2026-09-24T12:33:33+00:00"
-    },
-    {
-      "id": "https://pmldaily.com/oped/2026/09/as-uganda-opens-its-parks-for-free-who-is-protecting-the-wildlife-that-makes-tourism-possible.html",
-      "url": "https://pmldaily.com/oped/2026/09/as-uganda-opens-its-parks-for-free-who-is-protecting-the-wildlife-that-makes-tourism-possible.html",
-      "title": "As Uganda Opens Its Parks For free, Who Is Protecting the Wildlife That Makes Tourism Possible?",
-      "content_text": "Communities around protected areas need tourism-related income and opportunities. When ecosystems are degraded, the economic consequences can travel ...",
-      "date_published": "2026-09-23T17:52:53+00:00"
     }
   ]
 }
