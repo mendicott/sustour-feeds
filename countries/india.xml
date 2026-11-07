@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/india.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for India. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 07 Nov 2026 09:10:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 21:12:10 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Thema Collection gets Gold at BLTM - ICRT Indian Subcontinent Responsible Tourism Awards 2026</title>
@@ -51,6 +51,13 @@
 <description>Heritage conservation. Sustainable destination management. India's ... Tags: circular tourism, green tourism, Regenerative tourism, sustainable travel, ...</description>
 </item>
 <item>
+<title>The changing face of global tourism - The Tribune</title>
+<link>https://www.tribuneindia.com/news/comment/the-changing-face-of-global-tourism/</link>
+<guid isPermaLink="false">https://www.tribuneindia.com/news/comment/the-changing-face-of-global-tourism/</guid>
+<pubDate>Sat, 07 Nov 2026 19:35:33 +0000</pubDate>
+<description>Regenerative tourism: When travel begins to heal as well as energise. Spas are the usual offering in the developed world, but in India a different ...</description>
+</item>
+<item>
 <title>From snow leopards to coral reefs: India's biosphere reserves connect conservation with livelihoods</title>
 <link>https://ddindia.co.in/2026/11/from-snow-leopards-to-coral-reefs-indias-biosphere-reserves-connect-conservation-with-livelihoods/</link>
 <guid isPermaLink="false">https://ddindia.co.in/2026/11/from-snow-leopards-to-coral-reefs-indias-biosphere-reserves-connect-conservation-with-livelihoods/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.metroindia.net/news/articlenews/religious-tourism-in-india-and-its-cost-to-the-environment--46569</guid>
 <pubDate>Fri, 30 Oct 2026 00:09:13 +0000</pubDate>
 <description>Religious tourism has not only blurred the line between pilgrimage and leisure travel, but it is also taking a heavy toll on the environment. A ...</description>
-</item>
-<item>
-<title>Supreme Court panel urges tourism limits to protect Himachal's fragile ecology - India Today</title>
-<link>https://www.indiatoday.in/india/law-news/story/himachal-pradesh-ecology-supreme-court-panel-tourism-limits-project-reviews-ptag-3027226-2026-10-28</link>
-<guid isPermaLink="false">https://www.indiatoday.in/india/law-news/story/himachal-pradesh-ecology-supreme-court-panel-tourism-limits-project-reviews-ptag-3027226-2026-10-28</guid>
-<pubDate>Wed, 28 Oct 2026 17:10:02 +0000</pubDate>
-<description>The Supreme Court's empowered committee recommended tighter safeguards for Himachal Pradesh's vulnerable ecology. The proposals signal greater ...</description>
 </item>
 </channel>
 </rss>
