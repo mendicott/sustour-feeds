@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/israel.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Israel. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 07 Nov 2026 21:12:10 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 09:09:41 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Crete: The Greek island Israelis can't resist | The Jerusalem Post</title>
+<link>https://www.jpost.com/travel/article-914085</link>
+<guid isPermaLink="false">https://www.jpost.com/travel/article-914085</guid>
+<pubDate>Sat, 07 Nov 2026 20:32:58 +0000</pubDate>
+<description>"Unlike Santorini or Mykonos, where overtourism can dominate the visitor experience, Crete is large enough to accommodate substantial tourism ...</description>
+</item>
 <item>
 <title>NGO accuses Israel of risking 'heritage apartheid' at Sebastia | The Jerusalem Post</title>
 <link>https://www.jpost.com/israel-news/article-903711</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.jpost.com/travel/article-904640</guid>
 <pubDate>Wed, 05 Aug 2026 19:39:33 +0000</pubDate>
 <description>... habitats. The discovery at the time was joyful and generated great ... Travel · Ono Conversation Corner · 50 Most Influential Jews. Tools and ...</description>
-</item>
-<item>
-<title>West Bank site becomes World Heritage site despite Israel objections | The Independent</title>
-<link>https://www.independent.co.uk/news/world/middle-east/sebastia-unesco-west-bank-israel-b3020861.html</link>
-<guid isPermaLink="false">https://www.independent.co.uk/news/world/middle-east/sebastia-unesco-west-bank-israel-b3020861.html</guid>
-<pubDate>Fri, 24 Jul 2026 21:01:19 +0000</pubDate>
-<description>Travel Travel · Travel · News &amp; Advice · Simon Calder · USA · UK · Europe · Asia ... cultural heritage." At their meeting in Busan, members of the ...</description>
 </item>
 </channel>
 </rss>

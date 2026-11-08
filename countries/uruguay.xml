@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/uruguay.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Uruguay. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 07 Nov 2026 21:12:10 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 09:09:41 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>WTTC proposes seven principles to promote more sustainable tourism development</title>
@@ -58,6 +58,13 @@
 <description>Major sustainable tourism destinations: Patagonia, Amazon Rainforest, Torres del Paine, Chilean Fjords; Key tourism trends: Eco-tourism, carbon ...</description>
 </item>
 <item>
+<title>Indigenous communities benefit from conservation initiative - The Portugal News</title>
+<link>https://www.theportugalnews.com/news/2026-11-07/indigenous-communities-benefit-from-conservation-initiative/1112280</link>
+<guid isPermaLink="false">https://www.theportugalnews.com/news/2026-11-07/indigenous-communities-benefit-from-conservation-initiative/1112280</guid>
+<pubDate>Sat, 07 Nov 2026 12:46:19 +0000</pubDate>
+<description>Panama Canal expands shipping capacity. In South America, Travel - 31 Oct 2026. Seven expedition vessels visit Montevideo port. In South America, ...</description>
+</item>
+<item>
 <title>Uruguay Observes Official Mourning in Honor of Ruben Rada - teleSUR English</title>
 <link>https://www.telesurenglish.net/uruguay-observes-official-mourning-in-honor-of-ruben-rada/</link>
 <guid isPermaLink="false">https://www.telesurenglish.net/uruguay-observes-official-mourning-in-honor-of-ruben-rada/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.thetraveler.org/why-uruguay-is-emerging-as-south-americas-quiet-escape/</guid>
 <pubDate>Sat, 15 Aug 2026 06:47:02 +0000</pubDate>
 <description>A Growing Tourism Success Story Without Overtourism · Latin America's New Benchmark for Peace and Safety · Quiet Coastal Towns and Low Key Urban Culture.</description>
-</item>
-<item>
-<title>Why Uruguay Is Becoming South America's Quiet Escape</title>
-<link>https://www.thetraveler.org/why-uruguay-is-becoming-south-americas-quiet-escape/</link>
-<guid isPermaLink="false">https://www.thetraveler.org/why-uruguay-is-becoming-south-americas-quiet-escape/</guid>
-<pubDate>Sat, 15 Aug 2026 06:47:01 +0000</pubDate>
-<description>With crowd levels still modest and long stretches of empty coastline, Uruguay is emerging as a peaceful alternative for travelers tired of overtourism ...</description>
 </item>
 </channel>
 </rss>
