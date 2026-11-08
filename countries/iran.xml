@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/iran.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Iran. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 08 Nov 2026 09:09:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 21:13:04 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Ecotourism plans underway in protected areas and wetlands - Tehran Times</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.tehrantimes.com/news/529574/From-oil-to-orchids-how-Vietnam-made-tourism-its-economic-engine</guid>
 <pubDate>Tue, 01 Sep 2026 15:03:52 +0000</pubDate>
 <description>Simultaneously, Iran must invest in sustainable tourism—waste management, green transport, and heritage conservation—to protect its assets and ...</description>
+</item>
+<item>
+<title>Iran, South Korea explore cooperation in sustainable ecotourism - Tehran Times</title>
+<link>https://www.tehrantimes.com/news/531943/Iran-South-Korea-explore-cooperation-in-sustainable-ecotourism</link>
+<guid isPermaLink="false">https://www.tehrantimes.com/news/531943/Iran-South-Korea-explore-cooperation-in-sustainable-ecotourism</guid>
+<pubDate>Sun, 08 Nov 2026 14:48:31 +0000</pubDate>
+<description>TEHRAN – Iran and South Korea have explored ways to expand cooperation in community-based tourism and sustainable ecotourism, with officials ...</description>
 </item>
 <item>
 <title>10 New UNESCO Biosphere Reserves Show How Nature and Cities Can Coexist</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.trend.az/business/4201269.html</guid>
 <pubDate>Wed, 24 Jun 2026 20:15:43 +0000</pubDate>
 <description>BAKU, Azerbaijan, June 24. Work is underway in Iran within the framework of projects to develop green and sustainable tourism, Secretary of the ...</description>
-</item>
-<item>
-<title>Armenia and Iran Near Deal on Cross-Border Peace Park - Caspianpost.com</title>
-<link>https://caspianpost.com/iran/armenia-and-iran-near-deal-on-cross-border-peace-park</link>
-<guid isPermaLink="false">https://caspianpost.com/iran/armenia-and-iran-near-deal-on-cross-border-peace-park</guid>
-<pubDate>Sat, 17 Oct 2026 10:01:52 +0000</pubDate>
-<description>Armenia and Iran are nearing an agreement to establish a national park spanning their border territories, with plans to create wildlife migration ...</description>
 </item>
 </channel>
 </rss>
