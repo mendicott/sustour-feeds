@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/ireland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Ireland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 08 Nov 2026 21:13:04 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 09:09:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>The Kenyan slum fighting back against poverty tourism - The Irish Times</title>
+<link>https://www.irishtimes.com/world/africa/2026/11/09/the-kenyan-slum-fighting-back-against-poverty-tourism/</link>
+<guid isPermaLink="false">https://www.irishtimes.com/world/africa/2026/11/09/the-kenyan-slum-fighting-back-against-poverty-tourism/</guid>
+<pubDate>Mon, 09 Nov 2026 06:08:31 +0000</pubDate>
+<description>But every week, small groups of tourists passing through Nairobi visit Kibera, a large and bustling slum on the outskirts of the Kenyan capital. Many ...</description>
+</item>
 <item>
 <title>Bulgaria Already Working on Two Priorities of EU's New Sustainable Tourism Strategy - BTA</title>
 <link>https://www.bta.bg/en/news/1240831-bulgaria-already-working-on-two-priorities-of-eu-s-new-sustainable-tourism-strat</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/p94gpdkmmmf3/</guid>
 <pubDate>Mon, 05 Oct 2026 12:47:53 +0000</pubDate>
 <description>... Biosphere Reserves, mountain communities and nature parks while discovering local heritage. This broader travel model supports sustainable tourism ...</description>
-</item>
-<item>
-<title>British Ambassador to Ireland to visit Leitrim on a mission to increase regional ties</title>
-<link>https://www.leitrimobserver.ie/news/british-ambassador-to-ireland-to-visit-leitrim-on-a-mission-to-increase-regional-ties-9266947</link>
-<guid isPermaLink="false">https://www.leitrimobserver.ie/news/british-ambassador-to-ireland-to-visit-leitrim-on-a-mission-to-increase-regional-ties-9266947</guid>
-<pubDate>Mon, 05 Oct 2026 10:06:43 +0000</pubDate>
-<description>In Cavan, the Ambassador will visit the Cuilcagh Lakelands UNESCO Global Geopark to meet representatives from the Geopark Regenerative Tourism Network ...</description>
 </item>
 </channel>
 </rss>
