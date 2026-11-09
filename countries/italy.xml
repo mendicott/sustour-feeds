@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 09 Nov 2026 09:09:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 21:14:52 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Rome Joins Venice and Other Cities as Italy Battles Overtourism with New Measures Amid ...</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lah8spefggvv/</guid>
 <pubDate>Mon, 06 Jul 2026 07:57:09 +0000</pubDate>
 <description>Calanques visitor caps return in France for 2026, limiting access to Mediterranean beaches to curb overtourism and protect fragile ecosystems.</description>
+</item>
+<item>
+<title>Venice considers €30 tourist entry fee as Rome rejects similar measures - ITIJ</title>
+<link>https://www.itij.com/latest/news/venice-considers-eu30-tourist-entry-fee-rome-rejects-similar-measures</link>
+<guid isPermaLink="false">https://www.itij.com/latest/news/venice-considers-eu30-tourist-entry-fee-rome-rejects-similar-measures</guid>
+<pubDate>Mon, 09 Nov 2026 15:06:05 +0000</pubDate>
+<description>Italy's two major visitor destinations are pursuing contrasting approaches to overtourism, with potential implications for travel costs and ...</description>
 </item>
 <item>
 <title>Italy And More Countries Rethink Tourism As Rome Overtourism Prompts Higher Taxes And ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://travel.yahoo.com/news/articles/5-countries-considering-halt-tourist-094922868.html</guid>
 <pubDate>Sun, 25 Oct 2026 14:54:24 +0000</pubDate>
 <description>In 2026, Spain, Italy, Greece, Japan and Indonesia are tightening tourism rules with entry fees, cruise limits, rental crackdowns and visitor caps.[1] ...</description>
-</item>
-<item>
-<title>6 Places Where Locals Protest Tourists vs. 4 That Badly Want Your Money - Yahoo Travel</title>
-<link>https://travel.yahoo.com/general/articles/6-places-where-locals-protest-101024109.html</link>
-<guid isPermaLink="false">https://travel.yahoo.com/general/articles/6-places-where-locals-protest-101024109.html</guid>
-<pubDate>Sat, 24 Oct 2026 16:41:55 +0000</pubDate>
-<description>Barcelona, Spain · The Canary Islands, Spain · Palma de Mallorca and Ibiza, Spain · Venice, Italy · Mexico City, Mexico · Alicante and the Costa Blanca, ...</description>
 </item>
 </channel>
 </rss>
