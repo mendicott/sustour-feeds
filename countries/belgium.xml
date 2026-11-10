@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/belgium.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Belgium. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 10 Nov 2026 09:12:02 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 21:14:25 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>WTTC Welcomes EU Sustainable Tourism Strategy</title>
+<link>https://wttc.org/news/wttc-welcomes-eu-sustainable-tourism-strategy-and-calls-for-stronger-public-private-collaboration-to-deliver-its-ambitions/</link>
+<guid isPermaLink="false">https://wttc.org/news/wttc-welcomes-eu-sustainable-tourism-strategy-and-calls-for-stronger-public-private-collaboration-to-deliver-its-ambitions/</guid>
+<pubDate>Tue, 10 Nov 2026 13:35:38 +0000</pubDate>
+<description>Brussels, Belgium, 10 November 2026 – The World Travel &amp; Tourism Council (WTTC) has welcomed the European Commission's first EU Sustainable Tourism ...</description>
+</item>
 <item>
 <title>Sustainable tourism: Europe aims to change the model - Travolution</title>
 <link>https://www.travolution.com/en/mobility/sustainable-tourism-europe-aims-to-change-the-model</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.democrata.es/en/economy/brussels-is-pushing-for-more-competitive-and-sustainable-tourism-to-ease-pressure-on-destinations-and-seasons/</guid>
 <pubDate>Wed, 04 Nov 2026 11:34:12 +0000</pubDate>
 <description>... travel times and destinations' capacity to accommodate, as well as to drive solutions that allow tourism to be "adapted" to local and cross-border ...</description>
-</item>
-<item>
-<title>Bhutan, Maldives, Nepal and Sri Lanka showcase sustainable tourism in Brussels - Travel Tomorrow</title>
-<link>https://traveltomorrow.com/bhutan-maldives-nepal-and-sri-lanka-showcase-sustainable-tourism-in-brussels/</link>
-<guid isPermaLink="false">https://traveltomorrow.com/bhutan-maldives-nepal-and-sri-lanka-showcase-sustainable-tourism-in-brussels/</guid>
-<pubDate>Fri, 30 Oct 2026 11:17:51 +0000</pubDate>
-<description>Bhutan, the Maldives, Nepal and Sri Lanka showcased sustainable tourism, cultural heritage and hospitality at a joint event in Brussels on 29 ...</description>
 </item>
 </channel>
 </rss>
