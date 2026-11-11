@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/belgium.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Belgium. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 11 Nov 2026 09:10:25 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 21:14:27 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>WTTC Welcomes EU Sustainable Tourism Strategy and Calls for Stronger Public-Private ...</title>
+<link>https://www.hospitalitynet.org/news/4135411/wttc-welcomes-eu-sustainable-tourism-strategy-and-calls-for-stronger-public-private-collaboration-to-deliver-its-ambitions</link>
+<guid isPermaLink="false">https://www.hospitalitynet.org/news/4135411/wttc-welcomes-eu-sustainable-tourism-strategy-and-calls-for-stronger-public-private-collaboration-to-deliver-its-ambitions</guid>
+<pubDate>Wed, 11 Nov 2026 12:40:05 +0000</pubDate>
+<description>Brussels, Belgium – The World Travel &amp; Tourism Council (WTTC) has welcomed the European Commission's first EU Sustainable Tourism Strategy ...</description>
+</item>
 <item>
 <title>WTTC Welcomes EU Sustainable Tourism Strategy</title>
 <link>https://wttc.org/news/wttc-welcomes-eu-sustainable-tourism-strategy-and-calls-for-stronger-public-private-collaboration-to-deliver-its-ambitions/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://euperspectives.eu/2026/11/eu-tourism-strategy-overcrowding-visitor-flows/</guid>
 <pubDate>Wed, 04 Nov 2026 15:40:08 +0000</pubDate>
 <description>The EU's first tourism strategy aims to spread visitors beyond crowded hotspots and peak seasons. Will it ease pressure on residents?</description>
-</item>
-<item>
-<title>Brussels redesigns European tourism towards sustainability - Demócrata</title>
-<link>https://www.democrata.es/en/economy/brussels-is-pushing-for-more-competitive-and-sustainable-tourism-to-ease-pressure-on-destinations-and-seasons/</link>
-<guid isPermaLink="false">https://www.democrata.es/en/economy/brussels-is-pushing-for-more-competitive-and-sustainable-tourism-to-ease-pressure-on-destinations-and-seasons/</guid>
-<pubDate>Wed, 04 Nov 2026 11:34:12 +0000</pubDate>
-<description>... travel times and destinations' capacity to accommodate, as well as to drive solutions that allow tourism to be "adapted" to local and cross-border ...</description>
 </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/finland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Finland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 11 Nov 2026 09:10:25 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 21:14:27 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Helsinki tops GDS-Index for third year amid record scores across the board - micebook.</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.hel.fi/en/business-and-work/helsinki-friend</guid>
 <pubDate>Tue, 15 Sep 2026 19:25:07 +0000</pubDate>
 <description>It falls under the concept of regenerative tourism: the kind of tourism that strengthens communities, fosters cross-cultural understanding and has a ...</description>
+</item>
+<item>
+<title>OLYMPIC STADIUM RENEWS ITS SUSTAINABLE TRAVEL FINLAND LABEL</title>
+<link>https://www.stadion.fi/en/info/news/olympic-stadium-renews-its-sustainable-travel-finland-label</link>
+<guid isPermaLink="false">https://www.stadion.fi/en/info/news/olympic-stadium-renews-its-sustainable-travel-finland-label</guid>
+<pubDate>Wed, 11 Nov 2026 11:55:57 +0000</pubDate>
+<description>Helsinki Olympic Stadium has renewed its Sustainable Travel Finland (STF) label, recognising its long-term commitment to sustainable tourism and ...</description>
 </item>
 <item>
 <title>Slovenia Sparks Fresh Interest in Sustainable Tourism as Finland and Other European ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.tourism-review.com/top-sustainable-destinations-around-the-world-news15647</guid>
 <pubDate>Mon, 05 Oct 2026 03:34:44 +0000</pubDate>
 <description>Other Nordic countries may have an advantage in terms of sustainability, but Helsinki appears to have the edge when it comes to strategic planning and ...</description>
-</item>
-<item>
-<title>The world's most sustainable destination: Helsinki - Hospitality Inside</title>
-<link>https://hospitalityinside.com/en/The-world-s-most-sustainable-destination-Helsinki</link>
-<guid isPermaLink="false">https://hospitalityinside.com/en/The-world-s-most-sustainable-destination-Helsinki</guid>
-<pubDate>Fri, 02 Oct 2026 05:36:35 +0000</pubDate>
-<description>The Global Destination Sustainability (GDS) Index measures the sustainability of travel destinations across four categories using more than 70 ...</description>
 </item>
 </channel>
 </rss>

@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.youtube.com/watch?v=mSIHcdvCepk",
+      "url": "https://www.youtube.com/watch?v=mSIHcdvCepk",
+      "title": "ECOTALK: Tooro Botanical Gardens: A haven for biodiversity and conservation - YouTube",
+      "content_text": "... conservation, scientific research, environmental education and tourism in Uganda. Established in 2001, the community-centred institution has ...",
+      "date_published": "2026-11-11T19:48:03+00:00"
+    },
+    {
       "id": "https://www.unesco.org/en/articles/unesco-brings-together-national-experts-support-sustainable-development-tourism-across-uganda",
       "url": "https://www.unesco.org/en/articles/unesco-brings-together-national-experts-support-sustainable-development-tourism-across-uganda",
       "title": "UNESCO brings together national experts to support the sustainable",
@@ -68,13 +75,6 @@
       "title": "UWA managers urged to make communities partners in conservation - New Vision",
       "content_text": "KYANKWANZI - Senior management officers of the Uganda Wildlife Authority (UWA) have been urged to strengthen community participation in wildlife ...",
       "date_published": "2026-09-26T10:29:32+00:00"
-    },
-    {
-      "id": "https://www.bozemandailychronicle.com/wire/international/ugandans-plant-trees-near-national-park-to-keep-people-out-of-gorillas-habitat/article_a85c33e9-088e-5f52-8921-ee4596559b96.html",
-      "url": "https://www.bozemandailychronicle.com/wire/international/ugandans-plant-trees-near-national-park-to-keep-people-out-of-gorillas-habitat/article_a85c33e9-088e-5f52-8921-ee4596559b96.html",
-      "title": "Ugandans plant trees near national park to keep people out of gorillas' habitat",
-      "content_text": "The Uganda Wildlife Authority distributes seedlings to help. Tourism supports conservation efforts, with visitors generating jobs and revenue. The ...",
-      "date_published": "2026-09-24T12:33:33+00:00"
     }
   ]
 }
