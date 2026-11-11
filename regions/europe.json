@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.getaway.co.za/news/eu-launches-sustainable-tourism-strategy-to-reshape-travel-across-europe/",
+      "url": "https://www.getaway.co.za/news/eu-launches-sustainable-tourism-strategy-to-reshape-travel-across-europe/",
+      "title": "EU launches sustainable tourism strategy to reshape travel across Europe",
+      "content_text": "The EU has unveiled its first Sustainable Tourism Strategy, aiming to tackle overtourism, support local businesses and promote lesser-known ...",
+      "date_published": "2026-11-11T07:47:43+00:00"
+    },
+    {
       "id": "https://travel.yahoo.com/articles/10-european-destinations-being-overrun-123300087.html",
       "url": "https://travel.yahoo.com/articles/10-european-destinations-being-overrun-123300087.html",
       "title": "10 European Destinations Being Overrun by Tourists - Yahoo Travel",
@@ -68,13 +75,6 @@
       "title": "Dubrovnik: fighting overtourism - DW.com",
       "content_text": "... green spaces and invested in digital visitor management tools. The city's shift from growth at all costs to sustainable tourism has earned it ...",
       "date_published": "2026-09-18T13:34:54+00:00"
-    },
-    {
-      "id": "https://www.hel.fi/en/business-and-work/helsinki-friend",
-      "url": "https://www.hel.fi/en/business-and-work/helsinki-friend",
-      "title": "Helsinki Friend | City of Helsinki",
-      "content_text": "It falls under the concept of regenerative tourism: the kind of tourism that strengthens communities, fosters cross-cultural understanding and has a ...",
-      "date_published": "2026-09-15T19:25:07+00:00"
     }
   ]
 }

@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/vietnam.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Vietnam. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 10 Nov 2026 21:14:25 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 09:10:25 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>The Dai Doan Ket newspaper accompanies and creates a space for cross-border ... - Vietnam.vn</title>
@@ -58,6 +58,13 @@
 <description>Heritage conservation. Sustainable destination management. India's ... Tags: circular tourism, green tourism, Regenerative tourism, sustainable travel, ...</description>
 </item>
 <item>
+<title>Linking and enhancing the attractiveness of tourism in the ancient capital. - Vietnam.vn</title>
+<link>https://www.vietnam.vn/en/lien-ket-tang-suc-hut-cho-du-lich-co-do</link>
+<guid isPermaLink="false">https://www.vietnam.vn/en/lien-ket-tang-suc-hut-cho-du-lich-co-do</guid>
+<pubDate>Wed, 11 Nov 2026 05:15:49 +0000</pubDate>
+<description>Looking back at the destination carrying capacity of Hoi An Ancient Town.</description>
+</item>
+<item>
 <title>Đồng Văn Geopark awarded UNESCO's 'green card' for the fourth time - Vietnam News</title>
 <link>https://vietnamnews.vn/life-style/1803931/dong-van-geopark-awarded-unesco-s-green-card-for-the-fourth-time.html</link>
 <guid isPermaLink="false">https://vietnamnews.vn/life-style/1803931/dong-van-geopark-awarded-unesco-s-green-card-for-the-fourth-time.html</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.vietnam.vn/en/cat-ba-chia-se-kinh-nghiem-phat-trien-du-lich-ben-vung-tai-hoi-nghi-quoc-te</guid>
 <pubDate>Mon, 09 Nov 2026 02:08:39 +0000</pubDate>
 <description>WNICBR was established by UNESCO's Man and Biosphere Programme (MAB) with the aim of promoting sustainable development ... Travel · Happy Vietnam ...</description>
-</item>
-<item>
-<title>When tourists dismount from the elephant's back. - Vietnam.vn</title>
-<link>https://www.vietnam.vn/en/khi-du-khach-buoc-xuong-khoi-lung-voi</link>
-<guid isPermaLink="false">https://www.vietnam.vn/en/khi-du-khach-buoc-xuong-khoi-lung-voi</guid>
-<pubDate>Sun, 08 Nov 2026 00:37:57 +0000</pubDate>
-<description>Tag: elephant tourismResponsible tourismDak LakElephant conservationYok Don National Park ... Travel · Happy Vietnam · Enterprise · Product · Heritage ...</description>
 </item>
 </channel>
 </rss>

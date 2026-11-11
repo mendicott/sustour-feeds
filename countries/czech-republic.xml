@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/czech-republic.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Czech Republic. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 10 Nov 2026 21:14:25 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 09:10:25 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Six winners named at 2026 Global Responsible Tourism Awards in London</title>
+<link>https://traveltomorrow.com/six-winners-named-at-2026-global-responsible-tourism-awards-in-london/</link>
+<guid isPermaLink="false">https://traveltomorrow.com/six-winners-named-at-2026-global-responsible-tourism-awards-in-london/</guid>
+<pubDate>Wed, 11 Nov 2026 02:01:08 +0000</pubDate>
+<description>... Tourism Awards in London on 2 November. They include a Sri Lankan hotel staffed entirely by women, a Czech school travel operator and a Brazilian ...</description>
+</item>
 <item>
 <title>Czechia Shows The World How Smart Regional Travel Planning Creates True Magic ...</title>
 <link>https://www.travelandtourworld.com/news/article/8nnmsuna6m4v/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://report.az/en/amp/tourism/un-habitat-studies-balance-between-residents-and-tourists-in-icherisheher</guid>
 <pubDate>Sat, 26 Sep 2026 09:59:06 +0000</pubDate>
 <description>Representatives of tourism companies from Poland, Czechia and Hungary ... Demand for travel between Azerbaijani, Chinese citizens shows ...</description>
-</item>
-<item>
-<title>Belgium Shows How Simple Rail Journeys Can Make Travel Across Europe Greener and Easier</title>
-<link>https://www.travelandtourworld.com/news/article/w79f1htciqat/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/w79f1htciqat/</guid>
-<pubDate>Tue, 25 Aug 2026 06:23:59 +0000</pubDate>
-<description>Luxembourg, Belgium and Czechia lead Europe's rail tourism shift as cross-border trains challenge cars and flights in 2026.</description>
 </item>
 </channel>
 </rss>
