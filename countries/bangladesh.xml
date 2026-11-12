@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/bangladesh.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Bangladesh. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 11 Nov 2026 21:14:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 09:10:03 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>The growing threat of unregulated tourism - The Daily Star</title>
+<link>https://www.thedailystar.net/opinion/views/news/the-growing-threat-unregulated-tourism-4320626</link>
+<guid isPermaLink="false">https://www.thedailystar.net/opinion/views/news/the-growing-threat-unregulated-tourism-4320626</guid>
+<pubDate>Wed, 11 Nov 2026 15:05:31 +0000</pubDate>
+<description>Bangladesh must enforce ecological protections and promote community-led, nature-sensitive tourism to prevent environmental destruction and ...</description>
+</item>
 <item>
 <title>St Martin's needs management over visitor caps - Daily Sun</title>
 <link>https://www.daily-sun.com/business/906528</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.dhakatribune.com/amp/bangladesh/421956/minister-saint-martin%E2%80%99s-visit-duration-tourist</guid>
 <pubDate>Mon, 12 Oct 2026 15:12:22 +0000</pubDate>
 <description>He said tourism on the island must be managed in a way that protects its natural environment and biodiversity, taking into account its carrying ...</description>
-</item>
-<item>
-<title>Barcelona adopts "Netflix-style" tourism plan to crack its biggest problem</title>
-<link>https://www.bangladeshmonitor.com.bd/en/barcelona-adopts-netflix-style-tourism-plan-to-crack-its-biggest-problem</link>
-<guid isPermaLink="false">https://www.bangladeshmonitor.com.bd/en/barcelona-adopts-netflix-style-tourism-plan-to-crack-its-biggest-problem</guid>
-<pubDate>Mon, 12 Oct 2026 14:33:25 +0000</pubDate>
-<description>Dhaka: The Spanish city of Barcelona has launched a new tourism strategy that prioritizes who visits the city and why, replacing its long-standing ...</description>
 </item>
 </channel>
 </rss>
