@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/portugal.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Portugal. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Fri, 13 Nov 2026 09:09:21 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 21:14:19 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Portugal archipelago renews sustainable tourism certification</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lah8spefggvv/</guid>
 <pubDate>Mon, 06 Jul 2026 07:57:09 +0000</pubDate>
 <description>Calanques visitor caps return in France for 2026, limiting access to Mediterranean beaches to curb overtourism and protect fragile ecosystems.</description>
+</item>
+<item>
+<title>New tourism strategy sets out to 'reduce pressure on certain destinations'</title>
+<link>https://www.portugalresident.com/new-tourism-strategy-sets-out-to-reduce-pressure-on-certain-destinations/</link>
+<guid isPermaLink="false">https://www.portugalresident.com/new-tourism-strategy-sets-out-to-reduce-pressure-on-certain-destinations/</guid>
+<pubDate>Fri, 13 Nov 2026 16:06:31 +0000</pubDate>
+<description>Travel · Portugal Events; More. Property · Economy &amp; Finance · Education ... carrying capacity of tourist destinations and the implementation of ...</description>
 </item>
 <item>
 <title>As housing protests sweep Portugal, police and politicians here seem bent on ... - The Guardian</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/q2dgmj7xy56e/</guid>
 <pubDate>Sun, 18 Oct 2026 05:47:08 +0000</pubDate>
 <description>Belgium, like Portugal, is limiting the growth of tourism in order to preserve low-cost housing within its cities. A pivotal shift in structure ...</description>
-</item>
-<item>
-<title>Tourism pressure rises in Portugal's biggest cities</title>
-<link>https://www.theportugalnews.com/news/2026-10-13/tourism-pressure-rises-in-portugals-biggest-cities/1099815</link>
-<guid isPermaLink="false">https://www.theportugalnews.com/news/2026-10-13/tourism-pressure-rises-in-portugals-biggest-cities/1099815</guid>
-<pubDate>Tue, 13 Oct 2026 14:41:58 +0000</pubDate>
-<description>Lisbon and Porto recorded their highest tourist-density figures in 2025, with Porto's increase sharper, according to data from Turismo de Portugal ...</description>
 </item>
 </channel>
 </rss>
