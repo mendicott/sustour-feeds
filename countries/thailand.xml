@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/thailand.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Thailand. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 14 Nov 2026 21:11:30 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 09:08:50 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>The Thai beach ruined by tourist crowds that's coming back to life - i Newspaper</title>
@@ -44,6 +44,13 @@
 <description>New Zealand's sustainable tourism approach includes stronger visitor awareness campaigns, conservation funding and responsible travel expectations.</description>
 </item>
 <item>
+<title>Thailand steps up reforms to retain Satun geopark's UNESCO status</title>
+<link>https://www.nationthailand.com/news/general/40073517</link>
+<guid isPermaLink="false">https://www.nationthailand.com/news/general/40073517</guid>
+<pubDate>Sun, 15 Nov 2026 01:17:47 +0000</pubDate>
+<description>Satun UNESCO Global Geopark received UNESCO recognition on April 17, 2018. ... tourism benefits for local people. Thailand steps up reforms to ...</description>
+</item>
+<item>
 <title>Spain points to sustainability - Bangkok Post</title>
 <link>https://www.bangkokpost.com/thailand/general/3354420/spain-points-to-sustainability</link>
 <guid isPermaLink="false">https://www.bangkokpost.com/thailand/general/3354420/spain-points-to-sustainability</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.vietnam.vn/en/na-su-giu-hon-ban-thai-mo-loi-phat-trien-du-lich-o-muong-cha</guid>
 <pubDate>Fri, 06 Nov 2026 08:03:27 +0000</pubDate>
 <description>... community tourism as a suitable direction to both preserve cultural identity and create livelihoods, the commune government has accompanied the ...</description>
-</item>
-<item>
-<title>Thailand looks beyond hotspots with 'Value Over Volume' strategy for 2027 - Travel Gossip</title>
-<link>https://travelgossip.co.uk/latestnews/thailand-looks-beyond-hotspots-with-value-over-volume-strategy-for-2027/</link>
-<guid isPermaLink="false">https://travelgossip.co.uk/latestnews/thailand-looks-beyond-hotspots-with-value-over-volume-strategy-for-2027/</guid>
-<pubDate>Thu, 05 Nov 2026 15:49:12 +0000</pubDate>
-<description>Thailand is targeting at least 5% growth in tourism revenue in 2027 by prioritising higher-value, meaningful travel experiences and encouraging ...</description>
 </item>
 </channel>
 </rss>
