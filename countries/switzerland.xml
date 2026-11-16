@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/switzerland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Switzerland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 16 Nov 2026 09:08:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 21:12:47 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>VNAT and SECO discuss cooperation on sustainable tourism development</title>
+<link>https://vietnamtourism.gov.vn/en/post/21674</link>
+<guid isPermaLink="false">https://vietnamtourism.gov.vn/en/post/21674</guid>
+<pubDate>Mon, 16 Nov 2026 08:53:37 +0000</pubDate>
+<description>(TITC) - As part of the Vietnam - Switzerland Bilateral Dialogue on Sustainable Tourism Development, Vice Chairwoman of the Vietnam National ...</description>
+</item>
 <item>
 <title>Can AI and Shared Travel Stories Help Us Fly Less? Lessons From a Swiss Holiday Study</title>
 <link>https://www.devdiscourse.com/article/technology/3997999-can-ai-and-shared-travel-stories-help-us-fly-less-lessons-from-a-swiss-holiday-study?amp</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://vietnamnews.vn/life-style/1798035/da-nang-launches-green-stay-criteria-for-sustainable-tourism.html</guid>
 <pubDate>Sat, 22 Aug 2026 03:44:50 +0000</pubDate>
 <description>The central city's Culture, Sports and Tourism Department, in co-operation with the Swiss Tourism for Sustainable Development (ST4SD) project, ...</description>
-</item>
-<item>
-<title>Crowds at Mont Blanc: will hiking soon require reservations? - Euronews.com</title>
-<link>https://www.euronews.com/travel/2026/08/15/crowds-at-mont-blanc-will-hiking-soon-require-reservations</link>
-<guid isPermaLink="false">https://www.euronews.com/travel/2026/08/15/crowds-at-mont-blanc-will-hiking-soon-require-reservations</guid>
-<pubDate>Sat, 15 Aug 2026 16:05:04 +0000</pubDate>
-<description>The Tour du Mont-Blanc is one of Europe's most popular long-distance hiking routes, a 170-kilometre circuit through France, Italy and Switzerland ...</description>
 </item>
 </channel>
 </rss>

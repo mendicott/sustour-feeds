@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/romania.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Romania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 16 Nov 2026 09:08:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 21:12:47 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Harghita becomes Romania's first region to receive Green Destinations Silver Award</title>
@@ -44,6 +44,13 @@
 <description>Romania's new 1400-kilometre Via Transilvanica hiking trail is transforming rural economies while preserving ancient UNESCO heritage sites.</description>
 </item>
 <item>
+<title>Harghita County reaches the Green Destinations category finals - The Romania Journal</title>
+<link>https://www.romaniajournal.ro/amp/travel/harghita-county-reaches-the-green-destinations-category-finals/</link>
+<guid isPermaLink="false">https://www.romaniajournal.ro/amp/travel/harghita-county-reaches-the-green-destinations-category-finals/</guid>
+<pubDate>Mon, 16 Nov 2026 16:34:57 +0000</pubDate>
+<description>Behind the competing destinations are years of deliberate work in heritage protection and sustainable tourism development. The finalists include ...</description>
+</item>
+<item>
 <title>Harghita County among the world's leading destinations - The Romania Journal</title>
 <link>https://www.romaniajournal.ro/travel/harghita-county-among-the-worlds-leading-destinations/</link>
 <guid isPermaLink="false">https://www.romaniajournal.ro/travel/harghita-county-among-the-worlds-leading-destinations/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://ipn.md/en/a-new-sustainable-tourism-development-strategy-for-chisinau/</guid>
 <pubDate>Tue, 13 Oct 2026 14:35:20 +0000</pubDate>
 <description>The event organized in Chisinau brought together representatives of partner institutions from Greece, Bulgaria, the Republic of Moldova, Romania, and ...</description>
-</item>
-<item>
-<title>Padurea Craiului becomes an ecotourism destination - actmedia.eu</title>
-<link>https://actmedia.eu/economic/padurea-craiului-becomes-an-ecotourism-destination/122094</link>
-<guid isPermaLink="false">https://actmedia.eu/economic/padurea-craiului-becomes-an-ecotourism-destination/122094</guid>
-<pubDate>Tue, 13 Oct 2026 12:33:34 +0000</pubDate>
-<description>... Romania, Irineu Darau, the interim Minister of Economy, Digitalization, Entrepreneurship, and Tourism, announced on ... Article accessible to ...</description>
 </item>
 </channel>
 </rss>

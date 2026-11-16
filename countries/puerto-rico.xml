@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/puerto-rico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Puerto Rico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 16 Nov 2026 09:08:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 21:12:47 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>What would happen if Puerto Rico looked more towards the Antilles? - EL PAÍS English</title>
+<link>https://english.elpais.com/usa/2026-11-16/what-would-happen-if-puerto-rico-looked-more-towards-the-antilles.html</link>
+<guid isPermaLink="false">https://english.elpais.com/usa/2026-11-16/what-would-happen-if-puerto-rico-looked-more-towards-the-antilles.html</guid>
+<pubDate>Mon, 16 Nov 2026 12:46:44 +0000</pubDate>
+<description>Jamaica, where activists are waging a similar battle against extractive tourism, and where over 90% of beaches have been privatized. The gravitational ...</description>
+</item>
 <item>
 <title>Creative tourism plan fosters forest protection, economic growth in Puerto Rico</title>
 <link>https://news.cornell.edu/stories/2026/09/creative-tourism-plan-fosters-forest-protection-economic-growth-puerto-rico</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.latimes.com/delos/story/2026-08-27/esta-isla-puerto-rico-film-independent-spirit-awards-interview</guid>
 <pubDate>Thu, 27 Aug 2026 21:37:55 +0000</pubDate>
 <description>Travel &amp; Experiences · Weekend · Things to Do in L.A. ... This Puerto Rican couple made history with their new anti-colonialist film, 'Esta Isla'.</description>
-</item>
-<item>
-<title>Puerto Rico Asks Travelers to Conserve Water, Check with Hotels Before Arrival Amid Droughts</title>
-<link>https://www.travelmarketreport.com/destinations/articles/puerto-rico-asks-travelers-to-conserve-water-check-with-hotels-before-arrival-amid-droughts</link>
-<guid isPermaLink="false">https://www.travelmarketreport.com/destinations/articles/puerto-rico-asks-travelers-to-conserve-water-check-with-hotels-before-arrival-amid-droughts</guid>
-<pubDate>Tue, 25 Aug 2026 12:43:13 +0000</pubDate>
-<description>... travel planners, and tour operators to share timely information and ... Tourism · Cuba to Make Major Free Market Reforms to Revive Tourism. A ...</description>
 </item>
 </channel>
 </rss>
