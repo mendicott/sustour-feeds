@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.traveldailynews.com/hotels-lodging/kuaii-amazonas-peruvian-amazon-ecolodge/",
+      "url": "https://www.traveldailynews.com/hotels-lodging/kuaii-amazonas-peruvian-amazon-ecolodge/",
+      "title": "Rainforest Expeditions to open Kuaii Amazonas in Peru in 2027",
+      "content_text": "The 22-room ecolodge marks a new chapter in the company's conservation-led tourism work. Developed with the Ese Eja Native Community of Infierno, the ...",
+      "date_published": "2026-11-16T06:09:33+00:00"
+    },
+    {
       "id": "https://andina.pe/ingles/noticia-peru-will-conduct-a-new-study-to-determine-machu-picchus-capacity-to-receive-visitors-1096624.aspx",
       "url": "https://andina.pe/ingles/noticia-peru-will-conduct-a-new-study-to-determine-machu-picchus-capacity-to-receive-visitors-1096624.aspx",
       "title": "Peru will conduct a new study to determine Machu Picchu's capacity to receive visitors",
@@ -63,18 +70,11 @@
       "date_published": "2026-06-27T11:08:33+00:00"
     },
     {
-      "id": "https://finance.yahoo.com/economy/policy/articles/promper-machupicchu-earns-fourth-consecutive-225400219.html",
-      "url": "https://finance.yahoo.com/economy/policy/articles/promper-machupicchu-earns-fourth-consecutive-225400219.html",
-      "title": "PROMPERÚ: Machupicchu Earns Fourth Consecutive Carbon-Neutral Certification ...",
-      "content_text": "PROMPERÚ: Machupicchu Earns Fourth Consecutive Carbon-Neutral Certification, Reinforcing Peru's Sustainable Tourism PROMPERÚ Lima, Peru, Nov.",
-      "date_published": "2026-11-10T23:35:45+00:00"
-    },
-    {
-      "id": "https://markets.businessinsider.com/news/currencies/promper%C3%BA-machupicchu-earns-fourth-consecutive-carbon-neutral-certification-reinforcing-peru-s-sustainable-tourism-1036744195",
-      "url": "https://markets.businessinsider.com/news/currencies/promper%C3%BA-machupicchu-earns-fourth-consecutive-carbon-neutral-certification-reinforcing-peru-s-sustainable-tourism-1036744195",
-      "title": "Machupicchu Earns Fourth Consecutive Carbon-Neutral Certification, Reinforcing Peru's ...",
-      "content_text": "... tourism in Peru. One of the initiative's key achievements is a ... As international travelers increasingly value responsible travel ...",
-      "date_published": "2026-11-10T20:28:48+00:00"
+      "id": "https://www.dw.com/en/goodbye-overtourism-sustainable-travel-gains-ground/a-79934295",
+      "url": "https://www.dw.com/en/goodbye-overtourism-sustainable-travel-gains-ground/a-79934295",
+      "title": "Goodbye, overtourism: How can tourism be more sustainable? - DW.com",
+      "content_text": "As tourism booms across Latin America, alternative forms of travel are gaining ground ... One famous example is Machu Picchu, the Inca citadel in Peru, ...",
+      "date_published": "2026-11-15T21:07:04+00:00"
     }
   ]
 }
