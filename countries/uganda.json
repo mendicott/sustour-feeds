@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.saturdayeveningpost.com/2026/11/guardians-of-the-wild/",
+      "url": "https://www.saturdayeveningpost.com/2026/11/guardians-of-the-wild/",
+      "title": "Guardians of the Wild | The Saturday Evening Post",
+      "content_text": "In Uganda, tourism is pulling an endangered species back from the brink — and turning former poachers into conservationists.",
+      "date_published": "2026-11-17T16:07:06+00:00"
+    },
+    {
       "id": "https://www.youtube.com/watch?v=mSIHcdvCepk",
       "url": "https://www.youtube.com/watch?v=mSIHcdvCepk",
       "title": "ECOTALK: Tooro Botanical Gardens: A haven for biodiversity and conservation - YouTube",
@@ -68,13 +75,6 @@
       "title": "Change a Life Bwindi puts communities at the heart of World Gorilla day - The Independent Uganda",
       "content_text": "As the world marks World Gorilla Day, Uganda is celebrating a species that has become one of the country's most valuable tourism products and an ...",
       "date_published": "2026-09-30T09:31:27+00:00"
-    },
-    {
-      "id": "https://www.newvision.co.ug/category/travel/uwa-managers-urged-to-make-communities-partne-NV_241306_092026",
-      "url": "https://www.newvision.co.ug/category/travel/uwa-managers-urged-to-make-communities-partne-NV_241306_092026",
-      "title": "UWA managers urged to make communities partners in conservation - New Vision",
-      "content_text": "KYANKWANZI - Senior management officers of the Uganda Wildlife Authority (UWA) have been urged to strengthen community participation in wildlife ...",
-      "date_published": "2026-09-26T10:29:32+00:00"
     }
   ]
 }

@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/israel.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Israel. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 17 Nov 2026 09:10:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 21:14:42 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Crete: The Greek island Israelis can't resist | The Jerusalem Post</title>
@@ -58,6 +58,13 @@
 <description>Jerusalem Post/Travel. Quarter of a billion shekels for Israeli nature: These are the sites that will receive upgrades. The Open Spaces Foundation ...</description>
 </item>
 <item>
+<title>This month, the unique Hatrurim Formation, exposed in both Israel and Jordan, was officially ...</title>
+<link>https://www.gov.il/en/pages/news-unique-hatrurim-formation</link>
+<guid isPermaLink="false">https://www.gov.il/en/pages/news-unique-hatrurim-formation</guid>
+<pubDate>Tue, 17 Nov 2026 10:46:07 +0000</pubDate>
+<description>Alan Matthews of the Hebrew University of Jerusalem, submitted the Hatrurim Formation for consideration as a Global Geological Heritage Site. Type: ...</description>
+</item>
+<item>
 <title>SS United States becomes world's largest artificial reef | The Jerusalem Post</title>
 <link>https://www.jpost.com/environment-and-climate-change/article-915100</link>
 <guid isPermaLink="false">https://www.jpost.com/environment-and-climate-change/article-915100</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.tehrantimes.com/news/532212/Iran-allocates-34m-for-restoration-of-war-damaged-historic-sites</guid>
 <pubDate>Mon, 16 Nov 2026 14:14:59 +0000</pubDate>
 <description>Tags. Iran · Cultural Heritage · damage · Travel · tourism · UNESCO · restoration · ancient · Reza Salehi Amiri · war · U.S. · Israel. Leave a Comment.</description>
-</item>
-<item>
-<title>Greece's winter surprises: Hot springs, waterfalls and colorful carnivals - Ynet News</title>
-<link>https://www.ynetnews.com/travel/article/rkywisucfl</link>
-<guid isPermaLink="false">https://www.ynetnews.com/travel/article/rkywisucfl</guid>
-<pubDate>Sun, 15 Nov 2026 16:03:44 +0000</pubDate>
-<description>Seven airlines operate direct flights between Tel Aviv ... On Israeli airlines, round-trip fares typically range from about $140 to $340, depending on ...</description>
 </item>
 </channel>
 </rss>

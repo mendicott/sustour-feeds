@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/uganda.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Uganda. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 17 Nov 2026 09:10:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 21:14:42 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Guardians of the Wild | The Saturday Evening Post</title>
+<link>https://www.saturdayeveningpost.com/2026/11/guardians-of-the-wild/</link>
+<guid isPermaLink="false">https://www.saturdayeveningpost.com/2026/11/guardians-of-the-wild/</guid>
+<pubDate>Tue, 17 Nov 2026 16:07:06 +0000</pubDate>
+<description>In Uganda, tourism is pulling an endangered species back from the brink — and turning former poachers into conservationists.</description>
+</item>
 <item>
 <title>ECOTALK: Tooro Botanical Gardens: A haven for biodiversity and conservation - YouTube</title>
 <link>https://www.youtube.com/watch?v=mSIHcdvCepk</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.independent.co.ug/change-a-life-bwindi-puts-communities-at-the-heart-of-world-gorilla-day/</guid>
 <pubDate>Wed, 30 Sep 2026 09:31:27 +0000</pubDate>
 <description>As the world marks World Gorilla Day, Uganda is celebrating a species that has become one of the country's most valuable tourism products and an ...</description>
-</item>
-<item>
-<title>UWA managers urged to make communities partners in conservation - New Vision</title>
-<link>https://www.newvision.co.ug/category/travel/uwa-managers-urged-to-make-communities-partne-NV_241306_092026</link>
-<guid isPermaLink="false">https://www.newvision.co.ug/category/travel/uwa-managers-urged-to-make-communities-partne-NV_241306_092026</guid>
-<pubDate>Sat, 26 Sep 2026 10:29:32 +0000</pubDate>
-<description>KYANKWANZI - Senior management officers of the Uganda Wildlife Authority (UWA) have been urged to strengthen community participation in wildlife ...</description>
 </item>
 </channel>
 </rss>
