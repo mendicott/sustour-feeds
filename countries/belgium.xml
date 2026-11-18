@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/belgium.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Belgium. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 18 Nov 2026 09:09:33 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 21:19:49 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Brussels integrates greenways into its mobility and sustainable tourism plan - Demócrata</title>
+<link>https://www.democrata.es/en/economy/brussels-integrates-greenways-into-its-mobility-and-sustainable-tourism-plan/</link>
+<guid isPermaLink="false">https://www.democrata.es/en/economy/brussels-integrates-greenways-into-its-mobility-and-sustainable-tourism-plan/</guid>
+<pubDate>Wed, 18 Nov 2026 18:03:01 +0000</pubDate>
+<description>The European Commission strengthens the role of greenways in mobility and sustainable tourism, key for territorial cohesion and the ecological ...</description>
+</item>
 <item>
 <title>WTTC Welcomes EU Sustainable Tourism Strategy and Calls for Stronger Public-Private ...</title>
 <link>https://www.hospitalitynet.org/news/4135411/wttc-welcomes-eu-sustainable-tourism-strategy-and-calls-for-stronger-public-private-collaboration-to-deliver-its-ambitions</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.eunews.it/en/2026/11/04/attractiveness-coordination-and-an-academy-this-is-the-eus-strategy-for-sustainable-tourism/</guid>
 <pubDate>Wed, 04 Nov 2026 16:20:06 +0000</pubDate>
 <description>Brussels – Turning the challenges facing the tourism sector into opportunities to boost the sector's competitiveness, sustainability, ...</description>
-</item>
-<item>
-<title>Can Brussels lure tourists away from Europe's crowded hotspots? - EU Perspectives</title>
-<link>https://euperspectives.eu/2026/11/eu-tourism-strategy-overcrowding-visitor-flows/</link>
-<guid isPermaLink="false">https://euperspectives.eu/2026/11/eu-tourism-strategy-overcrowding-visitor-flows/</guid>
-<pubDate>Wed, 04 Nov 2026 15:40:08 +0000</pubDate>
-<description>The EU's first tourism strategy aims to spread visitors beyond crowded hotspots and peak seasons. Will it ease pressure on residents?</description>
 </item>
 </channel>
 </rss>
