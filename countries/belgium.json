@@ -7,6 +7,13 @@
   "language": "en",
   "items": [
     {
+      "id": "https://www.cor.europa.eu/pt/node/26050",
+      "url": "https://www.cor.europa.eu/pt/node/26050",
+      "title": "Sustainable Tourism in Atlantic Coastal Areas - cor.europa.eu",
+      "content_text": "Exploring innovative approaches to sustainable tourism management in Atlantic coastal regions. Brussels (Belgium). 14:00 - 17:30 (Brussels time).",
+      "date_published": "2026-11-19T19:02:29+00:00"
+    },
+    {
       "id": "https://www.democrata.es/en/economy/brussels-integrates-greenways-into-its-mobility-and-sustainable-tourism-plan/",
       "url": "https://www.democrata.es/en/economy/brussels-integrates-greenways-into-its-mobility-and-sustainable-tourism-plan/",
       "title": "Brussels integrates greenways into its mobility and sustainable tourism plan - Demócrata",
@@ -68,13 +75,6 @@
       "title": "EU Commission unveils sustainable tourism strategy to balance growth and resilience",
       "content_text": "Questions and answers on the EU Sustainable Tourism Strategy. Brussels, 4 November 2026. Tourism is mainly a Member State responsibility. Why is a ...",
       "date_published": "2026-11-04T23:29:42+00:00"
-    },
-    {
-      "id": "https://www.eunews.it/en/2026/11/04/attractiveness-coordination-and-an-academy-this-is-the-eus-strategy-for-sustainable-tourism/",
-      "url": "https://www.eunews.it/en/2026/11/04/attractiveness-coordination-and-an-academy-this-is-the-eus-strategy-for-sustainable-tourism/",
-      "title": "Commission presents the EU Strategy for Sustainable Tourism - Eunews",
-      "content_text": "Brussels – Turning the challenges facing the tourism sector into opportunities to boost the sector's competitiveness, sustainability, ...",
-      "date_published": "2026-11-04T16:20:06+00:00"
     }
   ]
 }

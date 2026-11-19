@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/israel.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Israel. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 19 Nov 2026 09:10:32 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 21:13:19 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Crete: The Greek island Israelis can't resist | The Jerusalem Post</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://www.jpost.com/travel/article-914085</guid>
 <pubDate>Sat, 07 Nov 2026 20:32:58 +0000</pubDate>
 <description>"Unlike Santorini or Mykonos, where overtourism can dominate the visitor experience, Crete is large enough to accommodate substantial tourism ...</description>
+</item>
+<item>
+<title>From the sea to the desert: Eight new projects that will change nature in Israel</title>
+<link>https://www.jpost.com/travel/article-915404</link>
+<guid isPermaLink="false">https://www.jpost.com/travel/article-915404</guid>
+<pubDate>Thu, 19 Nov 2026 16:32:03 +0000</pubDate>
+<description>The goal is to connect tourism, recreation, and nature hubs that are currently unlinked, while preserving habitats and ecological systems in the area.</description>
 </item>
 <item>
 <title>Protest for Palestine: No Apartheid Tourism</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.gov.il/en/pages/news-unique-hatrurim-formation</guid>
 <pubDate>Tue, 17 Nov 2026 10:46:07 +0000</pubDate>
 <description>Alan Matthews of the Hebrew University of Jerusalem, submitted the Hatrurim Formation for consideration as a Global Geological Heritage Site. Type: ...</description>
-</item>
-<item>
-<title>SS United States becomes world's largest artificial reef | The Jerusalem Post</title>
-<link>https://www.jpost.com/environment-and-climate-change/article-915100</link>
-<guid isPermaLink="false">https://www.jpost.com/environment-and-climate-change/article-915100</guid>
-<pubDate>Mon, 16 Nov 2026 21:10:03 +0000</pubDate>
-<description>World's largest artificial reef created as iconic SS United States sinks in Gulf of Mexico · The historic ocean liner was deliberately sunk off ...</description>
 </item>
 </channel>
 </rss>

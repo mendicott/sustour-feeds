@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/belgium.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Belgium. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 19 Nov 2026 09:10:32 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 21:13:19 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Sustainable Tourism in Atlantic Coastal Areas - cor.europa.eu</title>
+<link>https://www.cor.europa.eu/pt/node/26050</link>
+<guid isPermaLink="false">https://www.cor.europa.eu/pt/node/26050</guid>
+<pubDate>Thu, 19 Nov 2026 19:02:29 +0000</pubDate>
+<description>Exploring innovative approaches to sustainable tourism management in Atlantic coastal regions. Brussels (Belgium). 14:00 - 17:30 (Brussels time).</description>
+</item>
 <item>
 <title>Brussels integrates greenways into its mobility and sustainable tourism plan - Demócrata</title>
 <link>https://www.democrata.es/en/economy/brussels-integrates-greenways-into-its-mobility-and-sustainable-tourism-plan/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://ieu-monitoring.com/editorial/eu-commission-unveils-sustainable-tourism-strategy-to-balance-growth-and-resilience/1253975/?utm_source=ieu-portal</guid>
 <pubDate>Wed, 04 Nov 2026 23:29:42 +0000</pubDate>
 <description>Questions and answers on the EU Sustainable Tourism Strategy. Brussels, 4 November 2026. Tourism is mainly a Member State responsibility. Why is a ...</description>
-</item>
-<item>
-<title>Commission presents the EU Strategy for Sustainable Tourism - Eunews</title>
-<link>https://www.eunews.it/en/2026/11/04/attractiveness-coordination-and-an-academy-this-is-the-eus-strategy-for-sustainable-tourism/</link>
-<guid isPermaLink="false">https://www.eunews.it/en/2026/11/04/attractiveness-coordination-and-an-academy-this-is-the-eus-strategy-for-sustainable-tourism/</guid>
-<pubDate>Wed, 04 Nov 2026 16:20:06 +0000</pubDate>
-<description>Brussels – Turning the challenges facing the tourism sector into opportunities to boost the sector's competitiveness, sustainability, ...</description>
 </item>
 </channel>
 </rss>

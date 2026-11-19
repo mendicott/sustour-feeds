@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/mexico.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Mexico. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 19 Nov 2026 09:10:32 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 21:13:19 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Yucatán and Quintana Roo Put Maya Communities at the Heart of Sustainable Tourism</title>
@@ -51,6 +51,13 @@
 <description>Mexico launched its 2026-2030 Sustainable Tourism Policy to strengthen sustainability and climate resilience nationwide.</description>
 </item>
 <item>
+<title>SECTUR, SEMARNAT to Develop Tourism Sustainability System - Mexico Business News</title>
+<link>https://mexicobusiness.news/sustainability/news/sectur-semarnat-develop-tourism-sustainability-system</link>
+<guid isPermaLink="false">https://mexicobusiness.news/sustainability/news/sectur-semarnat-develop-tourism-sustainability-system</guid>
+<pubDate>Thu, 19 Nov 2026 18:18:28 +0000</pubDate>
+<description>SECTUR, SEMARNAT will develop the National System of Tourism Sustainability Indicators (SNIST) through 2027 to guide sustainable destination ...</description>
+</item>
+<item>
 <title>Mexico Announces National Sustainable Tourism Monitoring System to Protect Natural ...</title>
 <link>https://www.travelandtourworld.com/news/article/cf8hcaykq1ta/</link>
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/cf8hcaykq1ta/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://wearemitu.com/wearemitu/culture/dia-de-muertos-tourism-mexico/</guid>
 <pubDate>Tue, 03 Nov 2026 18:55:56 +0000</pubDate>
 <description>Día de Muertos tourism keeps growing in Mexico. In Mixquic, visitors now outnumber the families who come to honor their dead.</description>
-</item>
-<item>
-<title>Mexico comes alive during annual Day of the Dead celebrations - WMTW</title>
-<link>https://www.wmtw.com/article/day-of-the-dead-celebrations-in-mexico/74305790</link>
-<guid isPermaLink="false">https://www.wmtw.com/article/day-of-the-dead-celebrations-in-mexico/74305790</guid>
-<pubDate>Sun, 01 Nov 2026 21:22:40 +0000</pubDate>
-<description>Mexico's Day of the Dead brings marigolds, candles and catrinas to the streets, but some communities are pushing back against overtourism.</description>
 </item>
 </channel>
 </rss>
