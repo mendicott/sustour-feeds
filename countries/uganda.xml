@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/uganda.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Uganda. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 21 Nov 2026 09:08:57 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 21:11:38 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Kisoro Leaders Demand Fairer Gorilla Tourism Revenue Sharing, Better Roads | Nilepost</title>
+<link>https://nilepost.co.ug/news/389286/kisoro-leaders-demand-fairer-gorilla-tourism-revenue-sharing-better-roads</link>
+<guid isPermaLink="false">https://nilepost.co.ug/news/389286/kisoro-leaders-demand-fairer-gorilla-tourism-revenue-sharing-better-roads</guid>
+<pubDate>Sat, 21 Nov 2026 07:35:40 +0000</pubDate>
+<description>The conference brought together officials from the Ministry of Tourism, Wildlife and Antiquities, Uganda Wildlife Authority (UWA), Uganda Tourism ...</description>
+</item>
 <item>
 <title>OIPA Heads to Uganda to Support Gorilla and Pangolin Conservation!</title>
 <link>https://www.oipa.org/international/oipa-imara-uganda-gorilla-pangolin-conservation/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.awf.org/news/partner-spotlight-awf-and-kkakka-community-wildlife-association-kidepo-uganda</guid>
 <pubDate>Thu, 01 Oct 2026 21:13:45 +0000</pubDate>
 <description>... Uganda, including the Ministry of Tourism, Wildlife and Antiquities and Uganda Wildlife Authority (UWA)- as well as the private sector through ...</description>
-</item>
-<item>
-<title>Murchison Falls: How Tourism Is Transforming Communities and Protecting Wildlife</title>
-<link>https://nilepost.co.ug/news/374820/murchison-falls-how-tourism-is-transforming-communities-and-protecting-wildlife</link>
-<guid isPermaLink="false">https://nilepost.co.ug/news/374820/murchison-falls-how-tourism-is-transforming-communities-and-protecting-wildlife</guid>
-<pubDate>Thu, 01 Oct 2026 10:00:49 +0000</pubDate>
-<description>As Uganda marks 64 years of Independence, Murchison Falls National Park is showing how tourism can support conservation, community development, ...</description>
 </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/hungary.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Hungary. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sat, 21 Nov 2026 09:08:57 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 21:11:38 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Airbnb-style rentals face ban in Budapest's historic Castle District - TVP World</title>
@@ -35,6 +35,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/qwyqsqcrcsyl/</guid>
 <pubDate>Fri, 03 Jul 2026 15:14:44 +0000</pubDate>
 <description>The measure has been implemented to tackle rising overtourism pressure, reduce summer traffic congestion, and preserve the UNESCO-listed heritage ...</description>
+</item>
+<item>
+<title>Budapest council bans rentals in Buda Castle from 1 January 2028 - ad-hoc-news.de</title>
+<link>https://www.ad-hoc-news.de/unterhaltung/reisen/budapest-council-bans-rentals-in-buda-castle-from-1-january-2028/70542343</link>
+<guid isPermaLink="false">https://www.ad-hoc-news.de/unterhaltung/reisen/budapest-council-bans-rentals-in-buda-castle-from-1-january-2028/70542343</guid>
+<pubDate>Sat, 21 Nov 2026 17:08:59 +0000</pubDate>
+<description>Buda Castle, Budai Vár, Budapest, Hungary, short-term rental ban, accommodation rules, castle district, World Heritage, travel, tourism, Illustration ...</description>
 </item>
 <item>
 <title>Ság Hill Joins the World's Most Significant Geological Heritage Sites | HUN-REN</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/jq2d5n1qxsp8/</guid>
 <pubDate>Wed, 02 Sep 2026 11:32:33 +0000</pubDate>
 <description>Explore how shifting traveler perspectives transform urban tourism across Budapest, Pest, Szeged, and Buda while driving sustainable global ...</description>
-</item>
-<item>
-<title>Gemenc Forests Come Alive to the Roar of the Red Deer Rut - Hungary Today</title>
-<link>https://hungarytoday.hu/red-deer-rut-roars-to-life-in-gemenc-floodplain-forest/</link>
-<guid isPermaLink="false">https://hungarytoday.hu/red-deer-rut-roars-to-life-in-gemenc-floodplain-forest/</guid>
-<pubDate>Sat, 29 Aug 2026 06:05:39 +0000</pubDate>
-<description>The excursions depart from the Pörböly Ecotourism Center at 6:30 p.m. on August 28, 29, and September 4, 5, 11, and 12. On the deer rut listening ...</description>
 </item>
 </channel>
 </rss>
