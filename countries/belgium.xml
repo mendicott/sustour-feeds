@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/belgium.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Belgium. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 22 Nov 2026 09:11:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 21:11:50 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>European Charter for Sustainable Tourism &amp; Star Awards Ceremony 2026 - cor.europa.eu</title>
+<link>https://www.cor.europa.eu/ga/node/26226</link>
+<guid isPermaLink="false">https://www.cor.europa.eu/ga/node/26226</guid>
+<pubDate>Sun, 22 Nov 2026 09:09:23 +0000</pubDate>
+<description>The ECST and Star Awards Ceremony is the annual celebration of excellence in Sustainable Tourism within Europe's Protected Areas. Brussels ...</description>
+</item>
 <item>
 <title>Sustainable Tourism in Atlantic Coastal Areas - cor.europa.eu</title>
 <link>https://www.cor.europa.eu/pt/node/26050</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.reutersconnect.com/item/belgium-brussels-european-commission-press-conference/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUhOU0xDUzAwMDJKTFE2RA</guid>
 <pubDate>Wed, 04 Nov 2026 23:38:37 +0000</pubDate>
 <description>European Commissioner Apostolos Tzitzikostas delivers a speech at a press conference on the European strategy for sustainable tourism at the ...</description>
-</item>
-<item>
-<title>EU Commission unveils sustainable tourism strategy to balance growth and resilience</title>
-<link>https://ieu-monitoring.com/editorial/eu-commission-unveils-sustainable-tourism-strategy-to-balance-growth-and-resilience/1253975/?utm_source=ieu-portal</link>
-<guid isPermaLink="false">https://ieu-monitoring.com/editorial/eu-commission-unveils-sustainable-tourism-strategy-to-balance-growth-and-resilience/1253975/?utm_source=ieu-portal</guid>
-<pubDate>Wed, 04 Nov 2026 23:29:42 +0000</pubDate>
-<description>Questions and answers on the EU Sustainable Tourism Strategy. Brussels, 4 November 2026. Tourism is mainly a Member State responsibility. Why is a ...</description>
 </item>
 </channel>
 </rss>

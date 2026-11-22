@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/regions/europe.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Europe. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 22 Nov 2026 09:11:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 21:11:50 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>European Charter for Sustainable Tourism &amp; Star Awards Ceremony 2026 - cor.europa.eu</title>
+<link>https://www.cor.europa.eu/ga/node/26226</link>
+<guid isPermaLink="false">https://www.cor.europa.eu/ga/node/26226</guid>
+<pubDate>Sun, 22 Nov 2026 09:09:23 +0000</pubDate>
+<description>The ECST and Star Awards Ceremony is the annual celebration of excellence in Sustainable Tourism within Europe's Protected Areas. Brussels ...</description>
+</item>
 <item>
 <title>EU launches sustainable tourism strategy to reshape travel across Europe</title>
 <link>https://www.getaway.co.za/news/eu-launches-sustainable-tourism-strategy-to-reshape-travel-across-europe/</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.dw.com/en/croatias-dubrovnik-cracks-down-on-overtourism/video-79234269</guid>
 <pubDate>Fri, 18 Sep 2026 14:31:54 +0000</pubDate>
 <description>The city's shift from growth at all costs to sustainable tourism has earned it recognition as the European Green Pioneer of Smart Tourism 2026, ...</description>
-</item>
-<item>
-<title>Dubrovnik: fighting overtourism - DW.com</title>
-<link>https://www.dw.com/en/croatia-fighting-overtourism-in-dubrovnik/av-79234269</link>
-<guid isPermaLink="false">https://www.dw.com/en/croatia-fighting-overtourism-in-dubrovnik/av-79234269</guid>
-<pubDate>Fri, 18 Sep 2026 13:34:54 +0000</pubDate>
-<description>... green spaces and invested in digital visitor management tools. The city's shift from growth at all costs to sustainable tourism has earned it ...</description>
 </item>
 </channel>
 </rss>

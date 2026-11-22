@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/nigeria.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Nigeria. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 22 Nov 2026 09:11:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 21:11:50 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Nigeria: From Nigeria to Asian Steppes - Stories of Survival, Soil and Hope in Mongolia</title>
@@ -14,6 +14,13 @@
 <guid isPermaLink="false">https://allafrica.com/stories/202608240113.html</guid>
 <pubDate>Mon, 24 Aug 2026 11:52:31 +0000</pubDate>
 <description>The park demonstrates how biodiversity conservation, community engagement, sustainable pasture management and eco-tourism can work together to restore ...</description>
+</item>
+<item>
+<title>Otu pledges 10 million trees to save Agbokim Falls, boost eco-tourism - The Sun Nigeria</title>
+<link>https://thesun.ng/otu-pledges-10-million-trees-to-save-agbokim-falls-boost-eco-tourism/</link>
+<guid isPermaLink="false">https://thesun.ng/otu-pledges-10-million-trees-to-save-agbokim-falls-boost-eco-tourism/</guid>
+<pubDate>Sun, 22 Nov 2026 15:39:00 +0000</pubDate>
+<description>The governor made the pledge at the flag-off of the 2nd Agbokim Falls International Green Marathon and Eco-Tourism Festival in Etung Local Government ...</description>
 </item>
 <item>
 <title>Campaigners take to streets to 'Save Meia Praia' - Portugal Resident</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.vanguardngr.com/2026/08/fg-pushes-agrotourism-to-create-jobs-boost-food-security/</guid>
 <pubDate>Fri, 21 Aug 2026 15:54:04 +0000</pubDate>
 <description>Senator Abubakar Kyari, the Federal Ministry of Agriculture and Food Security. …unveils Nigerian Int'l Agritourism Village Project in Abuja. By ...</description>
-</item>
-<item>
-<title>Nigeria Unveils Agritourism Village to Boost Economy, Food Security</title>
-<link>https://von.gov.ng/nigeria-unveils-agritourism-village-to-boost-economy-food-security/</link>
-<guid isPermaLink="false">https://von.gov.ng/nigeria-unveils-agritourism-village-to-boost-economy-food-security/</guid>
-<pubDate>Fri, 21 Aug 2026 08:51:20 +0000</pubDate>
-<description>The Nigerian Minister of Agriculture and Food Security, Mr Abubakar Kyari, says agritourism will unlock the full potential of rural economies by ...</description>
 </item>
 </channel>
 </rss>
