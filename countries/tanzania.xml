@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/tanzania.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Tanzania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 23 Nov 2026 09:10:04 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 21:14:05 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>UN Urges Tanzania to End Maasai Evictions and Protect Ancestral Land Rights | Other</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.ohchr.org/en/press-releases/2026/08/tanzania-maasai-indigenous-peoples-face-forced-evictions-law-enforcement</guid>
 <pubDate>Fri, 28 Aug 2026 08:07:15 +0000</pubDate>
 <description>... tourism projects have resulted in the displacement and relocation of large numbers of Maasai Indigenous Peoples from their ancestral lands in ...</description>
+</item>
+<item>
+<title>Maasai demand ban on trophy hunting in Tanzania</title>
+<link>https://wildbeimwild.com/en/maasai-tanzania-trophy-hunting-ban-import-ban-geneva/</link>
+<guid isPermaLink="false">https://wildbeimwild.com/en/maasai-tanzania-trophy-hunting-ban-import-ban-geneva/</guid>
+<pubDate>Mon, 23 Nov 2026 17:01:07 +0000</pubDate>
+<description>652 Maasai from 24 villages had their say. Their tourism model, presented in Geneva, calls for an end to trophy hunting and for import bans.</description>
 </item>
 <item>
 <title>Tourism puts the Serengeti's wildebeest migration under pressure | Nature Africa</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.getaway.co.za/news/ngorongoro-earns-continental-award-for-conservation-and-sustainable-tourism/</guid>
 <pubDate>Tue, 20 Oct 2026 06:31:57 +0000</pubDate>
 <description>Tanzania's Ngorongoro Conservation Area wins a 2026 continental award for conservation excellence, sustainable tourism and cultural heritage.</description>
-</item>
-<item>
-<title>Ngorongoro Wins Top African Award for Tourism Management, Sustainable Conservation</title>
-<link>https://www.therespondents.co.tz/2026/10/ngorongoro-wins-top-african-award-for.html</link>
-<guid isPermaLink="false">https://www.therespondents.co.tz/2026/10/ngorongoro-wins-top-african-award-for.html</guid>
-<pubDate>Sun, 18 Oct 2026 18:26:25 +0000</pubDate>
-<description>... responsible tourism and environmental protection. Tanzania's Ambassador to Ghana, Selestine Kakele, who is based in Nigeria, officiated at the ...</description>
 </item>
 </channel>
 </rss>

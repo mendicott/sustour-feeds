@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/france.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for France. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 23 Nov 2026 09:10:04 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 21:14:05 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Train from France to Chișinău: "I didn't know I'd like Moldova so much"</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lah8spefggvv/</guid>
 <pubDate>Mon, 06 Jul 2026 07:57:09 +0000</pubDate>
 <description>Calanques visitor caps return in France for 2026, limiting access to Mediterranean beaches to curb overtourism and protect fragile ecosystems.</description>
+</item>
+<item>
+<title>French travellers and tourist crowds: 2026 study findings - KarloBag.eu</title>
+<link>https://karlobag.eu/en/travel/french-travellers-tourist-crowds-and-holiday-costs-the-gap-between-intentions-an-i4ync/</link>
+<guid isPermaLink="false">https://karlobag.eu/en/travel/french-travellers-tourist-crowds-and-holiday-costs-the-gap-between-intentions-an-i4ync/</guid>
+<pubDate>Mon, 23 Nov 2026 17:35:58 +0000</pubDate>
+<description>A survey of travel habits has revealed a significant gap between French travelers' attitudes towards overtourism and the decisions they make when ...</description>
 </item>
 <item>
 <title>From France to Portugal, Europe is protesting: How rising rents, living costs are fuelling anger</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.youtube.com/watch?v=DggJk4HT2fI</guid>
 <pubDate>Tue, 15 Sep 2026 15:29:09 +0000</pubDate>
 <description>It follows the government's announcement in May, amid concerns of overtourism and crime associated with longer stays. Subscribe to France 24 ...</description>
-</item>
-<item>
-<title>Pacific nations push for stronger protection of reefs that can survive climate change</title>
-<link>https://pmn.co.nz/read/pacific-region/pacific-nations-push-for-stronger-protection-of-reefs-that-can-survive-climate-change</link>
-<guid isPermaLink="false">https://pmn.co.nz/read/pacific-region/pacific-nations-push-for-stronger-protection-of-reefs-that-can-survive-climate-change</guid>
-<pubDate>Sat, 05 Sep 2026 03:29:21 +0000</pubDate>
-<description>Tonga, French Polynesia, and the Federated States of Micronesia join a global commitment to protect coral reefs with a better chance of surviving ...</description>
 </item>
 </channel>
 </rss>
