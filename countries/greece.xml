@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 22 Nov 2026 21:11:50 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 09:10:04 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>10 European Destinations Being Overrun by Tourists - Yahoo Travel</title>
@@ -58,6 +58,13 @@
 <description>The regenerative travel revolution is moving beyond traditional tourism and creating a new era where journeys deliver lasting benefits. Spain, ...</description>
 </item>
 <item>
+<title>Spain, Italy, Greece and Portugal share opportunities to improve tourism sustainability</title>
+<link>https://www.traveldailynews.com/statistics-trends/tourism-sustainability-southern-europe/</link>
+<guid isPermaLink="false">https://www.traveldailynews.com/statistics-trends/tourism-sustainability-southern-europe/</guid>
+<pubDate>Mon, 23 Nov 2026 06:27:31 +0000</pubDate>
+<description>These include visitor spending, carbon footprint, lodging density, traveller perception and destination imbalances. All four countries achieve similar ...</description>
+</item>
+<item>
 <title>The need for sustainable tourism development | eKathimerini.com</title>
 <link>https://www.ekathimerini.com/economy/1322020/the-need-for-sustainable-tourism-development/</link>
 <guid isPermaLink="false">https://www.ekathimerini.com/economy/1322020/the-need-for-sustainable-tourism-development/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://money-tourism.gr/en/spain-italy-greece-and-portugal-share-common-opportunities-to-strengthen-tourism-sustainability/</guid>
 <pubDate>Fri, 20 Nov 2026 13:38:50 +0000</pubDate>
 <description>... tourism-related carbon footprint (73/100). Greece and Portugal lead ... travel and tourism industry. Together with Mabrian Technologies, the ...</description>
-</item>
-<item>
-<title>Greek PM Signals Tighter Tourism Development Rules for Mykonos and Santorini</title>
-<link>https://greekreporter.com/2026/11/20/mykonos-santorini-tourism-development-rules-greece/</link>
-<guid isPermaLink="false">https://greekreporter.com/2026/11/20/mykonos-santorini-tourism-development-rules-greece/</guid>
-<pubDate>Fri, 20 Nov 2026 13:30:00 +0000</pubDate>
-<description>Credit: Greek Reporter. Greece will set tougher conditions for new tourism development on Mykonos and Santorini, Prime Minister Kyriakos Mitsotakis ...</description>
 </item>
 </channel>
 </rss>

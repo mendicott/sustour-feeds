@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/portugal.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Portugal. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Sun, 22 Nov 2026 21:11:50 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 09:10:04 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Portugal archipelago renews sustainable tourism certification</title>
@@ -28,6 +28,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lah8spefggvv/</guid>
 <pubDate>Mon, 06 Jul 2026 07:57:09 +0000</pubDate>
 <description>Calanques visitor caps return in France for 2026, limiting access to Mediterranean beaches to curb overtourism and protect fragile ecosystems.</description>
+</item>
+<item>
+<title>Spain, Italy, Greece and Portugal share opportunities to improve tourism sustainability</title>
+<link>https://www.traveldailynews.com/statistics-trends/tourism-sustainability-southern-europe/</link>
+<guid isPermaLink="false">https://www.traveldailynews.com/statistics-trends/tourism-sustainability-southern-europe/</guid>
+<pubDate>Mon, 23 Nov 2026 06:27:31 +0000</pubDate>
+<description>These include visitor spending, carbon footprint, lodging density, traveller perception and destination imbalances. All four countries achieve similar ...</description>
 </item>
 <item>
 <title>Portugal ranks among most tourism resistant destination</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.portugalresident.com/new-tourism-strategy-sets-out-to-reduce-pressure-on-certain-destinations/</guid>
 <pubDate>Fri, 13 Nov 2026 16:06:31 +0000</pubDate>
 <description>Travel · Portugal Events; More. Property · Economy &amp; Finance · Education ... carrying capacity of tourist destinations and the implementation of ...</description>
-</item>
-<item>
-<title>As housing protests sweep Portugal, police and politicians here seem bent on ... - The Guardian</title>
-<link>https://www.theguardian.com/commentisfree/2026/nov/13/housing-protests-portugal-police-politicians-crisis-renters</link>
-<guid isPermaLink="false">https://www.theguardian.com/commentisfree/2026/nov/13/housing-protests-portugal-police-politicians-crisis-renters</guid>
-<pubDate>Fri, 13 Nov 2026 06:30:45 +0000</pubDate>
-<description>Tourism has become a significant driver of economic growth, but it has come at a different kind of cost. In Lisbon and Porto, the proliferation of ...</description>
 </item>
 </channel>
 </rss>
