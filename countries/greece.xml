@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/greece.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Greece. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 23 Nov 2026 21:14:05 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 09:11:47 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>10 European Destinations Being Overrun by Tourists - Yahoo Travel</title>
@@ -58,6 +58,13 @@
 <description>The regenerative travel revolution is moving beyond traditional tourism and creating a new era where journeys deliver lasting benefits. Spain, ...</description>
 </item>
 <item>
+<title>Mabrian: Greece Scores High on Tourism Sustainability, but Challenges Remain</title>
+<link>https://news.gtp.gr/2026/11/23/mabrian-greece-scores-high-on-tourism-sustainability-but-challenges-remain/</link>
+<guid isPermaLink="false">https://news.gtp.gr/2026/11/23/mabrian-greece-scores-high-on-tourism-sustainability-but-challenges-remain/</guid>
+<pubDate>Mon, 23 Nov 2026 22:36:06 +0000</pubDate>
+<description>Diversification key to sustainable tourism growth. The findings underline three common priorities for Southern European destinations: reducing the ...</description>
+</item>
+<item>
 <title>Spain, Italy, Greece and Portugal share opportunities to improve tourism sustainability</title>
 <link>https://www.traveldailynews.com/statistics-trends/tourism-sustainability-southern-europe/</link>
 <guid isPermaLink="false">https://www.traveldailynews.com/statistics-trends/tourism-sustainability-southern-europe/</guid>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.ekathimerini.com/economy/1322020/the-need-for-sustainable-tourism-development/</guid>
 <pubDate>Sat, 21 Nov 2026 13:13:52 +0000</pubDate>
 <description>Speakers at the annual "Reimagine Tourism in Greece" conference, organized for the fourth consecutive year by Kathimerini, highlighted the need ...</description>
-</item>
-<item>
-<title>Spain, Italy, Greece, and Portugal Share Common Opportunities to Strengthen Tourism Sustainability</title>
-<link>https://money-tourism.gr/en/spain-italy-greece-and-portugal-share-common-opportunities-to-strengthen-tourism-sustainability/</link>
-<guid isPermaLink="false">https://money-tourism.gr/en/spain-italy-greece-and-portugal-share-common-opportunities-to-strengthen-tourism-sustainability/</guid>
-<pubDate>Fri, 20 Nov 2026 13:38:50 +0000</pubDate>
-<description>... tourism-related carbon footprint (73/100). Greece and Portugal lead ... travel and tourism industry. Together with Mabrian Technologies, the ...</description>
 </item>
 </channel>
 </rss>

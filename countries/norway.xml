@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/norway.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Norway. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Mon, 23 Nov 2026 21:14:05 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 09:11:47 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Why Norway's Lofoten Islands Are Implementing a Vital Tourist Tax This Season</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/c8je5vgmci49/</guid>
 <pubDate>Sat, 05 Sep 2026 08:46:57 +0000</pubDate>
 <description>Netherlands And Norway Join Global Movement Against Tourism Pressure. Other European destinations are also strengthening overtourism policies.</description>
+</item>
+<item>
+<title>Following The Herd: On The Spring Reindeer Migration With Norway's Sámi</title>
+<link>https://www.countryandtownhouse.com/travel/sami-norway-travel-guide/</link>
+<guid isPermaLink="false">https://www.countryandtownhouse.com/travel/sami-norway-travel-guide/</guid>
+<pubDate>Tue, 24 Nov 2026 01:56:34 +0000</pubDate>
+<description>Kate Eshelby joins Norway's Sámi people on their Arctic migration– where tourists are now a vital part of keeping the tradition alive.</description>
 </item>
 <item>
 <title>Slovenia Sparks Fresh Interest in Sustainable Tourism as Finland and Other European ...</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://deeparrival.com/news/oslo-cruise-passenger-levy-100-kroner-2027/</guid>
 <pubDate>Sun, 27 Sep 2026 01:56:43 +0000</pubDate>
 <description>The levy rests on a national framework. In March, the government proposed a cruise levy that municipalities under heavy pressure from cruise tourism ...</description>
-</item>
-<item>
-<title>Norway Enforces Zero-Emission Rules for World Heritage Fjords</title>
-<link>https://www.travelandtourworld.com/news/article/umm8ts6fz14y/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/umm8ts6fz14y/</guid>
-<pubDate>Fri, 25 Sep 2026 05:01:05 +0000</pubDate>
-<description>Norway's zero-emission rules reshape fjord tourism as smaller passenger vessels face new requirements in Geirangerfjord and Nærøyfjord.</description>
 </item>
 </channel>
 </rss>
