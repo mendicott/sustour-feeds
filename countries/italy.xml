@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/italy.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Italy. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Wed, 25 Nov 2026 09:10:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 21:15:52 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Rome Joins Venice and Other Cities as Italy Battles Overtourism with New Measures Amid ...</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/lah8spefggvv/</guid>
 <pubDate>Mon, 06 Jul 2026 07:57:09 +0000</pubDate>
 <description>Calanques visitor caps return in France for 2026, limiting access to Mediterranean beaches to curb overtourism and protect fragile ecosystems.</description>
+</item>
+<item>
+<title>Is the Future of Italian Tourism in the Countryside? - Wanted in Rome</title>
+<link>https://www.wantedinrome.com/news/is-the-future-of-italian-tourism-in-the-countryside.html</link>
+<guid isPermaLink="false">https://www.wantedinrome.com/news/is-the-future-of-italian-tourism-in-the-countryside.html</guid>
+<pubDate>Wed, 25 Nov 2026 16:30:04 +0000</pubDate>
+<description>Rome, Venice and Florence are crowded while small villages struggle. Could slow tourism and walking routes spread visitors and income more evenly?</description>
 </item>
 <item>
 <title>Milan hosts Italy–Spain talks on sustainable tourism - inITALY</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.itij.com/latest/news/venice-considers-eu30-tourist-entry-fee-rome-rejects-similar-measures</guid>
 <pubDate>Mon, 09 Nov 2026 15:06:05 +0000</pubDate>
 <description>Italy's two major visitor destinations are pursuing contrasting approaches to overtourism, with potential implications for travel costs and ...</description>
-</item>
-<item>
-<title>Italy And More Countries Rethink Tourism As Rome Overtourism Prompts Higher Taxes And ...</title>
-<link>https://www.travelandtourworld.com/news/article/4m8dv5ryjggv/</link>
-<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/4m8dv5ryjggv/</guid>
-<pubDate>Sun, 08 Nov 2026 11:57:42 +0000</pubDate>
-<description>Rome Overtourism Drives A New Debate Over Tourism Growth And Urban Sustainability. Rome's extraordinary cultural appeal has become both an economic ...</description>
 </item>
 </channel>
 </rss>
