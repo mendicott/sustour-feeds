@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/finland.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Finland. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Tue, 24 Nov 2026 21:15:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 09:10:30 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Helsinki tops GDS-Index for third year amid record scores across the board - micebook.</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.hel.fi/en/business-and-work/helsinki-friend</guid>
 <pubDate>Tue, 15 Sep 2026 19:25:07 +0000</pubDate>
 <description>It falls under the concept of regenerative tourism: the kind of tourism that strengthens communities, fosters cross-cultural understanding and has a ...</description>
+</item>
+<item>
+<title>Spain and Similar European Nations Focus More on Tourism Skills and Reduce Overcrowding</title>
+<link>https://www.travelandtourworld.com/news/article/spain-and-similar-european-nations-focus-more-on-tourism-skills-and-reduce-overcrowding/</link>
+<guid isPermaLink="false">https://www.travelandtourworld.com/news/article/spain-and-similar-european-nations-focus-more-on-tourism-skills-and-reduce-overcrowding/</guid>
+<pubDate>Tue, 24 Nov 2026 21:20:51 +0000</pubDate>
+<description>Croatia, Greece, Portugal, Slovenia, Finland, and Estonia are pursuing initiatives that could transform international travel experiences. The European ...</description>
 </item>
 <item>
 <title>OLYMPIC STADIUM RENEWS ITS SUSTAINABLE TRAVEL FINLAND LABEL</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/f6ynsook98io/</guid>
 <pubDate>Mon, 05 Oct 2026 14:32:37 +0000</pubDate>
 <description>Discover the top ten sustainable travel destinations in 2026 as Nordic capitals lead global eco tourism benchmarks for mindful holidaymakers ...</description>
-</item>
-<item>
-<title>top 10 sustainable destinations in 2026 - Tourism Review</title>
-<link>https://www.tourism-review.com/top-sustainable-destinations-around-the-world-news15647</link>
-<guid isPermaLink="false">https://www.tourism-review.com/top-sustainable-destinations-around-the-world-news15647</guid>
-<pubDate>Mon, 05 Oct 2026 03:34:44 +0000</pubDate>
-<description>Other Nordic countries may have an advantage in terms of sustainability, but Helsinki appears to have the edge when it comes to strategic planning and ...</description>
 </item>
 </channel>
 </rss>
