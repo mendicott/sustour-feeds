@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/tanzania.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Tanzania. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 26 Nov 2026 09:11:24 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 21:14:52 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>UN Urges Tanzania to End Maasai Evictions and Protect Ancestral Land Rights | Other</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.ohchr.org/en/press-releases/2026/08/tanzania-maasai-indigenous-peoples-face-forced-evictions-law-enforcement</guid>
 <pubDate>Fri, 28 Aug 2026 08:07:15 +0000</pubDate>
 <description>... tourism projects have resulted in the displacement and relocation of large numbers of Maasai Indigenous Peoples from their ancestral lands in ...</description>
+</item>
+<item>
+<title>The Serengeti at 75: What are the limits of safari tourism? - New African Magazine</title>
+<link>https://newafricanmagazine.com/economy/the-serengeti-at-75-what-are-the-limits-of-safari-tourism</link>
+<guid isPermaLink="false">https://newafricanmagazine.com/economy/the-serengeti-at-75-what-are-the-limits-of-safari-tourism</guid>
+<pubDate>Thu, 26 Nov 2026 18:34:16 +0000</pubDate>
+<description>Tourism provides considerable hard-currency income and helps finance conservation in Tanzania, but the growth of the industry can threaten the ...</description>
 </item>
 <item>
 <title>Maasai demand ban on trophy hunting in Tanzania</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://lens.civicus.org/interview/tanzania-the-government-should-recognise-the-maasai-as-conservationists-rather-than-a-threat/</guid>
 <pubDate>Thu, 22 Oct 2026 15:18:39 +0000</pubDate>
 <description>CIVICUS discusses the eviction of Indigenous Maasai communities for conservation and tourism in Tanzania with Odero Odero, a trainer at the Civic ...</description>
-</item>
-<item>
-<title>Ngorongoro earns continental award for conservation and sustainable tourism</title>
-<link>https://www.getaway.co.za/news/ngorongoro-earns-continental-award-for-conservation-and-sustainable-tourism/</link>
-<guid isPermaLink="false">https://www.getaway.co.za/news/ngorongoro-earns-continental-award-for-conservation-and-sustainable-tourism/</guid>
-<pubDate>Tue, 20 Oct 2026 06:31:57 +0000</pubDate>
-<description>Tanzania's Ngorongoro Conservation Area wins a 2026 continental award for conservation excellence, sustainable tourism and cultural heritage.</description>
 </item>
 </channel>
 </rss>

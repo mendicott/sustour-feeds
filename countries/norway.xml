@@ -6,7 +6,7 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/norway.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Norway. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 26 Nov 2026 09:11:24 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 21:14:52 +0000</lastBuildDate>
 <language>en</language>
 <item>
 <title>Why Norway's Lofoten Islands Are Implementing a Vital Tourist Tax This Season</title>
@@ -21,6 +21,13 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/c8je5vgmci49/</guid>
 <pubDate>Sat, 05 Sep 2026 08:46:57 +0000</pubDate>
 <description>Netherlands And Norway Join Global Movement Against Tourism Pressure. Other European destinations are also strengthening overtourism policies.</description>
+</item>
+<item>
+<title>Yukon tourism group joins Care for the Arctic push for responsible travel</title>
+<link>https://yukon-news.com/2026/11/26/yukon-tourism-group-joins-care-for-the-arctic-push-for-responsible-travel/</link>
+<guid isPermaLink="false">https://yukon-news.com/2026/11/26/yukon-tourism-group-joins-care-for-the-arctic-push-for-responsible-travel/</guid>
+<pubDate>Thu, 26 Nov 2026 16:26:01 +0000</pubDate>
+<description>... Tourism Network. Originally developed by the Arctic Sweden Visitors Board and adopted by fellow Arctic countries Norway and Finland, the framework ...</description>
 </item>
 <item>
 <title>Following The Herd: On The Spring Reindeer Migration With Norway's Sámi</title>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.travelandtourworld.com/news/article/pq66h690tuj7/</guid>
 <pubDate>Tue, 29 Sep 2026 07:06:14 +0000</pubDate>
 <description>Norway is tightening the focus on sustainable tourism in Nordland as Lofoten, Bodø and Andenes balance visitor growth with fragile Arctic nature.</description>
-</item>
-<item>
-<title>Oslo Cruise Levy 2027: How Much Would Passengers Pay Per Day? - Deep Arrival</title>
-<link>https://deeparrival.com/news/oslo-cruise-passenger-levy-100-kroner-2027/</link>
-<guid isPermaLink="false">https://deeparrival.com/news/oslo-cruise-passenger-levy-100-kroner-2027/</guid>
-<pubDate>Sun, 27 Sep 2026 01:56:43 +0000</pubDate>
-<description>The levy rests on a national framework. In March, the government proposed a cruise levy that municipalities under heavy pressure from cruise tourism ...</description>
 </item>
 </channel>
 </rss>
