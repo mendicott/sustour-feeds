@@ -6,8 +6,15 @@
 <link>https://mendicott.github.io/sustour-feeds</link>
 <atom:link href="https://mendicott.github.io/sustour-feeds/countries/bangladesh.xml" rel="self" type="application/rss+xml" />
 <description>Top 10 most recent sustainable-tourism items for Bangladesh. Aggregated from ~390 Google Alerts feeds, deduplicated and refreshed daily.</description>
-<lastBuildDate>Thu, 26 Nov 2026 21:14:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 09:11:45 +0000</lastBuildDate>
 <language>en</language>
+<item>
+<title>Are tourists ruining the polar regions? - The Business Standard</title>
+<link>https://www.tbsnews.net/videos/others/are-tourists-ruining-polar-regions-1614851</link>
+<guid isPermaLink="false">https://www.tbsnews.net/videos/others/are-tourists-ruining-polar-regions-1614851</guid>
+<pubDate>Fri, 27 Nov 2026 05:07:12 +0000</pubDate>
+<description>... Dhaka office. Sketch: TBS · The widening governance gap · A total of 98 ... climate resilient house built by Brac for the poor living in coastal ...</description>
+</item>
 <item>
 <title>Tourism taking a toll on Chera Dwip - The Daily Star</title>
 <link>https://www.thedailystar.net/opinion/editorial/news/tourism-taking-toll-chera-dwip-4323891</link>
@@ -70,13 +77,6 @@
 <guid isPermaLink="false">https://www.daily-sun.com/index.php/bangladesh/903216/community-based-agro-tourism-project-launched-in-bogura</guid>
 <pubDate>Tue, 13 Oct 2026 07:20:57 +0000</pubDate>
 <description>Construction of Sukher Khamar Agro Village, billed as Bangladesh's first community-based agro-tourism project, was formally inaugurated on 10 ...</description>
-</item>
-<item>
-<title>Bangladesh building first community-based agro-tourism village - Muslim Network TV</title>
-<link>https://www.muslimnetwork.tv/bangladesh-building-first-community-based-agro-tourism-village/</link>
-<guid isPermaLink="false">https://www.muslimnetwork.tv/bangladesh-building-first-community-based-agro-tourism-village/</guid>
-<pubDate>Tue, 13 Oct 2026 02:15:25 +0000</pubDate>
-<description>Project combining farming, tourism and renewable energy aims to create rural jobs, boost farmers' incomes and diversify Bangladesh's tourism ...</description>
 </item>
 </channel>
 </rss>
